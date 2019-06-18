@@ -1,9 +1,0 @@
-id,name,sort_name,email,twitter,facebook,group,group_id,area_id,area,chamber,term,start_date,end_date,image,gender,wikidata,wikidata_group,wikidata_area
-ccf05e30-f369-49c9-917f-510ee6766e9e,Bill Luxton,Bill Luxton,,,,Independent,independent,ocd-division/country:fk/constituency:camp,Camp,Legislative Assembly,1993,,,,male,Q4909978,Q327591,
-02484ec3-0aeb-49d3-95d3-719d3aa0deb4,Charles Keenleyside,Charles Keenleyside,,,,Independent,independent,ocd-division/country:fk/constituency:stanley,Stanley,Legislative Assembly,1993,,,,male,,Q327591,
-e2a486d2-67d0-4799-a7de-470c18e66642,Eric Goss,Eric Goss,,,,Independent,independent,ocd-division/country:fk/constituency:camp,Camp,Legislative Assembly,1993,,,,male,,Q327591,
-b7931470-f6cb-48cf-8e68-49f8e8878da0,John Cheek,John Cheek,,,,Independent,independent,ocd-division/country:fk/constituency:stanley,Stanley,Legislative Assembly,1993,,,,male,,Q327591,
-47dc5a4e-c2d0-40df-a000-e15ccd4820b7,Norma Edwards,Norma Edwards,,,,Independent,independent,ocd-division/country:fk/constituency:camp,Camp,Legislative Assembly,1993,,,,female,,Q327591,
-e4a0e919-192a-4b29-9215-90f8fa76eff6,Richard Stevens,Richard Stevens,,,,Independent,independent,ocd-division/country:fk/constituency:camp,Camp,Legislative Assembly,1993,,,,male,Q7329250,Q327591,
-7310dcc9-af69-4a8b-b7da-780dbb59a8e8,Sharon Halford,Sharon Halford,,,,Independent,independent,ocd-division/country:fk/constituency:stanley,Stanley,Legislative Assembly,1993,,,https://upload.wikimedia.org/wikipedia/commons/f/fa/Sharon_Halford.jpg,female,Q7490080,Q327591,
-7a4be4f3-678a-41fa-817f-6209bd0a19bc,Wendy Teggart,Wendy Teggart,,,,Independent,independent,ocd-division/country:fk/constituency:stanley,Stanley,Legislative Assembly,1993,,,,female,,Q327591,

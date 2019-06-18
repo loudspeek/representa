@@ -60,7 +60,7 @@ class BuiltSource
   end
 
   def github_lastmod(file)
-    lc = octokit.commits('everypolitician/everypolitician-data', path: datapath + file).first
+    lc = octokit.commits('loudspeek/representa', path: datapath + file).first
     lc.commit.author.date.to_date
   rescue Octokit::TooManyRequests
     nil

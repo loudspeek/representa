@@ -1,6 +1,18 @@
-# everypolitician-data
+# Representa
 
-This is the data repo for EveryPolitician. It contains the data powering [EveryPolitician.org](http://everypolitician.org/), and other sites such as [Gender-Balance.org](http://www.gender-balance.org/).
+Representa is a combination of a number of different source datasets about elected representatives for people in the UK. It is a fork based on the fantastic [EveryPolitician project](https://github.com/everypolitician/everypolitician-data) from MySociety, but aims only to cover the UK.
+
+## Why does this fork exist?
+
+MySociety unfortunately couldn't commit the resources to keeping EveryPolitician up to date forever, and as a consequence have chosen to put the project into a semi-archived state. Keeping the entirety of the world's political information up-to-date election upon election is a massive feat, and a special mention goes out to [Tony Bowden](https://github.com/tmtmtmtm), whose stellar work on EveryPolitician for many years created the amazing groundwork to make this dataset.
+
+## Why just the UK?
+
+The simple answer is resources. As mentioned above, it's incredibly difficult to maintain such a large number of countries' information, and as a matter of practicality, the current maintainer simply doesn't have the time to keep the project going with every country in the world. Unfortunately, this does inevitably lead to a smaller dataset.
+
+---
+The below information is from EveryPolitician's original README, and hasn't been modified. Its accuracy or usefulness can't be guaranteed.
+---
 
 ## Want to use the data?
 

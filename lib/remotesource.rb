@@ -76,7 +76,7 @@ end
 
 class RemoteSource::Parlparse < RemoteSource
   def write
-    gh_url = 'https://raw.githubusercontent.com/everypolitician/everypolitician-data/master/data/'
+    gh_url = 'https://raw.githubusercontent.com/loudspeek/representa/master/data/'
     term_file_url = gh_url + '%s/sources/manual/terms.csv'
     instructions_url = gh_url + '%s/sources/parlparse/instructions.json'
     cwd = Dir.pwd.split('/').last(2).join('/')
