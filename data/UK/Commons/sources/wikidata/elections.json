@@ -2216,6 +2216,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions parcials de Tooting de 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "2016 Tooting by-election",
         "note": "multilingual",
@@ -3847,6 +3853,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "properes eleccions al Parlament del Regne Unit",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "下次英國大選",
         "note": "multilingual",
@@ -4093,7 +4105,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions generals del Regne Unit de 2015",
+        "name": "eleccions generals del Regne Unit de 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5638,6 +5650,72 @@
     ],
     "dates": [
       "1978-07-13"
+    ],
+    "office": "Member of Parliament"
+  },
+  "Q7864918": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7864918"
+      }
+    ],
+    "name": "UK Parliamentary by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "UK Parliamentary by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Nachwahl zum House of Commons",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élection partielle à la Chambre des communes du Royaume-Uni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials al Parlament del Regne Unit",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "is-etholiad Seneddol y Deyrnas Unedig",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "國會補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات الفرعية في مجلس العموم البريطاني",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "by-election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK by-election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
     ],
     "office": "Member of Parliament"
   },
