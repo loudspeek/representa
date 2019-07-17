@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1438,
-    "wikidata": 233,
+    "wikidata": 320,
     "latest_term": {
       "count": 654,
-      "wikidata": 110,
-      "images": 559,
+      "wikidata": 157,
+      "images": 570,
       "contacts": {
-        "email": 646,
+        "email": 645,
         "facebook": 507,
-        "twitter": 578
+        "twitter": 582
       }
     }
   },
@@ -31,19 +31,19 @@
     "latest": "2019-06-06"
   },
   "positions": {
-    "cabinet": 33
+    "cabinet": 46
   },
   "sources": [
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2019-04-23"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "morph/parliament.csv",
       "type": "person",
       "scraper": "tmtmtmtm/uk-parliament-members",
-      "lastmod": "2019-05-13"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "morph/twitter.csv",
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/uk-house-of-commons-wikidata",
-      "lastmod": "2019-05-21"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "manual/emails.csv",
@@ -76,29 +76,29 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-05-20"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "gender-balance/results.csv",
       "type": "gender",
-      "lastmod": "2016-05-13"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/uk-positions",
-      "lastmod": "2018-08-17"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-05-20"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2019-05-15"
+      "lastmod": "2019-06-18"
     },
     {
       "file": "morph/twitter.csv",
