@@ -81,7 +81,7 @@ module Everypolitician
       attr_reader :path, :commit_metadata
 
       def remote_source
-        'https://cdn.rawgit.com/loudspeek/representa/%s/%s'
+        'https://raw.githubusercontent.com/loudspeek/representa/%s/%s'
       end
 
       private
