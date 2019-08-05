@@ -526,6 +526,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "lv",
+        "name": "Skotu nacionālā partija",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -564,6 +570,24 @@
       {
         "lang": "ru",
         "name": "ШНП",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "Partaidh Naiseanta na h-Alba",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "Schottische Nationalpartei",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "Pàrtaidh Nàiseanta na h-Alba",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1299,7 +1323,7 @@
       },
       {
         "lang": "el",
-        "name": "ανεξάρτητος",
+        "name": "ανεξάρτητος/η πολιτικός",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1672,6 +1696,18 @@
       {
         "lang": "ka",
         "name": "დამოუკიდებელი პოლიტიკოსი",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Politikari independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gl",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
