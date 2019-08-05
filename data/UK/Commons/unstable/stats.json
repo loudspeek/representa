@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "everypolitician-scrapers/uk-house-of-commons-wikidata",
-      "lastmod": "2019-07-17"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "manual/emails.csv",
@@ -76,7 +76,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-07-17"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "gender-balance/results.csv",
@@ -98,7 +98,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2019-07-17"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "morph/twitter.csv",
