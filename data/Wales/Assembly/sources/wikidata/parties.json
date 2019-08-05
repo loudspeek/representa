@@ -217,6 +217,12 @@
         "name": "Y Ceidwadwyr",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الويلزي المحافظ",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -389,6 +395,12 @@
       {
         "lang": "ru",
         "name": "Либеральные демократы Уэльса",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Libéraux-démocrates gallois",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -815,7 +827,7 @@
       },
       {
         "lang": "el",
-        "name": "ανεξάρτητος",
+        "name": "ανεξάρτητος/η πολιτικός",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1188,6 +1200,18 @@
       {
         "lang": "ka",
         "name": "დამოუკიდებელი პოლიტიკოსი",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Politikari independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gl",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
