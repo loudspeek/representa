@@ -3118,6 +3118,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ناثان_جيل"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Nathan_Gill"
         },
@@ -3144,6 +3148,11 @@
       ],
       "name": "Nathan Gill",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "ناثان جيل",
+          "note": "multilingual"
+        },
         {
           "lang": "cy",
           "name": "Nathan Lee Gill",
@@ -3476,7 +3485,7 @@
       "email": "AndrewRT.Davies@assembly.wales",
       "family_name": "Davies",
       "gender": "male",
-      "given_name": "Sir Andrew",
+      "given_name": "Andrew",
       "id": "4e31d446-8dd5-405a-a37f-bab74e27b406",
       "identifiers": [
         {
@@ -4248,6 +4257,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:John_Griffiths"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جون_غريفيثز_(سياسي_بريطاني)"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/John_Griffiths"
         },
@@ -4952,6 +4965,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/محمد_أصغر"
+        },
+        {
           "note": "Wikipedia (br)",
           "url": "https://br.wikipedia.org/wiki/Mohammad_Asghar"
         },
@@ -4984,6 +5001,11 @@
       "other_names": [
         {
           "name": "Oscar"
+        },
+        {
+          "lang": "ar",
+          "name": "محمد أصغر",
+          "note": "multilingual"
         }
       ]
     },
@@ -6156,6 +6178,10 @@
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Alun_Cairns"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Alun_Cairns"
         },
         {
           "note": "Wikipedia (en)",
@@ -7352,7 +7378,7 @@
       "birth_date": "1952-05-05",
       "family_name": "Davies",
       "gender": "male",
-      "given_name": "Sir Andrew",
+      "given_name": "Andrew",
       "id": "aca58088-331d-4a2b-a67e-cb039da371d4",
       "identifiers": [
         {
@@ -11039,7 +11065,7 @@
         },
         {
           "lang": "el",
-          "name": "ανεξάρτητος",
+          "name": "ανεξάρτητος/η πολιτικός",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11412,6 +11438,18 @@
         {
           "lang": "ka",
           "name": "დამოუკიდებელი პოლიტიკოსი",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Politikari independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "político independente",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12444,6 +12482,12 @@
           "name": "Y Ceidwadwyr",
           "note": "multilingual",
           "source": "wikidata-label"
+        },
+        {
+          "lang": "ar",
+          "name": "الحزب الويلزي المحافظ",
+          "note": "multilingual",
+          "source": "wikidata-label"
         }
       ],
       "srgb": "0087DC"
@@ -12656,6 +12700,12 @@
         {
           "lang": "ru",
           "name": "Либеральные демократы Уэльса",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fr",
+          "name": "Libéraux-démocrates gallois",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -15664,6 +15714,11 @@
       ],
       "name": "North Wales",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "شمال ويلز",
+          "note": "multilingual"
+        },
         {
           "lang": "cy",
           "name": "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)",
