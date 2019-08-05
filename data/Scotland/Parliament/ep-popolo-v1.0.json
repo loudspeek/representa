@@ -653,15 +653,10 @@
       "birth_date": "1981-08-28",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Kezia.Dugdale.msp@parliament.scot"
-        },
-        {
           "type": "twitter",
           "value": "kezdugdale"
         }
       ],
-      "email": "Kezia.Dugdale.msp@parliament.scot",
       "family_name": "Dugdale",
       "gender": "female",
       "given_name": "Kezia",
@@ -3474,7 +3469,7 @@
       ],
       "family_name": "Wallace",
       "gender": "male",
-      "given_name": "Benito Camelas",
+      "given_name": "Ben",
       "honorific_prefix": "The Right Honourable",
       "id": "2a9ac2e2-540e-4b05-ae33-975ee20b2e99",
       "identifiers": [
@@ -3906,6 +3901,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بيتر_شابمان_(سياسي)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Peter_Chapman_(politician)"
         },
@@ -3922,7 +3921,14 @@
           "url": "https://twitter.com/PeterChapmanMSP"
         }
       ],
-      "name": "Peter Chapman"
+      "name": "Peter Chapman",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيتر شابمان",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-06-16",
@@ -4290,6 +4296,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Bruce_Crawford"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بروس_كروفورد_(سياسي)"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bruce_Crawford"
         },
@@ -4316,6 +4326,11 @@
       ],
       "name": "Bruce Crawford",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بروس كروفورد",
+          "note": "multilingual"
+        },
         {
           "lang": "ga",
           "name": "Brus Crawford",
@@ -6041,6 +6056,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بيل_باتلر_(سياسي)"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bill_Butler_(Politiker)"
         },
@@ -6055,6 +6074,11 @@
       ],
       "name": "Bill Butler",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيل باتلر",
+          "note": "multilingual"
+        },
         {
           "lang": "ru",
           "name": "Билл Батлер",
@@ -8349,6 +8373,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ليام_كير"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Liam_Kerr"
         },
@@ -8365,7 +8393,14 @@
           "url": "https://twitter.com/liamkerrMSP"
         }
       ],
-      "name": "Liam Kerr"
+      "name": "Liam Kerr",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "ليام كير",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1983-03-14",
@@ -9621,6 +9656,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/مايلز_بريغز"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Miles_Briggs"
         },
@@ -9637,7 +9676,14 @@
           "url": "https://twitter.com/MilesBriggsMSP"
         }
       ],
-      "name": "Miles Briggs"
+      "name": "Miles Briggs",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "مايلز بريغز",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1957-05-15",
@@ -10975,6 +11021,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جيريمي_بلفور"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jeremy_Balfour"
         },
@@ -10991,7 +11041,14 @@
           "url": "https://twitter.com/JBalfourMSP"
         }
       ],
-      "name": "Jeremy Balfour"
+      "name": "Jeremy Balfour",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "جيريمي بلفور",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1962",
@@ -11844,15 +11901,10 @@
       "birth_date": "1966-05-06",
       "contact_details": [
         {
-          "type": "email",
-          "value": "Tavish.Scott.msp@parliament.scot"
-        },
-        {
           "type": "twitter",
           "value": "tavishscott"
         }
       ],
-      "email": "Tavish.Scott.msp@parliament.scot",
       "family_name": "Scott",
       "gender": "male",
       "id": "9cbb9ee3-7d10-47e1-bdfc-c831300818dc",
@@ -11882,11 +11934,8 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://scottishparliament.thirdlight.com/file/35820938602",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tavish_Scott_MSP_at_Bournemouth.jpg",
       "images": [
-        {
-          "url": "http://scottishparliament.thirdlight.com/file/35820938602"
-        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Tavish_Scott_MSP_at_Bournemouth.jpg"
         }
@@ -12479,7 +12528,7 @@
       "other_names": [
         {
           "lang": "ar",
-          "name": "مايكل راسيل",
+          "name": "ميخائيل راسيل",
           "note": "multilingual"
         },
         {
@@ -13163,6 +13212,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Fergus_Ewing"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/فيرغوس_إيوينغ"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Fergus_Ewing"
         },
@@ -13189,6 +13242,11 @@
       ],
       "name": "Fergus Ewing",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "فيرغوس إيوينغ",
+          "note": "multilingual"
+        },
         {
           "lang": "gd",
           "name": "Fearghas Ewing",
@@ -15645,6 +15703,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/الكسندر_ستيوارت_(سياسي_بريطاني)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Alexander_Stewart_(MSP)"
         },
@@ -15657,7 +15719,14 @@
           "url": "https://sco.wikipedia.org/wiki/Alexander_Stewart_(MSP)"
         }
       ],
-      "name": "Alexander Stewart"
+      "name": "Alexander Stewart",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "الكسندر ستيوارت",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1939-10-31",
@@ -15715,7 +15784,7 @@
       "email": "Ben.Macpherson.msp@parliament.scot",
       "family_name": "Macpherson",
       "gender": "male",
-      "given_name": "Benito Camelas",
+      "given_name": "Ben",
       "id": "c727fbd9-3e5b-4677-b74b-868994a54947",
       "identifiers": [
         {
@@ -15745,6 +15814,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بين_ماكفيرسن"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ben_Macpherson_(politician)"
@@ -16259,6 +16332,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/دونالد_كاميرون_(سياسي_بريطاني)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Donald_Cameron_(Scottish_politician)"
         },
@@ -16277,6 +16354,11 @@
       ],
       "name": "Donald Cameron",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "دونالد كاميرون",
+          "note": "multilingual"
+        },
         {
           "lang": "gd",
           "name": "Dòmhnall Camshron",
@@ -16462,6 +16544,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Stewart_Stevenson"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/ستيوارت_ستيفنسون"
         },
         {
           "note": "Wikipedia (de)",
@@ -17446,6 +17532,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بيل_كيد"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Bill_Kidd"
         },
@@ -17470,7 +17560,14 @@
           "url": "http://www.billkiddmsp.org/"
         }
       ],
-      "name": "Bill Kidd"
+      "name": "Bill Kidd",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيل كيد",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1952-09-30",
@@ -20511,6 +20608,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Ross_Greer"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/روس_غرير_(سياسي)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ross_Greer"
         },
@@ -20533,6 +20634,11 @@
       ],
       "name": "Ross Greer",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "روس غرير",
+          "note": "multilingual"
+        },
         {
           "lang": "zh",
           "name": "基亞",
@@ -20989,7 +21095,7 @@
         },
         {
           "lang": "el",
-          "name": "ανεξάρτητος",
+          "name": "ανεξάρτητος/η πολιτικός",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -21362,6 +21468,18 @@
         {
           "lang": "ka",
           "name": "დამოუკიდებელი პოლიტიკოსი",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Politikari independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "político independente",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22495,6 +22613,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "lv",
+          "name": "Skotu nacionālā partija",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "SNP",
           "note": "multilingual",
@@ -22533,6 +22657,24 @@
         {
           "lang": "ru",
           "name": "ШНП",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lv",
+          "name": "Partaidh Naiseanta na h-Alba",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lv",
+          "name": "Schottische Nationalpartei",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lv",
+          "name": "Pàrtaidh Nàiseanta na h-Alba",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -30939,6 +31081,11 @@
         {
           "lang": "gd",
           "name": "Aonghas a Tuath agus a' Mhaoirne",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北安格斯和米恩",
           "note": "multilingual"
         }
       ],
