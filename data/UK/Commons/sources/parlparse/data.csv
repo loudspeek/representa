@@ -3540,7 +3540,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10159,Geraint Davies,237,155,uk.org.publicwhip/person/10159,Swansea West,uk.org.publicwhip/cons/570,Labour/Co-operative,labourco-operative,2017-06-09,general_election,,,57
 10075,Karen Buck,157,199,uk.org.publicwhip/person/10075,Westminster North,uk.org.publicwhip/cons/2244,Labour,labour,2017-06-09,general_election,,,57
 11148,Albert Owen,5421,1474,uk.org.publicwhip/person/11148,Ynys Môn,uk.org.publicwhip/cons/658,Labour,labour,2017-06-09,general_election,,,57
-25282,Chris Davies,,4376,uk.org.publicwhip/person/25282,Brecon and Radnorshire,uk.org.publicwhip/cons/79,Conservative,conservative,2017-06-09,general_election,,,57
+25282,Chris Davies,,4376,uk.org.publicwhip/person/25282,Brecon and Radnorshire,uk.org.publicwhip/cons/79,Conservative,conservative,2017-06-09,general_election,2019-06-21,recall_petition,57
 11455,Kerry McCarthy,,1491,uk.org.publicwhip/person/11455,Bristol East,uk.org.publicwhip/cons/90,Labour,labour,2017-06-09,general_election,,,57
 10357,Ivan Lewis,430,441,uk.org.publicwhip/person/10357,Bury South,uk.org.publicwhip/cons/102,Labour,labour,2017-06-09,general_election,2017-11-22,changed_party,57
 25403,Will Quince,,4423,uk.org.publicwhip/person/25403,Colchester,uk.org.publicwhip/cons/144,Conservative,conservative,2017-06-09,general_election,,,57
@@ -4039,7 +4039,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10219,Mike Gapes,294,184,uk.org.publicwhip/person/10219,Ilford South,uk.org.publicwhip/cons/305,Independent,independent,2019-02-18,changed_party,,,57
 10354,Chris Leslie,427,422,uk.org.publicwhip/person/10354,Nottingham East,uk.org.publicwhip/cons/435,Independent,independent,2019-02-18,changed_party,,,57
 11814,Angela Smith,,1564,uk.org.publicwhip/person/11814,Penistone and Stocksbridge,uk.org.publicwhip/cons/2215,Independent,independent,2019-02-18,changed_party,,,57
-24950,Chuka Umunna,,4128,uk.org.publicwhip/person/24950,Streatham,uk.org.publicwhip/cons/560,Independent,independent,2019-02-18,changed_party,,,57
+24950,Chuka Umunna,,4128,uk.org.publicwhip/person/24950,Streatham,uk.org.publicwhip/cons/560,Independent,independent,2019-02-18,changed_party,2019-06-13,changed_party,57
 24847,Gavin Shuker,,4013,uk.org.publicwhip/person/24847,Luton South,uk.org.publicwhip/cons/356,Independent,independent,2019-02-18,changed_party,,,57
 10523,Joan Ryan,592,166,uk.org.publicwhip/person/10523,Enfield North,uk.org.publicwhip/cons/217,Independent,independent,2019-02-19,changed_party,,,57
 25348,Heidi Allen,,4516,uk.org.publicwhip/person/25348,South Cambridgeshire,uk.org.publicwhip/cons/516,Independent,independent,2019-02-20,changed_party,,,57
@@ -4049,3 +4049,5 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24766,Nicholas Boles,,3995,uk.org.publicwhip/person/24766,Grantham and Stamford,uk.org.publicwhip/cons/256,Independent,independent,2019-04-02,changed_party,,,57
 25746,Ruth Jones,,4716,uk.org.publicwhip/person/25746,Newport West,uk.org.publicwhip/cons/399,Labour,labour,2019-04-04,by_election,,,57
 25772,Lisa Forbes,,4717,uk.org.publicwhip/person/25772,Peterborough,uk.org.publicwhip/cons/453,Labour,labour,2019-06-06,by_election,,,57
+24950,Chuka Umunna,,4128,uk.org.publicwhip/person/24950,Streatham,uk.org.publicwhip/cons/560,Liberal Democrat,liberal-democrat,2019-06-14,changed_party,,,57
+25774,Jane Dodds,,4718,uk.org.publicwhip/person/25774,Brecon and Radnorshire,uk.org.publicwhip/cons/79,Liberal Democrat,liberal-democrat,2019-08-01,by_election,,,57
