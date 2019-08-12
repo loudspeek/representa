@@ -64,7 +64,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/uk-house-of-commons-wikidata",
+        "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
         "query": "SELECT *, REPLACE(SUBSTR(REPLACE(identifier__parliamentDOTuk,'/','-------'), -6), '-', '') AS parlid FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
