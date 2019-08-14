@@ -43,13 +43,13 @@
       "file": "morph/scotparl.csv",
       "type": "person",
       "scraper": "mashedkeyboard/scottish_parliament_member_info",
-      "lastmod": "2019-04-24"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "tmtmtmtm/scottish-parliament-wikidata",
-      "lastmod": "2019-06-18"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "manual/terms.csv",
@@ -59,7 +59,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-06-18"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "gender-balance/results.csv",
@@ -70,7 +70,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2019-06-18"
+      "lastmod": "2019-08-05"
     },
     {
       "file": "morph/cabinet.csv",
@@ -87,7 +87,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-04-09"
+      "lastmod": "2019-08-05"
     }
   ]
 }
