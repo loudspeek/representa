@@ -403,6 +403,12 @@
         "name": "Libéraux-démocrates gallois",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "Liberal Demòcrates Gal·lesos",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "links": [
@@ -683,6 +689,12 @@
       {
         "lang": "hy",
         "name": "Միացյալ Թագավորության անկախության կուսակցություն",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "az",
+        "name": "Böyük Britaniya Müstəqillik Partiyası",
         "note": "multilingual",
         "source": "wikidata-label"
       },
