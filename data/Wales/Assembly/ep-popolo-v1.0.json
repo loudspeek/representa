@@ -12374,6 +12374,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "az",
+          "name": "Böyük Britaniya Müstəqillik Partiyası",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -12706,6 +12712,12 @@
         {
           "lang": "fr",
           "name": "Libéraux-démocrates gallois",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Liberal Demòcrates Gal·lesos",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -16089,6 +16101,11 @@
       ],
       "name": "Brecon and Radnorshire",
       "other_names": [
+        {
+          "lang": "ca",
+          "name": "Brycheiniog i Sir Faesyfed",
+          "note": "multilingual"
+        },
         {
           "lang": "cy",
           "name": "Brycheiniog a Sir Faesyfed",
