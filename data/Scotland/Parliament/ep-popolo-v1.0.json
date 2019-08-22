@@ -9860,8 +9860,11 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sarah_Boyack_MSP.jpg",
+      "image": "http://scottishparliament.thirdlight.com/file/56418919750",
       "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/56418919750"
+        },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Sarah_Boyack_MSP.jpg"
         }
