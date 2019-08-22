@@ -4212,6 +4212,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "kw",
+        "name": "Dewisyans ollgemmyn Ruwvaneth Unys, 2015",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK general election, 2015",
         "note": "multilingual",
@@ -5587,6 +5593,12 @@
       {
         "lang": "sco",
         "name": "2019 Peterborough bi-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Peterborough de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       }

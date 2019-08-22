@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2019-08-12"
+      "lastmod": "2019-08-14"
     },
     {
       "file": "manual/emails.csv",
@@ -98,7 +98,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2019-08-12"
+      "lastmod": "2019-08-14"
     },
     {
       "file": "morph/twitter.csv",
