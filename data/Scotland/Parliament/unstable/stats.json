@@ -43,12 +43,12 @@
       "file": "morph/scotparl.csv",
       "type": "person",
       "scraper": "mashedkeyboard/scottish_parliament_member_info",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-08-22"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
-      "scraper": "tmtmtmtm/scottish-parliament-wikidata",
+      "scraper": "mashedkeyboard/scottish-parliament-wikidata",
       "lastmod": "2019-08-05"
     },
     {
@@ -70,7 +70,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-08-22"
     },
     {
       "file": "morph/cabinet.csv",

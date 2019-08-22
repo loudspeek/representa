@@ -29,7 +29,7 @@
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/scottish-parliament-wikidata",
+        "scraper": "mashedkeyboard/scottish-parliament-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",

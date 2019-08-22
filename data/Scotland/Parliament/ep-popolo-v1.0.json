@@ -140,6 +140,7 @@
         }
       ],
       "email": "Joe.Fitzpatrick.msp@parliament.scot",
+      "family_name": "FitzPatrick",
       "gender": "male",
       "given_name": "Joe",
       "id": "02923b46-f8f9-42f5-8b81-911a7213b0a9",
@@ -768,6 +769,7 @@
     },
     {
       "birth_date": "1952-07-28",
+      "family_name": "McNulty",
       "gender": "male",
       "given_name": "Des",
       "id": "07fb20f2-ad5d-497b-b4f9-7ded51eee56b",
@@ -3542,6 +3544,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Ben_Wallace_(politician)"
         },
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/Ben_Wallace"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/بين_والاس"
         },
@@ -3554,8 +3560,28 @@
           "url": "https://en.wikipedia.org/wiki/Ben_Wallace_(politician)"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Ben_Wallace_(político)"
+        },
+        {
+          "note": "Wikipedia (et)",
+          "url": "https://et.wikipedia.org/wiki/Ben_Wallace_(poliitik)"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/بن_والاس_(سیاستمدار)"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Ben_Wallace_(homme_politique)"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Уоллес,_Бен_(политик)"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Ben_Wallace_(politician)"
         },
         {
           "note": "Wikipedia (zh)",
@@ -3589,6 +3615,11 @@
         {
           "lang": "ja",
           "name": "ベン・ウォレス",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Уоллес, Бен",
           "note": "multilingual"
         },
         {
@@ -3935,7 +3966,7 @@
       "contact_details": [
         {
           "type": "twitter",
-          "value": "JamieHWStone"
+          "value": "Jamie4North"
         }
       ],
       "family_name": "Stone",
@@ -4001,7 +4032,7 @@
         },
         {
           "note": "twitter",
-          "url": "https://twitter.com/JamieHWStone"
+          "url": "https://twitter.com/Jamie4North"
         }
       ],
       "name": "Jamie Stone",
@@ -4131,6 +4162,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Annabel_Goldie"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Annabel_Goldie"
         },
         {
           "note": "Wikipedia (gd)",
@@ -6651,6 +6686,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:David_Mundell"
         },
         {
+          "note": "Wikipedia (af)",
+          "url": "https://af.wikipedia.org/wiki/David_Mundell"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/David_Mundell"
         },
@@ -6669,6 +6708,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Dàibhidh_Mundell"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Դևիդ_Մանդել"
         },
         {
           "note": "Wikipedia (it)",
@@ -6720,6 +6763,11 @@
         {
           "lang": "gd",
           "name": "Dàibhidh Mundell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Դևիդ Մանդել",
           "note": "multilingual"
         },
         {
@@ -7350,6 +7398,10 @@
         {
           "identifier": "70498",
           "scheme": "democracyclub"
+        },
+        {
+          "identifier": "197704",
+          "scheme": "europarlmep"
         },
         {
           "identifier": "14066",
@@ -9834,6 +9886,12 @@
     },
     {
       "birth_date": "1961-05-16",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sarah.boyack.msp@parliament.scot"
+        }
+      ],
       "family_name": "Boyack",
       "gender": "female",
       "given_name": "Sarah",
@@ -10665,6 +10723,7 @@
         }
       ],
       "email": "Pauline.McNeill.msp@parliament.scot",
+      "family_name": "McNeill",
       "gender": "female",
       "given_name": "Pauline",
       "id": "8dae0cec-740f-4b69-a79f-9484151407ce",
@@ -12653,6 +12712,7 @@
     },
     {
       "birth_date": "1943-02-09",
+      "family_name": "Macmillan",
       "gender": "female",
       "given_name": "Maureen",
       "id": "a3b87497-83fa-47e2-8c48-34a1eda4db5f",
@@ -13062,6 +13122,11 @@
           "lang": "gd",
           "name": "Dàibhidh Torrance",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "大衛·杜雲士",
+          "note": "multilingual"
         }
       ]
     },
@@ -13078,6 +13143,10 @@
         {
           "identifier": "/m/01r1w3",
           "scheme": "freebase"
+        },
+        {
+          "identifier": "1181480140",
+          "scheme": "gnd"
         },
         {
           "identifier": "uk.org.publicwhip/person/14031",
@@ -13106,6 +13175,14 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Kenny_MacAskill"
+        },
+        {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:Kenny_MacAskill"
+        },
+        {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Kenny_MacAskill"
         },
         {
           "note": "Wikipedia (de)",
@@ -13359,6 +13436,7 @@
         }
       ],
       "email": "Jenny.Marra.msp@parliament.scot",
+      "family_name": "Marra",
       "gender": "female",
       "given_name": "Jenny",
       "id": "ae562b7e-778c-4609-991b-5152847a733e",
@@ -13468,6 +13546,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:Tommy_Sheridan"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/تومي_شيريدان"
@@ -14482,6 +14564,7 @@
     },
     {
       "birth_date": "1958-02-16",
+      "family_name": "Maclean",
       "gender": "female",
       "given_name": "Kate",
       "id": "bd0b1422-69aa-40d9-aacc-ca7af37613ec",
@@ -15120,6 +15203,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/بيتر_ماكدونالد_(سياسي_بريطاني،_مواليد_1963)"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Angus_MacDonald_(Politiker)"
         },
@@ -15142,6 +15229,11 @@
       ],
       "name": "Angus MacDonald",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "بيتر ماكدونالد",
+          "note": "multilingual"
+        },
         {
           "lang": "gd",
           "name": "Aonghas Dòmhnallach",
@@ -15733,6 +15825,7 @@
     },
     {
       "birth_date": "1939-10-31",
+      "death_date": "2019-07-21",
       "gender": "female",
       "given_name": "Patricia",
       "id": "c6876dd6-fd96-4ab2-bcaf-6df20339bc09",
@@ -15903,6 +15996,7 @@
         }
       ],
       "email": "Gordon.MacDonald.msp@parliament.scot",
+      "family_name": "MacDonald",
       "gender": "male",
       "given_name": "Gordon",
       "id": "c99604f8-3b36-441e-ba7f-629dd1dda508",
@@ -16707,6 +16801,10 @@
       ],
       "links": [
         {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:Nicola_Sturgeon"
+        },
+        {
           "note": "Wikinews (nl)",
           "url": "https://nl.wikinews.org/wiki/Categorie:Nicola_Sturgeon"
         },
@@ -16807,6 +16905,10 @@
           "url": "https://gd.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
+          "note": "Wikipedia (gl)",
+          "url": "https://gl.wikipedia.org/wiki/Nicola_Sturgeon"
+        },
+        {
           "note": "Wikipedia (he)",
           "url": "https://he.wikipedia.org/wiki/ניקולה_סטרג'ון"
         },
@@ -16905,6 +17007,10 @@
         {
           "note": "Wikipedia (zh_yue)",
           "url": "https://zh_yue.wikipedia.org/wiki/施雅晴"
+        },
+        {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Nicola_Sturgeon"
         },
         {
           "note": "Wikiquote (pl)",
@@ -18206,6 +18312,10 @@
           "url": "https://en.wikipedia.org/wiki/Fiona_Hyslop"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Fiona_Hyslop"
+        },
+        {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Fiona_Hyslop"
         },
@@ -18845,6 +18955,7 @@
     {
       "birth_date": "1952-08-06",
       "death_date": "2013-08-12",
+      "family_name": "McLetchie",
       "gender": "male",
       "given_name": "David",
       "id": "e1267bee-fc57-424a-9b6d-8282b2c52158",
@@ -18946,6 +19057,7 @@
     {
       "birth_date": "1954-04-28",
       "death_date": "2015-04-19",
+      "family_name": "McCabe",
       "gender": "male",
       "given_name": "Tom",
       "id": "e1e7cca9-0d9e-4a9d-a6b9-fc3064a3c04f",
@@ -19339,6 +19451,10 @@
           "url": "https://hu.wikipedia.org/wiki/Donald_Dewar"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Դոնալդ_Դյուար"
+        },
+        {
           "note": "Wikipedia (io)",
           "url": "https://io.wikipedia.org/wiki/Donald_Dewar"
         },
@@ -19393,6 +19509,11 @@
         {
           "lang": "he",
           "name": "דונלד דיואר",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Դոնալդ Դյուար",
           "note": "multilingual"
         },
         {
@@ -20363,6 +20484,7 @@
     },
     {
       "birth_date": "1949-10-19",
+      "family_name": "McGrigor",
       "gender": "male",
       "given_name": "James",
       "id": "fddff5e4-8472-4ce0-850e-1983363356dc",
@@ -20401,7 +20523,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Jamie_McGrigor"
+          "url": "https://en.wikipedia.org/wiki/Sir_Jamie_McGrigor,_6th_Baronet"
         }
       ],
       "name": "Jamie McGrigor",
