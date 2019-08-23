@@ -579,7 +579,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25081,Graeme Dey,,,uk.org.publicwhip/person/25081,Angus South,uk.org.publicwhip/cons/10803,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 13977,Bob Doris,,,uk.org.publicwhip/person/13977,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25082,James Dornan,,,uk.org.publicwhip/person/25082,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25083,Kezia Dugdale,,,uk.org.publicwhip/person/25083,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2016-05-07,regional_election,,,5
+25083,Kezia Dugdale,,,uk.org.publicwhip/person/25083,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2016-05-07,regional_election,2019-07-15,resigned,5
 25503,Mairi Evans,,,uk.org.publicwhip/person/25503,Angus North and Mearns,uk.org.publicwhip/cons/10802,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25085,Annabelle Ewing,,,uk.org.publicwhip/person/25085,Cowdenbeath,uk.org.publicwhip/cons/10807,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 13980,Fergus Ewing,,,uk.org.publicwhip/person/13980,Inverness and Nairn,uk.org.publicwhip/cons/10823,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
@@ -656,7 +656,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 14089,Michael Russell,,,uk.org.publicwhip/person/14089,Argyll and Bute,uk.org.publicwhip/cons/10729,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 24738,Anas Sarwar,,3981,uk.org.publicwhip/person/24738,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,,,5
 14091,John Scott,,,uk.org.publicwhip/person/14091,Ayr,uk.org.publicwhip/cons/10730,Conservative,conservative,2016-05-07,regional_election,,,5
-14092,Tavish Scott,,,uk.org.publicwhip/person/14092,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,,,5
+14092,Tavish Scott,,,uk.org.publicwhip/person/14092,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,2019-07-15,resigned,5
 25535,Graham Simpson,,,uk.org.publicwhip/person/25535,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,,,5
 14096,Elizabeth Smith,,,uk.org.publicwhip/person/14096,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,,,5
 14099,Elaine Smith,,,uk.org.publicwhip/person/14099,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,,,5
@@ -685,3 +685,4 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25714,Tom Mason,,,uk.org.publicwhip/person/25714,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2017-06-20,appointed,,,5
 25715,Jamie Halcro Johnston,,,uk.org.publicwhip/person/25715,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2017-06-20,appointed,,,5
 25104,Mark McDonald,,,uk.org.publicwhip/person/25104,Aberdeen Donside,uk.org.publicwhip/cons/10797,Independent,independent,2018-03-06,changed_party,,,5
+13956,Sarah Boyack,,,uk.org.publicwhip/person/13956,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2019-07-15,replaced_in_region,,,5

@@ -3,11 +3,11 @@
     "count": 305,
     "wikidata": 237,
     "latest_term": {
-      "count": 133,
-      "wikidata": 133,
-      "images": 133,
+      "count": 134,
+      "wikidata": 134,
+      "images": 134,
       "contacts": {
-        "email": 127,
+        "email": 128,
         "facebook": 4,
         "twitter": 123
       }
@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-08-22"
     },
     {
       "file": "manual/terms.csv",

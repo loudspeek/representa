@@ -9892,6 +9892,7 @@
           "value": "sarah.boyack.msp@parliament.scot"
         }
       ],
+      "email": "sarah.boyack.msp@parliament.scot",
       "family_name": "Boyack",
       "gender": "female",
       "given_name": "Sarah",
@@ -23246,6 +23247,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10836",
+      "end_date": "2019-07-15",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "8dff8a5d-91be-4b18-bad0-bf082068fe0a",
       "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
@@ -25948,6 +25950,15 @@
       "role": "member"
     },
     {
+      "area_id": "uk.org.publicwhip/cons/10836",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "8dff8a5d-91be-4b18-bad0-bf082068fe0a",
+      "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
+      "person_id": "83683f4d-46c5-469e-8d7a-3f57d6f6efb0",
+      "role": "member",
+      "start_date": "2019-07-15"
+    },
+    {
       "area_id": "uk.org.publicwhip/cons/10724",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "8dff8a5d-91be-4b18-bad0-bf082068fe0a",
@@ -26595,6 +26606,7 @@
     },
     {
       "area_id": "uk.org.publicwhip/cons/10790",
+      "end_date": "2019-07-15",
       "legislative_period_id": "term/5",
       "on_behalf_of_id": "d0527c28-097e-48ba-bcb2-fa5a61478f20",
       "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
