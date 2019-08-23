@@ -86,11 +86,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/a8c2668d357c511d42ba518168c3b88f77f6534b/data/Scotland/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/d4357b660e5c8f22684c801843bec3a4580bfcf1/data/Scotland/Parliament/ep-popolo-v1.0.json",
         "names": "data/Scotland/Parliament/names.csv",
-        "lastmod": "1566472797",
+        "lastmod": "1566564589",
         "person_count": 305,
-        "sha": "a8c2668d357c511d42ba518168c3b88f77f6534b",
+        "sha": "d4357b660e5c8f22684c801843bec3a4580bfcf1",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -98,7 +98,7 @@
             "start_date": "2016-05-05",
             "slug": "5",
             "csv": "data/Scotland/Parliament/term-5.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/45717b92aeca429ac0e00ec0e5081e646f2f30a8/data/Scotland/Parliament/term-5.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/d4357b660e5c8f22684c801843bec3a4580bfcf1/data/Scotland/Parliament/term-5.csv"
           },
           {
             "end_date": "2016-03-24",
@@ -107,7 +107,7 @@
             "start_date": "2011-05-06",
             "slug": "4",
             "csv": "data/Scotland/Parliament/term-4.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/eb0729d77e20f8d75832f3b1922d9109f11be4c6/data/Scotland/Parliament/term-4.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/d4357b660e5c8f22684c801843bec3a4580bfcf1/data/Scotland/Parliament/term-4.csv"
           },
           {
             "end_date": "2011-05-04",
@@ -116,7 +116,7 @@
             "start_date": "2007-05-03",
             "slug": "3",
             "csv": "data/Scotland/Parliament/term-3.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/a8c2668d357c511d42ba518168c3b88f77f6534b/data/Scotland/Parliament/term-3.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/d4357b660e5c8f22684c801843bec3a4580bfcf1/data/Scotland/Parliament/term-3.csv"
           },
           {
             "end_date": "2007-04-02",
@@ -125,7 +125,7 @@
             "start_date": "2003-05-01",
             "slug": "2",
             "csv": "data/Scotland/Parliament/term-2.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/a8c2668d357c511d42ba518168c3b88f77f6534b/data/Scotland/Parliament/term-2.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/d4357b660e5c8f22684c801843bec3a4580bfcf1/data/Scotland/Parliament/term-2.csv"
           },
           {
             "end_date": "2003-03-31",
@@ -134,10 +134,10 @@
             "start_date": "1999-05-06",
             "slug": "1",
             "csv": "data/Scotland/Parliament/term-1.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/a8c2668d357c511d42ba518168c3b88f77f6534b/data/Scotland/Parliament/term-1.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/d4357b660e5c8f22684c801843bec3a4580bfcf1/data/Scotland/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 17500,
+        "statement_count": 17510,
         "type": "unicameral legislature"
       }
     ]
