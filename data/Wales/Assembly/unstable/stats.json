@@ -60,7 +60,7 @@
     {
       "file": "wikidata/parties.json",
       "type": "group",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-08-14"
     },
     {
       "file": "morph/terms.csv",
@@ -89,7 +89,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/welsh-assembly-constituencies-wikidata",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-08-14"
     },
     {
       "file": "morph/twitter.csv",

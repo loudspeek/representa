@@ -223,6 +223,12 @@
         "name": "الحزب الويلزي المحافظ",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Welsh Conservatives",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -733,6 +739,12 @@
         "name": "Strana nezávislosti Spojeného království",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "青年獨立",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1224,6 +1236,12 @@
       {
         "lang": "gl",
         "name": "político independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisni politik",
         "note": "multilingual",
         "source": "wikidata-label"
       },
