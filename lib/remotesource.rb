@@ -85,7 +85,7 @@ class RemoteSource::Parlparse < RemoteSource
       terms_csv:         term_file_url % cwd,
       instructions_json: instructions_url % cwd,
     }
-    remote = 'https://parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
+    remote = 'https://repres-parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
     copy_url(remote)
   end
 end
