@@ -1641,6 +1641,12 @@
         "name": "Democratiaid Rhyddfrydol",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "Lib Dem",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -3348,6 +3354,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sl",
+        "name": "neodvisni politik",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -4398,7 +4410,7 @@
         "note": "website"
       }
     ],
-    "srgb": "99FF66"
+    "srgb": "3A9E84"
   },
   "ukip": {
     "identifiers": [
@@ -4714,6 +4726,12 @@
         "name": "Strana nezávislosti Spojeného království",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "青年獨立",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -4957,6 +4975,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "Ingalaterra eta Galesko Alderdi Berdea",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Green Party",
         "note": "multilingual",
@@ -4981,6 +5005,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo_del_Partido_Verde_de_Inglaterra_y_Gales.png",
     "srgb": "6AB023"
   },
   "respect": {
@@ -5053,6 +5078,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "Partit del Respecte",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ko",
         "name": "리스펙트당",
         "note": "multilingual",
@@ -5091,6 +5122,12 @@
       {
         "lang": "de",
         "name": "Respect – The Unity Coalition",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ca",
+        "name": "Respect - The Unity Coalition",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5265,6 +5302,12 @@
       {
         "lang": "tr",
         "name": "Kuzey İrlanda İttifak Partisi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Ipar Irlandako Aliantza Alderdia",
         "note": "multilingual",
         "source": "wikidata-label"
       },

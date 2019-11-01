@@ -5,11 +5,11 @@
     "latest_term": {
       "count": 655,
       "wikidata": 655,
-      "images": 652,
+      "images": 653,
       "contacts": {
         "email": 647,
         "facebook": 515,
-        "twitter": 602
+        "twitter": 600
       }
     }
   },
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2019-08-14"
+      "lastmod": "2019-08-22"
     },
     {
       "file": "manual/emails.csv",
@@ -92,13 +92,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-07-17"
+      "lastmod": "2019-08-22"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2019-08-14"
+      "lastmod": "2019-08-22"
     },
     {
       "file": "morph/twitter.csv",
