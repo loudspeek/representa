@@ -8182,11 +8182,28 @@
       "name": "Tom Mason"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Beatrice.Wishart.msp@parliament.scot"
+        }
+      ],
+      "email": "Beatrice.Wishart.msp@parliament.scot",
       "id": "6f2821eb-6fcf-4a6b-b627-bcf67332e2d7",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25775",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "15631",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/56730435752",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/56730435752"
         }
       ],
       "name": "Beatrice Wishart"
