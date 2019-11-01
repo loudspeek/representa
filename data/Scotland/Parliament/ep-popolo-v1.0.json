@@ -426,6 +426,10 @@
           "scheme": "nta"
         },
         {
+          "identifier": "1458",
+          "scheme": "pace"
+        },
+        {
           "identifier": "lords/lord-steel-of-aikwood/949",
           "scheme": "parliamentdotuk"
         },
@@ -5539,6 +5543,12 @@
     },
     {
       "birth_date": "1958-11-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "Margaret_Curran"
+        }
+      ],
       "family_name": "Curran",
       "gender": "female",
       "given_name": "Margaret",
@@ -5607,6 +5617,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Маргарет_Карен"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Margaret_Curran"
         },
         {
           "note": "website",
@@ -6771,6 +6785,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "デイヴィッド・マンデル",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Дэвид Манделл",
           "note": "multilingual"
@@ -7172,10 +7191,6 @@
         {
           "type": "email",
           "value": "Alex.Neil.msp@parliament.scot"
-        },
-        {
-          "type": "twitter",
-          "value": "AlexNeilSNP"
         }
       ],
       "email": "Alex.Neil.msp@parliament.scot",
@@ -7242,10 +7257,6 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Alex_Neil_(politeecian)"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/AlexNeilSNP"
         }
       ],
       "name": "Alex Neil",
@@ -8171,6 +8182,16 @@
       "name": "Tom Mason"
     },
     {
+      "id": "6f2821eb-6fcf-4a6b-b627-bcf67332e2d7",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25775",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Beatrice Wishart"
+    },
+    {
       "birth_date": "1962-03-10",
       "gender": "male",
       "given_name": "Scott",
@@ -8937,6 +8958,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "1463",
+          "scheme": "pace"
+        },
+        {
           "identifier": "lords/lord-watson-of-invergowrie/1241",
           "scheme": "parliamentdotuk"
         },
@@ -8987,6 +9012,11 @@
       ],
       "name": "Mike Watson",
       "other_names": [
+        {
+          "lang": "ast",
+          "name": "Waltson",
+          "note": "multilingual"
+        },
         {
           "lang": "de",
           "name": "Michael Watson, Baron Watson of Invergowrie",
@@ -12163,6 +12193,7 @@
         }
       ],
       "email": "Oliver.Mundell.msp@parliament.scot",
+      "family_name": "Mundell",
       "gender": "male",
       "given_name": "Oliver",
       "id": "9fc5eb84-4ab7-4900-8ae1-c5a865f4ee7a",
@@ -12379,10 +12410,6 @@
         {
           "type": "email",
           "value": "Richard.Lochhead.msp@parliament.scot"
-        },
-        {
-          "type": "twitter",
-          "value": "RichardLochhead"
         }
       ],
       "email": "Richard.Lochhead.msp@parliament.scot",
@@ -12445,10 +12472,6 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Richard_Lochhead"
-        },
-        {
-          "note": "twitter",
-          "url": "https://twitter.com/RichardLochhead"
         },
         {
           "note": "website",
@@ -12647,6 +12670,10 @@
         {
           "identifier": "nb2008026686",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "1909",
+          "scheme": "pace"
         },
         {
           "identifier": "uk.org.publicwhip/person/14084",
@@ -13548,6 +13575,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Tommy_Sheridan"
+        },
+        {
           "note": "Wikinews (en)",
           "url": "https://en.wikinews.org/wiki/Category:Tommy_Sheridan"
         },
@@ -13912,6 +13943,10 @@
         {
           "note": "Wikimedia Commons",
           "url": "https://commons.wikimedia.org/wiki/Category:Jack_McConnell"
+        },
+        {
+          "note": "Wikinews (en)",
+          "url": "https://en.wikinews.org/wiki/Category:Jack_McConnell"
         },
         {
           "note": "Wikipedia (de)",
@@ -14635,6 +14670,7 @@
         }
       ],
       "email": "Gil.Paterson.msp@parliament.scot",
+      "family_name": "Paterson",
       "gender": "male",
       "given_name": "Gil",
       "id": "bd9bf0e9-2b0c-4140-82e8-a784cbe36ca0",
@@ -16236,6 +16272,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ja",
+          "name": "ジェイムズ・ダグラス＝ハミルトン",
+          "note": "multilingual"
+        },
+        {
           "lang": "pl",
           "name": "James Douglas-Hamilton",
           "note": "multilingual"
@@ -16648,6 +16689,10 @@
           "url": "https://ar.wikipedia.org/wiki/ستيوارت_ستيفنسون"
         },
         {
+          "note": "Wikipedia (ca)",
+          "url": "https://ca.wikipedia.org/wiki/Stewart_Stevenson"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Stewart_Stevenson"
         },
@@ -16990,6 +17035,10 @@
           "url": "https://sv.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
+          "note": "Wikipedia (ta)",
+          "url": "https://ta.wikipedia.org/wiki/நிக்கோலா_ஸ்டர்ஜியன்"
+        },
+        {
           "note": "Wikipedia (te)",
           "url": "https://te.wikipedia.org/wiki/నికోలా_స్టర్గియాన్"
         },
@@ -17091,6 +17140,11 @@
         {
           "lang": "ru",
           "name": "Никола Стерджен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ta",
+          "name": "நிக்கோலா ஸ்டர்ஜியன்",
           "note": "multilingual"
         },
         {
@@ -21098,6 +21152,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ga",
+          "name": "Comhaontas Glas na hAlban",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "英格蘭和威爾斯綠黨",
           "note": "multilingual",
@@ -21606,6 +21666,12 @@
         {
           "lang": "gl",
           "name": "político independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sl",
+          "name": "neodvisni politik",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -25466,6 +25532,15 @@
       "person_id": "6ea30834-1455-41a7-9871-c608b55dffe5",
       "role": "member",
       "start_date": "2017-06-20"
+    },
+    {
+      "area_id": "uk.org.publicwhip/cons/10790",
+      "legislative_period_id": "term/5",
+      "on_behalf_of_id": "d0527c28-097e-48ba-bcb2-fa5a61478f20",
+      "organization_id": "adbf5a88-3c23-4fa5-9d4c-377ab8f1fa81",
+      "person_id": "6f2821eb-6fcf-4a6b-b627-bcf67332e2d7",
+      "role": "member",
+      "start_date": "2019-08-30"
     },
     {
       "area_id": "uk.org.publicwhip/cons/10746",

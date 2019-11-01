@@ -1,15 +1,15 @@
 {
   "people": {
-    "count": 305,
+    "count": 306,
     "wikidata": 237,
     "latest_term": {
-      "count": 134,
+      "count": 135,
       "wikidata": 134,
       "images": 134,
       "contacts": {
         "email": 128,
         "facebook": 4,
-        "twitter": 123
+        "twitter": 121
       }
     }
   },
@@ -37,7 +37,7 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2019-05-14"
+      "lastmod": "2019-08-23"
     },
     {
       "file": "morph/scotparl.csv",
@@ -70,7 +70,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2019-08-22"
+      "lastmod": "2019-08-23"
     },
     {
       "file": "morph/cabinet.csv",
