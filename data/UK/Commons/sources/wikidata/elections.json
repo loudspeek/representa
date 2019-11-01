@@ -1121,7 +1121,7 @@
       },
       {
         "lang": "ro",
-        "name": "Alegeri legislative în Regatul Unit",
+        "name": "alegeri generale în Regatul Unit, 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3047,7 +3047,7 @@
       },
       {
         "lang": "zh",
-        "name": "下一次英國大選",
+        "name": "2017年英國大選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3077,7 +3077,7 @@
       },
       {
         "lang": "ca",
-        "name": "eleccions al Parlament del Regne Unit de 2017",
+        "name": "eleccions generals britàniques de 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3362,7 +3362,7 @@
       "2017-06-08"
     ],
     "follows": "2015 United Kingdom general election",
-    "followed_by": "Next United Kingdom general election",
+    "followed_by": "2019 United Kingdom general election",
     "part_of": "elections in the United Kingdom",
     "office": "Member of Parliament"
   },
@@ -3796,7 +3796,7 @@
         "identifier": "Q30173038"
       }
     ],
-    "name": "Next United Kingdom general election",
+    "name": "2019 United Kingdom general election",
     "other_names": [
       {
         "lang": "zh",
@@ -3806,13 +3806,13 @@
       },
       {
         "lang": "en",
-        "name": "Next United Kingdom general election",
+        "name": "2019 United Kingdom general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "es",
-        "name": "Próximas Elecciones generales del Reino Unido",
+        "name": "Elecciones generales del Reino Unido de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3830,7 +3830,7 @@
       },
       {
         "lang": "de",
-        "name": "Britische Unterhauswahl 2022",
+        "name": "Britische Unterhauswahl 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3842,30 +3842,49 @@
       },
       {
         "lang": "zh-hans",
-        "name": "下次英国大选",
+        "name": "2019年英国大选",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "fr",
-        "name": "Prochaines élections générales britanniques",
+        "name": "Élections générales britanniques de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ca",
-        "name": "properes eleccions al Parlament del Regne Unit",
+        "name": "eleccions generals britàniques de 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sco",
+        "name": "next Unitit Kinrick general election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בממלכה המאוחדת 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hu",
+        "name": "2019-es brit parlamenti választás",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh",
-        "name": "下次英國大選",
+        "name": "2019年英國大選",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
     ],
     "dates": [
+      "2019-12-12",
       "2022-05-05"
     ],
     "follows": "2017 United Kingdom general election",
@@ -4105,7 +4124,7 @@
       },
       {
         "lang": "ca",
-        "name": "eleccions generals del Regne Unit de 2015",
+        "name": "eleccions generals britàniques de 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4865,6 +4884,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ro",
+        "name": "alegeri generale în Regatul Unit, 1992",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh-hant",
         "name": "同年英國大選",
         "note": "multilingual",
@@ -5313,6 +5338,12 @@
       {
         "lang": "ar",
         "name": "الانتخابات العمومية البريطانية 2001",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ro",
+        "name": "alegeri generale în Regatul Unit, 2001",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6399,6 +6430,12 @@
       {
         "lang": "ar",
         "name": "الانتخابات العمومية للمملكة المتحدة 1997",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ro",
+        "name": "alegeri generale în Regatul Unit, 1997",
         "note": "multilingual",
         "source": "wikidata-label"
       },
