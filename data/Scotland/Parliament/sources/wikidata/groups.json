@@ -953,6 +953,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "Comhaontas Glas na hAlban",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "英格蘭和威爾斯綠黨",
         "note": "multilingual",
@@ -1708,6 +1714,12 @@
       {
         "lang": "gl",
         "name": "político independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisni politik",
         "note": "multilingual",
         "source": "wikidata-label"
       },
