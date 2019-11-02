@@ -63,6 +63,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "1831年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "1831年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election 1831",
         "note": "multilingual",
@@ -887,6 +899,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "2015年英国大选苏格兰选区",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "2015年英国大选苏格兰选区",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 2015",
         "note": "multilingual",
@@ -904,6 +928,7 @@
     ],
     "follows": "2010 United Kingdom general election in Scotland",
     "followed_by": "2017 United Kingdom general election in Scotland",
+    "part_of": "2015 United Kingdom general election",
     "office": "Member of Parliament",
     "successful_candidates": [
       "David Cameron"
@@ -3310,6 +3335,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh-hans",
+        "name": "2017年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -3363,7 +3394,7 @@
     ],
     "follows": "2015 United Kingdom general election",
     "followed_by": "2019 United Kingdom general election",
-    "part_of": "elections in the United Kingdom",
+    "part_of": "election in the United Kingdom",
     "office": "Member of Parliament"
   },
   "Q27629857": {
@@ -3786,6 +3817,7 @@
       "2017-06-08"
     ],
     "follows": "2015 United Kingdom general election in Scotland",
+    "followed_by": "2019 United Kingdom general election in Scotland",
     "part_of": "2017 United Kingdom general election",
     "office": "Member of Parliament"
   },
@@ -5470,6 +5502,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh-hans",
+        "name": "1826年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1826年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1826",
         "note": "multilingual",
@@ -5904,6 +5948,18 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1807",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "1807年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1807年英国大选",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6570,6 +6626,18 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1830",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1830年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "1830年英国大选",
         "note": "multilingual",
         "source": "wikidata-label"
       },
