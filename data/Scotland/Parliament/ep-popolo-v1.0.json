@@ -8186,6 +8186,7 @@
       "name": "Tom Mason"
     },
     {
+      "birth_date": "1955",
       "contact_details": [
         {
           "type": "email",
@@ -8193,8 +8194,13 @@
         }
       ],
       "email": "Beatrice.Wishart.msp@parliament.scot",
+      "gender": "female",
       "id": "6f2821eb-6fcf-4a6b-b627-bcf67332e2d7",
       "identifiers": [
+        {
+          "identifier": "21012",
+          "scheme": "democracyclub"
+        },
         {
           "identifier": "uk.org.publicwhip/person/25775",
           "scheme": "parlparse"
@@ -8202,12 +8208,30 @@
         {
           "identifier": "15631",
           "scheme": "scotparl"
+        },
+        {
+          "identifier": "Q66825436",
+          "scheme": "wikidata"
         }
       ],
       "image": "http://scottishparliament.thirdlight.com/file/56730435752",
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/56730435752"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Beatrice_Wishart"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Beatrice_Wishart"
+        },
+        {
+          "note": "Wikipedia (gd)",
+          "url": "https://gd.wikipedia.org/wiki/Beatrice_Wishart"
         }
       ],
       "name": "Beatrice Wishart"
