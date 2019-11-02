@@ -5,9 +5,9 @@
     "latest_term": {
       "count": 135,
       "wikidata": 134,
-      "images": 134,
+      "images": 135,
       "contacts": {
-        "email": 128,
+        "email": 129,
         "facebook": 4,
         "twitter": 121
       }
@@ -37,19 +37,19 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2019-08-23"
+      "lastmod": "2019-11-01"
     },
     {
       "file": "morph/scotparl.csv",
       "type": "person",
       "scraper": "mashedkeyboard/scottish_parliament_member_info",
-      "lastmod": "2019-08-22"
+      "lastmod": "2019-11-01"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2019-08-22"
+      "lastmod": "2019-11-01"
     },
     {
       "file": "manual/terms.csv",
@@ -59,7 +59,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-11-01"
     },
     {
       "file": "gender-balance/results.csv",
@@ -70,7 +70,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2019-08-23"
+      "lastmod": "2019-11-01"
     },
     {
       "file": "morph/cabinet.csv",
@@ -87,7 +87,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-11-01"
     }
   ]
 }
