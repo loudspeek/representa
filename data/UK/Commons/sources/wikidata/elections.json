@@ -3394,7 +3394,7 @@
     ],
     "follows": "2015 United Kingdom general election",
     "followed_by": "2019 United Kingdom general election",
-    "part_of": "election in the United Kingdom",
+    "part_of": "2017 United Kingdom elections",
     "office": "Member of Parliament"
   },
   "Q27629857": {
@@ -3916,8 +3916,7 @@
       }
     ],
     "dates": [
-      "2019-12-12",
-      "2022-05-05"
+      "2019-12-12"
     ],
     "follows": "2017 United Kingdom general election",
     "office": "Member of Parliament"
@@ -5420,6 +5419,12 @@
       {
         "lang": "en",
         "name": "2019 Newport West by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Newport West de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },

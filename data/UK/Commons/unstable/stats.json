@@ -28,7 +28,7 @@
   },
   "elections": {
     "count": 140,
-    "latest": "2019-06-06"
+    "latest": "2019-12-12"
   },
   "positions": {
     "cabinet": 240
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2019-11-01"
+      "lastmod": "2019-11-02"
     },
     {
       "file": "manual/emails.csv",
@@ -92,7 +92,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-11-01"
+      "lastmod": "2019-11-02"
     },
     {
       "file": "morph/areas.csv",
