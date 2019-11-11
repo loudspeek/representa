@@ -11516,6 +11516,7 @@
     },
     {
       "birth_date": "1964-03-19",
+      "family_name": "Muldoon",
       "gender": "male",
       "id": "95ac8fc5-c2b4-4ae8-abef-39f8c8bae2ab",
       "identifiers": [
@@ -13268,6 +13269,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Coinneach_MacAsgaill"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Kenny_MacAskill"
         },
         {
           "note": "Wikipedia (sh)",
@@ -20015,6 +20020,7 @@
     },
     {
       "birth_date": "1947-04-15",
+      "family_name": "Aitken",
       "gender": "male",
       "given_name": "Bill",
       "id": "efd87fb2-18fd-41c4-ad5a-0486902df6ca",
