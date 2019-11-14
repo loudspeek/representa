@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1439,
-    "wikidata": 1439,
+    "wikidata": 600,
     "latest_term": {
       "count": 655,
-      "wikidata": 655,
-      "images": 653,
+      "wikidata": 277,
+      "images": 576,
       "contacts": {
-        "email": 647,
-        "facebook": 515,
-        "twitter": 600
+        "email": 646,
+        "facebook": 511,
+        "twitter": 583
       }
     }
   },
@@ -28,10 +28,10 @@
   },
   "elections": {
     "count": 140,
-    "latest": "2019-06-06"
+    "latest": "2019-12-12"
   },
   "positions": {
-    "cabinet": 240
+    "cabinet": 98
   },
   "sources": [
     {
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2019-11-01"
+      "lastmod": "2019-11-02"
     },
     {
       "file": "manual/emails.csv",
@@ -92,7 +92,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-11-01"
+      "lastmod": "2019-11-02"
     },
     {
       "file": "morph/areas.csv",
