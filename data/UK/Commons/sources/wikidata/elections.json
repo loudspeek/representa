@@ -3394,7 +3394,7 @@
     ],
     "follows": "2015 United Kingdom general election",
     "followed_by": "2019 United Kingdom general election",
-    "part_of": "election in the United Kingdom",
+    "part_of": "2017 United Kingdom elections",
     "office": "Member of Parliament"
   },
   "Q27629857": {
@@ -3856,7 +3856,7 @@
       },
       {
         "lang": "fa",
-        "name": "انتخابات سراسری بریتانیا (۲۰۲۲)",
+        "name": "انتخابات سراسری بریتانیا (۲۰۱۹)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3909,6 +3909,54 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sv",
+        "name": "Parlamentsvalet i Storbritannien 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni generali nel Regno Unito del 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições gerais no Reino Unido em 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "2019年イギリス総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Etholiad cyffredinol y Deyrnas Unedig, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yue",
+        "name": "2019年英國下議院選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Britse Lagerhuisverkiezingen 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Парламентские выборы в Великобритании (2019)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2019年英國大選",
         "note": "multilingual",
@@ -3916,8 +3964,7 @@
       }
     ],
     "dates": [
-      "2019-12-12",
-      "2022-05-05"
+      "2019-12-12"
     ],
     "follows": "2017 United Kingdom general election",
     "office": "Member of Parliament"
@@ -5424,6 +5471,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions parcials de Newport West de 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Newport West by-election, 2019",
         "note": "multilingual",
@@ -6051,6 +6104,12 @@
       {
         "lang": "fr",
         "name": "Élection partielle de Warrington de 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Warrington de 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
