@@ -4742,6 +4742,10 @@
           "scheme": "scotparl"
         },
         {
+          "identifier": "5850153954902005680006",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q2177593",
           "scheme": "wikidata"
         }
@@ -6541,6 +6545,10 @@
           "scheme": "scotparl"
         },
         {
+          "identifier": "3047149235092876690004",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q559634",
           "scheme": "wikidata"
         }
@@ -7089,6 +7097,12 @@
     },
     {
       "birth_date": "1958-09-24",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "PJFerguson18"
+        }
+      ],
       "family_name": "Ferguson",
       "gender": "female",
       "given_name": "Patricia",
@@ -7133,6 +7147,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patricia_Ferguson"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/PJFerguson18"
         }
       ],
       "name": "Patricia Ferguson"
@@ -7520,6 +7538,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Kate_Forbes"
         },
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/كيت_فوربس"
+        },
+        {
           "note": "Wikipedia (azb)",
           "url": "https://azb.wikipedia.org/wiki/کیت_فوربس"
         },
@@ -7542,6 +7564,11 @@
       ],
       "name": "Kate Forbes",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "كيت فوربس",
+          "note": "multilingual"
+        },
         {
           "lang": "azb",
           "name": "کیت فوربس",
@@ -11516,6 +11543,7 @@
     },
     {
       "birth_date": "1964-03-19",
+      "family_name": "Muldoon",
       "gender": "male",
       "id": "95ac8fc5-c2b4-4ae8-abef-39f8c8bae2ab",
       "identifiers": [
@@ -13205,10 +13233,20 @@
     },
     {
       "birth_date": "1958-04-28",
+      "contact_details": [
+        {
+          "type": "twitter",
+          "value": "KennyMacAskill"
+        }
+      ],
       "gender": "male",
       "given_name": "Kenny",
       "id": "abbee5a4-f4e6-44f1-93f7-2d93d64623da",
       "identifiers": [
+        {
+          "identifier": "71831",
+          "scheme": "democracyclub"
+        },
         {
           "identifier": "14031",
           "scheme": "everypolitician_legacy"
@@ -13270,12 +13308,20 @@
           "url": "https://gd.wikipedia.org/wiki/Coinneach_MacAsgaill"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Kenny_MacAskill"
+        },
+        {
           "note": "Wikipedia (sh)",
           "url": "https://sh.wikipedia.org/wiki/Kenny_MacAskill"
         },
         {
           "note": "Wikipedia (sr)",
           "url": "https://sr.wikipedia.org/wiki/Кени_Макаскил"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/KennyMacAskill"
         }
       ],
       "name": "Kenny MacAskill",
@@ -13737,6 +13783,12 @@
         {
           "identifier": "Q1051152",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Protestcarers4.JPG",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Protestcarers4.JPG"
         }
       ],
       "links": [
@@ -20015,6 +20067,7 @@
     },
     {
       "birth_date": "1947-04-15",
+      "family_name": "Aitken",
       "gender": "male",
       "given_name": "Bill",
       "id": "efd87fb2-18fd-41c4-ad5a-0486902df6ca",
@@ -22198,6 +22251,18 @@
         {
           "lang": "be-tarask",
           "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨派",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -29474,6 +29539,10 @@
       "id": "uk.org.publicwhip/cons/10717",
       "identifiers": [
         {
+          "identifier": "131865526",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q1529479",
           "scheme": "wikidata"
         }
@@ -29590,6 +29659,11 @@
         {
           "lang": "bn",
           "name": "উত্তর পূর্ব স্কটল্যান্ড",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nord-est d'Escòcia",
           "note": "multilingual"
         },
         {
@@ -30036,6 +30110,10 @@
       "id": "uk.org.publicwhip/cons/10741",
       "identifiers": [
         {
+          "identifier": "239632405",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q1719129",
           "scheme": "wikidata"
         }
@@ -30186,6 +30264,10 @@
     {
       "id": "uk.org.publicwhip/cons/10748",
       "identifiers": [
+        {
+          "identifier": "247155850",
+          "scheme": "viaf"
+        },
         {
           "identifier": "Q1277940",
           "scheme": "wikidata"
