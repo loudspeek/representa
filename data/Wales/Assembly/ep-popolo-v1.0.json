@@ -11938,6 +11938,18 @@
           "name": "незалежны",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨派",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "DDDDDD"
@@ -12686,7 +12698,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.welshlibdems.org.uk"
+          "url": "https://www.welshlibdems.wales/"
         }
       ],
       "name": "Welsh Liberal Democrats",
