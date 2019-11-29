@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 306,
-    "wikidata": 237,
+    "wikidata": 238,
     "latest_term": {
       "count": 135,
-      "wikidata": 134,
+      "wikidata": 135,
       "images": 135,
       "contacts": {
         "email": 129,
         "facebook": 4,
-        "twitter": 121
+        "twitter": 122
       }
     }
   },
@@ -27,8 +27,8 @@
     "wikidata": 123
   },
   "elections": {
-    "count": 16,
-    "latest": "2017-06-08"
+    "count": 17,
+    "latest": "2019-08-29"
   },
   "positions": {
     "cabinet": 126
@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2019-11-01"
+      "lastmod": "2019-11-02"
     },
     {
       "file": "manual/terms.csv",
