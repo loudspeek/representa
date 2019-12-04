@@ -3838,6 +3838,18 @@
         "name": "незалежны",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨派",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "DDDDDD"
@@ -5005,7 +5017,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo_del_Partido_Verde_de_Inglaterra_y_Gales.png",
     "srgb": "6AB023"
   },
   "respect": {
