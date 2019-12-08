@@ -2,9 +2,6 @@ id,name,position,start_date,end_date,type
 5435f661-9f9b-4bd8-8982-1caa08a0b4bc,Gordon Brown,Prime Minister of the United Kingdom,2007-06-27,2010-05-11,cabinet
 5435f661-9f9b-4bd8-8982-1caa08a0b4bc,Gordon Brown,Chancellor of the Exchequer,1997-05-02,2007-06-27,cabinet
 2b0c7ff1-ad7f-4203-b6bf-995438ec5d35,David Maclean,Secretary of State for the Environment,1992-04-14,1993-05-27,cabinet
-15ef0954-7331-4a49-8dab-d44ee67492da,Edward Heath,Prime Minister of the United Kingdom,1970-06-19,1974-03-04,cabinet
-15ef0954-7331-4a49-8dab-d44ee67492da,Edward Heath,"Secretary of State for Business, Energy and Industrial Strategy",1963-10-20,1964-10-16,cabinet
-15ef0954-7331-4a49-8dab-d44ee67492da,Edward Heath,Secretary of State for Employment,1959-10-14,1960-07-27,cabinet
 2052c5d9-af0a-443e-ac35-98eb0cf40f80,Boris Johnson,Secretary of State for Foreign and Commonwealth Affairs,2016-07-13,2018-07-09,cabinet
 f0dcdb26-99ca-48ed-88fc-b635de51c62e,David Cameron,Prime Minister of the United Kingdom,2010-05-11,2016-07-13,cabinet
 596b026b-dbd2-4f71-a6c8-d722f9454c2b,Alun Michael,Secretary of State for Wales,1998-10-27,1999-07-27,cabinet
@@ -30,7 +27,6 @@ fecd8f6c-f295-46a4-8079-65f19323adaa,Jacqui Smith,Secretary of State for the Hom
 74fe62b2-36f8-4128-8f77-d3025ba6157e,Jeremy Wright,"Secretary of State for Culture, Media and Sport",2018-07-09,,cabinet
 8cc4409c-3fcb-494e-a270-57cf95d6673f,Stephen Barclay,Secretary of State for Exiting the European Union,2018-11-16,,cabinet
 54decb4f-7363-42bf-8653-34847b88c9d0,Shaun Woodward,Secretary of State for Northern Ireland,2007-06-28,2010-05-11,cabinet
-c09386a3-5715-4bc8-9850-7344e2d6be0b,Gavin Williamson,Secretary of State for Defence,2017-11-02,2019-05-01,cabinet
 330100e1-1dbf-4cdb-97e7-f8e1e8648609,Mo Mowlam,Secretary of State for Northern Ireland,1997-05-03,1999-10-11,cabinet
 980e3a46-b359-4f22-a34e-c6786e5c4890,Hilary Benn,"Secretary of State for Environment, Food and Rural Affairs",2007-06-28,2010-05-11,cabinet
 980e3a46-b359-4f22-a34e-c6786e5c4890,Hilary Benn,Secretary of State for International Development,2003-10-06,2007-06-28,cabinet
@@ -42,19 +38,14 @@ c09386a3-5715-4bc8-9850-7344e2d6be0b,Gavin Williamson,Secretary of State for Def
 62c0a115-5ef9-4e10-9827-554027f7d915,Karen Bradley,Secretary of State for Northern Ireland,2018-01-08,,cabinet
 62c0a115-5ef9-4e10-9827-554027f7d915,Karen Bradley,"Secretary of State for Culture, Media and Sport",2016-07-14,2018-01-08,cabinet
 0b03d9ac-ba9b-4d38-9b2d-286da94b66b1,Ben Bradshaw,"Secretary of State for Culture, Media and Sport",2009-06-05,2010-05-11,cabinet
-6fb6f7f3-e719-4969-bbd1-e827408bf66e,John Whittingdale,"Secretary of State for Culture, Media and Sport",2015-05-11,2016-07-14,cabinet
 f0e95251-affb-4cc6-a15c-18f99137f589,Theresa May,Prime Minister of the United Kingdom,2016-07-13,,cabinet
 f0e95251-affb-4cc6-a15c-18f99137f589,Theresa May,Secretary of State for the Home Department,2010-05-12,2016-07-13,cabinet
-a50a275a-302c-44f8-9585-a53833b23e7d,James Brokenshire,Secretary of State for Communities and Local Government,2018-04-30,,cabinet
-a50a275a-302c-44f8-9585-a53833b23e7d,James Brokenshire,Secretary of State for Northern Ireland,2016-07-14,2018-01-08,cabinet
 509c288f-d211-422b-8874-0256e18cad2c,Theresa Villiers,Secretary of State for Northern Ireland,2012-09-04,2016-07-14,cabinet
 8a7d21e4-45c5-4183-a0f3-a7457116a2d1,Alun Cairns,Secretary of State for Wales,2016-03-19,,cabinet
 423db8e2-7be0-47ee-b698-2a0957d27a9d,Dominic Raab,Secretary of State for Exiting the European Union,2018-07-09,2018-11-15,cabinet
 65debd30-e099-4df8-9320-ae6abd48ea16,Alistair Carmichael,Secretary of State for Scotland,2013-10-07,2015-05-08,cabinet
-8b314ba8-5889-4523-97bd-4990a83ec577,Liam Byrne,Secretary of State for Work and Pensions,,,cabinet
 3a971340-a3ce-4fe2-8afe-835717350e5d,Andy Burnham,"Secretary of State for Culture, Media and Sport",2008-01-24,2009-06-05,cabinet
 3a971340-a3ce-4fe2-8afe-835717350e5d,Andy Burnham,Secretary of State for Health and Social Care,2009-06-05,2010-05-11,cabinet
-a6756d44-f136-45b0-b461-e9bee80fdb90,Greg Clark,"Secretary of State for Business, Energy and Industrial Strategy",2016-07-14,,cabinet
 ab908e48-6271-4c0c-9be3-010ea1f5109d,Kenneth Clarke,Secretary of State for the Home Department,1992-04-10,1993-05-27,cabinet
 ab908e48-6271-4c0c-9be3-010ea1f5109d,Kenneth Clarke,Secretary of State for Health and Social Care,1988-07-25,1990-11-02,cabinet
 ab908e48-6271-4c0c-9be3-010ea1f5109d,Kenneth Clarke,Secretary of State for Education,1990-11-02,1992-04-10,cabinet
@@ -81,44 +72,24 @@ b16148db-7312-4fea-91bb-fb167345aa75,Edward Davey,Secretary of State for Energy 
 693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,Secretary of State for Communities and Local Government,2009-06-05,2010-05-11,cabinet
 693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,Secretary of State for Communities and Local Government,2010-05-11,2010-10-08,cabinet
 693136f0-7886-4cea-b912-ae7d8cc41007,John Denham,"Secretary of State for Innovation, Universities and Skills",2007-06-28,2009-06-05,cabinet
-03ba2cd5-25fc-4798-b506-85de02e6b3dc,Frank Dobson,Secretary of State for Health and Social Care,1997-05-02,1999-10-11,cabinet
 adeb6afa-efc8-49b4-81ef-75d5166609df,Stephen Dorrell,"Secretary of State for Culture, Media and Sport",1994-07-20,1995-07-05,cabinet
 adeb6afa-efc8-49b4-81ef-75d5166609df,Stephen Dorrell,Secretary of State for Health and Social Care,1995-07-05,1997-05-02,cabinet
-b854bd7d-a11d-4897-8a6d-ca183d66a4ca,Iain Duncan Smith,Secretary of State for Work and Pensions,2010-05-12,2016-03-18,cabinet
 36c6ab70-1e3a-414c-b99e-7b1c84169d9f,Jonathan Evans,"Secretary of State for Business, Energy and Industrial Strategy",1994-10-25,1995-11-29,cabinet
 03c9e793-ddb9-4694-8e2b-96e1440cb5d2,Michael Fallon,Secretary of State for Defence,2014-07-15,2017-11-01,cabinet
-b08de286-5158-4c6d-98a9-7395257803e9,Peter Mandelson,Secretary of State for Northern Ireland,1999-10-11,2001-01-24,cabinet
-b08de286-5158-4c6d-98a9-7395257803e9,Peter Mandelson,First Secretary of State,2009-06-05,2010-05-11,cabinet
-b08de286-5158-4c6d-98a9-7395257803e9,Peter Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",1998-07-27,1998-12-23,cabinet
-b08de286-5158-4c6d-98a9-7395257803e9,Peter Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",2008-10-03,2009-06-05,cabinet
-b08de286-5158-4c6d-98a9-7395257803e9,Peter Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",2008-10-03,2010-05-11,cabinet
-b08de286-5158-4c6d-98a9-7395257803e9,Peter Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",2009-06-05,2010-05-11,cabinet
-95052a44-d402-43d5-a311-483afca5674f,Robin Cook,Secretary of State for Foreign and Commonwealth Affairs,1997-05-02,2001-06-08,cabinet
-3056ce3e-f671-4f93-8c89-26729762a8d7,Jack Straw,Secretary of State for Foreign and Commonwealth Affairs,2001-06-08,2006-05-05,cabinet
-3056ce3e-f671-4f93-8c89-26729762a8d7,Jack Straw,Secretary of State for the Home Department,1997-05-02,2001-06-08,cabinet
-3056ce3e-f671-4f93-8c89-26729762a8d7,Jack Straw,Secretary of State for Justice,2007-06-28,2010-05-11,cabinet
 b75b5970-b933-4ae5-9388-9c2323732bf7,Michael Howard,Secretary of State for the Home Department,1993-05-27,1997-05-02,cabinet
 b75b5970-b933-4ae5-9388-9c2323732bf7,Michael Howard,Secretary of State for the Environment,1992-04-11,1993-05-27,cabinet
 b75b5970-b933-4ae5-9388-9c2323732bf7,Michael Howard,Secretary of State for Employment,1990-01-03,1992-04-11,cabinet
-de766ed8-8776-43d5-a34b-40de124b2c18,Michael Heseltine,Secretary of State for Defence,1983-01-06,1986-01-07,cabinet
-de766ed8-8776-43d5-a34b-40de124b2c18,Michael Heseltine,First Secretary of State,1995-07-20,1997-05-02,cabinet
-de766ed8-8776-43d5-a34b-40de124b2c18,Michael Heseltine,"Secretary of State for Business, Energy and Industrial Strategy",1992-04-11,1995-07-05,cabinet
-de766ed8-8776-43d5-a34b-40de124b2c18,Michael Heseltine,Secretary of State for the Environment,1990-11-28,1992-04-11,cabinet
 b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,Secretary of State for the Home Department,2009-06-05,2010-05-11,cabinet
 b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,Secretary of State for Health and Social Care,2007-06-28,2009-06-05,cabinet
 b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,Secretary of State for Education,2006-05-05,2007-06-28,cabinet
 b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,"Secretary of State for Business, Energy and Industrial Strategy",2005-05-06,2006-05-05,cabinet
 b5218527-3731-4f70-ad27-8d5b38182d58,Alan Johnson,Secretary of State for Work and Pensions,2004-09-08,2005-05-06,cabinet
-dad0f455-74c5-4db9-a33a-2bb51e4b5641,Liam Fox,Secretary of State for International Trade,2016-07-13,,cabinet
-dad0f455-74c5-4db9-a33a-2bb51e4b5641,Liam Fox,Secretary of State for Defence,2010-05-12,2011-10-14,cabinet
 5487fccb-26af-47eb-9d42-9f1e2a3f6e1b,Geoff Hoon,Secretary of State for Defence,1999-10-11,2005-05-06,cabinet
 5487fccb-26af-47eb-9d42-9f1e2a3f6e1b,Geoff Hoon,Secretary of State for Transport,2008-10-03,2009-06-05,cabinet
 a492d475-f69c-4f15-878c-dd1a4a450985,John Prescott,"Secretary of State for the Environment, Transport and the Regions",1997-05-02,2001-06-08,cabinet
 a492d475-f69c-4f15-878c-dd1a4a450985,John Prescott,First Secretary of State,2001-06-08,2007-06-27,cabinet
 14297f22-111a-414d-8b65-30748063fc53,Tony Benn,Secretary of State for Energy,1975-06-10,1979-05-04,cabinet
 14297f22-111a-414d-8b65-30748063fc53,Tony Benn,"Secretary of State for Business, Energy and Industrial Strategy",1974-03-05,1975-06-10,cabinet
-008ca7b1-fd32-420f-b710-d49fe8e34b05,George Osborne,First Secretary of State,2015-05-08,2016-07-13,cabinet
-008ca7b1-fd32-420f-b710-d49fe8e34b05,George Osborne,Chancellor of the Exchequer,2010-05-11,2016-07-13,cabinet
 7970cfa3-54dd-407a-b7c0-6401bcccc41b,Christopher Huhne,Secretary of State for Energy and Climate Change,2010-05-12,2012-02-05,cabinet
 98466111-ac0f-4b61-93f2-4d5b7245e5c4,John Hutton,Secretary of State for Defence,2008-10-03,2009-06-05,cabinet
 98466111-ac0f-4b61-93f2-4d5b7245e5c4,John Hutton,"Secretary of State for Business, Energy and Industrial Strategy",2007-06-28,2008-10-03,cabinet
@@ -127,8 +98,6 @@ a492d475-f69c-4f15-878c-dd1a4a450985,John Prescott,First Secretary of State,2001
 c6cc7ab1-6229-49cc-a571-c054eff13458,Virginia Bottomley,"Secretary of State for Culture, Media and Sport",1995-07-05,1997-05-02,cabinet
 c6cc7ab1-6229-49cc-a571-c054eff13458,Virginia Bottomley,Secretary of State for Health and Social Care,1989-10-28,1992-04-09,cabinet
 c6cc7ab1-6229-49cc-a571-c054eff13458,Virginia Bottomley,Secretary of State for Health and Social Care,1992-04-09,1995-07-05,cabinet
-a2f4470d-0277-4b61-8201-1894b14a7bec,Patricia Hewitt,Secretary of State for Health and Social Care,2005-05-05,2007-06-27,cabinet
-a2f4470d-0277-4b61-8201-1894b14a7bec,Patricia Hewitt,"Secretary of State for Business, Energy and Industrial Strategy",2001-06-08,2005-05-05,cabinet
 47465cf4-4a55-45cf-ae9e-5e8d5477688d,Stephen Byers,Secretary of State for Transport,2001-06-08,2002-05-29,cabinet
 47465cf4-4a55-45cf-ae9e-5e8d5477688d,Stephen Byers,"Secretary of State for Business, Energy and Industrial Strategy",1998-12-23,2001-06-08,cabinet
 f966006e-e5ba-430a-b458-b28589da24df,Norman Fowler,Secretary of State for Transport,1981-01-05,1981-09-14,cabinet
@@ -205,30 +174,24 @@ d5870570-ad42-45fc-9734-412de84c75de,Cheryl Gillan,Secretary of State for Wales,
 4e12bfed-3f6e-4233-9110-548f3d8138a1,Helen Liddell,Secretary of State for Scotland,2001-01-24,2003-06-12,cabinet
 5c4048e1-5b85-4e1f-a346-1ea9a9b9546f,Peter Brooke,Secretary of State for Northern Ireland,1989-07-24,1992-04-10,cabinet
 5c4048e1-5b85-4e1f-a346-1ea9a9b9546f,Peter Brooke,"Secretary of State for Culture, Media and Sport",1992-09-22,1994-07-20,cabinet
-f907367c-2241-4d4b-96a3-9271e6218c86,Maria Miller,"Secretary of State for Culture, Media and Sport",2012-09-04,2014-04-09,cabinet
 715cbcaa-1a45-4ee6-b516-eb7e01842e45,Andrew Smith,Secretary of State for Work and Pensions,2002-05-29,2004-09-08,cabinet
 9e0b1dd0-623e-45c7-b0ec-2b5d9b6c1918,Simon Hughes,Secretary of State for Justice,2013-12-18,2015-05-08,cabinet
 c72c9887-92f5-46c6-8d69-6210493213eb,Chris Grayling,Secretary of State for Transport,2016-07-14,,cabinet
 c72c9887-92f5-46c6-8d69-6210493213eb,Chris Grayling,Secretary of State for Justice,2012-09-04,2015-05-09,cabinet
-ffdfc5f1-332b-4919-9452-571c01ce8c7a,Richard Caborn,"Secretary of State for the Environment, Transport and the Regions",1997-05-02,1999-10-20,cabinet
 8bab4a92-5f54-4e64-bf0d-41c4cc9d97cb,David Curry,Secretary of State for Communities and Local Government,2003-11-11,2004-03-15,cabinet
 0d13e9d4-e38b-4651-9680-1d3b7951edb1,David Gauke,Secretary of State for Justice,2018-01-08,,cabinet
 0d13e9d4-e38b-4651-9680-1d3b7951edb1,David Gauke,Secretary of State for Work and Pensions,2017-06-11,2018-01-08,cabinet
 af2248ae-b73a-4dcc-9bd1-9f412d2111df,Damian Green,First Secretary of State,2017-06-11,2017-12-20,cabinet
 af2248ae-b73a-4dcc-9bd1-9f412d2111df,Damian Green,Secretary of State for Work and Pensions,2016-07-14,2017-06-11,cabinet
-18a9f1f8-ba92-45a9-86f3-e651b8ae020e,Matthew Hancock,"Secretary of State for Culture, Media and Sport",2018-01-08,2018-07-08,cabinet
 10fdca28-0ac2-486a-ac61-bdf0eee59baf,Amber Rudd,Secretary of State for the Home Department,2016-07-13,2018-04-29,cabinet
 10fdca28-0ac2-486a-ac61-bdf0eee59baf,Amber Rudd,Secretary of State for Energy and Climate Change,2015-05-11,2016-07-13,cabinet
 10fdca28-0ac2-486a-ac61-bdf0eee59baf,Amber Rudd,Secretary of State for Work and Pensions,2018-11-16,,cabinet
 589f495d-4efb-4039-8045-1ec41831161e,Priti Patel,Secretary of State for International Development,2016-07-14,2017-11-08,cabinet
-bd85fce9-af0c-4ad8-a2ac-be62e0e086a7,Nicky Morgan,Secretary of State for Education,2014-07-15,2016-07-14,cabinet
 e7ae595e-131b-4e98-ab01-ba3437a56cfd,Penny Mordaunt,Secretary of State for International Development,2017-12-09,,cabinet
 8be5abce-a899-446f-8b5e-59f9f519ee9b,William Hague,Secretary of State for Foreign and Commonwealth Affairs,2010-05-12,2014-07-14,cabinet
 8be5abce-a899-446f-8b5e-59f9f519ee9b,William Hague,Secretary of State for Wales,1995-07-05,1997-05-02,cabinet
 8be5abce-a899-446f-8b5e-59f9f519ee9b,William Hague,First Secretary of State,2010-05-12,2015-05-08,cabinet
 7f7dcec5-8695-4b06-809f-ff51d98877d8,Michael Meacher,"Secretary of State for the Environment, Transport and the Regions",1997-05-02,2003-06-13,cabinet
-4880d9ea-d1a3-4d46-b8cd-c4e19af4294a,Esther McVey,Secretary of State for Work and Pensions,2018-01-08,2018-11-15,cabinet
-cfaddafb-c036-455d-900e-b70c061822ec,Damian Hinds,Secretary of State for Education,2018-01-08,,cabinet
 232bacdc-ee1f-44e3-bdac-cda63dbcbddb,Sajid Javid,Secretary of State for Communities and Local Government,2016-07-14,2018-04-30,cabinet
 232bacdc-ee1f-44e3-bdac-cda63dbcbddb,Sajid Javid,Secretary of State for the Home Department,2018-04-30,,cabinet
 232bacdc-ee1f-44e3-bdac-cda63dbcbddb,Sajid Javid,"Secretary of State for Business, Energy and Industrial Strategy",2015-05-11,2016-07-14,cabinet
