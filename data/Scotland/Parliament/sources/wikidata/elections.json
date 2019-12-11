@@ -544,6 +544,36 @@
     ],
     "office": "Member of the Scottish Parliament"
   },
+  "Q65051630": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q65051630"
+      }
+    ],
+    "name": "2019 Shetland by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2019 Shetland by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Shetland de 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2019-08-29"
+    ],
+    "office": "Member of the 5th Scottish Parliament",
+    "successful_candidates": [
+      "Beatrice Wishart"
+    ]
+  },
   "Q683800": {
     "identifiers": [
       {
