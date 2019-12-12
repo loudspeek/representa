@@ -1200,7 +1200,7 @@
       },
       {
         "lang": "ar",
-        "name": "الديمقراطيين الأحرار",
+        "name": "الديمقراطيون الليبراليون",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1645,6 +1645,18 @@
       {
         "lang": "fr",
         "name": "Lib Dem",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "الديمقراطيين الأحرار",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "الديمقراطيين الليبراليبن",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3744,6 +3756,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "cs",
+        "name": "bez politické příslušnosti",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "BEZPP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "sr",
         "name": "нестраначки политичар",
         "note": "multilingual",
@@ -3836,6 +3860,18 @@
       {
         "lang": "be-tarask",
         "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨派",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5005,7 +5041,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo_del_Partido_Verde_de_Inglaterra_y_Gales.png",
     "srgb": "6AB023"
   },
   "respect": {
