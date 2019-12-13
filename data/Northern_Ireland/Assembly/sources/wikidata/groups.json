@@ -597,12 +597,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "ko",
-        "name": "신 페인",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "fr",
         "name": "Sinn Féin provisoire",
         "note": "multilingual",
@@ -1137,7 +1131,7 @@
         "note": "website"
       }
     ],
-    "srgb": "99FF66"
+    "srgb": "3A9E84"
   },
   "909cfd94-8020-4586-8cef-ea8aaedefd65": {
     "identifiers": [
@@ -1247,6 +1241,12 @@
       {
         "lang": "tr",
         "name": "Kuzey İrlanda İttifak Partisi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Ipar Irlandako Aliantza Alderdia",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1506,6 +1506,12 @@
       {
         "lang": "he",
         "name": "מפלגת הירוקים בצפון אירלנד",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "An Comhaontas Glas i dTuaisceart Éireann",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1912,6 +1918,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "az",
+        "name": "Böyük Britaniya Müstəqillik Partiyası",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -1944,6 +1956,12 @@
       {
         "lang": "cs",
         "name": "Strana nezávislosti Spojeného království",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "青年獨立",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2076,7 +2094,7 @@
       },
       {
         "lang": "el",
-        "name": "ανεξάρτητος",
+        "name": "ανεξάρτητος/η πολιτικός",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2449,6 +2467,24 @@
       {
         "lang": "ka",
         "name": "დამოუკიდებელი პოლიტიკოსი",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Politikari independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gl",
+        "name": "político independente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisni politik",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2837,6 +2873,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "cs",
+        "name": "bez politické příslušnosti",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "BEZPP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "sr",
         "name": "нестраначки политичар",
         "note": "multilingual",
@@ -2929,6 +2977,18 @@
       {
         "lang": "be-tarask",
         "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨派",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3120,7 +3180,7 @@
       },
       {
         "lang": "et",
-        "name": "Spiiker",
+        "name": "spiiker",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3311,6 +3371,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "da",
+        "name": "talsmand",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "parlamentspresident",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "県議会議長",
         "note": "multilingual",
@@ -3481,6 +3553,12 @@
       {
         "lang": "ast",
         "name": "presidente del parlamentu",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nn",
+        "name": "parlamentsformann",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

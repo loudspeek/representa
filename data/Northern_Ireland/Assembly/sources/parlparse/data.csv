@@ -687,7 +687,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25558,Alan Chambers,,,uk.org.publicwhip/person/25558,North Down,uk.org.publicwhip/cons/406-NI,UUP,uup,2017-03-03,regional_election,,,6
 13899,Stephen Farry,,,uk.org.publicwhip/person/13899,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2017-03-03,regional_election,,,6
 25129,Gordon Dunne,,,uk.org.publicwhip/person/25129,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2017-03-03,regional_election,,,6
-25121,Steven Agnew,,,uk.org.publicwhip/person/25121,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2017-03-03,regional_election,,,6
+25121,Steven Agnew,,,uk.org.publicwhip/person/25121,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2017-03-03,regional_election,2019-09-30,resigned,6
 25561,Declan Kearney,,,uk.org.publicwhip/person/25561,South Antrim,uk.org.publicwhip/cons/515-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
 25545,Steve Aiken,,,uk.org.publicwhip/person/25545,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2017-03-03,regional_election,,,6
 13788,David Ford,,,uk.org.publicwhip/person/13788,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2017-03-03,regional_election,2018-06-25,resigned,6
@@ -698,7 +698,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13871,Jim Wells,,,uk.org.publicwhip/person/13871,South Down,uk.org.publicwhip/cons/519-NI,DUP,dup,2017-03-03,regional_election,,,6
 25552,Sinéad Bradley,,,uk.org.publicwhip/person/25552,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
 25566,Colin McGrath,,,uk.org.publicwhip/person/25566,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-13900,Simon Hamilton,,,uk.org.publicwhip/person/13900,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,,,6
+13900,Simon Hamilton,,,uk.org.publicwhip/person/13900,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,2019-09-02,resigned,6
 25547,Kellie Armstrong,,,uk.org.publicwhip/person/25547,Strangford,uk.org.publicwhip/cons/557-NI,Alliance,alliance,2017-03-03,regional_election,,,6
 13910,Michelle McIlveen,,,uk.org.publicwhip/person/13910,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,,,6
 25139,Mike Nesbitt,,,uk.org.publicwhip/person/25139,Strangford,uk.org.publicwhip/cons/557-NI,UUP,uup,2017-03-03,regional_election,,,6
@@ -709,7 +709,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25550,Doug Beattie,,,uk.org.publicwhip/person/25550,Upper Bann,uk.org.publicwhip/cons/593-NI,UUP,uup,2017-03-03,regional_election,,,6
 13810,Dolores Kelly,,,uk.org.publicwhip/person/13810,Upper Bann,uk.org.publicwhip/cons/593-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
 13758,Thomas Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2017-03-03,regional_election,,,6
-25123,Michaela Boyle,,,uk.org.publicwhip/person/25123,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
+25123,Michaela Boyle,,,uk.org.publicwhip/person/25123,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2019-05-02,resigned,6
 13825,Barry McElduff,,4646,uk.org.publicwhip/person/13825,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2017-06-09,resigned,6
 25483,Daniel McCrossan,,,uk.org.publicwhip/person/25483,West Tyrone,uk.org.publicwhip/cons/629-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
 25159,Declan McAleer,,,uk.org.publicwhip/person/25159,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
@@ -720,3 +720,6 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25716,Emma Rogan,,,uk.org.publicwhip/person/25716,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-06-20,appointed,,,6
 25741,John Blair,,,uk.org.publicwhip/person/25741,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2018-06-27,appointed,,,6
 25747,Emma Sheerin,,,uk.org.publicwhip/person/25747,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2018-12-04,appointed,,,6
+25773,Maolíosa McHugh,,,uk.org.publicwhip/person/25773,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2019-05-28,appointed,,,6
+25784,Harry Harvey,,,uk.org.publicwhip/person/25784,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2019-09-12,appointed,,,6
+25785,Rachel Woods,,,uk.org.publicwhip/person/25785,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2019-10-07,appointed,,,6

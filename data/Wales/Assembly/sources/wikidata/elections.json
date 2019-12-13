@@ -63,6 +63,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "انتخابات الجمعية الوطنية الويلزية 2011",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2011年威爾斯議會選舉",
         "note": "multilingual",
@@ -142,6 +148,12 @@
       {
         "lang": "zh",
         "name": "2007年威爾斯議會選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "انتخابات الجمعية الوطنية الويلزية 2007",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -308,6 +320,12 @@
       {
         "lang": "he",
         "name": "הבחירות הכלליות בויילס 2003",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "انتخابات الجمعية الوطنية الويلزية 2003",
         "note": "multilingual",
         "source": "wikidata-label"
       },

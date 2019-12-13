@@ -333,6 +333,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "th",
+        "name": "ไพลด์คัมรี",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -419,7 +425,7 @@
     ],
     "links": [
       {
-        "url": "http://www.welshlibdems.org.uk",
+        "url": "https://www.welshlibdems.wales/",
         "note": "website"
       }
     ],
@@ -1630,6 +1636,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "cs",
+        "name": "bez politické příslušnosti",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "BEZPP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "sr",
         "name": "нестраначки политичар",
         "note": "multilingual",
@@ -1722,6 +1740,18 @@
       {
         "lang": "be-tarask",
         "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨派",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

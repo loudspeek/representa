@@ -233,7 +233,7 @@
       "other_names": [
         {
           "lang": "ar",
-          "name": "توم بينسون",
+          "name": "توم بنسون",
           "note": "multilingual"
         },
         {
@@ -7093,10 +7093,6 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "vtls000079958",
-          "scheme": "n6i"
-        },
-        {
           "identifier": "64",
           "scheme": "ni_assembly"
         },
@@ -9420,6 +9416,16 @@
       "name": "Ian McCrea"
     },
     {
+      "id": "746c9cc6-864c-4b96-a357-fb244ce7c853",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25784",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Harry Harvey"
+    },
+    {
       "birth_date": "1940-04-28",
       "death_date": "2017-03-01",
       "gender": "male",
@@ -9467,6 +9473,16 @@
           "note": "multilingual"
         }
       ]
+    },
+    {
+      "id": "76cb594a-dc82-4327-8cfb-1a6673f24694",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25785",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Rachel Woods"
     },
     {
       "birth_date": "1946-06-29",
@@ -9566,6 +9582,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/جون_ستيوارت_(سياسي_بريطاني)"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Stewart_(Northern_Ireland_politician)"
         },
@@ -9574,7 +9594,14 @@
           "url": "https://twitter.com/JohnStewart1983"
         }
       ],
-      "name": "John Stewart"
+      "name": "John Stewart",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "جون ستيوارت",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1941-11-26",
@@ -14132,10 +14159,6 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "vtls000320432",
-          "scheme": "n6i"
-        },
-        {
           "identifier": "71",
           "scheme": "ni_assembly"
         },
@@ -15126,6 +15149,16 @@
         }
       ],
       "name": "Alastair Ross"
+    },
+    {
+      "id": "c442363b-303f-49ab-882e-a79329eae22b",
+      "identifiers": [
+        {
+          "identifier": "uk.org.publicwhip/person/25773",
+          "scheme": "parlparse"
+        }
+      ],
+      "name": "Maolíosa McHugh"
     },
     {
       "birth_date": "1960-08-29",
@@ -16618,10 +16651,6 @@
           "scheme": "lcauth"
         },
         {
-          "identifier": "vtls000313075",
-          "scheme": "n6i"
-        },
-        {
           "identifier": "95",
           "scheme": "ni_assembly"
         },
@@ -18001,10 +18030,6 @@
         {
           "identifier": "nr2005016460",
           "scheme": "lcauth"
-        },
-        {
-          "identifier": "vtls000287450",
-          "scheme": "n6i"
         },
         {
           "identifier": "125",
@@ -20139,6 +20164,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eu",
+          "name": "Ipar Irlandako Aliantza Alderdia",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Alliance Party",
           "note": "multilingual",
@@ -20592,6 +20623,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ga",
+          "name": "An Comhaontas Glas i dTuaisceart Éireann",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "eo",
           "name": "Verda Partio de Nord-Irlando",
           "note": "multilingual",
@@ -20715,7 +20752,7 @@
         },
         {
           "lang": "el",
-          "name": "ανεξάρτητος",
+          "name": "ανεξάρτητος/η πολιτικός",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -21088,6 +21125,24 @@
         {
           "lang": "ka",
           "name": "დამოუკიდებელი პოლიტიკოსი",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Politikari independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "político independente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "sl",
+          "name": "neodvisni politik",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -21476,6 +21531,18 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "cs",
+          "name": "bez politické příslušnosti",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "cs",
+          "name": "BEZPP",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "sr",
           "name": "нестраначки политичар",
           "note": "multilingual",
@@ -21568,6 +21635,18 @@
         {
           "lang": "be-tarask",
           "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨籍",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "無黨派",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -22087,12 +22166,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "ko",
-          "name": "신 페인",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "fr",
           "name": "Sinn Féin provisoire",
           "note": "multilingual",
@@ -22353,7 +22426,7 @@
           "source": "wikidata-alias"
         }
       ],
-      "srgb": "99FF66"
+      "srgb": "3A9E84"
     },
     {
       "classification": "party",
@@ -22458,7 +22531,7 @@
         },
         {
           "lang": "et",
-          "name": "Spiiker",
+          "name": "spiiker",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22649,6 +22722,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "da",
+          "name": "talsmand",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nn",
+          "name": "parlamentspresident",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "ja",
           "name": "県議会議長",
           "note": "multilingual",
@@ -22819,6 +22904,12 @@
         {
           "lang": "ast",
           "name": "presidente del parlamentu",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "nn",
+          "name": "parlamentsformann",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -23181,6 +23272,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "az",
+          "name": "Böyük Britaniya Müstəqillik Partiyası",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -23213,6 +23310,12 @@
         {
           "lang": "cs",
           "name": "Strana nezávislosti Spojeného království",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "青年獨立",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -24093,6 +24196,7 @@
     },
     {
       "area_id": "bc78a85c-c225-41a4-a03d-2f9e073f336f",
+      "end_date": "2019-05-02",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "fcfc4e3c-ae5b-4dd7-8818-a4cbe26372fa",
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
@@ -24221,6 +24325,7 @@
     },
     {
       "area_id": "107dc45d-e5ff-42f0-b4a8-da7b8876889d",
+      "end_date": "2019-09-02",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "e737c14b-58ed-4b8a-8583-da7af0e0e56b",
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
@@ -25267,6 +25372,7 @@
     },
     {
       "area_id": "d496e2a2-b442-40ec-b44a-38ecd767df79",
+      "end_date": "2019-09-30",
       "legislative_period_id": "term/6",
       "on_behalf_of_id": "3e151837-b7c5-414a-a1e1-631339ec609b",
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
@@ -26381,6 +26487,15 @@
       "role": "member"
     },
     {
+      "area_id": "107dc45d-e5ff-42f0-b4a8-da7b8876889d",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "e737c14b-58ed-4b8a-8583-da7af0e0e56b",
+      "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
+      "person_id": "746c9cc6-864c-4b96-a357-fb244ce7c853",
+      "role": "member",
+      "start_date": "2019-09-12"
+    },
+    {
       "area_id": "dc93337e-0484-4a5c-8606-ab2d1e70c5b1",
       "legislative_period_id": "term/1",
       "on_behalf_of_id": "ba9739e3-1391-4c14-8813-41cafd8a01d7",
@@ -26403,6 +26518,15 @@
       "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
       "person_id": "7491e6fc-d00e-4f86-92f4-dce1d69e6b70",
       "role": "member"
+    },
+    {
+      "area_id": "d496e2a2-b442-40ec-b44a-38ecd767df79",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "3e151837-b7c5-414a-a1e1-631339ec609b",
+      "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
+      "person_id": "76cb594a-dc82-4327-8cfb-1a6673f24694",
+      "role": "member",
+      "start_date": "2019-10-07"
     },
     {
       "area_id": "b23aecb0-660a-4094-9c62-5bcc4e8b1490",
@@ -28051,6 +28175,15 @@
       "person_id": "c42dfdb8-647d-40db-98ce-894ca19b6aec",
       "role": "member",
       "start_date": "2016-05-07"
+    },
+    {
+      "area_id": "bc78a85c-c225-41a4-a03d-2f9e073f336f",
+      "legislative_period_id": "term/6",
+      "on_behalf_of_id": "fcfc4e3c-ae5b-4dd7-8818-a4cbe26372fa",
+      "organization_id": "f38cd15e-d461-47a1-8370-c294d1e233b5",
+      "person_id": "c442363b-303f-49ab-882e-a79329eae22b",
+      "role": "member",
+      "start_date": "2019-05-28"
     },
     {
       "area_id": "dc5833f9-95fb-41ab-a9c5-d80b719e9ee8",
