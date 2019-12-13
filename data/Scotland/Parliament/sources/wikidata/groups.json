@@ -532,6 +532,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "th",
+        "name": "พรรคชาติสกอต",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -2108,6 +2114,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "cs",
+        "name": "bez politické příslušnosti",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "BEZPP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "sr",
         "name": "нестраначки политичар",
         "note": "multilingual",
@@ -2200,6 +2218,18 @@
       {
         "lang": "be-tarask",
         "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨派",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
