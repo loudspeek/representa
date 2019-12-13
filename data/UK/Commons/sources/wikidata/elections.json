@@ -1104,7 +1104,7 @@
       },
       {
         "lang": "ar",
-        "name": "انتخابات المملكة المتحدة لعام 2010",
+        "name": "الانتخابات العامة في المملكة المتحدة 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3180,7 +3180,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات التشريعية البريطانية 2017",
+        "name": "الانتخابات العامة في المملكة المتحدة 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3341,6 +3341,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "tr",
+        "name": "2017 Birleşik Krallık genel seçimleri",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -3384,7 +3390,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات التشريعية البريطانية ٢٠١٧",
+        "name": "الانتخابات التشريعية البريطانية 2017",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3394,7 +3400,7 @@
     ],
     "follows": "2015 United Kingdom general election",
     "followed_by": "2019 United Kingdom general election",
-    "part_of": "election in the United Kingdom",
+    "part_of": "2017 United Kingdom elections",
     "office": "Member of Parliament"
   },
   "Q27629857": {
@@ -3783,7 +3789,10 @@
     "dates": [
       "2017-05-04"
     ],
-    "office": "Member of Parliament"
+    "office": "Member of Parliament",
+    "successful_candidates": [
+      ""
+    ]
   },
   "Q29571267": {
     "identifiers": [
@@ -3803,6 +3812,12 @@
       {
         "lang": "fr",
         "name": "Élections générales britanniques de 2017 en Écosse",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions generals britàniques de 2017 a Escòcia",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3856,7 +3871,7 @@
       },
       {
         "lang": "fa",
-        "name": "انتخابات سراسری بریتانیا (۲۰۲۲)",
+        "name": "انتخابات سراسری بریتانیا (۲۰۱۹)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3868,7 +3883,7 @@
       },
       {
         "lang": "ko",
-        "name": "2022년 영국 총선",
+        "name": "2019년 영국 총선",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3892,7 +3907,7 @@
       },
       {
         "lang": "sco",
-        "name": "next Unitit Kinrick general election",
+        "name": "2019 Unitit Kinrick general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3909,15 +3924,110 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sv",
+        "name": "Parlamentsvalet i Storbritannien 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni generali nel Regno Unito del 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "Eleições gerais no Reino Unido em 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "2019年イギリス総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Etholiad cyffredinol y Deyrnas Unedig, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yue",
+        "name": "2019年英國下議院選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Britse Lagerhuisverkiezingen 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Парламентские выборы в Великобритании (2019)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات العامة في المملكة المتحدة 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "第58屆英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cs",
+        "name": "Všeobecné volby ve Spojeném království 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gd",
+        "name": "Taghadh Phàrlamaid na Rioghachd Aonaichte 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "id",
+        "name": "Pemilihan umum Britania Raya 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yi",
+        "name": "2019 פאראייניגטע קעניגרייך אלגעמיינע וואלן",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nb",
+        "name": "Parlamentsvalget i Storbritannia 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2019年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 2019",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
     ],
     "dates": [
-      "2019-12-12",
-      "2022-05-05"
+      "2019-12-12"
     ],
     "follows": "2017 United Kingdom general election",
     "office": "Member of Parliament"
@@ -4252,7 +4362,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات العمومية البريطانية 2015",
+        "name": "الانتخابات العامة في المملكة المتحدة 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4911,7 +5021,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات العمومية للمملكة المتحدة 1992",
+        "name": "الانتخابات العامة في المملكة المتحدة 1992",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5369,7 +5479,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات العمومية البريطانية 2001",
+        "name": "الانتخابات العامة في المملكة المتحدة 2001",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5420,6 +5530,12 @@
       {
         "lang": "en",
         "name": "2019 Newport West by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Newport West de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5740,6 +5856,96 @@
     ],
     "office": "Member of Parliament"
   },
+  "Q7242031": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7242031"
+      }
+    ],
+    "name": "2000 Preston by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2000 Preston by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Preston by-election, 2000",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2000-11-23"
+    ],
+    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Mark Hendrick"
+    ]
+  },
+  "Q7565997": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7565997"
+      }
+    ],
+    "name": "2000 South Antrim by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2000 South Antrim by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "South Antrim by-election, 2000",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2000-09-21"
+    ],
+    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "successful_candidates": [
+      "William McCrea"
+    ]
+  },
+  "Q7828464": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7828464"
+      }
+    ],
+    "name": "2000 Tottenham by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2000 Tottenham by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Tottenham by-election, 2000",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2000-06-22"
+    ],
+    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "successful_candidates": [
+      "David Lammy"
+    ]
+  },
   "Q7864918": {
     "identifiers": [
       {
@@ -6051,6 +6257,12 @@
       {
         "lang": "fr",
         "name": "Élection partielle de Warrington de 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Warrington de 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6485,7 +6697,7 @@
       },
       {
         "lang": "ar",
-        "name": "الانتخابات العمومية للمملكة المتحدة 1997",
+        "name": "الانتخابات العامة في المملكة المتحدة 1997",
         "note": "multilingual",
         "source": "wikidata-label"
       },

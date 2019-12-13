@@ -1174,7 +1174,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/b/be/Conservativesworkmark.png",
     "srgb": "0087DC"
   },
   "liberal-democrat": {
@@ -1200,7 +1199,7 @@
       },
       {
         "lang": "ar",
-        "name": "الديمقراطيين الأحرار",
+        "name": "الديمقراطيون الليبراليون",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1541,6 +1540,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "th",
+        "name": "พรรคเสรีประชาธิปไตย",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Lib Dems",
         "note": "multilingual",
@@ -1645,6 +1650,18 @@
       {
         "lang": "fr",
         "name": "Lib Dem",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "الديمقراطيين الأحرار",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "الديمقراطيين الليبراليبن",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2047,6 +2064,12 @@
       {
         "lang": "lv",
         "name": "Skotu nacionālā partija",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "th",
+        "name": "พรรคชาติสกอต",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3744,6 +3767,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "cs",
+        "name": "bez politické příslušnosti",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "BEZPP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "sr",
         "name": "нестраначки политичар",
         "note": "multilingual",
@@ -3836,6 +3871,18 @@
       {
         "lang": "be-tarask",
         "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "無黨派",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4202,6 +4249,12 @@
       {
         "lang": "zh-hant",
         "name": "威爾士黨",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "th",
+        "name": "ไพลด์คัมรี",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5005,7 +5058,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Logo_del_Partido_Verde_de_Inglaterra_y_Gales.png",
     "srgb": "6AB023"
   },
   "respect": {
