@@ -10,11 +10,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Northern_Ireland/Assembly/sources",
         "popolo": "data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/3ecda70e87c8253d378f9ccc6ff9dab2282f6a6f/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Northern_Ireland/Assembly/ep-popolo-v1.0.json",
         "names": "data/Northern_Ireland/Assembly/names.csv",
-        "lastmod": "1560874380",
-        "person_count": 284,
-        "sha": "3ecda70e87c8253d378f9ccc6ff9dab2282f6a6f",
+        "lastmod": "1576279793",
+        "person_count": 287,
+        "sha": "c5316968398201d670fbb72444e9731d29e79035",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -22,7 +22,7 @@
             "start_date": "2017-03-03",
             "slug": "6",
             "csv": "data/Northern_Ireland/Assembly/term-6.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/952da27a7b11e389385416ee1920d7ddf3deb075/data/Northern_Ireland/Assembly/term-6.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Northern_Ireland/Assembly/term-6.csv"
           },
           {
             "end_date": "2017-01-26",
@@ -70,7 +70,7 @@
             "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/952da27a7b11e389385416ee1920d7ddf3deb075/data/Northern_Ireland/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 16746,
+        "statement_count": 16831,
         "type": "unicameral legislature"
       }
     ]
@@ -86,11 +86,11 @@
         "slug": "Parliament",
         "sources_directory": "data/Scotland/Parliament/sources",
         "popolo": "data/Scotland/Parliament/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/642524360df4f819b9706ad8356d6e799f2e397c/data/Scotland/Parliament/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Scotland/Parliament/ep-popolo-v1.0.json",
         "names": "data/Scotland/Parliament/names.csv",
-        "lastmod": "1572725001",
+        "lastmod": "1576279793",
         "person_count": 306,
-        "sha": "642524360df4f819b9706ad8356d6e799f2e397c",
+        "sha": "c5316968398201d670fbb72444e9731d29e79035",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -98,7 +98,7 @@
             "start_date": "2016-05-05",
             "slug": "5",
             "csv": "data/Scotland/Parliament/term-5.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/642524360df4f819b9706ad8356d6e799f2e397c/data/Scotland/Parliament/term-5.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Scotland/Parliament/term-5.csv"
           },
           {
             "end_date": "2016-03-24",
@@ -107,7 +107,7 @@
             "start_date": "2011-05-06",
             "slug": "4",
             "csv": "data/Scotland/Parliament/term-4.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/8dc03180d5ddb584f1330aec7795d7afb2698da1/data/Scotland/Parliament/term-4.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Scotland/Parliament/term-4.csv"
           },
           {
             "end_date": "2011-05-04",
@@ -116,7 +116,7 @@
             "start_date": "2007-05-03",
             "slug": "3",
             "csv": "data/Scotland/Parliament/term-3.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/8dc03180d5ddb584f1330aec7795d7afb2698da1/data/Scotland/Parliament/term-3.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Scotland/Parliament/term-3.csv"
           },
           {
             "end_date": "2007-04-02",
@@ -125,7 +125,7 @@
             "start_date": "2003-05-01",
             "slug": "2",
             "csv": "data/Scotland/Parliament/term-2.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/8dc03180d5ddb584f1330aec7795d7afb2698da1/data/Scotland/Parliament/term-2.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Scotland/Parliament/term-2.csv"
           },
           {
             "end_date": "2003-03-31",
@@ -134,10 +134,10 @@
             "start_date": "1999-05-06",
             "slug": "1",
             "csv": "data/Scotland/Parliament/term-1.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/8dc03180d5ddb584f1330aec7795d7afb2698da1/data/Scotland/Parliament/term-1.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Scotland/Parliament/term-1.csv"
           }
         ],
-        "statement_count": 17575,
+        "statement_count": 17674,
         "type": "unicameral legislature"
       }
     ]
@@ -153,19 +153,28 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/42042c507f3ad98b231a88c515a47df511b97b2d/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1572702635",
-        "person_count": 1439,
-        "sha": "42042c507f3ad98b231a88c515a47df511b97b2d",
+        "lastmod": "1576278211",
+        "person_count": 1582,
+        "sha": "b0e0d8d7e74691f52ae415a9046e9eb0210fc068",
         "legislative_periods": [
           {
+            "id": "term/58",
+            "name": "58th Parliament of the United Kingdom",
+            "start_date": "2019-12-13",
+            "slug": "58",
+            "csv": "data/UK/Commons/term-58.csv",
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-58.csv"
+          },
+          {
+            "end_date": "2019-11-06",
             "id": "term/57",
             "name": "57th Parliament of the United Kingdom",
             "start_date": "2017-06-09",
             "slug": "57",
             "csv": "data/UK/Commons/term-57.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/af272bc387e7fa5dcef9c40facafba4f5978a269/data/UK/Commons/term-57.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-57.csv"
           },
           {
             "end_date": "2017-05-03",
@@ -174,7 +183,7 @@
             "start_date": "2015-05-08",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/af272bc387e7fa5dcef9c40facafba4f5978a269/data/UK/Commons/term-56.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -183,7 +192,7 @@
             "start_date": "2010-05-06",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/af272bc387e7fa5dcef9c40facafba4f5978a269/data/UK/Commons/term-55.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-55.csv"
           },
           {
             "end_date": "2010-04-12",
@@ -192,7 +201,7 @@
             "start_date": "2005-05-05",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/af272bc387e7fa5dcef9c40facafba4f5978a269/data/UK/Commons/term-54.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-54.csv"
           },
           {
             "end_date": "2005-04-11",
@@ -201,7 +210,7 @@
             "start_date": "2001-06-07",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/af272bc387e7fa5dcef9c40facafba4f5978a269/data/UK/Commons/term-53.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-53.csv"
           },
           {
             "end_date": "2001-05-14",
@@ -210,10 +219,10 @@
             "start_date": "1997-05-01",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/af272bc387e7fa5dcef9c40facafba4f5978a269/data/UK/Commons/term-52.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 139620,
+        "statement_count": 144453,
         "type": "lower house"
       }
     ]
@@ -229,11 +238,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/31b8d9da1ee93b2e33647e3b81930aa16aa51db4/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/c5316968398201d670fbb72444e9731d29e79035/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1572627901",
+        "lastmod": "1576279793",
         "person_count": 142,
-        "sha": "31b8d9da1ee93b2e33647e3b81930aa16aa51db4",
+        "sha": "c5316968398201d670fbb72444e9731d29e79035",
         "legislative_periods": [
           {
             "id": "term/5",
@@ -280,7 +289,7 @@
             "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/13f38f2a3ac8c5e7427068ab8a177612e437c013/data/Wales/Assembly/term-1.csv"
           }
         ],
-        "statement_count": 9132,
+        "statement_count": 9152,
         "type": "unicameral legislature"
       }
     ]
