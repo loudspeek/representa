@@ -153,11 +153,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/336bfeb2c9ed8902dd3fc1ad4ff2c46164f01a84/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1576278211",
+        "lastmod": "1576283168",
         "person_count": 1582,
-        "sha": "b0e0d8d7e74691f52ae415a9046e9eb0210fc068",
+        "sha": "336bfeb2c9ed8902dd3fc1ad4ff2c46164f01a84",
         "legislative_periods": [
           {
             "id": "term/58",
@@ -165,7 +165,7 @@
             "start_date": "2019-12-13",
             "slug": "58",
             "csv": "data/UK/Commons/term-58.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-58.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/336bfeb2c9ed8902dd3fc1ad4ff2c46164f01a84/data/UK/Commons/term-58.csv"
           },
           {
             "end_date": "2019-11-06",
@@ -222,7 +222,7 @@
             "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 144453,
+        "statement_count": 144739,
         "type": "lower house"
       }
     ]
