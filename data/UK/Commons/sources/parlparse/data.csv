@@ -4081,7 +4081,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24795,Amber Rudd,,3983,uk.org.publicwhip/person/24795,Hastings and Rye,uk.org.publicwhip/cons/280,Independent,independent,2019-09-08,changed_party,2019-11-06,dissolution,57
 24807,Chi Onwurah,,4124,uk.org.publicwhip/person/24807,Newcastle upon Tyne Central,uk.org.publicwhip/cons/394,Labour,labour,2019-12-13,general_election,,,58
 24709,Bridget Phillipson,,4046,uk.org.publicwhip/person/24709,Houghton and Sunderland South,uk.org.publicwhip/cons/2197,Labour,labour,2019-12-13,general_election,,,58
-25791,Ian Levy,,,uk.org.publicwhip/person/25791,Blyth Valley,uk.org.publicwhip/cons/63,Conservative,conservative,2019-12-13,general_election,,,58
+25791,Ian Levy,,4749,uk.org.publicwhip/person/25791,Blyth Valley,uk.org.publicwhip/cons/63,Conservative,conservative,2019-12-13,general_election,,,58
 25375,Imran Hussain,,4394,uk.org.publicwhip/person/25375,Bradford East,uk.org.publicwhip/cons/2174,Labour,labour,2019-12-13,general_election,,,58
 25385,Naseem Shah,,4409,uk.org.publicwhip/person/25385,Bradford West,uk.org.publicwhip/cons/77,Labour,labour,2019-12-13,general_election,,,58
 10069,Nick Brown,151,523,uk.org.publicwhip/person/10069,Newcastle upon Tyne East,uk.org.publicwhip/cons/2209,Labour,labour,2019-12-13,general_election,,,58
@@ -4094,27 +4094,27 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25181,Emma Lewell-Buck,,4277,uk.org.publicwhip/person/25181,South Shields,uk.org.publicwhip/cons/525,Labour,labour,2019-12-13,general_election,,,58
 24745,Marcus Jones,,4024,uk.org.publicwhip/person/24745,Nuneaton,uk.org.publicwhip/cons/438,Conservative,conservative,2019-12-13,general_election,,,58
 11461,Charles Walker,,1493,uk.org.publicwhip/person/11461,Broxbourne,uk.org.publicwhip/cons/96,Conservative,conservative,2019-12-13,general_election,,,58
-25792,Mark Jenkinson,,,uk.org.publicwhip/person/25792,Workington,uk.org.publicwhip/cons/649,Conservative,conservative,2019-12-13,general_election,,,58
+25792,Mark Jenkinson,,4752,uk.org.publicwhip/person/25792,Workington,uk.org.publicwhip/cons/649,Conservative,conservative,2019-12-13,general_election,,,58
 24963,Ian Lavery,,4139,uk.org.publicwhip/person/24963,Wansbeck,uk.org.publicwhip/cons/604,Labour,labour,2019-12-13,general_election,,,58
 25287,Margaret Ferrier,,4386,uk.org.publicwhip/person/25287,Rutherglen and Hamilton West,uk.org.publicwhip/cons/714,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 11661,Philip Hollobone,,1537,uk.org.publicwhip/person/11661,Kettering,uk.org.publicwhip/cons/315,Conservative,conservative,2019-12-13,general_election,,,58
-25793,Peter Gibson,,,uk.org.publicwhip/person/25793,Darlington,uk.org.publicwhip/cons/165,Conservative,conservative,2019-12-13,general_election,,,58
-25794,Kate Osborne,,,uk.org.publicwhip/person/25794,Jarrow,uk.org.publicwhip/cons/312,Labour,labour,2019-12-13,general_election,,,58
+25793,Peter Gibson,,4754,uk.org.publicwhip/person/25793,Darlington,uk.org.publicwhip/cons/165,Conservative,conservative,2019-12-13,general_election,,,58
+25794,Kate Osborne,,4783,uk.org.publicwhip/person/25794,Jarrow,uk.org.publicwhip/cons/312,Labour,labour,2019-12-13,general_election,,,58
 24804,Mark Menzies,,3998,uk.org.publicwhip/person/24804,Fylde,uk.org.publicwhip/cons/236,Conservative,conservative,2019-12-13,general_election,,,58
 24805,Yvonne Fovargue,,4034,uk.org.publicwhip/person/24805,Makerfield,uk.org.publicwhip/cons/360,Labour,labour,2019-12-13,general_election,,,58
 10295,Lindsay Hoyle,368,467,uk.org.publicwhip/person/10295,Chorley,uk.org.publicwhip/cons/135,Speaker,speaker,2019-12-13,general_election,,,58
 10292,George Howarth,365,481,uk.org.publicwhip/person/10292,Knowsley,uk.org.publicwhip/cons/2200,Labour,labour,2019-12-13,general_election,,,58
 10842,Wayne David,3976,1398,uk.org.publicwhip/person/10842,Caerphilly,uk.org.publicwhip/cons/105,Labour,labour,2019-12-13,general_election,,,58
-25795,Paul Bristow,,,uk.org.publicwhip/person/25795,Peterborough,uk.org.publicwhip/cons/453,Conservative,conservative,2019-12-13,general_election,,,58
-25796,Dave Doogan,,,uk.org.publicwhip/person/25796,Angus,uk.org.publicwhip/cons/11,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25795,Paul Bristow,,4792,uk.org.publicwhip/person/25795,Peterborough,uk.org.publicwhip/cons/453,Conservative,conservative,2019-12-13,general_election,,,58
+25796,Dave Doogan,,4736,uk.org.publicwhip/person/25796,Angus,uk.org.publicwhip/cons/11,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 24949,Stella Creasy,,4088,uk.org.publicwhip/person/24949,Walthamstow,uk.org.publicwhip/cons/603,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 25617,Stephanie Peacock,,4607,uk.org.publicwhip/person/25617,Barnsley East,uk.org.publicwhip/cons/2169,Labour,labour,2019-12-13,general_election,,,58
 24786,Steven Baker,,4064,uk.org.publicwhip/person/24786,Wycombe,uk.org.publicwhip/cons/654,Conservative,conservative,2019-12-13,general_election,,,58
 24740,Alun Cairns,,4086,uk.org.publicwhip/person/24740,Vale of Glamorgan,uk.org.publicwhip/cons/596,Conservative,conservative,2019-12-13,general_election,,,58
 24957,Jackie Doyle-Price,,4065,uk.org.publicwhip/person/24957,Thurrock,uk.org.publicwhip/cons/577,Conservative,conservative,2019-12-13,general_election,,,58
 11626,Mike Penning,,1528,uk.org.publicwhip/person/11626,Hemel Hempstead,uk.org.publicwhip/cons/284,Conservative,conservative,2019-12-13,general_election,,,58
-25797,Claudia Webbe,,,uk.org.publicwhip/person/25797,Leicester East,uk.org.publicwhip/cons/332,Labour,labour,2019-12-13,general_election,,,58
-25798,Mick Whitley,,,uk.org.publicwhip/person/25798,Birkenhead,uk.org.publicwhip/cons/45,Labour,labour,2019-12-13,general_election,,,58
+25797,Claudia Webbe,,4848,uk.org.publicwhip/person/25797,Leicester East,uk.org.publicwhip/cons/332,Labour,labour,2019-12-13,general_election,,,58
+25798,Mick Whitley,,4755,uk.org.publicwhip/person/25798,Birkenhead,uk.org.publicwhip/cons/45,Labour,labour,2019-12-13,general_election,,,58
 10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2019-12-13,general_election,,,58
 24784,Robert Halfon,,3985,uk.org.publicwhip/person/24784,Harlow,uk.org.publicwhip/cons/274,Conservative,conservative,2019-12-13,general_election,,,58
 25272,Suella Braverman,,4475,uk.org.publicwhip/person/25272,Fareham,uk.org.publicwhip/cons/228,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4126,16 +4126,16 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24721,Chris Evans,,4040,uk.org.publicwhip/person/24721,Islwyn,uk.org.publicwhip/cons/311,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 24799,John Stevenson,,3942,uk.org.publicwhip/person/24799,Carlisle,uk.org.publicwhip/cons/116,Conservative,conservative,2019-12-13,general_election,,,58
 24880,Mark Pawsey,,4052,uk.org.publicwhip/person/24880,Rugby,uk.org.publicwhip/cons/2222,Conservative,conservative,2019-12-13,general_election,,,58
-25799,Simon Baynes,,,uk.org.publicwhip/person/25799,Clwyd South,uk.org.publicwhip/cons/139,Conservative,conservative,2019-12-13,general_election,,,58
+25799,Simon Baynes,,4800,uk.org.publicwhip/person/25799,Clwyd South,uk.org.publicwhip/cons/139,Conservative,conservative,2019-12-13,general_election,,,58
 25423,Conor McGinn,,4458,uk.org.publicwhip/person/25423,St Helens North,uk.org.publicwhip/cons/541,Labour,labour,2019-12-13,general_election,,,58
 24742,Alex Cunningham,,4122,uk.org.publicwhip/person/24742,Stockton North,uk.org.publicwhip/cons/550,Labour,labour,2019-12-13,general_election,,,58
-25800,Scott Lloyd Benton,,,uk.org.publicwhip/person/25800,Blackpool South,uk.org.publicwhip/cons/60,Conservative,conservative,2019-12-13,general_election,,,58
+25800,Scott Lloyd Benton,,4793,uk.org.publicwhip/person/25800,Blackpool South,uk.org.publicwhip/cons/60,Conservative,conservative,2019-12-13,general_election,,,58
 25309,Peter Dowd,,4397,uk.org.publicwhip/person/25309,Bootle,uk.org.publicwhip/cons/69,Labour,labour,2019-12-13,general_election,,,58
 25630,Damien Moore,,4669,uk.org.publicwhip/person/25630,Southport,uk.org.publicwhip/cons/538,Conservative,conservative,2019-12-13,general_election,,,58
 25490,Chris Elmore,,4572,uk.org.publicwhip/person/25490,Ogmore,uk.org.publicwhip/cons/440,Labour,labour,2019-12-13,general_election,,,58
 25275,Martin Docherty,,4374,uk.org.publicwhip/person/25275,West Dunbartonshire,uk.org.publicwhip/cons/677,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 24822,Nadhim Zahawi,,4113,uk.org.publicwhip/person/24822,Stratford-on-Avon,uk.org.publicwhip/cons/558,Conservative,conservative,2019-12-13,general_election,,,58
-25801,James Murray,,,uk.org.publicwhip/person/25801,Ealing North,uk.org.publicwhip/cons/188,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
+25801,James Murray,,4797,uk.org.publicwhip/person/25801,Ealing North,uk.org.publicwhip/cons/188,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 25308,Carolyn Harris,,4480,uk.org.publicwhip/person/25308,Swansea East,uk.org.publicwhip/cons/569,Labour,labour,2019-12-13,general_election,,,58
 25067,Dan Jarvis,,4243,uk.org.publicwhip/person/25067,Barnsley Central,uk.org.publicwhip/cons/22,Labour,labour,2019-12-13,general_election,,,58
 25269,Mhairi Black,,4421,uk.org.publicwhip/person/25269,Paisley and Renfrewshire South,uk.org.publicwhip/cons/711,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
@@ -4149,12 +4149,12 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25295,Angela Crawley,,4469,uk.org.publicwhip/person/25295,Lanark and Hamilton East,uk.org.publicwhip/cons/703,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25726,Órfhlaith Begley,,4697,uk.org.publicwhip/person/25726,West Tyrone,uk.org.publicwhip/cons/629,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
 25350,Amanda Milling,,4454,uk.org.publicwhip/person/25350,Cannock Chase,uk.org.publicwhip/cons/110,Conservative,conservative,2019-12-13,general_election,,,58
-25802,Cherilyn Mackrory,,,uk.org.publicwhip/person/25802,Truro and Falmouth,uk.org.publicwhip/cons/2240,Conservative,conservative,2019-12-13,general_election,,,58
+25802,Cherilyn Mackrory,,4758,uk.org.publicwhip/person/25802,Truro and Falmouth,uk.org.publicwhip/cons/2240,Conservative,conservative,2019-12-13,general_election,,,58
 24843,Robert Buckland,,4106,uk.org.publicwhip/person/24843,South Swindon,uk.org.publicwhip/cons/528,Conservative,conservative,2019-12-13,general_election,,,58
 10180,Iain Duncan Smith,3807,152,uk.org.publicwhip/person/10180,Chingford and Woodford Green,uk.org.publicwhip/cons/133,Conservative,conservative,2019-12-13,general_election,,,58
 11923,Tim Farron,,1591,uk.org.publicwhip/person/11923,Westmorland and Lonsdale,uk.org.publicwhip/cons/633,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 25620,Marsha de Cordova,,4676,uk.org.publicwhip/person/25620,Battersea,uk.org.publicwhip/cons/31,Labour,labour,2019-12-13,general_election,,,58
-25803,Kim Johnson,,,uk.org.publicwhip/person/25803,"Liverpool, Riverside",uk.org.publicwhip/cons/346,Labour,labour,2019-12-13,general_election,,,58
+25803,Kim Johnson,,4824,uk.org.publicwhip/person/25803,"Liverpool, Riverside",uk.org.publicwhip/cons/346,Labour,labour,2019-12-13,general_election,,,58
 25656,Rosie Duffield,,4616,uk.org.publicwhip/person/25656,Canterbury,uk.org.publicwhip/cons/111,Labour,labour,2019-12-13,general_election,,,58
 25323,Oliver Dowden,,4441,uk.org.publicwhip/person/25323,Hertsmere,uk.org.publicwhip/cons/290,Conservative,conservative,2019-12-13,general_election,,,58
 25403,Will Quince,,4423,uk.org.publicwhip/person/25403,Colchester,uk.org.publicwhip/cons/144,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4167,29 +4167,29 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25356,Clive Lewis,,4500,uk.org.publicwhip/person/25356,Norwich South,uk.org.publicwhip/cons/434,Labour,labour,2019-12-13,general_election,,,58
 24912,Anne Marie Morris,,4249,uk.org.publicwhip/person/24912,Newton Abbot,uk.org.publicwhip/cons/2210,Conservative,conservative,2019-12-13,general_election,,,58
 25687,Alex Norris,,4641,uk.org.publicwhip/person/25687,Nottingham North,uk.org.publicwhip/cons/436,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
-25804,Holly Mumby-Croft,,,uk.org.publicwhip/person/25804,Scunthorpe,uk.org.publicwhip/cons/496,Conservative,conservative,2019-12-13,general_election,,,58
-25805,Luke Evans,,,uk.org.publicwhip/person/25805,Bosworth,uk.org.publicwhip/cons/71,Conservative,conservative,2019-12-13,general_election,,,58
+25804,Holly Mumby-Croft,,4867,uk.org.publicwhip/person/25804,Scunthorpe,uk.org.publicwhip/cons/496,Conservative,conservative,2019-12-13,general_election,,,58
+25805,Luke Evans,,4781,uk.org.publicwhip/person/25805,Bosworth,uk.org.publicwhip/cons/71,Conservative,conservative,2019-12-13,general_election,,,58
 25302,Liz Saville-Roberts,,4521,uk.org.publicwhip/person/25302,Dwyfor Meirionnydd,uk.org.publicwhip/cons/2168,Plaid Cymru,plaid-cymru,2019-12-13,general_election,,,58
-25806,Jacob Young,,,uk.org.publicwhip/person/25806,Redcar,uk.org.publicwhip/cons/469,Conservative,conservative,2019-12-13,general_election,,,58
-25807,Jane Stevenson,,,uk.org.publicwhip/person/25807,Wolverhampton North East,uk.org.publicwhip/cons/644,Conservative,conservative,2019-12-13,general_election,,,58
+25806,Jacob Young,,4825,uk.org.publicwhip/person/25806,Redcar,uk.org.publicwhip/cons/469,Conservative,conservative,2019-12-13,general_election,,,58
+25807,Jane Stevenson,,4750,uk.org.publicwhip/person/25807,Wolverhampton North East,uk.org.publicwhip/cons/644,Conservative,conservative,2019-12-13,general_election,,,58
 24888,Stephen McPartland,,4093,uk.org.publicwhip/person/24888,Stevenage,uk.org.publicwhip/cons/547,Conservative,conservative,2019-12-13,general_election,,,58
 10682,Mark Hendrick,2979,473,uk.org.publicwhip/person/10682,Preston,uk.org.publicwhip/cons/463,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
-25808,Paul Holmes,,,uk.org.publicwhip/person/25808,Eastleigh,uk.org.publicwhip/cons/203,Conservative,conservative,2019-12-13,general_election,,,58
-25809,Rachel Hopkins,,,uk.org.publicwhip/person/25809,Luton South,uk.org.publicwhip/cons/356,Labour,labour,2019-12-13,general_election,,,58
+25808,Paul Holmes,,4803,uk.org.publicwhip/person/25808,Eastleigh,uk.org.publicwhip/cons/203,Conservative,conservative,2019-12-13,general_election,,,58
+25809,Rachel Hopkins,,4873,uk.org.publicwhip/person/25809,Luton South,uk.org.publicwhip/cons/356,Labour,labour,2019-12-13,general_election,,,58
 25276,Lisa Cameron,,4412,uk.org.publicwhip/person/25276,"East Kilbride, Strathaven and Lesmahagow",uk.org.publicwhip/cons/681,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 10162,David Davis,240,373,uk.org.publicwhip/person/10162,Haltemprice and Howden,uk.org.publicwhip/cons/267,Conservative,conservative,2019-12-13,general_election,,,58
 24897,Alison McGovern,,4083,uk.org.publicwhip/person/24897,Wirral South,uk.org.publicwhip/cons/639,Labour,labour,2019-12-13,general_election,,,58
 25297,Stephen Kinnock,,4359,uk.org.publicwhip/person/25297,Aberavon,uk.org.publicwhip/cons/1,Labour,labour,2019-12-13,general_election,,,58
 24905,Bill Esterson,,4061,uk.org.publicwhip/person/24905,Sefton Central,uk.org.publicwhip/cons/2225,Labour,labour,2019-12-13,general_election,,,58
-25810,Sarah Atherton,,,uk.org.publicwhip/person/25810,Wrexham,uk.org.publicwhip/cons/653,Conservative,conservative,2019-12-13,general_election,,,58
+25810,Sarah Atherton,,4855,uk.org.publicwhip/person/25810,Wrexham,uk.org.publicwhip/cons/653,Conservative,conservative,2019-12-13,general_election,,,58
 25693,Kemi Badenoch,,4597,uk.org.publicwhip/person/25693,Saffron Walden,uk.org.publicwhip/cons/492,Conservative,conservative,2019-12-13,general_election,,,58
-25811,Tom Hunt,,,uk.org.publicwhip/person/25811,Ipswich,uk.org.publicwhip/cons/307,Conservative,conservative,2019-12-13,general_election,,,58
-25812,James Grundy,,,uk.org.publicwhip/person/25812,Leigh,uk.org.publicwhip/cons/335,Conservative,conservative,2019-12-13,general_election,,,58
-25813,Fleur Anderson,,,uk.org.publicwhip/person/25813,Putney,uk.org.publicwhip/cons/465,Labour,labour,2019-12-13,general_election,,,58
+25811,Tom Hunt,,4771,uk.org.publicwhip/person/25811,Ipswich,uk.org.publicwhip/cons/307,Conservative,conservative,2019-12-13,general_election,,,58
+25812,James Grundy,,4843,uk.org.publicwhip/person/25812,Leigh,uk.org.publicwhip/cons/335,Conservative,conservative,2019-12-13,general_election,,,58
+25813,Fleur Anderson,,4788,uk.org.publicwhip/person/25813,Putney,uk.org.publicwhip/cons/465,Labour,labour,2019-12-13,general_election,,,58
 25288,Ronnie Cowan,,4465,uk.org.publicwhip/person/25288,Inverclyde,uk.org.publicwhip/cons/699,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25814,Shaun Stephen Bailey,,,uk.org.publicwhip/person/25814,West Bromwich West,uk.org.publicwhip/cons/621,Conservative,conservative,2019-12-13,general_election,,,58
+25814,Shaun Stephen Bailey,,4757,uk.org.publicwhip/person/25814,West Bromwich West,uk.org.publicwhip/cons/621,Conservative,conservative,2019-12-13,general_election,,,58
 25281,John Nicolson,,4415,uk.org.publicwhip/person/25281,Ochil and South Perthshire,uk.org.publicwhip/cons/709,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25815,Dehenna Davison,,,uk.org.publicwhip/person/25815,Bishop Auckland,uk.org.publicwhip/cons/56,Conservative,conservative,2019-12-13,general_election,,,58
+25815,Dehenna Davison,,4737,uk.org.publicwhip/person/25815,Bishop Auckland,uk.org.publicwhip/cons/56,Conservative,conservative,2019-12-13,general_election,,,58
 10715,John Baron,3696,1390,uk.org.publicwhip/person/10715,Basildon and Billericay,uk.org.publicwhip/cons/2170,Conservative,conservative,2019-12-13,general_election,,,58
 10193,Michael Fabricant,270,280,uk.org.publicwhip/person/10193,Lichfield,uk.org.publicwhip/cons/342,Conservative,conservative,2019-12-13,general_election,,,58
 11333,Pete Wishart,6518,1440,uk.org.publicwhip/person/11333,Perth and North Perthshire,uk.org.publicwhip/cons/712,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
@@ -4197,7 +4197,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24773,Matthew Hancock,,4070,uk.org.publicwhip/person/24773,West Suffolk,uk.org.publicwhip/cons/628,Conservative,conservative,2019-12-13,general_election,,,58
 25354,Nusrat Ghani,,4460,uk.org.publicwhip/person/25354,Wealden,uk.org.publicwhip/cons/613,Conservative,conservative,2019-12-13,general_election,,,58
 11804,Robert Goodwill,,1562,uk.org.publicwhip/person/11804,Scarborough and Whitby,uk.org.publicwhip/cons/495,Conservative,conservative,2019-12-13,general_election,,,58
-25816,Ian Byrne,,,uk.org.publicwhip/person/25816,"Liverpool, West Derby",uk.org.publicwhip/cons/349,Labour,labour,2019-12-13,general_election,,,58
+25816,Ian Byrne,,4831,uk.org.publicwhip/person/25816,"Liverpool, West Derby",uk.org.publicwhip/cons/349,Labour,labour,2019-12-13,general_election,,,58
 11732,Jessica Morden,,1548,uk.org.publicwhip/person/11732,Newport East,uk.org.publicwhip/cons/398,Labour,labour,2019-12-13,general_election,,,58
 10312,Bernard Jenkin,385,40,uk.org.publicwhip/person/10312,Harwich and North Essex,uk.org.publicwhip/cons/2194,Conservative,conservative,2019-12-13,general_election,,,58
 10499,John Redwood,569,14,uk.org.publicwhip/person/10499,Wokingham,uk.org.publicwhip/cons/643,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4207,39 +4207,39 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25337,Lucy Allan,,4411,uk.org.publicwhip/person/25337,Telford,uk.org.publicwhip/cons/575,Conservative,conservative,2019-12-13,general_election,,,58
 10190,Nigel Evans,267,474,uk.org.publicwhip/person/10190,Ribble Valley,uk.org.publicwhip/cons/474,Conservative,conservative,2019-12-13,general_election,,,58
 10265,John Hayes,338,350,uk.org.publicwhip/person/10265,South Holland and The Deepings,uk.org.publicwhip/cons/522,Conservative,conservative,2019-12-13,general_election,,,58
-25817,Nickie Aiken,,,uk.org.publicwhip/person/25817,Cities of London and Westminster,uk.org.publicwhip/cons/137,Conservative,conservative,2019-12-13,general_election,,,58
+25817,Nickie Aiken,,4741,uk.org.publicwhip/person/25817,Cities of London and Westminster,uk.org.publicwhip/cons/137,Conservative,conservative,2019-12-13,general_election,,,58
 25349,Margaret Greenwood,,4400,uk.org.publicwhip/person/25349,Wirral West,uk.org.publicwhip/cons/640,Labour,labour,2019-12-13,general_election,,,58
 10377,Steve McCabe,480,298,uk.org.publicwhip/person/10377,"Birmingham, Selly Oak",uk.org.publicwhip/cons/53,Labour,labour,2019-12-13,general_election,,,58
 25652,Julia Lopez,,4647,uk.org.publicwhip/person/25652,Hornchurch and Upminster,uk.org.publicwhip/cons/2196,Conservative,conservative,2019-12-13,general_election,,,58
 11915,Peter Bone,,1581,uk.org.publicwhip/person/11915,Wellingborough,uk.org.publicwhip/cons/615,Conservative,conservative,2019-12-13,general_election,,,58
-25818,Stuart Paul Anderson,,,uk.org.publicwhip/person/25818,Wolverhampton South West,uk.org.publicwhip/cons/646,Conservative,conservative,2019-12-13,general_election,,,58
+25818,Stuart Paul Anderson,,4742,uk.org.publicwhip/person/25818,Wolverhampton South West,uk.org.publicwhip/cons/646,Conservative,conservative,2019-12-13,general_election,,,58
 25365,Kate Osamor,,4515,uk.org.publicwhip/person/25365,Edmonton,uk.org.publicwhip/cons/213,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 11692,Nia Griffith,,1541,uk.org.publicwhip/person/11692,Llanelli,uk.org.publicwhip/cons/351,Labour,labour,2019-12-13,general_election,,,58
-25819,Paula Barker,,,uk.org.publicwhip/person/25819,"Liverpool, Wavertree",uk.org.publicwhip/cons/348,Labour,labour,2019-12-13,general_election,,,58
-25820,Munira Wilson,,,uk.org.publicwhip/person/25820,Twickenham,uk.org.publicwhip/cons/589,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
+25819,Paula Barker,,4828,uk.org.publicwhip/person/25819,"Liverpool, Wavertree",uk.org.publicwhip/cons/348,Labour,labour,2019-12-13,general_election,,,58
+25820,Munira Wilson,,4776,uk.org.publicwhip/person/25820,Twickenham,uk.org.publicwhip/cons/589,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 13904,Paul Maskey,,4245,uk.org.publicwhip/person/13904,Belfast West,uk.org.publicwhip/cons/38,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
 11506,David Jones,,1502,uk.org.publicwhip/person/11506,Clwyd West,uk.org.publicwhip/cons/140,Conservative,conservative,2019-12-13,general_election,,,58
 24831,Lisa Nandy,,4082,uk.org.publicwhip/person/24831,Wigan,uk.org.publicwhip/cons/635,Labour,labour,2019-12-13,general_election,,,58
 13836,Francie Molloy,,4274,uk.org.publicwhip/person/13836,Mid Ulster,uk.org.publicwhip/cons/375,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
-25821,John Finucane,,,uk.org.publicwhip/person/25821,Belfast North,uk.org.publicwhip/cons/36,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
+25821,John Finucane,,4823,uk.org.publicwhip/person/25821,Belfast North,uk.org.publicwhip/cons/36,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
 25381,Nigel Huddleston,,4407,uk.org.publicwhip/person/25381,Mid Worcestershire,uk.org.publicwhip/cons/376,Conservative,conservative,2019-12-13,general_election,,,58
 13864,Jim Shannon,,4131,uk.org.publicwhip/person/13864,Strangford,uk.org.publicwhip/cons/557,DUP,dup,2019-12-13,general_election,,,58
 25648,Wera Hobhouse,,4602,uk.org.publicwhip/person/25648,Bath,uk.org.publicwhip/cons/29,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 25300,Patricia Gibson,,4435,uk.org.publicwhip/person/25300,North Ayrshire and Arran,uk.org.publicwhip/cons/668,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25822,Imran Nasir Ahmad Khan,,,uk.org.publicwhip/person/25822,Wakefield,uk.org.publicwhip/cons/599,Conservative,conservative,2019-12-13,general_election,,,58
+25822,Imran Nasir Ahmad Khan,,4841,uk.org.publicwhip/person/25822,Wakefield,uk.org.publicwhip/cons/599,Conservative,conservative,2019-12-13,general_election,,,58
 10182,Angela Eagle,259,491,uk.org.publicwhip/person/10182,Wallasey,uk.org.publicwhip/cons/600,Labour,labour,2019-12-13,general_election,,,58
 25746,Ruth Jones,,4716,uk.org.publicwhip/person/25746,Newport West,uk.org.publicwhip/cons/399,Labour,labour,2019-12-13,general_election,,,58
-25823,Sarah Owen,,,uk.org.publicwhip/person/25823,Luton North,uk.org.publicwhip/cons/355,Labour,labour,2019-12-13,general_election,,,58
+25823,Sarah Owen,,4777,uk.org.publicwhip/person/25823,Luton North,uk.org.publicwhip/cons/355,Labour,labour,2019-12-13,general_election,,,58
 10381,Siobhain McDonagh,484,193,uk.org.publicwhip/person/10381,Mitcham and Morden,uk.org.publicwhip/cons/381,Labour,labour,2019-12-13,general_election,,,58
 25335,Caroline Ansell,,4512,uk.org.publicwhip/person/25335,Eastbourne,uk.org.publicwhip/cons/202,Conservative,conservative,2019-12-13,general_election,,,58
 25614,Vicky Ford,,4674,uk.org.publicwhip/person/25614,Chelmsford,uk.org.publicwhip/cons/2180,Conservative,conservative,2019-12-13,general_election,,,58
-25824,Alex Davies-Jones,,,uk.org.publicwhip/person/25824,Pontypridd,uk.org.publicwhip/cons/457,Labour,labour,2019-12-13,general_election,,,58
+25824,Alex Davies-Jones,,4849,uk.org.publicwhip/person/25824,Pontypridd,uk.org.publicwhip/cons/457,Labour,labour,2019-12-13,general_election,,,58
 24921,Richard Graham,,3990,uk.org.publicwhip/person/24921,Gloucester,uk.org.publicwhip/cons/252,Conservative,conservative,2019-12-13,general_election,,,58
 25657,Simon Clarke,,4655,uk.org.publicwhip/person/25657,Middlesbrough South and East Cleveland,uk.org.publicwhip/cons/378,Conservative,conservative,2019-12-13,general_election,,,58
 25279,Nick Thomas-Symonds,,4479,uk.org.publicwhip/person/25279,Torfaen,uk.org.publicwhip/cons/582,Labour,labour,2019-12-13,general_election,,,58
-25825,Chris Clarkson,,,uk.org.publicwhip/person/25825,Heywood and Middleton,uk.org.publicwhip/cons/292,Conservative,conservative,2019-12-13,general_election,,,58
+25825,Chris Clarkson,,4835,uk.org.publicwhip/person/25825,Heywood and Middleton,uk.org.publicwhip/cons/292,Conservative,conservative,2019-12-13,general_election,,,58
 11588,Mark Harper,,1520,uk.org.publicwhip/person/11588,Forest of Dean,uk.org.publicwhip/cons/234,Conservative,conservative,2019-12-13,general_election,,,58
-25826,Beth Winter,,,uk.org.publicwhip/person/25826,Cynon Valley,uk.org.publicwhip/cons/163,Labour,labour,2019-12-13,general_election,,,58
+25826,Beth Winter,,4809,uk.org.publicwhip/person/25826,Cynon Valley,uk.org.publicwhip/cons/163,Labour,labour,2019-12-13,general_election,,,58
 25293,Neil Gray,,4365,uk.org.publicwhip/person/25293,Airdrie and Shotts,uk.org.publicwhip/cons/5,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 11199,Andrew Rosindell,5737,1447,uk.org.publicwhip/person/11199,Romford,uk.org.publicwhip/cons/479,Conservative,conservative,2019-12-13,general_election,,,58
 24749,Stephen Metcalfe,,4092,uk.org.publicwhip/person/24749,South Basildon and East Thurrock,uk.org.publicwhip/cons/2229,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4247,11 +4247,11 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2019-12-13,general_election,,,58
 24743,Jonathan Edwards,,3943,uk.org.publicwhip/person/24743,Carmarthen East and Dinefwr,uk.org.publicwhip/cons/117,Plaid Cymru,plaid-cymru,2019-12-13,general_election,,,58
 25294,Kirsten Oswald,,4413,uk.org.publicwhip/person/25294,East Renfrewshire,uk.org.publicwhip/cons/204,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25827,Angela Joy Richardson,,,uk.org.publicwhip/person/25827,Guildford,uk.org.publicwhip/cons/262,Conservative,conservative,2019-12-13,general_election,,,58
+25827,Angela Joy Richardson,,4840,uk.org.publicwhip/person/25827,Guildford,uk.org.publicwhip/cons/262,Conservative,conservative,2019-12-13,general_election,,,58
 10241,Damian Green,314,76,uk.org.publicwhip/person/10241,Ashford,uk.org.publicwhip/cons/15,Conservative,conservative,2019-12-13,general_election,,,58
-25828,Dean Russell,,,uk.org.publicwhip/person/25828,Watford,uk.org.publicwhip/cons/611,Conservative,conservative,2019-12-13,general_election,,,58
-25829,Jamie Hamilton Wallis,,,uk.org.publicwhip/person/25829,Bridgend,uk.org.publicwhip/cons/85,Conservative,conservative,2019-12-13,general_election,,,58
-25830,Katherine Fletcher,,,uk.org.publicwhip/person/25830,South Ribble,uk.org.publicwhip/cons/524,Conservative,conservative,2019-12-13,general_election,,,58
+25828,Dean Russell,,4812,uk.org.publicwhip/person/25828,Watford,uk.org.publicwhip/cons/611,Conservative,conservative,2019-12-13,general_election,,,58
+25829,Jamie Hamilton Wallis,,4766,uk.org.publicwhip/person/25829,Bridgend,uk.org.publicwhip/cons/85,Conservative,conservative,2019-12-13,general_election,,,58
+25830,Katherine Fletcher,,4834,uk.org.publicwhip/person/25830,South Ribble,uk.org.publicwhip/cons/524,Conservative,conservative,2019-12-13,general_election,,,58
 25579,Rosena Allin-Khan,,4573,uk.org.publicwhip/person/25579,Tooting,uk.org.publicwhip/cons/580,Labour,labour,2019-12-13,general_election,,,58
 24759,Andrew Stephenson,,4044,uk.org.publicwhip/person/24759,Pendle,uk.org.publicwhip/cons/450,Conservative,conservative,2019-12-13,general_election,,,58
 24933,George Eustice,,3934,uk.org.publicwhip/person/24933,Camborne and Redruth,uk.org.publicwhip/cons/2178,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4259,34 +4259,34 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11656,Emily Thornberry,,1536,uk.org.publicwhip/person/11656,Islington South and Finsbury,uk.org.publicwhip/cons/310,Labour,labour,2019-12-13,general_election,,,58
 25727,Janet Daby,,4698,uk.org.publicwhip/person/25727,Lewisham East,uk.org.publicwhip/cons/338,Labour,labour,2019-12-13,general_election,,,58
 25285,Alan Mak,,4484,uk.org.publicwhip/person/25285,Havant,uk.org.publicwhip/cons/281,Conservative,conservative,2019-12-13,general_election,,,58
-25831,Natalie Elphicke,,,uk.org.publicwhip/person/25831,Dover,uk.org.publicwhip/cons/177,Conservative,conservative,2019-12-13,general_election,,,58
+25831,Natalie Elphicke,,4795,uk.org.publicwhip/person/25831,Dover,uk.org.publicwhip/cons/177,Conservative,conservative,2019-12-13,general_election,,,58
 11667,Rosie Cooper,,1538,uk.org.publicwhip/person/11667,West Lancashire,uk.org.publicwhip/cons/626,Labour,labour,2019-12-13,general_election,,,58
 25380,Vicky Foxcroft,,4491,uk.org.publicwhip/person/25380,"Lewisham, Deptford",uk.org.publicwhip/cons/340,Labour,labour,2019-12-13,general_election,,,58
 13934,Virendra Sharma,,1604,uk.org.publicwhip/person/13934,"Ealing, Southall",uk.org.publicwhip/cons/190,Labour,labour,2019-12-13,general_election,,,58
 25278,Owen Thompson,,4482,uk.org.publicwhip/person/25278,Midlothian,uk.org.publicwhip/cons/379,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25832,Robin John Millar,,,uk.org.publicwhip/person/25832,Aberconwy,uk.org.publicwhip/cons/2166,Conservative,conservative,2019-12-13,general_election,,,58
+25832,Robin John Millar,,4746,uk.org.publicwhip/person/25832,Aberconwy,uk.org.publicwhip/cons/2166,Conservative,conservative,2019-12-13,general_election,,,58
 25489,Gill Furniss,,4571,uk.org.publicwhip/person/25489,"Sheffield, Brightside and Hillsborough",uk.org.publicwhip/cons/2228,Labour,labour,2019-12-13,general_election,,,58
-25833,Mary Foy,,,uk.org.publicwhip/person/25833,City of Durham,uk.org.publicwhip/cons/187,Labour,labour,2019-12-13,general_election,,,58
+25833,Mary Foy,,4753,uk.org.publicwhip/person/25833,City of Durham,uk.org.publicwhip/cons/187,Labour,labour,2019-12-13,general_election,,,58
 11936,Pat McFadden,,1587,uk.org.publicwhip/person/11936,Wolverhampton South East,uk.org.publicwhip/cons/645,Labour,labour,2019-12-13,general_election,,,58
 24824,Mark Garnier,,4074,uk.org.publicwhip/person/24824,Wyre Forest,uk.org.publicwhip/cons/655,Conservative,conservative,2019-12-13,general_election,,,58
 11397,Nadine Dorries,,1481,uk.org.publicwhip/person/11397,Mid Bedfordshire,uk.org.publicwhip/cons/371,Conservative,conservative,2019-12-13,general_election,,,58
-25834,Nicola Faye Richards,,,uk.org.publicwhip/person/25834,West Bromwich East,uk.org.publicwhip/cons/620,Conservative,conservative,2019-12-13,general_election,,,58
+25834,Nicola Faye Richards,,4868,uk.org.publicwhip/person/25834,West Bromwich East,uk.org.publicwhip/cons/620,Conservative,conservative,2019-12-13,general_election,,,58
 25670,Gillian Keegan,,4680,uk.org.publicwhip/person/25670,Chichester,uk.org.publicwhip/cons/132,Conservative,conservative,2019-12-13,general_election,,,58
-25835,Laura Farris,,,uk.org.publicwhip/person/25835,Newbury,uk.org.publicwhip/cons/393,Conservative,conservative,2019-12-13,general_election,,,58
+25835,Laura Farris,,4826,uk.org.publicwhip/person/25835,Newbury,uk.org.publicwhip/cons/393,Conservative,conservative,2019-12-13,general_election,,,58
 24965,Nigel Mills,,4136,uk.org.publicwhip/person/24965,Amber Valley,uk.org.publicwhip/cons/10,Conservative,conservative,2019-12-13,general_election,,,58
 24854,Sajid Javid,,3945,uk.org.publicwhip/person/24854,Bromsgrove,uk.org.publicwhip/cons/95,Conservative,conservative,2019-12-13,general_election,,,58
 24767,Karl Turner,,4030,uk.org.publicwhip/person/24767,Kingston upon Hull East,uk.org.publicwhip/cons/318,Labour,labour,2019-12-13,general_election,,,58
 24873,Caroline Dinenage,,4008,uk.org.publicwhip/person/24873,Gosport,uk.org.publicwhip/cons/254,Conservative,conservative,2019-12-13,general_election,,,58
 10669,Hilary Benn,62,413,uk.org.publicwhip/person/10669,Leeds Central,uk.org.publicwhip/cons/327,Labour,labour,2019-12-13,general_election,,,58
-25836,Navendu Mishra,,,uk.org.publicwhip/person/25836,Stockport,uk.org.publicwhip/cons/549,Labour,labour,2019-12-13,general_election,,,58
+25836,Navendu Mishra,,4811,uk.org.publicwhip/person/25836,Stockport,uk.org.publicwhip/cons/549,Labour,labour,2019-12-13,general_election,,,58
 25270,Chris Law,,4403,uk.org.publicwhip/person/25270,Dundee West,uk.org.publicwhip/cons/184,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25371,Maggie Throup,,4447,uk.org.publicwhip/person/25371,Erewash,uk.org.publicwhip/cons/221,Conservative,conservative,2019-12-13,general_election,,,58
 24862,Robin Walker,,4091,uk.org.publicwhip/person/24862,Worcester,uk.org.publicwhip/cons/648,Conservative,conservative,2019-12-13,general_election,,,58
-25837,Tom Randall,,,uk.org.publicwhip/person/25837,Gedling,uk.org.publicwhip/cons/240,Conservative,conservative,2019-12-13,general_election,,,58
+25837,Tom Randall,,4845,uk.org.publicwhip/person/25837,Gedling,uk.org.publicwhip/cons/240,Conservative,conservative,2019-12-13,general_election,,,58
 10383,John Martin McDonnell,485,178,uk.org.publicwhip/person/10383,Hayes and Harlington,uk.org.publicwhip/cons/282,Labour,labour,2019-12-13,general_election,,,58
 10075,Karen Buck,157,199,uk.org.publicwhip/person/10075,Westminster North,uk.org.publicwhip/cons/2244,Labour,labour,2019-12-13,general_election,,,58
 24927,Mary Glindon,,4126,uk.org.publicwhip/person/24927,North Tyneside,uk.org.publicwhip/cons/422,Labour,labour,2019-12-13,general_election,,,58
-25838,Siobhan Baillie,,,uk.org.publicwhip/person/25838,Stroud,uk.org.publicwhip/cons/562,Conservative,conservative,2019-12-13,general_election,,,58
+25838,Siobhan Baillie,,4847,uk.org.publicwhip/person/25838,Stroud,uk.org.publicwhip/cons/562,Conservative,conservative,2019-12-13,general_election,,,58
 10155,Edward Davey,233,188,uk.org.publicwhip/person/10155,Kingston and Surbiton,uk.org.publicwhip/cons/317,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 24852,Valerie Vaz,,4076,uk.org.publicwhip/person/24852,Walsall South,uk.org.publicwhip/cons/602,Labour,labour,2019-12-13,general_election,,,58
 24815,Dominic Raab,,4007,uk.org.publicwhip/person/24815,Esher and Walton,uk.org.publicwhip/cons/223,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4294,42 +4294,42 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25596,Sarah Olney,,4591,uk.org.publicwhip/person/25596,Richmond Park,uk.org.publicwhip/cons/476,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 10185,Clive Efford,262,165,uk.org.publicwhip/person/10185,Eltham,uk.org.publicwhip/cons/216,Labour,labour,2019-12-13,general_election,,,58
 10051,Crispin Blunt,132,104,uk.org.publicwhip/person/10051,Reigate,uk.org.publicwhip/cons/472,Conservative,conservative,2019-12-13,general_election,,,58
-25839,Kate Griffiths,,,uk.org.publicwhip/person/25839,Burton,uk.org.publicwhip/cons/100,Conservative,conservative,2019-12-13,general_election,,,58
-25840,Robert Alexander Courts,,,uk.org.publicwhip/person/25840,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2019-12-13,general_election,,,58
-25841,Robert Largan,,,uk.org.publicwhip/person/25841,High Peak,uk.org.publicwhip/cons/293,Conservative,conservative,2019-12-13,general_election,,,58
-25842,Antony Higginbotham,,,uk.org.publicwhip/person/25842,Burnley,uk.org.publicwhip/cons/99,Conservative,conservative,2019-12-13,general_election,,,58
+25839,Kate Griffiths,,4773,uk.org.publicwhip/person/25839,Burton,uk.org.publicwhip/cons/100,Conservative,conservative,2019-12-13,general_election,,,58
+25840,Robert Alexander Courts,,4589,uk.org.publicwhip/person/25840,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2019-12-13,general_election,,,58
+25841,Robert Largan,,4852,uk.org.publicwhip/person/25841,High Peak,uk.org.publicwhip/cons/293,Conservative,conservative,2019-12-13,general_election,,,58
+25842,Antony Higginbotham,,4833,uk.org.publicwhip/person/25842,Burnley,uk.org.publicwhip/cons/99,Conservative,conservative,2019-12-13,general_election,,,58
 25531,Douglas Ross,,4627,uk.org.publicwhip/person/25531,Moray,uk.org.publicwhip/cons/385,Conservative,conservative,2019-12-13,general_election,,,58
 25699,Eddie Hughes,,4635,uk.org.publicwhip/person/25699,Walsall North,uk.org.publicwhip/cons/601,Conservative,conservative,2019-12-13,general_election,,,58
-25843,Virginia Crosbie,,,uk.org.publicwhip/person/25843,Ynys Môn,uk.org.publicwhip/cons/658,Conservative,conservative,2019-12-13,general_election,,,58
+25843,Virginia Crosbie,,4859,uk.org.publicwhip/person/25843,Ynys Môn,uk.org.publicwhip/cons/658,Conservative,conservative,2019-12-13,general_election,,,58
 10358,Julian Lewis,431,54,uk.org.publicwhip/person/10358,New Forest East,uk.org.publicwhip/cons/390,Conservative,conservative,2019-12-13,general_election,,,58
 10133,Jeremy Corbyn,212,185,uk.org.publicwhip/person/10133,Islington North,uk.org.publicwhip/cons/309,Labour,labour,2019-12-13,general_election,,,58
-14031,Kenny MacAskill,,,uk.org.publicwhip/person/14031,East Lothian,uk.org.publicwhip/cons/198,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,East Lothian,uk.org.publicwhip/cons/198,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25290,Craig Tracey,,4509,uk.org.publicwhip/person/25290,North Warwickshire,uk.org.publicwhip/cons/423,Conservative,conservative,2019-12-13,general_election,,,58
-25844,Duncan Charles Baker,,,uk.org.publicwhip/person/25844,North Norfolk,uk.org.publicwhip/cons/416,Conservative,conservative,2019-12-13,general_election,,,58
-25845,Nadia Whittome,,,uk.org.publicwhip/person/25845,Nottingham East,uk.org.publicwhip/cons/435,Labour,labour,2019-12-13,general_election,,,58
+25844,Duncan Charles Baker,,4784,uk.org.publicwhip/person/25844,North Norfolk,uk.org.publicwhip/cons/416,Conservative,conservative,2019-12-13,general_election,,,58
+25845,Nadia Whittome,,4869,uk.org.publicwhip/person/25845,Nottingham East,uk.org.publicwhip/cons/435,Labour,labour,2019-12-13,general_election,,,58
 11216,Andrew Selous,5848,1453,uk.org.publicwhip/person/11216,South West Bedfordshire,uk.org.publicwhip/cons/530,Conservative,conservative,2019-12-13,general_election,,,58
 24882,Esther McVey,,4084,uk.org.publicwhip/person/24882,Tatton,uk.org.publicwhip/cons/572,Conservative,conservative,2019-12-13,general_election,,,58
 25644,Giles Watling,,4677,uk.org.publicwhip/person/25644,Clacton,uk.org.publicwhip/cons/2183,Conservative,conservative,2019-12-13,general_election,,,58
 10854,Jonathan Djanogly,3991,1425,uk.org.publicwhip/person/10854,Huntingdon,uk.org.publicwhip/cons/302,Conservative,conservative,2019-12-13,general_election,,,58
 25618,Anneliese Dodds,,4657,uk.org.publicwhip/person/25618,Oxford East,uk.org.publicwhip/cons/446,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
-25846,Abena Oppong-Asare,,,uk.org.publicwhip/person/25846,Erith and Thamesmead,uk.org.publicwhip/cons/222,Labour,labour,2019-12-13,general_election,,,58
-25847,Saqib Bhatti,,,uk.org.publicwhip/person/25847,Meriden,uk.org.publicwhip/cons/369,Conservative,conservative,2019-12-13,general_election,,,58
+25846,Abena Oppong-Asare,,4820,uk.org.publicwhip/person/25846,Erith and Thamesmead,uk.org.publicwhip/cons/222,Labour,labour,2019-12-13,general_election,,,58
+25847,Saqib Bhatti,,4818,uk.org.publicwhip/person/25847,Meriden,uk.org.publicwhip/cons/369,Conservative,conservative,2019-12-13,general_election,,,58
 25629,Paul Girvan,,4633,uk.org.publicwhip/person/25629,South Antrim,uk.org.publicwhip/cons/515,DUP,dup,2019-12-13,general_election,,,58
 24715,Grahame Morris,,3973,uk.org.publicwhip/person/24715,Easington,uk.org.publicwhip/cons/191,Labour,labour,2019-12-13,general_election,,,58
 25634,Tonia Antoniazzi,,4623,uk.org.publicwhip/person/25634,Gower,uk.org.publicwhip/cons/255,Labour,labour,2019-12-13,general_election,,,58
 11323,Hywel Williams,6326,1397,uk.org.publicwhip/person/11323,Arfon,uk.org.publicwhip/cons/2167,Plaid Cymru,plaid-cymru,2019-12-13,general_election,,,58
-25848,Alyn Smith,,,uk.org.publicwhip/person/25848,Stirling,uk.org.publicwhip/cons/548,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25849,Stephen Anthony Farry,,,uk.org.publicwhip/person/25849,North Down,uk.org.publicwhip/cons/406,Alliance,alliance,2019-12-13,general_election,,,58
-25850,Anthony Browne,,,uk.org.publicwhip/person/25850,South Cambridgeshire,uk.org.publicwhip/cons/516,Conservative,conservative,2019-12-13,general_election,,,58
-25851,Laura Trott,,,uk.org.publicwhip/person/25851,Sevenoaks,uk.org.publicwhip/cons/499,Conservative,conservative,2019-12-13,general_election,,,58
+25848,Alyn Smith,,4738,uk.org.publicwhip/person/25848,Stirling,uk.org.publicwhip/cons/548,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25849,Stephen Anthony Farry,,4856,uk.org.publicwhip/person/25849,North Down,uk.org.publicwhip/cons/406,Alliance,alliance,2019-12-13,general_election,,,58
+25850,Anthony Browne,,4801,uk.org.publicwhip/person/25850,South Cambridgeshire,uk.org.publicwhip/cons/516,Conservative,conservative,2019-12-13,general_election,,,58
+25851,Laura Trott,,4780,uk.org.publicwhip/person/25851,Sevenoaks,uk.org.publicwhip/cons/499,Conservative,conservative,2019-12-13,general_election,,,58
 25637,Darren Jones,,4621,uk.org.publicwhip/person/25637,Bristol North West,uk.org.publicwhip/cons/91,Labour,labour,2019-12-13,general_election,,,58
 11946,Mark Pritchard,,1576,uk.org.publicwhip/person/11946,The Wrekin,uk.org.publicwhip/cons/652,Conservative,conservative,2019-12-13,general_election,,,58
-25852,Rob Roberts,,,uk.org.publicwhip/person/25852,Delyn,uk.org.publicwhip/cons/168,Conservative,conservative,2019-12-13,general_election,,,58
+25852,Rob Roberts,,4810,uk.org.publicwhip/person/25852,Delyn,uk.org.publicwhip/cons/168,Conservative,conservative,2019-12-13,general_election,,,58
 25168,Sarah Champion,,4267,uk.org.publicwhip/person/25168,Rotherham,uk.org.publicwhip/cons/484,Labour,labour,2019-12-13,general_election,,,58
-25853,Matt Vickers,,,uk.org.publicwhip/person/25853,Stockton South,uk.org.publicwhip/cons/551,Conservative,conservative,2019-12-13,general_election,,,58
-25854,Ruth Edwards,,,uk.org.publicwhip/person/25854,Rushcliffe,uk.org.publicwhip/cons/489,Conservative,conservative,2019-12-13,general_election,,,58
+25853,Matt Vickers,,4844,uk.org.publicwhip/person/25853,Stockton South,uk.org.publicwhip/cons/551,Conservative,conservative,2019-12-13,general_election,,,58
+25854,Ruth Edwards,,4808,uk.org.publicwhip/person/25854,Rushcliffe,uk.org.publicwhip/cons/489,Conservative,conservative,2019-12-13,general_election,,,58
 11610,Greg Hands,,1526,uk.org.publicwhip/person/11610,Chelsea and Fulham,uk.org.publicwhip/cons/2181,Conservative,conservative,2019-12-13,general_election,,,58
-25855,Paul Howell,,,uk.org.publicwhip/person/25855,Sedgefield,uk.org.publicwhip/cons/497,Conservative,conservative,2019-12-13,general_election,,,58
+25855,Paul Howell,,4830,uk.org.publicwhip/person/25855,Sedgefield,uk.org.publicwhip/cons/497,Conservative,conservative,2019-12-13,general_election,,,58
 25342,Wendy Morton,,4358,uk.org.publicwhip/person/25342,Aldridge-Brownhills,uk.org.publicwhip/cons/7,Conservative,conservative,2019-12-13,general_election,,,58
 11455,Kerry McCarthy,,1491,uk.org.publicwhip/person/11455,Bristol East,uk.org.publicwhip/cons/90,Labour,labour,2019-12-13,general_election,,,58
 10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2019-12-13,general_election,,,58
@@ -4338,12 +4338,12 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24758,Andrew Jones,,3996,uk.org.publicwhip/person/24758,Harrogate and Knaresborough,uk.org.publicwhip/cons/275,Conservative,conservative,2019-12-13,general_election,,,58
 24945,Bob Blackman,,4005,uk.org.publicwhip/person/24945,Harrow East,uk.org.publicwhip/cons/276,Conservative,conservative,2019-12-13,general_election,,,58
 24820,David Rutley,,4033,uk.org.publicwhip/person/24820,Macclesfield,uk.org.publicwhip/cons/357,Conservative,conservative,2019-12-13,general_election,,,58
-25759,Florence Eshalomi,,,uk.org.publicwhip/person/25759,Vauxhall,uk.org.publicwhip/cons/598,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
+25759,Florence Eshalomi,,4870,uk.org.publicwhip/person/25759,Vauxhall,uk.org.publicwhip/cons/598,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 24962,Guy Opperman,,4142,uk.org.publicwhip/person/24962,Hexham,uk.org.publicwhip/cons/291,Conservative,conservative,2019-12-13,general_election,,,58
 24731,Rebecca Harris,,3948,uk.org.publicwhip/person/24731,Castle Point,uk.org.publicwhip/cons/121,Conservative,conservative,2019-12-13,general_election,,,58
 25280,Gavin Robinson,,4360,uk.org.publicwhip/person/25280,Belfast East,uk.org.publicwhip/cons/35,DUP,dup,2019-12-13,general_election,,,58
-25856,Bell Ribeiro-Addy,,,uk.org.publicwhip/person/25856,Streatham,uk.org.publicwhip/cons/560,Labour,labour,2019-12-13,general_election,,,58
-25857,Tan Dhesi,,,uk.org.publicwhip/person/25857,Slough,uk.org.publicwhip/cons/512,Labour,labour,2019-12-13,general_election,,,58
+25856,Bell Ribeiro-Addy,,4764,uk.org.publicwhip/person/25856,Streatham,uk.org.publicwhip/cons/560,Labour,labour,2019-12-13,general_election,,,58
+25857,Tan Dhesi,,4638,uk.org.publicwhip/person/25857,Slough,uk.org.publicwhip/cons/512,Labour,labour,2019-12-13,general_election,,,58
 25344,Tulip Siddiq,,4518,uk.org.publicwhip/person/25344,Hampstead and Kilburn,uk.org.publicwhip/cons/2193,Labour,labour,2019-12-13,general_election,,,58
 24879,Brandon Lewis,,4009,uk.org.publicwhip/person/24879,Great Yarmouth,uk.org.publicwhip/cons/259,Conservative,conservative,2019-12-13,general_election,,,58
 14128,Edward Timpson,,1605,uk.org.publicwhip/person/14128,Eddisbury,uk.org.publicwhip/cons/206,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4352,16 +4352,16 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25292,James Davies,,4476,uk.org.publicwhip/person/25292,Vale of Clwyd,uk.org.publicwhip/cons/595,Conservative,conservative,2019-12-13,general_election,,,58
 25424,Victoria Atkins,,4399,uk.org.publicwhip/person/25424,Louth and Horncastle,uk.org.publicwhip/cons/353,Conservative,conservative,2019-12-13,general_election,,,58
 10183,Maria Eagle,260,483,uk.org.publicwhip/person/10183,Garston and Halewood,uk.org.publicwhip/cons/2189,Labour,labour,2019-12-13,general_election,,,58
-25858,Gareth Davies,,,uk.org.publicwhip/person/25858,Grantham and Stamford,uk.org.publicwhip/cons/256,Conservative,conservative,2019-12-13,general_election,,,58
+25858,Gareth Davies,,4850,uk.org.publicwhip/person/25858,Grantham and Stamford,uk.org.publicwhip/cons/256,Conservative,conservative,2019-12-13,general_election,,,58
 25628,Leo Docherty,,4600,uk.org.publicwhip/person/25628,Aldershot,uk.org.publicwhip/cons/6,Conservative,conservative,2019-12-13,general_election,,,58
 11791,Jeremy Wright,,1560,uk.org.publicwhip/person/11791,Kenilworth and Southam,uk.org.publicwhip/cons/2198,Conservative,conservative,2019-12-13,general_election,,,58
-25859,Nicholas Fletcher,,,uk.org.publicwhip/person/25859,Don Valley,uk.org.publicwhip/cons/174,Conservative,conservative,2019-12-13,general_election,,,58
+25859,Nicholas Fletcher,,4832,uk.org.publicwhip/person/25859,Don Valley,uk.org.publicwhip/cons/174,Conservative,conservative,2019-12-13,general_election,,,58
 25642,Dan Carden,,4651,uk.org.publicwhip/person/25642,"Liverpool, Walton",uk.org.publicwhip/cons/347,Labour,labour,2019-12-13,general_election,,,58
 25154,Christopher Hazzard,,4636,uk.org.publicwhip/person/25154,South Down,uk.org.publicwhip/cons/519,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
-25860,James Sunderland,,,uk.org.publicwhip/person/25860,Bracknell,uk.org.publicwhip/cons/74,Conservative,conservative,2019-12-13,general_election,,,58
+25860,James Sunderland,,4767,uk.org.publicwhip/person/25860,Bracknell,uk.org.publicwhip/cons/74,Conservative,conservative,2019-12-13,general_election,,,58
 11921,Lyn Brown,,1583,uk.org.publicwhip/person/11921,West Ham,uk.org.publicwhip/cons/625,Labour,labour,2019-12-13,general_election,,,58
 25268,Alan Brown,,4470,uk.org.publicwhip/person/25268,Kilmarnock and Loudoun,uk.org.publicwhip/cons/316,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25861,Steven Bonnar,,,uk.org.publicwhip/person/25861,"Coatbridge, Chryston and Bellshill",uk.org.publicwhip/cons/672,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25861,Steven Bonnar,,4748,uk.org.publicwhip/person/25861,"Coatbridge, Chryston and Bellshill",uk.org.publicwhip/cons/672,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25329,Craig Williams,,4438,uk.org.publicwhip/person/25329,Montgomeryshire,uk.org.publicwhip/cons/384,Conservative,conservative,2019-12-13,general_election,,,58
 11559,Andrew Slaughter,,1516,uk.org.publicwhip/person/11559,Hammersmith,uk.org.publicwhip/cons/2192,Labour,labour,2019-12-13,general_election,,,58
 24817,George Freeman,,4020,uk.org.publicwhip/person/24817,Mid Norfolk,uk.org.publicwhip/cons/373,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4369,30 +4369,30 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24774,Lilian Greenwood,,4029,uk.org.publicwhip/person/24774,Nottingham South,uk.org.publicwhip/cons/437,Labour,labour,2019-12-13,general_election,,,58
 10352,Edward Leigh,425,345,uk.org.publicwhip/person/10352,Gainsborough,uk.org.publicwhip/cons/237,Conservative,conservative,2019-12-13,general_election,,,58
 10901,Mark Francois,4442,1444,uk.org.publicwhip/person/10901,Rayleigh and Wickford,uk.org.publicwhip/cons/2219,Conservative,conservative,2019-12-13,general_election,,,58
-25862,Brendan Clarke-Smith,,,uk.org.publicwhip/person/25862,Bassetlaw,uk.org.publicwhip/cons/28,Conservative,conservative,2019-12-13,general_election,,,58
+25862,Brendan Clarke-Smith,,4756,uk.org.publicwhip/person/25862,Bassetlaw,uk.org.publicwhip/cons/28,Conservative,conservative,2019-12-13,general_election,,,58
 11406,Graham Stuart,,1482,uk.org.publicwhip/person/11406,Beverley and Holderness,uk.org.publicwhip/cons/41,Conservative,conservative,2019-12-13,general_election,,,58
 25166,Stephen Doughty,,4264,uk.org.publicwhip/person/25166,Cardiff South and Penarth,uk.org.publicwhip/cons/114,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 25321,Marie Rimmer,,4457,uk.org.publicwhip/person/25321,St Helens South and Whiston,uk.org.publicwhip/cons/2234,Labour,labour,2019-12-13,general_election,,,58
 25360,William Wragg,,4429,uk.org.publicwhip/person/25360,Hazel Grove,uk.org.publicwhip/cons/283,Conservative,conservative,2019-12-13,general_election,,,58
-25863,Amy Callaghan,,,uk.org.publicwhip/person/25863,East Dunbartonshire,uk.org.publicwhip/cons/676,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25447,Claire Hanna,,,uk.org.publicwhip/person/25447,Belfast South,uk.org.publicwhip/cons/37,Social Democratic and Labour Party,social-democratic-and-labour-party,2019-12-13,general_election,,,58
+25863,Amy Callaghan,,4770,uk.org.publicwhip/person/25863,East Dunbartonshire,uk.org.publicwhip/cons/676,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25447,Claire Hanna,,4827,uk.org.publicwhip/person/25447,Belfast South,uk.org.publicwhip/cons/37,Social Democratic and Labour Party,social-democratic-and-labour-party,2019-12-13,general_election,,,58
 25686,Andrew Lewer,,4659,uk.org.publicwhip/person/25686,Northampton South,uk.org.publicwhip/cons/431,Conservative,conservative,2019-12-13,general_election,,,58
 10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2019-12-13,general_election,,,58
-25864,Alexander Stafford,,,uk.org.publicwhip/person/25864,Rother Valley,uk.org.publicwhip/cons/483,Conservative,conservative,2019-12-13,general_election,,,58
+25864,Alexander Stafford,,4866,uk.org.publicwhip/person/25864,Rother Valley,uk.org.publicwhip/cons/483,Conservative,conservative,2019-12-13,general_election,,,58
 24790,Karl McCartney,,4028,uk.org.publicwhip/person/24790,Lincoln,uk.org.publicwhip/cons/343,Conservative,conservative,2019-12-13,general_election,,,58
-25865,Lia Nici,,,uk.org.publicwhip/person/25865,Great Grimsby,uk.org.publicwhip/cons/258,Conservative,conservative,2019-12-13,general_election,,,58
+25865,Lia Nici,,4851,uk.org.publicwhip/person/25865,Great Grimsby,uk.org.publicwhip/cons/258,Conservative,conservative,2019-12-13,general_election,,,58
 11545,Ed Miliband,,1510,uk.org.publicwhip/person/11545,Doncaster North,uk.org.publicwhip/cons/176,Labour,labour,2019-12-13,general_election,,,58
 24851,Rachel Reeves,,4031,uk.org.publicwhip/person/24851,Leeds West,uk.org.publicwhip/cons/331,Labour,labour,2019-12-13,general_election,,,58
 25314,Kirsty Blackman,,4357,uk.org.publicwhip/person/25314,Aberdeen North,uk.org.publicwhip/cons/3,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25866,James Wild,,,uk.org.publicwhip/person/25866,North West Norfolk,uk.org.publicwhip/cons/428,Conservative,conservative,2019-12-13,general_election,,,58
-25867,Stephen Flynn,,,uk.org.publicwhip/person/25867,Aberdeen South,uk.org.publicwhip/cons/4,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25866,James Wild,,4787,uk.org.publicwhip/person/25866,North West Norfolk,uk.org.publicwhip/cons/428,Conservative,conservative,2019-12-13,general_election,,,58
+25867,Stephen Flynn,,4735,uk.org.publicwhip/person/25867,Aberdeen South,uk.org.publicwhip/cons/4,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25691,Matt Rodda,,4654,uk.org.publicwhip/person/25691,Reading East,uk.org.publicwhip/cons/467,Labour,labour,2019-12-13,general_election,,,58
-25868,Anthony Mangnall,,,uk.org.publicwhip/person/25868,Totnes,uk.org.publicwhip/cons/584,Conservative,conservative,2019-12-13,general_election,,,58
+25868,Anthony Mangnall,,4762,uk.org.publicwhip/person/25868,Totnes,uk.org.publicwhip/cons/584,Conservative,conservative,2019-12-13,general_election,,,58
 24756,Daniel Poulter,,3932,uk.org.publicwhip/person/24756,Central Suffolk and North Ipswich,uk.org.publicwhip/cons/123,Conservative,conservative,2019-12-13,general_election,,,58
 11389,Maria Miller,,1480,uk.org.publicwhip/person/11389,Basingstoke,uk.org.publicwhip/cons/27,Conservative,conservative,2019-12-13,general_election,,,58
 24778,Priti Patel,,4066,uk.org.publicwhip/person/24778,Witham,uk.org.publicwhip/cons/2245,Conservative,conservative,2019-12-13,general_election,,,58
-25869,Simon Fell,,,uk.org.publicwhip/person/25869,Barrow and Furness,uk.org.publicwhip/cons/25,Conservative,conservative,2019-12-13,general_election,,,58
-25870,Allan Dorans,,,uk.org.publicwhip/person/25870,"Ayr, Carrick and Cumnock",uk.org.publicwhip/cons/666,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25869,Simon Fell,,4744,uk.org.publicwhip/person/25869,Barrow and Furness,uk.org.publicwhip/cons/25,Conservative,conservative,2019-12-13,general_election,,,58
+25870,Allan Dorans,,4740,uk.org.publicwhip/person/25870,"Ayr, Carrick and Cumnock",uk.org.publicwhip/cons/666,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25683,Ben Bradley,,4663,uk.org.publicwhip/person/25683,Mansfield,uk.org.publicwhip/cons/366,Conservative,conservative,2019-12-13,general_election,,,58
 25227,Robert Jenrick,,4320,uk.org.publicwhip/person/25227,Newark,uk.org.publicwhip/cons/392,Conservative,conservative,2019-12-13,general_election,,,58
 11374,Sammy Wilson,,1593,uk.org.publicwhip/person/11374,East Antrim,uk.org.publicwhip/cons/192,DUP,dup,2019-12-13,general_election,,,58
@@ -4406,7 +4406,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24728,Nick Smith,,3928,uk.org.publicwhip/person/24728,Blaenau Gwent,uk.org.publicwhip/cons/61,Labour,labour,2019-12-13,general_election,,,58
 10596,Stephen Timms,663,163,uk.org.publicwhip/person/10596,East Ham,uk.org.publicwhip/cons/194,Labour,labour,2019-12-13,general_election,,,58
 25409,Hannah Bardell,,4486,uk.org.publicwhip/person/25409,Livingston,uk.org.publicwhip/cons/350,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25871,Darren George Henry,,,uk.org.publicwhip/person/25871,Broxtowe,uk.org.publicwhip/cons/97,Conservative,conservative,2019-12-13,general_election,,,58
+25871,Darren George Henry,,4794,uk.org.publicwhip/person/25871,Broxtowe,uk.org.publicwhip/cons/97,Conservative,conservative,2019-12-13,general_election,,,58
 14146,Anne McLaughlin,,4437,uk.org.publicwhip/person/14146,Glasgow North East,uk.org.publicwhip/cons/693,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 24769,Heather Wheeler,,4053,uk.org.publicwhip/person/24769,South Derbyshire,uk.org.publicwhip/cons/517,Conservative,conservative,2019-12-13,general_election,,,58
 25666,Preet Kaur Gill,,4603,uk.org.publicwhip/person/25666,"Birmingham, Edgbaston",uk.org.publicwhip/cons/46,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
@@ -4415,9 +4415,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24825,Jack Dromey,,3913,uk.org.publicwhip/person/24825,"Birmingham, Erdington",uk.org.publicwhip/cons/47,Labour,labour,2019-12-13,general_election,,,58
 11360,Liam Byrne,9451,1171,uk.org.publicwhip/person/11360,"Birmingham, Hodge Hill",uk.org.publicwhip/cons/49,Labour,labour,2019-12-13,general_election,,,58
 11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2019-12-13,general_election,,,58
-25872,Wendy Chamberlain,,,uk.org.publicwhip/person/25872,North East Fife,uk.org.publicwhip/cons/411,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
-25873,Neale Hanvey,,,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25874,Christian Wakeford,,,uk.org.publicwhip/person/25874,Bury South,uk.org.publicwhip/cons/102,Conservative,conservative,2019-12-13,general_election,,,58
+25872,Wendy Chamberlain,,4765,uk.org.publicwhip/person/25872,North East Fife,uk.org.publicwhip/cons/411,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
+25873,Neale Hanvey,,4782,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Independent,independent,2019-12-13,general_election,,,58
+25874,Christian Wakeford,,4871,uk.org.publicwhip/person/25874,Bury South,uk.org.publicwhip/cons/102,Conservative,conservative,2019-12-13,general_election,,,58
 11647,Diana R. Johnson,,1533,uk.org.publicwhip/person/11647,Kingston upon Hull North,uk.org.publicwhip/cons/319,Labour,labour,2019-12-13,general_election,,,58
 25379,Matthew Pennycook,,4520,uk.org.publicwhip/person/25379,Greenwich and Woolwich,uk.org.publicwhip/cons/261,Labour,labour,2019-12-13,general_election,,,58
 25645,Bob Seely,,4681,uk.org.publicwhip/person/25645,Isle of Wight,uk.org.publicwhip/cons/308,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4431,13 +4431,13 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10131,Yvette Cooper,210,420,uk.org.publicwhip/person/10131,"Normanton, Pontefract and Castleford",uk.org.publicwhip/cons/2211,Labour,labour,2019-12-13,general_election,,,58
 25677,David Linden,,4640,uk.org.publicwhip/person/25677,Glasgow East,uk.org.publicwhip/cons/691,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25299,Patrick Grady,,4432,uk.org.publicwhip/person/25299,Glasgow North,uk.org.publicwhip/cons/692,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25875,Neil Hudson,,,uk.org.publicwhip/person/25875,Penrith and The Border,uk.org.publicwhip/cons/451,Conservative,conservative,2019-12-13,general_election,,,58
-25876,Sara Britcliffe,,,uk.org.publicwhip/person/25876,Hyndburn,uk.org.publicwhip/cons/303,Conservative,conservative,2019-12-13,general_election,,,58
-25877,Sarah Elizabeth Dines,,,uk.org.publicwhip/person/25877,Derbyshire Dales,uk.org.publicwhip/cons/2185,Conservative,conservative,2019-12-13,general_election,,,58
+25875,Neil Hudson,,4853,uk.org.publicwhip/person/25875,Penrith and The Border,uk.org.publicwhip/cons/451,Conservative,conservative,2019-12-13,general_election,,,58
+25876,Sara Britcliffe,,4838,uk.org.publicwhip/person/25876,Hyndburn,uk.org.publicwhip/cons/303,Conservative,conservative,2019-12-13,general_election,,,58
+25877,Sarah Elizabeth Dines,,4816,uk.org.publicwhip/person/25877,Derbyshire Dales,uk.org.publicwhip/cons/2185,Conservative,conservative,2019-12-13,general_election,,,58
 11115,Andrew Mitchell,9376,1211,uk.org.publicwhip/person/11115,Sutton Coldfield,uk.org.publicwhip/cons/568,Conservative,conservative,2019-12-13,general_election,,,58
 13736,Bob Neill,,1601,uk.org.publicwhip/person/13736,Bromley and Chislehurst,uk.org.publicwhip/cons/94,Conservative,conservative,2019-12-13,general_election,,,58
 24785,Harriett Baldwin,,4107,uk.org.publicwhip/person/24785,West Worcestershire,uk.org.publicwhip/cons/630,Conservative,conservative,2019-12-13,general_election,,,58
-25878,Joy Morrissey,,,uk.org.publicwhip/person/25878,Beaconsfield,uk.org.publicwhip/cons/32,Conservative,conservative,2019-12-13,general_election,,,58
+25878,Joy Morrissey,,4759,uk.org.publicwhip/person/25878,Beaconsfield,uk.org.publicwhip/cons/32,Conservative,conservative,2019-12-13,general_election,,,58
 10220,Barry Gardiner,295,146,uk.org.publicwhip/person/10220,Brent North,uk.org.publicwhip/cons/81,Labour,labour,2019-12-13,general_election,,,58
 25702,Mike Amesbury,,4667,uk.org.publicwhip/person/25702,Weaver Vale,uk.org.publicwhip/cons/614,Labour,labour,2019-12-13,general_election,,,58
 11599,Adam Holloway,,1522,uk.org.publicwhip/person/11599,Gravesham,uk.org.publicwhip/cons/257,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4456,7 +4456,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24903,Richard Drax,,4132,uk.org.publicwhip/person/24903,South Dorset,uk.org.publicwhip/cons/518,Conservative,conservative,2019-12-13,general_election,,,58
 10594,Gareth Thomas,661,177,uk.org.publicwhip/person/10594,Harrow West,uk.org.publicwhip/cons/277,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 24809,Caroline Nokes,,4048,uk.org.publicwhip/person/24809,Romsey and Southampton North,uk.org.publicwhip/cons/2221,Conservative,conservative,2019-12-13,general_election,,,58
-25879,Julie Marson,,,uk.org.publicwhip/person/25879,Hertford and Stortford,uk.org.publicwhip/cons/289,Conservative,conservative,2019-12-13,general_election,,,58
+25879,Julie Marson,,4768,uk.org.publicwhip/person/25879,Hertford and Stortford,uk.org.publicwhip/cons/289,Conservative,conservative,2019-12-13,general_election,,,58
 25428,Rishi Sunak,,4483,uk.org.publicwhip/person/25428,Richmond (Yorks),uk.org.publicwhip/cons/475,Conservative,conservative,2019-12-13,general_election,,,58
 25301,Stuart McDonald,,4393,uk.org.publicwhip/person/25301,"Cumbernauld, Kilsyth and Kirkintilloch East",uk.org.publicwhip/cons/673,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 24907,Bob Stewart,,3919,uk.org.publicwhip/person/24907,Beckenham,uk.org.publicwhip/cons/33,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4470,11 +4470,11 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11475,Shailesh Vara,,1496,uk.org.publicwhip/person/11475,North West Cambridgeshire,uk.org.publicwhip/cons/424,Conservative,conservative,2019-12-13,general_election,,,58
 24910,Caroline Lucas,,3930,uk.org.publicwhip/person/24910,"Brighton, Pavilion",uk.org.publicwhip/cons/89,Green,green,2019-12-13,general_election,,,58
 11668,Ben Wallace,,1539,uk.org.publicwhip/person/11668,Wyre and Preston North,uk.org.publicwhip/cons/2247,Conservative,conservative,2019-12-13,general_election,,,58
-25880,Selaine Saxby,,,uk.org.publicwhip/person/25880,North Devon,uk.org.publicwhip/cons/404,Conservative,conservative,2019-12-13,general_election,,,58
+25880,Selaine Saxby,,4863,uk.org.publicwhip/person/25880,North Devon,uk.org.publicwhip/cons/404,Conservative,conservative,2019-12-13,general_election,,,58
 25433,Rachael Maskell,,4471,uk.org.publicwhip/person/25433,York Central,uk.org.publicwhip/cons/2248,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 10999,Boris Johnson,4820,1423,uk.org.publicwhip/person/10999,Uxbridge and South Ruislip,uk.org.publicwhip/cons/2241,Conservative,conservative,2019-12-13,general_election,,,58
 24802,Henry Smith,,3960,uk.org.publicwhip/person/24802,Crawley,uk.org.publicwhip/cons/154,Conservative,conservative,2019-12-13,general_election,,,58
-25881,Fay Alicia Jones,,,uk.org.publicwhip/person/25881,Brecon and Radnorshire,uk.org.publicwhip/cons/79,Conservative,conservative,2019-12-13,general_election,,,58
+25881,Fay Alicia Jones,,4763,uk.org.publicwhip/person/25881,Brecon and Radnorshire,uk.org.publicwhip/cons/79,Conservative,conservative,2019-12-13,general_election,,,58
 25398,Helen Whately,,4527,uk.org.publicwhip/person/25398,Faversham and Mid Kent,uk.org.publicwhip/cons/229,Conservative,conservative,2019-12-13,general_election,,,58
 24916,Stephen Barclay,,4095,uk.org.publicwhip/person/24916,North East Cambridgeshire,uk.org.publicwhip/cons/409,Conservative,conservative,2019-12-13,general_election,,,58
 25405,Mary Robinson,,4406,uk.org.publicwhip/person/25405,Cheadle,uk.org.publicwhip/cons/127,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4485,12 +4485,12 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25408,Jo Churchill,,4380,uk.org.publicwhip/person/25408,Bury St Edmunds,uk.org.publicwhip/cons/103,Conservative,conservative,2019-12-13,general_election,,,58
 24872,Ian Murray,,3966,uk.org.publicwhip/person/24872,Edinburgh South,uk.org.publicwhip/cons/210,Labour,labour,2019-12-13,general_election,,,58
 24782,Damian Hinds,,3969,uk.org.publicwhip/person/24782,East Hampshire,uk.org.publicwhip/cons/195,Conservative,conservative,2019-12-13,general_election,,,58
-25882,Jo Gideon,,,uk.org.publicwhip/person/25882,Stoke-on-Trent Central,uk.org.publicwhip/cons/552,Conservative,conservative,2019-12-13,general_election,,,58
+25882,Jo Gideon,,4817,uk.org.publicwhip/person/25882,Stoke-on-Trent Central,uk.org.publicwhip/cons/552,Conservative,conservative,2019-12-13,general_election,,,58
 24845,Toby Perkins,,3952,uk.org.publicwhip/person/24845,Chesterfield,uk.org.publicwhip/cons/131,Labour,labour,2019-12-13,general_election,,,58
 24729,Gavin Williamson,,4108,uk.org.publicwhip/person/24729,South Staffordshire,uk.org.publicwhip/cons/526,Conservative,conservative,2019-12-13,general_election,,,58
-25883,Kieran John Mullan,,,uk.org.publicwhip/person/25883,Crewe and Nantwich,uk.org.publicwhip/cons/155,Conservative,conservative,2019-12-13,general_election,,,58
-25884,Andy Carter,,,uk.org.publicwhip/person/25884,Warrington South,uk.org.publicwhip/cons/609,Conservative,conservative,2019-12-13,general_election,,,58
-25885,Charlotte Nichols,,,uk.org.publicwhip/person/25885,Warrington North,uk.org.publicwhip/cons/608,Labour,labour,2019-12-13,general_election,,,58
+25883,Kieran John Mullan,,4860,uk.org.publicwhip/person/25883,Crewe and Nantwich,uk.org.publicwhip/cons/155,Conservative,conservative,2019-12-13,general_election,,,58
+25884,Andy Carter,,4791,uk.org.publicwhip/person/25884,Warrington South,uk.org.publicwhip/cons/609,Conservative,conservative,2019-12-13,general_election,,,58
+25885,Charlotte Nichols,,4799,uk.org.publicwhip/person/25885,Warrington North,uk.org.publicwhip/cons/608,Labour,labour,2019-12-13,general_election,,,58
 25430,Kelly Tolhurst,,4487,uk.org.publicwhip/person/25430,Rochester and Strood,uk.org.publicwhip/cons/2220,Conservative,conservative,2019-12-13,general_election,,,58
 25326,Neil Coyle,,4368,uk.org.publicwhip/person/25326,Bermondsey and Old Southwark,uk.org.publicwhip/cons/2171,Labour,labour,2019-12-13,general_election,,,58
 25307,Martyn Day,,4488,uk.org.publicwhip/person/25307,Linlithgow and East Falkirk,uk.org.publicwhip/cons/704,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
@@ -4500,57 +4500,57 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2019-12-13,general_election,,,58
 25475,Jim McMahon,,4569,uk.org.publicwhip/person/25475,Oldham West and Royton,uk.org.publicwhip/cons/443,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 25034,Debbie Abrahams,,4212,uk.org.publicwhip/person/25034,Oldham East and Saddleworth,uk.org.publicwhip/cons/442,Labour,labour,2019-12-13,general_election,,,58
-25750,Gareth Bacon,,,uk.org.publicwhip/person/25750,Orpington,uk.org.publicwhip/cons/445,Conservative,conservative,2019-12-13,general_election,,,58
-25886,Mark Logan,,,uk.org.publicwhip/person/25886,Bolton North East,uk.org.publicwhip/cons/66,Conservative,conservative,2019-12-13,general_election,,,58
-25887,Gary Sambrook,,,uk.org.publicwhip/person/25887,"Birmingham, Northfield",uk.org.publicwhip/cons/51,Conservative,conservative,2019-12-13,general_election,,,58
+25750,Gareth Bacon,,4798,uk.org.publicwhip/person/25750,Orpington,uk.org.publicwhip/cons/445,Conservative,conservative,2019-12-13,general_election,,,58
+25886,Mark Logan,,4815,uk.org.publicwhip/person/25886,Bolton North East,uk.org.publicwhip/cons/66,Conservative,conservative,2019-12-13,general_election,,,58
+25887,Gary Sambrook,,4760,uk.org.publicwhip/person/25887,"Birmingham, Northfield",uk.org.publicwhip/cons/51,Conservative,conservative,2019-12-13,general_election,,,58
 10267,Oliver Heald,340,69,uk.org.publicwhip/person/10267,North East Hertfordshire,uk.org.publicwhip/cons/413,Conservative,conservative,2019-12-13,general_election,,,58
 25364,Jess Phillips,,4370,uk.org.publicwhip/person/25364,"Birmingham, Yardley",uk.org.publicwhip/cons/55,Labour,labour,2019-12-13,general_election,,,58
-25888,Tahir Ali,,,uk.org.publicwhip/person/25888,"Birmingham, Hall Green",uk.org.publicwhip/cons/48,Labour,labour,2019-12-13,general_election,,,58
-25889,Ben Spencer,,,uk.org.publicwhip/person/25889,Runnymede and Weybridge,uk.org.publicwhip/cons/488,Conservative,conservative,2019-12-13,general_election,,,58
-25890,Claire Coutinho,,,uk.org.publicwhip/person/25890,East Surrey,uk.org.publicwhip/cons/199,Conservative,conservative,2019-12-13,general_election,,,58
+25888,Tahir Ali,,4747,uk.org.publicwhip/person/25888,"Birmingham, Hall Green",uk.org.publicwhip/cons/48,Labour,labour,2019-12-13,general_election,,,58
+25889,Ben Spencer,,4785,uk.org.publicwhip/person/25889,Runnymede and Weybridge,uk.org.publicwhip/cons/488,Conservative,conservative,2019-12-13,general_election,,,58
+25890,Claire Coutinho,,4806,uk.org.publicwhip/person/25890,East Surrey,uk.org.publicwhip/cons/199,Conservative,conservative,2019-12-13,general_election,,,58
 25386,Daniel Zeichner,,4382,uk.org.publicwhip/person/25386,Cambridge,uk.org.publicwhip/cons/109,Labour,labour,2019-12-13,general_election,,,58
 11719,David Davies,,1545,uk.org.publicwhip/person/11719,Monmouth,uk.org.publicwhip/cons/383,Conservative,conservative,2019-12-13,general_election,,,58
 24864,Stuart Andrew,,4032,uk.org.publicwhip/person/24864,Pudsey,uk.org.publicwhip/cons/464,Conservative,conservative,2019-12-13,general_election,,,58
 25411,Chris Matheson,,4408,uk.org.publicwhip/person/25411,City of Chester,uk.org.publicwhip/cons/130,Labour,labour,2019-12-13,general_election,,,58
 25273,Peter Grant,,4466,uk.org.publicwhip/person/25273,Glenrothes,uk.org.publicwhip/cons/697,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25426,Huw Merriman,,4442,uk.org.publicwhip/person/25426,Bexhill and Battle,uk.org.publicwhip/cons/42,Conservative,conservative,2019-12-13,general_election,,,58
-25891,Felicity Buchan,,,uk.org.publicwhip/person/25891,Kensington,uk.org.publicwhip/cons/2199,Conservative,conservative,2019-12-13,general_election,,,58
+25891,Felicity Buchan,,4821,uk.org.publicwhip/person/25891,Kensington,uk.org.publicwhip/cons/2199,Conservative,conservative,2019-12-13,general_election,,,58
 24884,Jonathan Lord,,4090,uk.org.publicwhip/person/24884,Woking,uk.org.publicwhip/cons/642,Conservative,conservative,2019-12-13,general_election,,,58
 11605,Meg Hillier,,1524,uk.org.publicwhip/person/11605,Hackney South and Shoreditch,uk.org.publicwhip/cons/264,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 10678,David Lammy,69,206,uk.org.publicwhip/person/10678,Tottenham,uk.org.publicwhip/cons/585,Labour,labour,2019-12-13,general_election,,,58
-25892,David Simmonds,,,uk.org.publicwhip/person/25892,"Ruislip, Northwood and Pinner",uk.org.publicwhip/cons/2223,Conservative,conservative,2019-12-13,general_election,,,58
+25892,David Simmonds,,4872,uk.org.publicwhip/person/25892,"Ruislip, Northwood and Pinner",uk.org.publicwhip/cons/2223,Conservative,conservative,2019-12-13,general_election,,,58
 11884,Greg Clark,,1578,uk.org.publicwhip/person/11884,Tunbridge Wells,uk.org.publicwhip/cons/587,Conservative,conservative,2019-12-13,general_election,,,58
 25330,Mims Davies,,4513,uk.org.publicwhip/person/25330,Mid Sussex,uk.org.publicwhip/cons/374,Conservative,conservative,2019-12-13,general_election,,,58
 25165,Lucy Powell,,4263,uk.org.publicwhip/person/25165,Manchester Central,uk.org.publicwhip/cons/362,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
-25893,Richard Holden,,,uk.org.publicwhip/person/25893,North West Durham,uk.org.publicwhip/cons/425,Conservative,conservative,2019-12-13,general_election,,,58
+25893,Richard Holden,,4813,uk.org.publicwhip/person/25893,North West Durham,uk.org.publicwhip/cons/425,Conservative,conservative,2019-12-13,general_election,,,58
 11943,Barbara Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2019-12-13,general_election,,,58
 25413,Alberto Costa,,4439,uk.org.publicwhip/person/25413,South Leicestershire,uk.org.publicwhip/cons/2230,Conservative,conservative,2019-12-13,general_election,,,58
 24893,Alec Shelbrooke,,3997,uk.org.publicwhip/person/24893,Elmet and Rothwell,uk.org.publicwhip/cons/2187,Conservative,conservative,2019-12-13,general_election,,,58
 24828,Gordon Henderson,,4050,uk.org.publicwhip/person/24828,Sittingbourne and Sheppey,uk.org.publicwhip/cons/509,Conservative,conservative,2019-12-13,general_election,,,58
-25894,Lee Anderson,,,uk.org.publicwhip/person/25894,Ashfield,uk.org.publicwhip/cons/14,Conservative,conservative,2019-12-13,general_election,,,58
+25894,Lee Anderson,,4743,uk.org.publicwhip/person/25894,Ashfield,uk.org.publicwhip/cons/14,Conservative,conservative,2019-12-13,general_election,,,58
 25304,Jo Stevens,,4425,uk.org.publicwhip/person/25304,Cardiff Central,uk.org.publicwhip/cons/112,Labour,labour,2019-12-13,general_election,,,58
 25357,Louise Haigh,,4473,uk.org.publicwhip/person/25357,"Sheffield, Heeley",uk.org.publicwhip/cons/504,Labour,labour,2019-12-13,general_election,,,58
 11929,Adam Afriyie,,1586,uk.org.publicwhip/person/11929,Windsor,uk.org.publicwhip/cons/638,Conservative,conservative,2019-12-13,general_election,,,58
 24787,Richard Fuller,,3912,uk.org.publicwhip/person/24787,North East Bedfordshire,uk.org.publicwhip/cons/408,Conservative,conservative,2019-12-13,general_election,,,58
-25895,Rob Butler,,,uk.org.publicwhip/person/25895,Aylesbury,uk.org.publicwhip/cons/17,Conservative,conservative,2019-12-13,general_election,,,58
+25895,Rob Butler,,4745,uk.org.publicwhip/person/25895,Aylesbury,uk.org.publicwhip/cons/17,Conservative,conservative,2019-12-13,general_election,,,58
 10268,John Healey,341,400,uk.org.publicwhip/person/10268,Wentworth and Dearne,uk.org.publicwhip/cons/2243,Labour,labour,2019-12-13,general_election,,,58
 24966,David Morris,,4135,uk.org.publicwhip/person/24966,Morecambe and Lunesdale,uk.org.publicwhip/cons/386,Conservative,conservative,2019-12-13,general_election,,,58
 11768,Stephen Crabb,,1554,uk.org.publicwhip/person/11768,Preseli Pembrokeshire,uk.org.publicwhip/cons/462,Conservative,conservative,2019-12-13,general_election,,,58
 11267,Mark Tami,6038,1383,uk.org.publicwhip/person/11267,Alyn and Deeside,uk.org.publicwhip/cons/9,Labour,labour,2019-12-13,general_election,,,58
 11447,Dawn Butler,,1489,uk.org.publicwhip/person/11447,Brent Central,uk.org.publicwhip/cons/2175,Labour,labour,2019-12-13,general_election,,,58
-25896,Feryal Clark,,,uk.org.publicwhip/person/25896,Enfield North,uk.org.publicwhip/cons/217,Labour,labour,2019-12-13,general_election,,,58
+25896,Feryal Clark,,4822,uk.org.publicwhip/person/25896,Enfield North,uk.org.publicwhip/cons/217,Labour,labour,2019-12-13,general_election,,,58
 25305,Douglas Chapman,,4402,uk.org.publicwhip/person/25305,Dunfermline and West Fife,uk.org.publicwhip/cons/680,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 11318,Bill Wiggin,6280,1428,uk.org.publicwhip/person/11318,North Herefordshire,uk.org.publicwhip/cons/2213,Conservative,conservative,2019-12-13,general_election,,,58
 11858,Michael Gove,,1571,uk.org.publicwhip/person/11858,Surrey Heath,uk.org.publicwhip/cons/566,Conservative,conservative,2019-12-13,general_election,,,58
 25676,Bambos Charalambous,,4610,uk.org.publicwhip/person/25676,"Enfield, Southgate",uk.org.publicwhip/cons/218,Labour,labour,2019-12-13,general_election,,,58
-25897,Miriam Joy Cates,,,uk.org.publicwhip/person/25897,Penistone and Stocksbridge,uk.org.publicwhip/cons/2215,Conservative,conservative,2019-12-13,general_election,,,58
+25897,Miriam Joy Cates,,4865,uk.org.publicwhip/person/25897,Penistone and Stocksbridge,uk.org.publicwhip/cons/2215,Conservative,conservative,2019-12-13,general_election,,,58
 25277,Marion Fellows,,4440,uk.org.publicwhip/person/25277,Motherwell and Wishaw,uk.org.publicwhip/cons/388,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 11132,Andrew Murrison,5353,1466,uk.org.publicwhip/person/11132,South West Wiltshire,uk.org.publicwhip/cons/2232,Conservative,conservative,2019-12-13,general_election,,,58
 10228,Cheryl Gillan,303,18,uk.org.publicwhip/person/10228,Chesham and Amersham,uk.org.publicwhip/cons/129,Conservative,conservative,2019-12-13,general_election,,,58
 11859,Jeremy Hunt,,1572,uk.org.publicwhip/person/11859,South West Surrey,uk.org.publicwhip/cons/534,Conservative,conservative,2019-12-13,general_election,,,58
-25898,Jonathan Edward Gullis,,,uk.org.publicwhip/person/25898,Stoke-on-Trent North,uk.org.publicwhip/cons/553,Conservative,conservative,2019-12-13,general_election,,,58
+25898,Jonathan Edward Gullis,,4814,uk.org.publicwhip/person/25898,Stoke-on-Trent North,uk.org.publicwhip/cons/553,Conservative,conservative,2019-12-13,general_election,,,58
 10119,Geoffrey Clifton-Brown,199,249,uk.org.publicwhip/person/10119,The Cotswolds,uk.org.publicwhip/cons/2250,Conservative,conservative,2019-12-13,general_election,,,58
-25899,Jack Edgar Brereton,,,uk.org.publicwhip/person/25899,Stoke-on-Trent South,uk.org.publicwhip/cons/554,Conservative,conservative,2019-12-13,general_election,,,58
+25899,Jack Edgar Brereton,,4643,uk.org.publicwhip/person/25899,Stoke-on-Trent South,uk.org.publicwhip/cons/554,Conservative,conservative,2019-12-13,general_election,,,58
 25667,Lloyd Russell-Moyle,,4615,uk.org.publicwhip/person/25667,"Brighton, Kemptown",uk.org.publicwhip/cons/88,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 25328,Catherine West,,4523,uk.org.publicwhip/person/25328,Hornsey and Wood Green,uk.org.publicwhip/cons/297,Labour,labour,2019-12-13,general_election,,,58
 25439,Anne-Marie Trevelyan,,4531,uk.org.publicwhip/person/25439,Berwick-upon-Tweed,uk.org.publicwhip/cons/39,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4568,15 +4568,15 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25150,Seema Malhotra,,4253,uk.org.publicwhip/person/25150,Feltham and Heston,uk.org.publicwhip/cons/230,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 10604,Jon Trickett,671,410,uk.org.publicwhip/person/10604,Hemsworth,uk.org.publicwhip/cons/285,Labour,labour,2019-12-13,general_election,,,58
 25431,Andrea Jenkyns,,4490,uk.org.publicwhip/person/25431,Morley and Outwood,uk.org.publicwhip/cons/2208,Conservative,conservative,2019-12-13,general_election,,,58
-25900,Theo Clarke,,,uk.org.publicwhip/person/25900,Stafford,uk.org.publicwhip/cons/544,Conservative,conservative,2019-12-13,general_election,,,58
+25900,Theo Clarke,,4819,uk.org.publicwhip/person/25900,Stafford,uk.org.publicwhip/cons/544,Conservative,conservative,2019-12-13,general_election,,,58
 25343,Ruth Cadbury,,4389,uk.org.publicwhip/person/25343,Brentford and Isleworth,uk.org.publicwhip/cons/83,Labour,labour,2019-12-13,general_election,,,58
-25901,Daisy Cooper,,,uk.org.publicwhip/person/25901,St Albans,uk.org.publicwhip/cons/540,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
+25901,Daisy Cooper,,4769,uk.org.publicwhip/person/25901,St Albans,uk.org.publicwhip/cons/540,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 24716,Jack Lopresti,,3989,uk.org.publicwhip/person/24716,Filton and Bradley Stoke,uk.org.publicwhip/cons/2188,Conservative,conservative,2019-12-13,general_election,,,58
 10061,Ben Bradshaw,142,230,uk.org.publicwhip/person/10061,Exeter,uk.org.publicwhip/cons/224,Labour,labour,2019-12-13,general_election,,,58
 24796,Helen Grant,,4018,uk.org.publicwhip/person/24796,Maidstone and The Weald,uk.org.publicwhip/cons/359,Conservative,conservative,2019-12-13,general_election,,,58
 10240,James Gray,313,261,uk.org.publicwhip/person/10240,North Wiltshire,uk.org.publicwhip/cons/429,Conservative,conservative,2019-12-13,general_election,,,58
 24938,Penny Mordaunt,,4017,uk.org.publicwhip/person/24938,Portsmouth North,uk.org.publicwhip/cons/460,Conservative,conservative,2019-12-13,general_election,,,58
-25902,Sally-Ann Hart,,,uk.org.publicwhip/person/25902,Hastings and Rye,uk.org.publicwhip/cons/280,Conservative,conservative,2019-12-13,general_election,,,58
+25902,Sally-Ann Hart,,4842,uk.org.publicwhip/person/25902,Hastings and Rye,uk.org.publicwhip/cons/280,Conservative,conservative,2019-12-13,general_election,,,58
 24691,Chloe Smith,,1609,uk.org.publicwhip/person/24691,Norwich North,uk.org.publicwhip/cons/433,Conservative,conservative,2019-12-13,general_election,,,58
 25406,Carol Monaghan,,4443,uk.org.publicwhip/person/25406,Glasgow North West,uk.org.publicwhip/cons/694,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 10095,Bill Cash,177,288,uk.org.publicwhip/person/10095,Stone,uk.org.publicwhip/cons/555,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4592,7 +4592,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25353,Keir Starmer,,4514,uk.org.publicwhip/person/25353,Holborn and St Pancras,uk.org.publicwhip/cons/295,Labour,labour,2019-12-13,general_election,,,58
 24943,Paul Blomfield,,4058,uk.org.publicwhip/person/24943,Sheffield Central,uk.org.publicwhip/cons/500,Labour,labour,2019-12-13,general_election,,,58
 10041,Paul Beresford,122,103,uk.org.publicwhip/person/10041,Mole Valley,uk.org.publicwhip/cons/382,Conservative,conservative,2019-12-13,general_election,,,58
-25130,Colum Eastwood,,,uk.org.publicwhip/person/25130,Foyle,uk.org.publicwhip/cons/235,Social Democratic and Labour Party,social-democratic-and-labour-party,2019-12-13,general_election,,,58
+25130,Colum Eastwood,,4846,uk.org.publicwhip/person/25130,Foyle,uk.org.publicwhip/cons/235,Social Democratic and Labour Party,social-democratic-and-labour-party,2019-12-13,general_election,,,58
 24902,Alok Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2019-12-13,general_election,,,58
 10172,Jeffrey M. Donaldson,250,650,uk.org.publicwhip/person/10172,Lagan Valley,uk.org.publicwhip/cons/325,DUP,dup,2019-12-13,general_election,,,58
 25664,David Duguid,,4606,uk.org.publicwhip/person/25664,Banff and Buchan,uk.org.publicwhip/cons/20,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4603,7 +4603,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11408,David Evennett,,1198,uk.org.publicwhip/person/11408,Bexleyheath and Crayford,uk.org.publicwhip/cons/43,Conservative,conservative,2019-12-13,general_election,,,58
 10225,Nick Gibb,300,111,uk.org.publicwhip/person/10225,Bognor Regis and Littlehampton,uk.org.publicwhip/cons/64,Conservative,conservative,2019-12-13,general_election,,,58
 24780,Conor Burns,,3922,uk.org.publicwhip/person/24780,Bournemouth West,uk.org.publicwhip/cons/73,Conservative,conservative,2019-12-13,general_election,,,58
-25903,Mark Fletcher,,,uk.org.publicwhip/person/25903,Bolsover,uk.org.publicwhip/cons/65,Conservative,conservative,2019-12-13,general_election,,,58
+25903,Mark Fletcher,,4774,uk.org.publicwhip/person/25903,Bolsover,uk.org.publicwhip/cons/65,Conservative,conservative,2019-12-13,general_election,,,58
 25395,Matt Warman,,4361,uk.org.publicwhip/person/25395,Boston and Skegness,uk.org.publicwhip/cons/70,Conservative,conservative,2019-12-13,general_election,,,58
 11437,Tobias Ellwood,,1487,uk.org.publicwhip/person/11437,Bournemouth East,uk.org.publicwhip/cons/72,Conservative,conservative,2019-12-13,general_election,,,58
 24929,Jonathan Reynolds,,4119,uk.org.publicwhip/person/24929,Stalybridge and Hyde,uk.org.publicwhip/cons/546,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
@@ -4611,7 +4611,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25374,Thomas Tugendhat,,4462,uk.org.publicwhip/person/25374,Tonbridge and Malling,uk.org.publicwhip/cons/579,Conservative,conservative,2019-12-13,general_election,,,58
 25393,Judith Cummins,,4391,uk.org.publicwhip/person/25393,Bradford South,uk.org.publicwhip/cons/76,Labour,labour,2019-12-13,general_election,,,58
 24944,Craig Whittaker,,3940,uk.org.publicwhip/person/24944,Calder Valley,uk.org.publicwhip/cons/107,Conservative,conservative,2019-12-13,general_election,,,58
-25904,Jerome Mayhew,,,uk.org.publicwhip/person/25904,Broadland,uk.org.publicwhip/cons/2177,Conservative,conservative,2019-12-13,general_election,,,58
+25904,Jerome Mayhew,,4739,uk.org.publicwhip/person/25904,Broadland,uk.org.publicwhip/cons/2177,Conservative,conservative,2019-12-13,general_election,,,58
 24853,Julian Sturdy,,4079,uk.org.publicwhip/person/24853,York Outer,uk.org.publicwhip/cons/2249,Conservative,conservative,2019-12-13,general_election,,,58
 24904,Peter Aldous,,4069,uk.org.publicwhip/person/24904,Waveney,uk.org.publicwhip/cons/612,Conservative,conservative,2019-12-13,general_election,,,58
 24860,Jake Berry,,4060,uk.org.publicwhip/person/24860,Rossendale and Darwen,uk.org.publicwhip/cons/482,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4626,25 +4626,25 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25382,Drew Hendry,,4467,uk.org.publicwhip/person/25382,"Inverness, Nairn, Badenoch and Strathspey",uk.org.publicwhip/cons/700,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 24841,Chris Heaton-Harris,,3977,uk.org.publicwhip/person/24841,Daventry,uk.org.publicwhip/cons/167,Conservative,conservative,2019-12-13,general_election,,,58
 24803,Gareth Johnson,,3970,uk.org.publicwhip/person/24803,Dartford,uk.org.publicwhip/cons/166,Conservative,conservative,2019-12-13,general_election,,,58
-25905,James Daly,,,uk.org.publicwhip/person/25905,Bury North,uk.org.publicwhip/cons/101,Conservative,conservative,2019-12-13,general_election,,,58
+25905,James Daly,,4854,uk.org.publicwhip/person/25905,Bury North,uk.org.publicwhip/cons/101,Conservative,conservative,2019-12-13,general_election,,,58
 24909,Mark Spencer,,4055,uk.org.publicwhip/person/24909,Sherwood,uk.org.publicwhip/cons/506,Conservative,conservative,2019-12-13,general_election,,,58
 11816,Philip Davies,,1565,uk.org.publicwhip/person/11816,Shipley,uk.org.publicwhip/cons/507,Conservative,conservative,2019-12-13,general_election,,,58
 10632,John Whittingdale,699,39,uk.org.publicwhip/person/10632,Maldon,uk.org.publicwhip/cons/2203,Conservative,conservative,2019-12-13,general_election,,,58
 25407,Rebecca Pow,,4522,uk.org.publicwhip/person/25407,Taunton Deane,uk.org.publicwhip/cons/2236,Conservative,conservative,2019-12-13,general_election,,,58
 10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2019-12-13,general_election,,,58
-25906,Alicia Kearns,,,uk.org.publicwhip/person/25906,Rutland and Melton,uk.org.publicwhip/cons/490,Conservative,conservative,2019-12-13,general_election,,,58
+25906,Alicia Kearns,,4805,uk.org.publicwhip/person/25906,Rutland and Melton,uk.org.publicwhip/cons/490,Conservative,conservative,2019-12-13,general_election,,,58
 11924,John Penrose,,1584,uk.org.publicwhip/person/11924,Weston-Super-Mare,uk.org.publicwhip/cons/634,Conservative,conservative,2019-12-13,general_election,,,58
 24934,Mike Freer,,4004,uk.org.publicwhip/person/24934,Finchley and Golders Green,uk.org.publicwhip/cons/232,Conservative,conservative,2019-12-13,general_election,,,58
-25907,Elliot Colburn,,,uk.org.publicwhip/person/25907,Carshalton and Wallington,uk.org.publicwhip/cons/120,Conservative,conservative,2019-12-13,general_election,,,58
-25908,Olivia Frances Blake,,,uk.org.publicwhip/person/25908,"Sheffield, Hallam",uk.org.publicwhip/cons/503,Labour,labour,2019-12-13,general_election,,,58
-25909,Zarah Sultana,,,uk.org.publicwhip/person/25909,Coventry South,uk.org.publicwhip/cons/153,Labour,labour,2019-12-13,general_election,,,58
-25910,Ben Everitt,,,uk.org.publicwhip/person/25910,Milton Keynes North,uk.org.publicwhip/cons/2206,Conservative,conservative,2019-12-13,general_election,,,58
+25907,Elliot Colburn,,4775,uk.org.publicwhip/person/25907,Carshalton and Wallington,uk.org.publicwhip/cons/120,Conservative,conservative,2019-12-13,general_election,,,58
+25908,Olivia Frances Blake,,4864,uk.org.publicwhip/person/25908,"Sheffield, Hallam",uk.org.publicwhip/cons/503,Labour,labour,2019-12-13,general_election,,,58
+25909,Zarah Sultana,,4786,uk.org.publicwhip/person/25909,Coventry South,uk.org.publicwhip/cons/153,Labour,labour,2019-12-13,general_election,,,58
+25910,Ben Everitt,,4836,uk.org.publicwhip/person/25910,Milton Keynes North,uk.org.publicwhip/cons/2206,Conservative,conservative,2019-12-13,general_election,,,58
 24947,Iain Stewart,,4015,uk.org.publicwhip/person/24947,Milton Keynes South,uk.org.publicwhip/cons/2207,Conservative,conservative,2019-12-13,general_election,,,58
 10534,Barry Sheerman,603,411,uk.org.publicwhip/person/10534,Huddersfield,uk.org.publicwhip/cons/301,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 25220,Mike Kane,,4316,uk.org.publicwhip/person/25220,Wythenshawe and Sale East,uk.org.publicwhip/cons/656,Labour,labour,2019-12-13,general_election,,,58
-25911,Simon Jupp,,,uk.org.publicwhip/person/25911,East Devon,uk.org.publicwhip/cons/193,Conservative,conservative,2019-12-13,general_election,,,58
+25911,Simon Jupp,,4862,uk.org.publicwhip/person/25911,East Devon,uk.org.publicwhip/cons/193,Conservative,conservative,2019-12-13,general_election,,,58
 25592,Tracy Brabin,,4588,uk.org.publicwhip/person/25592,Batley and Spen,uk.org.publicwhip/cons/30,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
-25912,Sam Tarry,,,uk.org.publicwhip/person/25912,Ilford South,uk.org.publicwhip/cons/305,Labour,labour,2019-12-13,general_election,,,58
+25912,Sam Tarry,,4829,uk.org.publicwhip/person/25912,Ilford South,uk.org.publicwhip/cons/305,Labour,labour,2019-12-13,general_election,,,58
 25320,Wes Streeting,,4504,uk.org.publicwhip/person/25320,Ilford North,uk.org.publicwhip/cons/304,Labour,labour,2019-12-13,general_election,,,58
 25397,Maria Caulfield,,4492,uk.org.publicwhip/person/25397,Lewes,uk.org.publicwhip/cons/337,Conservative,conservative,2019-12-13,general_election,,,58
 24920,Rehman Chishti,,3987,uk.org.publicwhip/person/24920,Gillingham and Rainham,uk.org.publicwhip/cons/2191,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4654,10 +4654,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25336,Deidre Brock,,4417,uk.org.publicwhip/person/25336,Edinburgh North and Leith,uk.org.publicwhip/cons/209,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25318,Philippa Whitford,,4385,uk.org.publicwhip/person/25318,Central Ayrshire,uk.org.publicwhip/cons/667,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 13893,Mickey Brady,,4373,uk.org.publicwhip/person/13893,Newry and Armagh,uk.org.publicwhip/cons/400,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
-25913,Danny Kruger,,,uk.org.publicwhip/person/25913,Devizes,uk.org.publicwhip/cons/172,Conservative,conservative,2019-12-13,general_election,,,58
+25913,Danny Kruger,,4858,uk.org.publicwhip/person/25913,Devizes,uk.org.publicwhip/cons/172,Conservative,conservative,2019-12-13,general_election,,,58
 25396,Edward Argar,,4362,uk.org.publicwhip/person/25396,Charnwood,uk.org.publicwhip/cons/125,Conservative,conservative,2019-12-13,general_election,,,58
 24871,Tracey Crouch,,3950,uk.org.publicwhip/person/24871,Chatham and Aylesford,uk.org.publicwhip/cons/126,Conservative,conservative,2019-12-13,general_election,,,58
-25914,Apsana Begum,,,uk.org.publicwhip/person/25914,Poplar and Limehouse,uk.org.publicwhip/cons/2218,Labour,labour,2019-12-13,general_election,,,58
+25914,Apsana Begum,,4790,uk.org.publicwhip/person/25914,Poplar and Limehouse,uk.org.publicwhip/cons/2218,Labour,labour,2019-12-13,general_election,,,58
 25418,Peter Kyle,,4505,uk.org.publicwhip/person/25418,Hove,uk.org.publicwhip/cons/300,Labour,labour,2019-12-13,general_election,,,58
 13852,Ian Paisley Jnr,,4129,uk.org.publicwhip/person/13852,North Antrim,uk.org.publicwhip/cons/402,DUP,dup,2019-12-13,general_election,,,58
 25675,Christine Jardine,,4634,uk.org.publicwhip/person/25675,Edinburgh West,uk.org.publicwhip/cons/211,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
@@ -4667,38 +4667,38 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24770,Kwasi Kwarteng,,4134,uk.org.publicwhip/person/24770,Spelthorne,uk.org.publicwhip/cons/539,Conservative,conservative,2019-12-13,general_election,,,58
 25387,Tom Pursglove,,4369,uk.org.publicwhip/person/25387,Corby,uk.org.publicwhip/cons/149,Conservative,conservative,2019-12-13,general_election,,,58
 25319,Colleen Fletcher,,4378,uk.org.publicwhip/person/25319,Coventry North East,uk.org.publicwhip/cons/151,Labour,labour,2019-12-13,general_election,,,58
-25915,Taiwo Owatemi,,,uk.org.publicwhip/person/25915,Coventry North West,uk.org.publicwhip/cons/152,Labour,labour,2019-12-13,general_election,,,58
-25916,Aaron Bell,,,uk.org.publicwhip/person/25916,Newcastle-under-Lyme,uk.org.publicwhip/cons/397,Conservative,conservative,2019-12-13,general_election,,,58
+25915,Taiwo Owatemi,,4779,uk.org.publicwhip/person/25915,Coventry North West,uk.org.publicwhip/cons/152,Labour,labour,2019-12-13,general_election,,,58
+25916,Aaron Bell,,4837,uk.org.publicwhip/person/25916,Newcastle-under-Lyme,uk.org.publicwhip/cons/397,Conservative,conservative,2019-12-13,general_election,,,58
 11917,Grant Shapps,,1582,uk.org.publicwhip/person/11917,Welwyn Hatfield,uk.org.publicwhip/cons/617,Conservative,conservative,2019-12-13,general_election,,,58
 25437,Craig Mackinlay,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2019-12-13,general_election,,,58
 10828,Jon Cruddas,3939,1406,uk.org.publicwhip/person/10828,Dagenham and Rainham,uk.org.publicwhip/cons/2184,Labour,labour,2019-12-13,general_election,,,58
 25436,Amanda Solloway,,4372,uk.org.publicwhip/person/25436,Derby North,uk.org.publicwhip/cons/170,Conservative,conservative,2019-12-13,general_election,,,58
 10213,Liam Fox,288,223,uk.org.publicwhip/person/10213,North Somerset,uk.org.publicwhip/cons/2214,Conservative,conservative,2019-12-13,general_election,,,58
 25399,Lucy Frazer,,4517,uk.org.publicwhip/person/25399,South East Cambridgeshire,uk.org.publicwhip/cons/520,Conservative,conservative,2019-12-13,general_election,,,58
-25917,Marco Longhi,,,uk.org.publicwhip/person/25917,Dudley North,uk.org.publicwhip/cons/178,Conservative,conservative,2019-12-13,general_election,,,58
-25562,Carla Lockhart,,,uk.org.publicwhip/person/25562,Upper Bann,uk.org.publicwhip/cons/593,DUP,dup,2019-12-13,general_election,,,58
+25917,Marco Longhi,,4789,uk.org.publicwhip/person/25917,Dudley North,uk.org.publicwhip/cons/178,Conservative,conservative,2019-12-13,general_election,,,58
+25562,Carla Lockhart,,4857,uk.org.publicwhip/person/25562,Upper Bann,uk.org.publicwhip/cons/593,DUP,dup,2019-12-13,general_election,,,58
 25392,Flick Drummond,,4459,uk.org.publicwhip/person/25392,Meon Valley,uk.org.publicwhip/cons/2204,Conservative,conservative,2019-12-13,general_election,,,58
 25378,Justin Madders,,4418,uk.org.publicwhip/person/25378,Ellesmere Port and Neston,uk.org.publicwhip/cons/214,Labour,labour,2019-12-13,general_election,,,58
-25918,Chris Loder,,,uk.org.publicwhip/person/25918,West Dorset,uk.org.publicwhip/cons/624,Conservative,conservative,2019-12-13,general_election,,,58
+25918,Chris Loder,,4751,uk.org.publicwhip/person/25918,West Dorset,uk.org.publicwhip/cons/624,Conservative,conservative,2019-12-13,general_election,,,58
 24779,Neil Parish,,4072,uk.org.publicwhip/person/24779,Tiverton and Honiton,uk.org.publicwhip/cons/578,Conservative,conservative,2019-12-13,general_election,,,58
-25919,Richard Gordon Thomson,,,uk.org.publicwhip/person/25919,Gordon,uk.org.publicwhip/cons/253,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-25920,Gagan Mohindra,,,uk.org.publicwhip/person/25920,South West Hertfordshire,uk.org.publicwhip/cons/532,Conservative,conservative,2019-12-13,general_election,,,58
+25919,Richard Gordon Thomson,,4796,uk.org.publicwhip/person/25919,Gordon,uk.org.publicwhip/cons/253,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+25920,Gagan Mohindra,,4804,uk.org.publicwhip/person/25920,South West Hertfordshire,uk.org.publicwhip/cons/532,Conservative,conservative,2019-12-13,general_election,,,58
 24855,James Morris,,3992,uk.org.publicwhip/person/24855,Halesowen and Rowley Regis,uk.org.publicwhip/cons/265,Conservative,conservative,2019-12-13,general_election,,,58
 25662,Afzal Khan,,4671,uk.org.publicwhip/person/25662,"Manchester, Gorton",uk.org.publicwhip/cons/364,Labour,labour,2019-12-13,general_election,,,58
 25366,Jeff Smith,,4456,uk.org.publicwhip/person/25366,"Manchester, Withington",uk.org.publicwhip/cons/365,Labour,labour,2019-12-13,general_election,,,58
-25921,Jane Hunt,,,uk.org.publicwhip/person/25921,Loughborough,uk.org.publicwhip/cons/352,Conservative,conservative,2019-12-13,general_election,,,58
+25921,Jane Hunt,,4839,uk.org.publicwhip/person/25921,Loughborough,uk.org.publicwhip/cons/352,Conservative,conservative,2019-12-13,general_election,,,58
 14131,John Howell,,1606,uk.org.publicwhip/person/14131,Henley,uk.org.publicwhip/cons/287,Conservative,conservative,2019-12-13,general_election,,,58
 25367,Johnny Mercer,,4485,uk.org.publicwhip/person/25367,"Plymouth, Moor View",uk.org.publicwhip/cons/2216,Conservative,conservative,2019-12-13,general_election,,,58
 10582,Robert Syms,649,245,uk.org.publicwhip/person/10582,Poole,uk.org.publicwhip/cons/458,Conservative,conservative,2019-12-13,general_election,,,58
 24827,Jesse Norman,,3991,uk.org.publicwhip/person/24827,Hereford and South Herefordshire,uk.org.publicwhip/cons/2195,Conservative,conservative,2019-12-13,general_election,,,58
 25384,Marcus Fysh,,4446,uk.org.publicwhip/person/25384,Yeovil,uk.org.publicwhip/cons/657,Conservative,conservative,2019-12-13,general_election,,,58
 10057,Peter Bottomley,138,117,uk.org.publicwhip/person/10057,Worthing West,uk.org.publicwhip/cons/651,Conservative,conservative,2019-12-13,general_election,,,58
-25922,Robbie Moore,,,uk.org.publicwhip/person/25922,Keighley,uk.org.publicwhip/cons/313,Conservative,conservative,2019-12-13,general_election,,,58
+25922,Robbie Moore,,4861,uk.org.publicwhip/person/25922,Keighley,uk.org.publicwhip/cons/313,Conservative,conservative,2019-12-13,general_election,,,58
 25422,Michael Tomlinson,,4497,uk.org.publicwhip/person/25422,Mid Dorset and North Poole,uk.org.publicwhip/cons/372,Conservative,conservative,2019-12-13,general_election,,,58
 24821,Pauline Latham,,4025,uk.org.publicwhip/person/24821,Mid Derbyshire,uk.org.publicwhip/cons/2205,Conservative,conservative,2019-12-13,general_election,,,58
 24901,Steve Brine,,4067,uk.org.publicwhip/person/24901,Winchester,uk.org.publicwhip/cons/637,Conservative,conservative,2019-12-13,general_election,,,58
 10103,Christopher Chope,185,242,uk.org.publicwhip/person/10103,Christchurch,uk.org.publicwhip/cons/136,Conservative,conservative,2019-12-13,general_election,,,58
-25923,Mark Eastwood,,,uk.org.publicwhip/person/25923,Dewsbury,uk.org.publicwhip/cons/173,Conservative,conservative,2019-12-13,general_election,,,58
+25923,Mark Eastwood,,4807,uk.org.publicwhip/person/25923,Dewsbury,uk.org.publicwhip/cons/173,Conservative,conservative,2019-12-13,general_election,,,58
 25383,Scott Mann,,4496,uk.org.publicwhip/person/25383,North Cornwall,uk.org.publicwhip/cons/403,Conservative,conservative,2019-12-13,general_election,,,58
 11500,Theresa Villiers,,1500,uk.org.publicwhip/person/11500,Chipping Barnet,uk.org.publicwhip/cons/134,Conservative,conservative,2019-12-13,general_election,,,58
 24955,Matthew Offord,,4006,uk.org.publicwhip/person/24955,Hendon,uk.org.publicwhip/cons/286,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4706,14 +4706,14 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25689,Layla Moran,,4656,uk.org.publicwhip/person/25689,Oxford West and Abingdon,uk.org.publicwhip/cons/447,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
 25361,Ian Blackford,,4390,uk.org.publicwhip/person/25361,"Ross, Skye and Lochaber",uk.org.publicwhip/cons/713,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25372,David Warburton,,4526,uk.org.publicwhip/person/25372,Somerton and Frome,uk.org.publicwhip/cons/514,Conservative,conservative,2019-12-13,general_election,,,58
-25924,David Johnston,,,uk.org.publicwhip/person/25924,Wantage,uk.org.publicwhip/cons/606,Conservative,conservative,2019-12-13,general_election,,,58
+25924,David Johnston,,4761,uk.org.publicwhip/person/25924,Wantage,uk.org.publicwhip/cons/606,Conservative,conservative,2019-12-13,general_election,,,58
 24875,Sheryll Murray,,4100,uk.org.publicwhip/person/24875,South East Cornwall,uk.org.publicwhip/cons/521,Conservative,conservative,2019-12-13,general_election,,,58
 24941,Elizabeth Truss,,4097,uk.org.publicwhip/person/24941,South West Norfolk,uk.org.publicwhip/cons/533,Conservative,conservative,2019-12-13,general_election,,,58
-25925,Greg Smith,,,uk.org.publicwhip/person/25925,Buckingham,uk.org.publicwhip/cons/98,Conservative,conservative,2019-12-13,general_election,,,58
+25925,Greg Smith,,4778,uk.org.publicwhip/person/25925,Buckingham,uk.org.publicwhip/cons/98,Conservative,conservative,2019-12-13,general_election,,,58
 25410,Steve Double,,4452,uk.org.publicwhip/person/25410,St Austell and Newquay,uk.org.publicwhip/cons/2233,Conservative,conservative,2019-12-13,general_election,,,58
 24771,Therese Coffey,,4098,uk.org.publicwhip/person/24771,Suffolk Coastal,uk.org.publicwhip/cons/563,Conservative,conservative,2019-12-13,general_election,,,58
 25703,Andrew Bowie,,4601,uk.org.publicwhip/person/25703,West Aberdeenshire and Kincardine,uk.org.publicwhip/cons/619,Conservative,conservative,2019-12-13,general_election,,,58
-25926,Suzanne Webb,,,uk.org.publicwhip/person/25926,Stourbridge,uk.org.publicwhip/cons/556,Conservative,conservative,2019-12-13,general_election,,,58
+25926,Suzanne Webb,,4802,uk.org.publicwhip/person/25926,Stourbridge,uk.org.publicwhip/cons/556,Conservative,conservative,2019-12-13,general_election,,,58
 25370,Brendan O'Hara,,4371,uk.org.publicwhip/person/25370,Argyll and Bute,uk.org.publicwhip/cons/12,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25415,Kevin Hollinrake,,4474,uk.org.publicwhip/person/25415,Thirsk and Malton,uk.org.publicwhip/cons/2238,Conservative,conservative,2019-12-13,general_election,,,58
 24887,Jason McCartney,,3953,uk.org.publicwhip/person/24887,Colne Valley,uk.org.publicwhip/cons/145,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4727,5 +4727,5 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10913,Michelle Gildernew,4566,1416,uk.org.publicwhip/person/10913,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231,Sinn Féin,sinn-fein,2019-12-13,general_election,,,58
 11541,Geoffrey Cox,,1508,uk.org.publicwhip/person/11541,Torridge and West Devon,uk.org.publicwhip/cons/583,Conservative,conservative,2019-12-13,general_election,,,58
 24829,Andrea Leadsom,,4117,uk.org.publicwhip/person/24829,South Northamptonshire,uk.org.publicwhip/cons/2231,Conservative,conservative,2019-12-13,general_election,,,58
-25927,Andrew Griffith,,,uk.org.publicwhip/person/25927,Arundel and South Downs,uk.org.publicwhip/cons/13,Conservative,conservative,2019-12-13,general_election,,,58
+25927,Andrew Griffith,,4874,uk.org.publicwhip/person/25927,Arundel and South Downs,uk.org.publicwhip/cons/13,Conservative,conservative,2019-12-13,general_election,,,58
 25440,Derek Thomas,,4532,uk.org.publicwhip/person/25440,St Ives,uk.org.publicwhip/cons/543,Conservative,conservative,2019-12-13,general_election,,,58
