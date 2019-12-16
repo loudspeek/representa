@@ -1869,6 +1869,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:David_Stewart_(Scottish_politician)"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/ديفيد_ستيوارت_(سياسي)"
         },
@@ -2075,6 +2079,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Neil_Findlay"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Neil_Findlay"
@@ -8012,6 +8020,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Jamie_Halcro_Johnston"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Jamie_Halcro_Johnston"
         }
       ],
       "name": "Jamie Halcro Johnston"
@@ -10075,6 +10087,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sarah_Boyack"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Sarah_Boyack"
         },
@@ -10905,6 +10921,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Pauline_McNeill"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Pauline_McNeill"
@@ -13235,6 +13255,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:David_Torrance_(politician)"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/ديفيد_تورانس"
         },
@@ -13290,6 +13314,10 @@
       "given_name": "Kenny",
       "id": "abbee5a4-f4e6-44f1-93f7-2d93d64623da",
       "identifiers": [
+        {
+          "identifier": "4772",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "71831",
           "scheme": "democracyclub"
@@ -14694,6 +14722,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sandra_White"
+        },
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Sandra_Vayt"
@@ -17024,6 +17056,10 @@
           "url": "https://bar.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
+          "note": "Wikipedia (bat_smg)",
+          "url": "https://bat_smg.wikipedia.org/wiki/Nicola_Ferguson_Sturgeon"
+        },
+        {
           "note": "Wikipedia (br)",
           "url": "https://br.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -17210,6 +17246,10 @@
         {
           "note": "Wikiquote (en)",
           "url": "https://en.wikiquote.org/wiki/Nicola_Sturgeon"
+        },
+        {
+          "note": "Wikiquote (it)",
+          "url": "https://it.wikiquote.org/wiki/Nicola_Sturgeon"
         },
         {
           "note": "Wikiquote (pl)",
@@ -18877,9 +18917,16 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783687362"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Monica_Lennon_(25935373444)_(1).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Monica_Lennon"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Monica_Lennon"
