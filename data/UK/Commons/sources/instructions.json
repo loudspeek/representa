@@ -14,7 +14,7 @@
       "file": "morph/parliament.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/uk-parliament-members",
+        "scraper": "mashedkeyboard/uk-parliament-members",
         "query": "SELECT id, name, sort_name, birth_date, death_date, gender, email, phone, fax, website, twitter, facebook, blog, youtube, flickr, identifier__dods, identifier__pims FROM data ORDER BY id"
       },
       "type": "person",

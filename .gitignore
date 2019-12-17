@@ -10,3 +10,4 @@ templates/*.css
 templates/*.css.map
 .position-filter.html
 .position-filter.js
+/.idea/
