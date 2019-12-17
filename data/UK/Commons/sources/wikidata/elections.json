@@ -1427,8 +1427,32 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "nb",
+        "name": "Storbritannias parlamentsvalg 2010",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "انتخابات المملكة المتحدة لعام ٢٠١٠",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "en",
-        "name": "United Kingdom general election of 2010",
+        "name": "2010 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2010 general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom general election, 2010",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1440,19 +1464,7 @@
       },
       {
         "lang": "en",
-        "name": "United Kingdom general election, 2010",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "nb",
-        "name": "Storbritannias parlamentsvalg 2010",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "ar",
-        "name": "انتخابات المملكة المتحدة لعام ٢٠١٠",
+        "name": "General election, 2010",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3353,30 +3365,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "en",
-        "name": "UK general election, 2017",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "United Kingdom general election of 2017",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "2017 United Kingdom general election",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "United Kingdom general election, 2017",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "en-ca",
         "name": "UK snap election",
         "note": "multilingual",
@@ -3391,6 +3379,36 @@
       {
         "lang": "ar",
         "name": "الانتخابات التشريعية البريطانية 2017",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2017 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2017 general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom general election, 2017",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2017",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "General election, 2017",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4020,6 +4038,78 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "da",
+        "name": "Parlamentsvalget i Storbritannien 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fi",
+        "name": "Yhdistyneen kuningaskunnan parlamenttivaalit 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Pilihan raya umum United Kingdom 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pl",
+        "name": "Wybory parlamentarne w Wielkiej Brytanii w 2019 roku",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "Eleições gerais no Reino Unido em 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ro",
+        "name": "Alegeri generale legislative în Regatul Unit, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "th",
+        "name": "การเลือกตั้งทั่วไปในสหราชอาณาจักร พ.ศ. 2562",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "tr",
+        "name": "2019 Birleşik Krallık genel seçimleri",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори у Великій Британії 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vi",
+        "name": "Tổng tuyển cử Vương quốc Liên hiệp Anh và Bắc Ireland, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "Γενικές εκλογές του Ηνωμένου Βασιλείου (2019)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hy",
+        "name": "Խորհրդարանական ընտրություններ Մեծ Բրիտանիայում (2019)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2019年英國大選",
         "note": "multilingual",
@@ -4028,6 +4118,36 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 2019",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2019 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2019 general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom general election, 2019",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2019",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "General election, 2019",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4386,13 +4506,31 @@
       },
       {
         "lang": "en",
-        "name": "UK general election, 2015",
+        "name": "2015 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2015 general election",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "United Kingdom general election, 2015",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2015",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "General election, 2015",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5497,13 +5635,31 @@
       },
       {
         "lang": "en",
-        "name": "UK general election, 2001",
+        "name": "2001 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2001 general election",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "United Kingdom general election, 2001",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2001",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "General election, 2001",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -6769,13 +6925,31 @@
       },
       {
         "lang": "en",
-        "name": "UK general election, 1997",
+        "name": "1997 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "1997 general election",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "en",
         "name": "United Kingdom general election, 1997",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 1997",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "General election, 1997",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

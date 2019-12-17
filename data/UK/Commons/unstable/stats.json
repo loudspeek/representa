@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1582,
-    "wikidata": 1439,
+    "wikidata": 731,
     "latest_term": {
       "count": 650,
-      "wikidata": 507,
-      "images": 505,
+      "wikidata": 249,
+      "images": 476,
       "contacts": {
         "email": 489,
-        "facebook": 406,
-        "twitter": 479
+        "facebook": 404,
+        "twitter": 467
       }
     }
   },
@@ -31,13 +31,13 @@
     "latest": "2019-12-12"
   },
   "positions": {
-    "cabinet": 240
+    "cabinet": 114
   },
   "sources": [
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2019-12-13"
+      "lastmod": "2019-12-14"
     },
     {
       "file": "morph/parliament.csv",
@@ -92,7 +92,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-12-13"
+      "lastmod": "2019-12-14"
     },
     {
       "file": "morph/areas.csv",
