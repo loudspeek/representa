@@ -153,11 +153,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/336bfeb2c9ed8902dd3fc1ad4ff2c46164f01a84/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1576283168",
+        "lastmod": "1576621903",
         "person_count": 1582,
-        "sha": "336bfeb2c9ed8902dd3fc1ad4ff2c46164f01a84",
+        "sha": "537392f80c49e80bd9b609be38cb42265b51469b",
         "legislative_periods": [
           {
             "id": "term/58",
@@ -165,7 +165,7 @@
             "start_date": "2019-12-13",
             "slug": "58",
             "csv": "data/UK/Commons/term-58.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/336bfeb2c9ed8902dd3fc1ad4ff2c46164f01a84/data/UK/Commons/term-58.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-58.csv"
           },
           {
             "end_date": "2019-11-06",
@@ -174,7 +174,7 @@
             "start_date": "2017-06-09",
             "slug": "57",
             "csv": "data/UK/Commons/term-57.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-57.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-57.csv"
           },
           {
             "end_date": "2017-05-03",
@@ -183,7 +183,7 @@
             "start_date": "2015-05-08",
             "slug": "56",
             "csv": "data/UK/Commons/term-56.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-56.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-56.csv"
           },
           {
             "end_date": "2015-03-30",
@@ -192,7 +192,7 @@
             "start_date": "2010-05-06",
             "slug": "55",
             "csv": "data/UK/Commons/term-55.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-55.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-55.csv"
           },
           {
             "end_date": "2010-04-12",
@@ -201,7 +201,7 @@
             "start_date": "2005-05-05",
             "slug": "54",
             "csv": "data/UK/Commons/term-54.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-54.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-54.csv"
           },
           {
             "end_date": "2005-04-11",
@@ -210,7 +210,7 @@
             "start_date": "2001-06-07",
             "slug": "53",
             "csv": "data/UK/Commons/term-53.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-53.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-53.csv"
           },
           {
             "end_date": "2001-05-14",
@@ -219,10 +219,10 @@
             "start_date": "1997-05-01",
             "slug": "52",
             "csv": "data/UK/Commons/term-52.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/b0e0d8d7e74691f52ae415a9046e9eb0210fc068/data/UK/Commons/term-52.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/537392f80c49e80bd9b609be38cb42265b51469b/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 144739,
+        "statement_count": 106639,
         "type": "lower house"
       }
     ]
