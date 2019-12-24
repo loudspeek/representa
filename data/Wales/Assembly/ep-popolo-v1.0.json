@@ -16006,6 +16006,10 @@
           "scheme": "bbc_things"
         },
         {
+          "identifier": "sh85056133",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "Q5590043",
           "scheme": "wikidata"
         }
