@@ -563,7 +563,7 @@
       },
       {
         "lang": "ar",
-        "name": "حزب المحافظين البريطاني",
+        "name": "حزب المحافظين",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1164,6 +1164,48 @@
       {
         "lang": "ga",
         "name": "Páirtí Caomhach na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب المحافظون",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب المحافظين والاتحاديين",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب المحافظون والاتحاديون",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظين المملكة المتحدة",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظون المملكة المتحدة",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظين بريطانيا",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظون ريطانيا",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
