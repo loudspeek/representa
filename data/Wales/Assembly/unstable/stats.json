@@ -60,7 +60,7 @@
     {
       "file": "wikidata/parties.json",
       "type": "group",
-      "lastmod": "2019-11-01"
+      "lastmod": "2019-12-13"
     },
     {
       "file": "morph/terms.csv",
@@ -83,7 +83,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-08-05"
+      "lastmod": "2019-12-13"
     },
     {
       "file": "morph/areas.csv",
