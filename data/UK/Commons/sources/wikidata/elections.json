@@ -3359,6 +3359,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ms",
+        "name": "Pilihan raya umum United Kingdom 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -4156,6 +4162,7 @@
       "2019-12-12"
     ],
     "follows": "2017 United Kingdom general election",
+    "followed_by": "Next United Kingdom general election",
     "office": "Member of Parliament"
   },
   "Q30578121": {
@@ -6172,6 +6179,37 @@
         "source": "wikidata-alias"
       }
     ],
+    "office": "Member of Parliament"
+  },
+  "Q78851988": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q78851988"
+      }
+    ],
+    "name": "Next United Kingdom general election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "Next United Kingdom general election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "Γενικές εκλογές στο Ηνωμένο Βασίλειο (2024)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "elections generales au Royaume-Uni (2024)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "follows": "2019 United Kingdom general election",
     "office": "Member of Parliament"
   },
   "Q7887994": {
