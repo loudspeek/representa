@@ -1869,6 +1869,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:David_Stewart_(Scottish_politician)"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/ديفيد_ستيوارت_(سياسي)"
         },
@@ -2075,6 +2079,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Neil_Findlay"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Neil_Findlay"
@@ -2494,7 +2502,7 @@
           "scheme": "scotparl"
         },
         {
-          "identifier": "willie_rennie",
+          "identifier": "13712",
           "scheme": "twfy"
         },
         {
@@ -2633,7 +2641,14 @@
           "url": "https://twitter.com/hotelierswife"
         }
       ],
-      "name": "Rachael Hamilton"
+      "name": "Rachael Hamilton",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "レイチェル・ハミルトン",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1980-06-07",
@@ -4947,6 +4962,11 @@
           "lang": "gd",
           "name": "Cairistìona Ghreumach",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "クリスティン・グレアム",
+          "note": "multilingual"
         }
       ]
     },
@@ -5436,6 +5456,11 @@
         {
           "lang": "ar",
           "name": "جون لامونت",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョン・ラモント",
           "note": "multilingual"
         },
         {
@@ -6445,10 +6470,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Rhona_Brankin"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Rhona_Brankin"
         }
       ],
       "name": "Rhona Brankin"
@@ -6753,6 +6774,10 @@
           "url": "https://gd.wikipedia.org/wiki/Dàibhidh_Mundell"
         },
         {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/דייוויד_מאנדל"
+        },
+        {
           "note": "Wikipedia (hy)",
           "url": "https://hy.wikipedia.org/wiki/Դևիդ_Մանդել"
         },
@@ -6806,6 +6831,11 @@
         {
           "lang": "gd",
           "name": "Dàibhidh Mundell",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "דייוויד מאנדל",
           "note": "multilingual"
         },
         {
@@ -8012,6 +8042,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Jamie_Halcro_Johnston"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Jamie_Halcro_Johnston"
         }
       ],
       "name": "Jamie Halcro Johnston"
@@ -8345,10 +8379,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Scott_Barrie"
-        },
-        {
-          "note": "Wikipedia (hu)",
-          "url": "https://hu.wikipedia.org/wiki/Scott_Barrie"
         }
       ],
       "name": "Scott Barrie",
@@ -10075,6 +10105,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sarah_Boyack"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Sarah_Boyack"
         },
@@ -10905,6 +10939,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Pauline_McNeill"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Pauline_McNeill"
@@ -13141,6 +13179,10 @@
           "url": "https://en.wikipedia.org/wiki/Douglas_Ross_(Scottish_politician)"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Douglas_Ross"
+        },
+        {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Dùghlas_Ross"
         },
@@ -13235,6 +13277,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:David_Torrance_(politician)"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/ديفيد_تورانس"
         },
@@ -13290,6 +13336,10 @@
       "given_name": "Kenny",
       "id": "abbee5a4-f4e6-44f1-93f7-2d93d64623da",
       "identifiers": [
+        {
+          "identifier": "4772",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "71831",
           "scheme": "democracyclub"
@@ -14694,6 +14744,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Sandra_White"
+        },
         {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Sandra_Vayt"
@@ -17024,6 +17078,10 @@
           "url": "https://bar.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
+          "note": "Wikipedia (bat_smg)",
+          "url": "https://bat_smg.wikipedia.org/wiki/Nikola_Fergiuson_Sterdžėn"
+        },
+        {
           "note": "Wikipedia (br)",
           "url": "https://br.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -17110,6 +17168,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Nicola_Sturgeon"
+        },
+        {
+          "note": "Wikipedia (ia)",
+          "url": "https://ia.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
           "note": "Wikipedia (id)",
@@ -17201,7 +17263,7 @@
         },
         {
           "note": "Wikipedia (zh)",
-          "url": "https://zh.wikipedia.org/wiki/尼古拉·斯特金"
+          "url": "https://zh.wikipedia.org/wiki/妮古拉·斯特金"
         },
         {
           "note": "Wikipedia (zh_yue)",
@@ -17210,6 +17272,10 @@
         {
           "note": "Wikiquote (en)",
           "url": "https://en.wikiquote.org/wiki/Nicola_Sturgeon"
+        },
+        {
+          "note": "Wikiquote (it)",
+          "url": "https://it.wikiquote.org/wiki/Nicola_Sturgeon"
         },
         {
           "note": "Wikiquote (pl)",
@@ -17289,6 +17355,11 @@
         {
           "lang": "ru",
           "name": "Никола Стерджен",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sgs",
+          "name": "Nikola Fergiuson Sterdžėn",
           "note": "multilingual"
         },
         {
@@ -18877,9 +18948,16 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783687362"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Monica_Lennon_(25935373444)_(1).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Monica_Lennon"
+        },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Monica_Lennon"
@@ -23006,6 +23084,12 @@
         {
           "lang": "th",
           "name": "พรรคชาติสกอต",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ia",
+          "name": "Scots Naitional Pairty",
           "note": "multilingual",
           "source": "wikidata-label"
         },
