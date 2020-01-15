@@ -258,10 +258,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 14029,Richard Lochhead,,,uk.org.publicwhip/person/14029,Moray,uk.org.publicwhip/cons/10779,Scottish National Party,scottish-national-party,2011-05-06,regional_election,2016-03-23,regional_election,4
 14030,George Lyon,,,uk.org.publicwhip/person/14030,Argyll and Bute,uk.org.publicwhip/cons/10729,Liberal Democrat,liberal-democrat,1999-05-06,regional_election,2003-03-31,regional_election,1
 14030,George Lyon,,,uk.org.publicwhip/person/14030,Argyll and Bute,uk.org.publicwhip/cons/10729,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
-14031,Kenny MacAskill,,,uk.org.publicwhip/person/14031,Lothians,uk.org.publicwhip/cons/10719,Scottish National Party,scottish-national-party,1999-05-06,regional_election,2003-03-31,regional_election,1
-14031,Kenny MacAskill,,,uk.org.publicwhip/person/14031,Lothians,uk.org.publicwhip/cons/10719,Scottish National Party,scottish-national-party,2003-05-01,regional_election,2007-04-02,regional_election,2
-14031,Kenny MacAskill,,,uk.org.publicwhip/person/14031,Edinburgh East and Musselburgh,uk.org.publicwhip/cons/10751,Scottish National Party,scottish-national-party,2007-05-03,regional_election,2011-03-23,regional_election,3
-14031,Kenny MacAskill,,,uk.org.publicwhip/person/14031,Edinburgh Eastern,uk.org.publicwhip/cons/10812,Scottish National Party,scottish-national-party,2011-05-06,regional_election,2016-03-23,regional_election,4
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,Lothians,uk.org.publicwhip/cons/10719,Scottish National Party,scottish-national-party,1999-05-06,regional_election,2003-03-31,regional_election,1
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,Lothians,uk.org.publicwhip/cons/10719,Scottish National Party,scottish-national-party,2003-05-01,regional_election,2007-04-02,regional_election,2
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,Edinburgh East and Musselburgh,uk.org.publicwhip/cons/10751,Scottish National Party,scottish-national-party,2007-05-03,regional_election,2011-03-23,regional_election,3
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,Edinburgh Eastern,uk.org.publicwhip/cons/10812,Scottish National Party,scottish-national-party,2011-05-06,regional_election,2016-03-23,regional_election,4
 14032,Margo MacDonald,,,uk.org.publicwhip/person/14032,Lothians,uk.org.publicwhip/cons/10719,Independent,independent,1999-05-06,regional_election,2003-01-27,changed_party,1
 14032,Margo MacDonald,,,uk.org.publicwhip/person/14032,Lothians,uk.org.publicwhip/cons/10719,Independent,independent,2003-01-28,changed_party,2003-03-31,regional_election,1
 14032,Margo MacDonald,,,uk.org.publicwhip/person/14032,Lothians,uk.org.publicwhip/cons/10719,Independent,independent,2003-05-01,regional_election,2007-04-02,regional_election,2
