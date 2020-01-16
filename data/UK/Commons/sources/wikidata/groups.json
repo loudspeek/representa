@@ -483,6 +483,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "oc",
+        "name": "Partit Trabalhista (Reialme Unit)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -563,7 +569,7 @@
       },
       {
         "lang": "ar",
-        "name": "حزب المحافظين البريطاني",
+        "name": "حزب المحافظين",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1036,6 +1042,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "xmf",
+        "name": "კონსერვატიული პარტია (გოართოიანაფილი ომაფე)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Parti conservateur britannique",
         "note": "multilingual",
@@ -1164,6 +1176,48 @@
       {
         "lang": "ga",
         "name": "Páirtí Caomhach na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب المحافظون",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب المحافظين والاتحاديين",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب المحافظون والاتحاديون",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظين المملكة المتحدة",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظون المملكة المتحدة",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظين بريطانيا",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "المحافظون ريطانيا",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2070,6 +2124,12 @@
       {
         "lang": "th",
         "name": "พรรคชาติสกอต",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ia",
+        "name": "Scots Naitional Pairty",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5366,6 +5426,12 @@
       {
         "lang": "eu",
         "name": "Ipar Irlandako Aliantza Alderdia",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fi",
+        "name": "Alliance Party (Pohjois-Irlanti)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
