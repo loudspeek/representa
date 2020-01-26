@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1582,
-    "wikidata": 597,
+    "wikidata": 1138,
     "latest_term": {
       "count": 650,
-      "wikidata": 214,
-      "images": 470,
+      "wikidata": 410,
+      "images": 486,
       "contacts": {
         "email": 489,
-        "facebook": 404,
-        "twitter": 460
+        "facebook": 405,
+        "twitter": 472
       }
     }
   },
@@ -27,11 +27,11 @@
     "wikidata": 777
   },
   "elections": {
-    "count": 143,
+    "count": 147,
     "latest": "2019-12-12"
   },
   "positions": {
-    "cabinet": 104
+    "cabinet": 187
   },
   "sources": [
     {
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2019-12-17"
+      "lastmod": "2020-01-16"
     },
     {
       "file": "manual/emails.csv",
@@ -76,7 +76,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2019-12-17"
+      "lastmod": "2020-01-16"
     },
     {
       "file": "gender-balance/results.csv",
@@ -92,13 +92,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-12-17"
+      "lastmod": "2020-01-16"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2019-12-17"
+      "lastmod": "2020-01-16"
     },
     {
       "file": "morph/twitter.csv",
