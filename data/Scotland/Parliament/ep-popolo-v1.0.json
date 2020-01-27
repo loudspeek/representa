@@ -15779,7 +15779,7 @@
     },
     {
       "birth_date": "1961-09-18",
-      "family_name": "McMahon",
+      "family_name": "MacMahon",
       "gender": "male",
       "given_name": "Michael",
       "id": "c49f7aa9-90be-41ee-98fc-e9c20a092389",
@@ -19801,6 +19801,11 @@
       "name": "Donald Dewar",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "دونالد ديوار",
+          "note": "multilingual"
+        },
+        {
           "lang": "gd",
           "name": "Dòmhnall Mac an Deòir",
           "note": "multilingual"
@@ -20263,6 +20268,7 @@
       ]
     },
     {
+      "birth_date": "1980-07-24",
       "contact_details": [
         {
           "type": "email",
