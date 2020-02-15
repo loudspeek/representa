@@ -4047,6 +4047,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jamie_Stone"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/جيمي_ستون"
         },
@@ -7092,6 +7096,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jim_Wallace,_Baron_Wallace_of_Tankerness"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Jim_Wallace"
@@ -13579,6 +13587,7 @@
       "name": "Jim Tolson"
     },
     {
+      "birth_date": "1985-04-23",
       "contact_details": [
         {
           "type": "email",
@@ -13594,6 +13603,10 @@
       "gender": "female",
       "id": "ae4372c0-e866-4291-a3e6-90954facc361",
       "identifiers": [
+        {
+          "identifier": "7648",
+          "scheme": "democracyclub"
+        },
         {
           "identifier": "uk.org.publicwhip/person/25503",
           "scheme": "parlparse"
@@ -15744,6 +15757,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:George_Lyon_(Scottish_politician)"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/جورج_ليون_(سياسي)"
         },
@@ -15779,7 +15796,7 @@
     },
     {
       "birth_date": "1961-09-18",
-      "family_name": "McMahon",
+      "family_name": "MacMahon",
       "gender": "male",
       "given_name": "Michael",
       "id": "c49f7aa9-90be-41ee-98fc-e9c20a092389",
@@ -16066,6 +16083,7 @@
     {
       "birth_date": "1939-10-31",
       "death_date": "2019-07-21",
+      "family_name": "Godman",
       "gender": "female",
       "given_name": "Patricia",
       "id": "c6876dd6-fd96-4ab2-bcaf-6df20339bc09",
@@ -16427,6 +16445,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:James_Douglas-Hamilton,_Baron_Selkirk_of_Douglas"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/James_Douglas-Hamilton,_Baron_Selkirk_of_Douglas"
@@ -17082,6 +17104,10 @@
           "url": "https://bat_smg.wikipedia.org/wiki/Nikola_Fergiuson_Sterdžėn"
         },
         {
+          "note": "Wikipedia (bg)",
+          "url": "https://bg.wikipedia.org/wiki/Никола_Стърджън"
+        },
+        {
           "note": "Wikipedia (br)",
           "url": "https://br.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -17430,6 +17456,7 @@
       ]
     },
     {
+      "birth_date": "1977-09-03",
       "contact_details": [
         {
           "type": "email",
@@ -18440,6 +18467,7 @@
       "name": "Karen Gillon"
     },
     {
+      "birth_date": "1967-04",
       "contact_details": [
         {
           "type": "email",
@@ -19801,6 +19829,11 @@
       "name": "Donald Dewar",
       "other_names": [
         {
+          "lang": "ar",
+          "name": "دونالد ديوار",
+          "note": "multilingual"
+        },
+        {
           "lang": "gd",
           "name": "Dòmhnall Mac an Deòir",
           "note": "multilingual"
@@ -20263,6 +20296,7 @@
       ]
     },
     {
+      "birth_date": "1980-07-24",
       "contact_details": [
         {
           "type": "email",
