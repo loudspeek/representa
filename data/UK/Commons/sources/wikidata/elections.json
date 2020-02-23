@@ -4619,6 +4619,30 @@
       "Órfhlaith Begley"
     ]
   },
+  "Q5093839": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5093839"
+      }
+    ],
+    "name": "1984 Chesterfield by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1984 Chesterfield by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1984-03-01"
+    ],
+    "office": "Member of the 49th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Tony Benn"
+    ]
+  },
   "Q5150852": {
     "identifiers": [
       {
@@ -5217,6 +5241,81 @@
       "John Major"
     ]
   },
+  "Q5444368": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5444368"
+      }
+    ],
+    "name": "April 1981 Fermanagh and South Tyrone by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "April 1981 Fermanagh and South Tyrone by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Élection partielle de Fermanagh and South Tyrone d'avril 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Fermanagh and South Tyrone by-election, April 1981",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1981-04-09"
+    ],
+    "follows": "1979 United Kingdom general election",
+    "followed_by": "August 1981 Fermanagh and South Tyrone by-election",
+    "office": "Member of the 48th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Bobby Sands"
+    ]
+  },
+  "Q5444369": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5444369"
+      }
+    ],
+    "name": "August 1981 Fermanagh and South Tyrone by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "August 1981 Fermanagh and South Tyrone by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Élection partielle de Fermanagh and South Tyrone d'août 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Fermanagh and South Tyrone by-election, August 1981",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1981-08-20"
+    ],
+    "follows": "April 1981 Fermanagh and South Tyrone by-election",
+    "office": "Member of the 48th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Owen Carron"
+    ]
+  },
   "Q5566846": {
     "identifiers": [
       {
@@ -5337,6 +5436,36 @@
     "office": "Member of Parliament",
     "successful_candidates": [
       "Robert Jenkinson, 2nd Earl of Liverpool"
+    ]
+  },
+  "Q5645147": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q5645147"
+      }
+    ],
+    "name": "1999 Hamilton South by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1999 Hamilton South by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Hamilton South by-election, 1999",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1999-09-23"
+    ],
+    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Bill Tynan"
     ]
   },
   "Q580228": {
@@ -6207,7 +6336,16 @@
         "name": "elections generales au Royaume-Uni (2024)",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "sv",
+        "name": "Nästa parlamentsval i Storbritannien",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
+    ],
+    "dates": [
+      "2024-05-02"
     ],
     "follows": "2019 United Kingdom general election",
     "office": "Member of Parliament"
