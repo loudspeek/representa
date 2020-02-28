@@ -8769,6 +8769,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1205251294",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "commons/anas-sarwar/3981",
           "scheme": "parliamentdotuk"
         },
@@ -20653,6 +20657,12 @@
         {
           "identifier": "Q202002",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg"
         }
       ],
       "links": [
