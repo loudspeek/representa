@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "manual/terms.csv",
@@ -70,7 +70,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/cabinet.csv",
