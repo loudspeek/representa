@@ -8769,6 +8769,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1205251294",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "commons/anas-sarwar/3981",
           "scheme": "parliamentdotuk"
         },
@@ -18320,6 +18324,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/وينى_اوينج"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Winnie_Ewing"
         },
@@ -18358,6 +18366,11 @@
       ],
       "name": "Winnie Ewing",
       "other_names": [
+        {
+          "lang": "arz",
+          "name": "وينى اوينج",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "ウィニー・ユーイング",
@@ -20653,6 +20666,12 @@
         {
           "identifier": "Q202002",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg"
         }
       ],
       "links": [
