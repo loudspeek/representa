@@ -1054,6 +1054,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "حزب المحافظين (المملكه المتحده)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Parti conservateur britannique",
         "note": "multilingual",
@@ -4489,6 +4495,12 @@
       {
         "lang": "he",
         "name": "מפלגת העבודה הסוציאל-דמוקרטית",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "Social Democratic and Labour Party (SDLP)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
