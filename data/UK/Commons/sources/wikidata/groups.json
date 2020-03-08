@@ -489,6 +489,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ml",
+        "name": "ലേബർ പാർട്ടി",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -1050,6 +1056,12 @@
       {
         "lang": "xmf",
         "name": "კონსერვატიული პარტია (გოართოიანაფილი ომაფე)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "حزب المحافظين (المملكه المتحده)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4489,6 +4501,12 @@
       {
         "lang": "he",
         "name": "מפלגת העבודה הסוציאל-דמוקרטית",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "Social Democratic and Labour Party (SDLP)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
