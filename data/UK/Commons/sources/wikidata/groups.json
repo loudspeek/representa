@@ -489,6 +489,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ml",
+        "name": "ലേബർ പാർട്ടി",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -1050,6 +1056,12 @@
       {
         "lang": "xmf",
         "name": "კონსერვატიული პარტია (გოართოიანაფილი ომაფე)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "حزب المحافظين (المملكه المتحده)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2136,6 +2148,12 @@
       {
         "lang": "ia",
         "name": "Scots Naitional Pairty",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "الحزب القومى الاسكتلندى",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4493,6 +4511,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "nn",
+        "name": "Social Democratic and Labour Party (SDLP)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK Social Democratic and Labour Party",
         "note": "multilingual",
@@ -4795,6 +4819,12 @@
       {
         "lang": "az",
         "name": "Böyük Britaniya Müstəqillik Partiyası",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "حزب استقلال المملكه المتحده",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5222,6 +5252,12 @@
       {
         "lang": "ar",
         "name": "حزب الكرامة (المملكة المتحدة)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "حزب الاحترام",
         "note": "multilingual",
         "source": "wikidata-label"
       },
