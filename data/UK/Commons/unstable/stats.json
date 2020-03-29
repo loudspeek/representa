@@ -1,15 +1,15 @@
 {
   "people": {
     "count": 1581,
-    "wikidata": 650,
+    "wikidata": 1495,
     "latest_term": {
       "count": 650,
-      "wikidata": 262,
-      "images": 517,
+      "wikidata": 564,
+      "images": 562,
       "contacts": {
         "email": 645,
-        "facebook": 446,
-        "twitter": 531
+        "facebook": 458,
+        "twitter": 551
       }
     }
   },
@@ -27,23 +27,23 @@
     "wikidata": 777
   },
   "elections": {
-    "count": 148,
+    "count": 149,
     "latest": "2019-12-12"
   },
   "positions": {
-    "cabinet": 108
+    "cabinet": 240
   },
   "sources": [
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2019-12-17"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/parliament.csv",
       "type": "person",
       "scraper": "mashedkeyboard/uk-parliament-members",
-      "lastmod": "2019-12-17"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/twitter.csv",
@@ -55,13 +55,13 @@
       "file": "YNMP/winners.csv",
       "type": "person",
       "scraper": "mhl/uk-ynmp-2015-winners",
-      "lastmod": "2019-03-28"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "manual/emails.csv",
@@ -76,7 +76,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "gender-balance/results.csv",
@@ -92,13 +92,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/twitter.csv",
