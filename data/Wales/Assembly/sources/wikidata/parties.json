@@ -45,12 +45,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "cy",
-        "name": "Llafur Cymru",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "eo",
         "name": "Kimra Laborista Partio",
         "note": "multilingual",
@@ -118,12 +112,6 @@
       },
       {
         "lang": "it",
-        "name": "Llafur Cymru",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "it",
         "name": "Partito Laburista Gallese",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -131,6 +119,12 @@
       {
         "lang": "en",
         "name": "Welsh Labour Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Llafur Cymru",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -149,7 +143,7 @@
     ],
     "links": [
       {
-        "url": "http://www.welshlabour.org.uk/",
+        "url": "https://www.welshlabour.wales/",
         "note": "website"
       }
     ],
@@ -707,6 +701,12 @@
       {
         "lang": "az",
         "name": "Böyük Britaniya Müstəqillik Partiyası",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "حزب استقلال المملكه المتحده",
         "note": "multilingual",
         "source": "wikidata-label"
       },
