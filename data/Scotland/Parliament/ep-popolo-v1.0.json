@@ -2247,6 +2247,7 @@
         }
       ],
       "email": "Ken.Macintosh.msp@parliament.scot",
+      "family_name": "Macintosh",
       "gender": "male",
       "given_name": "Ken",
       "id": "1b456bf4-58d1-47cd-93bd-038d277a43a7",
@@ -2805,7 +2806,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gordon_Jackson_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Gordon_Jackson_(advocate)"
         }
       ],
       "name": "Gordon Jackson",
@@ -3653,6 +3654,10 @@
           "url": "https://fr.wikipedia.org/wiki/Ben_Wallace_(homme_politique)"
         },
         {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Ben_Wallace"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Уоллес,_Бен_(политик)"
         },
@@ -4464,6 +4469,11 @@
         {
           "lang": "gd",
           "name": "Brus Crawford",
+          "note": "multilingual"
+        },
+        {
+          "lang": "he",
+          "name": "ברוס קרופורד",
           "note": "multilingual"
         },
         {
@@ -5481,6 +5491,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:John_Lamont_(Scottish_politician)"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/جون_لامونت"
@@ -8769,6 +8783,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1205251294",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "commons/anas-sarwar/3981",
           "scheme": "parliamentdotuk"
         },
@@ -8791,6 +8809,10 @@
         {
           "identifier": "jvkHFQc3",
           "scheme": "ukparliamentid"
+        },
+        {
+          "identifier": "9342158309870006690007",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q478812",
@@ -9125,6 +9147,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nicol_Stephen"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/نيكول_ستيفن"
@@ -11252,6 +11278,7 @@
       "family_name": "Fergusson",
       "gender": "male",
       "given_name": "Alex",
+      "honorific_prefix": "The Right Honourable",
       "id": "911f4222-a3e7-4367-9ac5-8309767e87e1",
       "identifiers": [
         {
@@ -12564,6 +12591,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35781571941"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Oliver_Mundell_2016.jpg"
         }
       ],
       "links": [
@@ -13196,6 +13226,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1990628",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/025q2r",
           "scheme": "freebase"
         },
@@ -13370,6 +13404,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Douglas_Ross_(Scottish_politician)"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/دوغلاس_روس_(سياسي)"
@@ -16790,6 +16828,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/بيل_بومان"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bill_Bowman_(Scottish_politician)"
         },
@@ -16806,7 +16848,14 @@
           "url": "https://twitter.com/billabowman"
         }
       ],
-      "name": "Bill Bowman"
+      "name": "Bill Bowman",
+      "other_names": [
+        {
+          "lang": "arz",
+          "name": "بيل بومان",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-05-06",
@@ -17297,7 +17346,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/9853640645"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nicola_Sturgeon_SNP_leader.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Nicola_Sturgeon_election_infobox_3.jpg"
         }
       ],
       "links": [
@@ -17424,6 +17473,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Nicola_Sturgeon"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Նիկոլա_Սթերջեն"
         },
         {
           "note": "Wikipedia (ia)",
@@ -18320,6 +18373,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/وينى_اوينج"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Winnie_Ewing"
         },
@@ -18358,6 +18415,11 @@
       ],
       "name": "Winnie Ewing",
       "other_names": [
+        {
+          "lang": "arz",
+          "name": "وينى اوينج",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "ウィニー・ユーイング",
@@ -19908,6 +19970,10 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "93110",
+          "scheme": "gtaa"
+        },
+        {
           "identifier": "mr-donald-dewar",
           "scheme": "hansard"
         },
@@ -20653,6 +20719,12 @@
         {
           "identifier": "Q202002",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg"
         }
       ],
       "links": [
@@ -23383,6 +23455,12 @@
         {
           "lang": "ia",
           "name": "Scots Naitional Pairty",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "arz",
+          "name": "الحزب القومى الاسكتلندى",
           "note": "multilingual",
           "source": "wikidata-label"
         },
