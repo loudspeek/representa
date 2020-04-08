@@ -1,7 +1,7 @@
 {
   "people": {
     "count": 306,
-    "wikidata": 238,
+    "wikidata": 236,
     "latest_term": {
       "count": 135,
       "wikidata": 135,
@@ -31,7 +31,7 @@
     "latest": "2019-08-29"
   },
   "positions": {
-    "cabinet": 126
+    "cabinet": 125
   },
   "sources": [
     {
@@ -49,7 +49,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "manual/terms.csv",
@@ -70,7 +70,7 @@
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/cabinet.csv",

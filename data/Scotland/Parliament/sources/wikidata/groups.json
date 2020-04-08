@@ -544,6 +544,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "الحزب القومى الاسكتلندى",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -1011,7 +1017,7 @@
         "identifier": "Q891900"
       }
     ],
-    "name": "Scottish Socialist Party",
+    "name": "Sokoto Smart People",
     "other_names": [
       {
         "lang": "pl",
@@ -1045,7 +1051,7 @@
       },
       {
         "lang": "en",
-        "name": "Scottish Socialist Party",
+        "name": "Sokoto Smart People",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1062,6 +1068,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "de",
+        "name": "Scottish Socialist Party",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "Scottish Socialist Party",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "sco",
         "name": "Scots Socialist Pairty",
         "note": "multilingual",
@@ -1070,6 +1088,12 @@
       {
         "lang": "ar",
         "name": "الحزب الاشتراكي الاسكتلندي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nl",
+        "name": "Scottish Socialist Party",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1104,14 +1128,32 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pl",
+        "name": "Scottish Socialist Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "gd",
         "name": "Pàrtaidh Shòisealach na h-Alba",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
+        "lang": "gd",
+        "name": "Scottish Socialist Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "fr",
         "name": "Parti socialiste ecossais",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "Scottish Socialist Party",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
