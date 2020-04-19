@@ -11460,6 +11460,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ary",
+          "name": "لامنتمي",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -12416,6 +12422,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "arz",
+          "name": "حزب استقلال المملكه المتحده",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -12558,7 +12570,7 @@
       "links": [
         {
           "note": "website",
-          "url": "http://www.welshlabour.org.uk/"
+          "url": "https://www.welshlabour.wales/"
         }
       ],
       "name": "Welsh Labour",
@@ -12596,12 +12608,6 @@
         {
           "lang": "fa",
           "name": "حزب کارگر (ولز)",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "cy",
-          "name": "Llafur Cymru",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12673,12 +12679,6 @@
         },
         {
           "lang": "it",
-          "name": "Llafur Cymru",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "it",
           "name": "Partito Laburista Gallese",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -12686,6 +12686,12 @@
         {
           "lang": "en",
           "name": "Welsh Labour Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "Llafur Cymru",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
