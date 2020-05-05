@@ -45,12 +45,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "cy",
-        "name": "Llafur Cymru",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "eo",
         "name": "Kimra Laborista Partio",
         "note": "multilingual",
@@ -118,12 +112,6 @@
       },
       {
         "lang": "it",
-        "name": "Llafur Cymru",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "it",
         "name": "Partito Laburista Gallese",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -131,6 +119,12 @@
       {
         "lang": "en",
         "name": "Welsh Labour Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Llafur Cymru",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -149,7 +143,7 @@
     ],
     "links": [
       {
-        "url": "http://www.welshlabour.org.uk/",
+        "url": "https://www.welshlabour.wales/",
         "note": "website"
       }
     ],
@@ -711,6 +705,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "حزب استقلال المملكه المتحده",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -724,7 +724,7 @@
       },
       {
         "lang": "en",
-        "name": "Ukip",
+        "name": "Young Independence - UKIPs Youth Wing",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -899,7 +899,7 @@
       },
       {
         "lang": "ru",
-        "name": "независимый",
+        "name": "беспартийный",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1013,7 +1013,7 @@
       },
       {
         "lang": "pl",
-        "name": "polityk niezrzeszony",
+        "name": "bezpartyjny",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1248,6 +1248,12 @@
       {
         "lang": "sl",
         "name": "neodvisni politik",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ary",
+        "name": "لامنتمي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1672,12 +1678,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "ru",
-        "name": "беспартийный",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "tt",
         "name": "фиркасез",
         "note": "multilingual",
@@ -1752,6 +1752,24 @@
       {
         "lang": "zh-tw",
         "name": "無黨派",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "niezrzeszony",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk bezpartyjny",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk niezrzeszony",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
