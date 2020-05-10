@@ -99,7 +99,7 @@
     "other_names": [
       {
         "lang": "pt",
-        "name": "Eleições legislativas no País de Gales",
+        "name": "eleições legislativas no País de Gales",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -263,7 +263,7 @@
       "2016-05-05"
     ],
     "follows": "2011 National Assembly for Wales election",
-    "followed_by": "Next National Assembly for Wales election",
+    "followed_by": "2021 Welsh Parliament election",
     "office": "Member of the 5th National Assembly for Wales"
   },
   "Q1655536": {
@@ -356,17 +356,23 @@
         "identifier": "Q28403875"
       }
     ],
-    "name": "Next National Assembly for Wales election",
+    "name": "2021 Welsh Parliament election",
     "other_names": [
       {
         "lang": "en",
-        "name": "Next National Assembly for Wales election",
+        "name": "2021 Welsh Parliament election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "fr",
-        "name": "Élections législatives galloises de 2021",
+        "name": "élections législatives galloises de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Etholiad Senedd Cymru, 2021",
         "note": "multilingual",
         "source": "wikidata-label"
       }
