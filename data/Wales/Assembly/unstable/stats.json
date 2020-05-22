@@ -69,12 +69,6 @@
       "lastmod": "2018-10-07"
     },
     {
-      "file": "morph/genderbalance.csv",
-      "type": "person",
-      "scraper": "everypolitician-scrapers/wales-assembly-gender-balance",
-      "lastmod": "2018-10-01"
-    },
-    {
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "scraper": "everypolitician-scrapers/wales-positions",
@@ -83,7 +77,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2019-12-13"
+      "lastmod": "2020-02-24"
     },
     {
       "file": "morph/areas.csv",

@@ -489,6 +489,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ml",
+        "name": "ലേബർ പാർട്ടി",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Lô-tōng Tóng (Liân-ha̍p Ông-kok)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "工黨 (英國)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -1054,6 +1072,36 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "حزب المحافظين (المملكه المتحده)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "no",
+        "name": "Det konservative parti (Storbritannia)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "simple",
+        "name": "Conservative Party (UK)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "Pó-siú Tóng (Liân-ha̍p Ông-kok)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "保守黨 (英國)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Parti conservateur britannique",
         "note": "multilingual",
@@ -1606,6 +1654,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "no",
+        "name": "Liberaldemokratene (Storbritannia)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "自由民主黨 (英國)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Lib Dems",
         "note": "multilingual",
@@ -2140,6 +2200,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "الحزب القومى الاسكتلندى",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "wuu",
+        "name": "苏格兰民族党",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -2271,6 +2343,18 @@
         "name": "Llafur a Chydweithredol",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Partido Laborista y Cooperativo",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "合作工党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "DC241F"
@@ -2497,6 +2581,12 @@
       {
         "lang": "is",
         "name": "Lýðræðislegi sambandsflokkurinn",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الحزب الاتحادي الديمقراطي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3084,7 +3174,7 @@
       },
       {
         "lang": "ru",
-        "name": "независимый",
+        "name": "беспартийный",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3198,7 +3288,7 @@
       },
       {
         "lang": "pl",
-        "name": "polityk niezrzeszony",
+        "name": "bezpartyjny",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3433,6 +3523,12 @@
       {
         "lang": "sl",
         "name": "neodvisni politik",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ary",
+        "name": "لامنتمي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3857,12 +3953,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "ru",
-        "name": "беспартийный",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "tt",
         "name": "фиркасез",
         "note": "multilingual",
@@ -3937,6 +4027,24 @@
       {
         "lang": "zh-tw",
         "name": "無黨派",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "niezrzeszony",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk bezpartyjny",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk niezrzeszony",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4493,6 +4601,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "nn",
+        "name": "Social Democratic and Labour Party (SDLP)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK Social Democratic and Labour Party",
         "note": "multilingual",
@@ -4799,6 +4913,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "حزب استقلال المملكه المتحده",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -4812,7 +4932,7 @@
       },
       {
         "lang": "en",
-        "name": "Ukip",
+        "name": "Young Independence - UKIPs Youth Wing",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -5094,6 +5214,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "kw",
+        "name": "Parti Gwerdh Pow Sows ha Kembra",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-min-nan",
+        "name": "England kap Cymru ê Le̍k Tóng",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-yue",
+        "name": "英國綠黨",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Green Party",
         "note": "multilingual",
@@ -5222,6 +5360,12 @@
       {
         "lang": "ar",
         "name": "حزب الكرامة (المملكة المتحدة)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "حزب الاحترام",
         "note": "multilingual",
         "source": "wikidata-label"
       },

@@ -789,6 +789,36 @@
     ],
     "office": "Member of Parliament"
   },
+  "Q17020044": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q17020044"
+      }
+    ],
+    "name": "1994 Rotherham by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1994 Rotherham by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Rotherham by-election, 1994",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1994-05-05"
+    ],
+    "office": "Member of the 51st Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Denis MacShane"
+    ]
+  },
   "Q17479687": {
     "identifiers": [
       {
@@ -806,7 +836,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Crosby de 1981",
+        "name": "élection partielle de Crosby de 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -858,7 +888,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Clacton de 2014",
+        "name": "élection partielle de Clacton de 2014",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1122,7 +1152,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 2010",
+        "name": "eleições gerais no Reino Unido em 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3108,7 +3138,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 2017",
+        "name": "elecciones generales del Reino Unido de 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3150,7 +3180,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais do Reino Unido, 2017",
+        "name": "eleições gerais do Reino Unido, 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3835,7 +3865,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections générales britanniques de 2017 en Écosse",
+        "name": "élections générales britanniques de 2017 en Écosse",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3883,7 +3913,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 2019",
+        "name": "elecciones generales del Reino Unido de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3919,7 +3949,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élections générales britanniques de 2019",
+        "name": "élections générales britanniques de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3955,13 +3985,13 @@
       },
       {
         "lang": "it",
-        "name": "Elezioni generali nel Regno Unito del 2019",
+        "name": "elezioni generali nel Regno Unito del 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 2019",
+        "name": "eleições gerais no Reino Unido em 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4033,7 +4063,7 @@
       },
       {
         "lang": "nb",
-        "name": "Parlamentsvalget i Storbritannia 2019",
+        "name": "parlamentsvalget i Storbritannia 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4112,6 +4142,12 @@
       {
         "lang": "hy",
         "name": "Խորհրդարանական ընտրություններ Մեծ Բրիտանիայում (2019)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "2019ko Erresuma Batuko hauteskundeak",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4207,7 +4243,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 2015",
+        "name": "eleições gerais no Reino Unido em 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4297,7 +4333,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 2015",
+        "name": "elecciones generales del Reino Unido de 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4551,6 +4587,291 @@
     "successful_candidates": [
       "David Cameron"
     ]
+  },
+  "Q428598": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q428598"
+      }
+    ],
+    "name": "2005 United Kingdom general election",
+    "other_names": [
+      {
+        "lang": "it",
+        "name": "elezioni generali nel Regno Unito del 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Etholiad cyffredinol y Deyrnas Unedig, 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Britische Unterhauswahl 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "2005 United Kingdom general election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "elecciones generales del Reino Unido de 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fi",
+        "name": "Yhdistyneen kuningaskunnan parlamenttivaalit 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections générales britanniques de 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "2005年イギリス総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "kw",
+        "name": "Dewisyans Senedh an RU, 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pl",
+        "name": "Wybory parlamentarne w Wielkiej Brytanii w 2005 roku",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Парламентские выборы в Великобритании 2005 года",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sv",
+        "name": "Förenade kungarikets parlamentsval 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2005年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nb",
+        "name": "Parlamentsvalget i Storbritannia 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt",
+        "name": "eleições gerais no Reino Unido em 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори у Великій Британії 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ko",
+        "name": "2005년 영국 총선",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "th",
+        "name": "การเลือกตั้งทั่วไปในสหราชอาณาจักร พ.ศ. 2548",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "da",
+        "name": "Parlamentsvalget i Storbritannien 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hk",
+        "name": "2005年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-cn",
+        "name": "2005年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "2005年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "2005年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-mo",
+        "name": "2005年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-my",
+        "name": "2005年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-sg",
+        "name": "2005年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-tw",
+        "name": "2005年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fo",
+        "name": "Tjóðartingsvalið í Stóra Bretlandi 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "tr",
+        "name": "2005 Birleşik Krallık genel seçimleri",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "af",
+        "name": "Britse algemene verkiesing van 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "যুক্তরাজ্যের সাধারণ নির্বাচন, ২০০৫",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gd",
+        "name": "taghadh nàiseanta na Rìoghachd Aonaichte, 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ur",
+        "name": "مملکت متحدہ عام انتخابات 2005ء",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ast",
+        "name": "eleiciones xenerales del Reinu Xuníu de 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات العامة في المملكة المتحدة 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ro",
+        "name": "alegeri generale în Regatul Unit, 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cs",
+        "name": "Všeobecné volby ve Spojeném království 2005",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "2005 UK general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2005 general election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom general election, 2005",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK general election, 2005",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "General election, 2005",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2005-05-05"
+    ],
+    "follows": "2001 United Kingdom general election",
+    "followed_by": "2010 United Kingdom general election",
+    "office": "Member of the 54th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Tony Blair"
+    ],
+    "eligible_voters": "44245939"
   },
   "Q4861902": {
     "identifiers": [
@@ -4876,7 +5197,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Croydon North West de 1981",
+        "name": "élection partielle de Croydon North West de 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5022,7 +5343,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 1992",
+        "name": "elecciones generales del Reino Unido de 1992",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5172,7 +5493,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 1992",
+        "name": "eleições gerais no Reino Unido em 1992",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5258,7 +5579,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Fermanagh and South Tyrone d'avril 1981",
+        "name": "élection partielle de Fermanagh and South Tyrone d'avril 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5296,7 +5617,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Fermanagh and South Tyrone d'août 1981",
+        "name": "élection partielle de Fermanagh and South Tyrone d'août 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5333,7 +5654,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Glasgow Hillhead de 1982",
+        "name": "élection partielle de Glasgow Hillhead de 1982",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5591,7 +5912,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 2001",
+        "name": "elecciones generales del Reino Unido de 2001",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5729,7 +6050,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 2001",
+        "name": "eleições gerais no Reino Unido em 2001",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6184,6 +6505,36 @@
       "Mark Hendrick"
     ]
   },
+  "Q7322246": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7322246"
+      }
+    ],
+    "name": "1991 Ribble Valley by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1991 Ribble Valley by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Ribble Valley by-election, 1991",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1991-03-07"
+    ],
+    "office": "Member of the 50th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Michael Carr"
+    ]
+  },
   "Q7565997": {
     "identifiers": [
       {
@@ -6594,7 +6945,7 @@
       },
       {
         "lang": "fr",
-        "name": "Élection partielle de Warrington de 1981",
+        "name": "élection partielle de Warrington de 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6622,6 +6973,36 @@
     ],
     "eligible_voters": "44059",
     "ballots_cast": "29508"
+  },
+  "Q7999563": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7999563"
+      }
+    ],
+    "name": "1999 Wigan by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1999 Wigan by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Wigan by-election, 1999",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1999-09-23"
+    ],
+    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Neil Turner"
+    ]
   },
   "Q918472": {
     "identifiers": [
@@ -6676,7 +7057,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 1987",
+        "name": "elecciones generales del Reino Unido de 1987",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6742,7 +7123,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 1987",
+        "name": "eleições gerais no Reino Unido em 1987",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6903,7 +7284,7 @@
       },
       {
         "lang": "es",
-        "name": "Elecciones generales del Reino Unido de 1997",
+        "name": "elecciones generales del Reino Unido de 1997",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7011,7 +7392,7 @@
       },
       {
         "lang": "pt",
-        "name": "Eleições gerais no Reino Unido em 1997",
+        "name": "eleições gerais no Reino Unido em 1997",
         "note": "multilingual",
         "source": "wikidata-label"
       },

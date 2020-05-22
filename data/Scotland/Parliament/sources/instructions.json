@@ -53,14 +53,6 @@
       }
     },
     {
-      "file": "gender-balance/results.csv",
-      "type": "gender",
-      "create": {
-        "from": "gender-balance",
-        "source": "Scotland/Parliament"
-      }
-    },
-    {
       "file": "morph/areas.csv",
       "create": {
         "from": "morph",

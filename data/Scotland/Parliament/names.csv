@@ -40,6 +40,7 @@ Anne McTaggart,a4fd3835-6ce2-4671-8ab6-7688bd31c5cc
 Annie Wells,88be7c68-18b0-4a55-b6fb-8f7aae9242f0
 Aonghas Dòmhnallach,c2384c46-f882-419b-8c9e-79b872e8abe3
 Ash Denham,9af503f6-1850-4f3d-99b0-2cb955e431ac
+Baroness Goldie,2f08939b-3182-44a1-b40c-b4cc11e9e1bd
 Bashir Ahmad,3aeff650-5189-4926-bb5d-b73912ff2c65
 Beatrice Wishart,6f2821eb-6fcf-4a6b-b627-bcf67332e2d7
 Ben Macpherson,c727fbd9-3e5b-4677-b74b-868994a54947
@@ -242,8 +243,11 @@ Linda Fabiani,5c0a7182-5ae0-4412-b959-f5cdc3b6b093
 Liz Smith,93c23088-9b0b-4962-bbdb-adee895fa80f
 Lloyd Quinan,60227b3d-9991-4881-a2aa-c0ce6f1ba3c2
 Lord Foulkes of Cumnock,b07fbdde-c528-4613-81ca-dd9a80040b39
+Lord McConnell of Glenscorrodale,b9668e8d-213a-4ad8-96a8-4424b8faed1a
+Lord Purvis of Tweed,a7a8f8da-6d02-459a-86e8-00f57144857d
 Lord Selkirk of Douglas,c9975ad1-f428-48a8-a350-d6764077b223
 Lord Steel of Aikwood,054db67a-ea82-44e7-b7b9-9db162688580
+Lord Stephen,7aa72345-39b5-4b0a-8454-3efae94e59c8
 Lyndsay McIntosh,4abb5b4b-a52d-4f14-bca7-8b03dedec423
 Mairead Ewing,8c658f0c-7d3f-4bc3-a1c7-e97238ccebe1
 Mairi Evans,ae4372c0-e866-4291-a3e6-90954facc361
@@ -447,6 +451,7 @@ Winnie Ewing,d17451a8-ab8d-4523-a071-d9d929102390
 Դևիդ Մանդել,5a56dbd7-ce56-4a2f-9af6-7457e3bd17d0
 Նիկոլա Ստանջեն,cc093062-a4d6-45d8-9596-783eb01d1893
 אלכס סלמונד,b9cae27b-aab7-4a9b-bf65-d413515f0d8c
+ברוס קרופורד,342472da-f023-41be-9680-a235c1988c47
 דונלד דיואר,e645af5e-fa78-4b29-84c3-0be6b1b2ca4a
 דייוויד מאנדל,5a56dbd7-ce56-4a2f-9af6-7457e3bd17d0
 דייוויד סטיל,054db67a-ea82-44e7-b7b9-9db162688580
@@ -464,6 +469,7 @@ Winnie Ewing,d17451a8-ab8d-4523-a071-d9d929102390
 إيما هاربر,22b5768b-7b8b-4e3f-b896-d7c7ae47521c
 إيوان روبسون,2c3fe3ac-8e5f-4ae7-a27d-1adcead1c0fe
 الاسداير مورجان,1280e127-4c25-472a-be59-b1197df62406
+الاسداير موريسون,9279974c-26f1-403d-9f1a-0f4c1059baf2
 الكسندر ستيوارت,c5551922-dbd1-4804-b58d-7a546e84576a
 اليكس ساموند,b9cae27b-aab7-4a9b-bf65-d413515f0d8c
 الکس ساموند,b9cae27b-aab7-4a9b-bf65-d413515f0d8c
@@ -485,6 +491,7 @@ Winnie Ewing,d17451a8-ab8d-4523-a071-d9d929102390
 بيتر شابمان,2e3e2ca1-d04f-4472-80f9-af59eed27f3d
 بيتر ماكدونالد,c2384c46-f882-419b-8c9e-79b872e8abe3
 بيل باتلر,4e772ca4-089c-4db8-aef7-2ea537fd4f2d
+بيل بومان,c99fa6ac-0d73-4765-9eff-9513e92b4bec
 بيل كيد,d0f5b474-31fc-4d9c-bcbd-4a3d3882f3e3
 بين والاس,2a9ac2e2-540e-4b05-ae33-975ee20b2e99
 توم آرثر,f807078e-87d3-4ce4-8c3e-c296d653021e
@@ -492,6 +499,7 @@ Winnie Ewing,d17451a8-ab8d-4523-a071-d9d929102390
 جاكي بيلي,c4fc08a0-44c3-4f11-86df-ea7a0aa8e136
 جان اسکات,b8647d1a-7ed2-4ef0-ba23-439370f1748b
 جان یانگ,4e2ad0ce-f87f-46a3-a7e6-0e38d38920a2
+جرايم داى,43ea967f-4eab-4479-8fb2-4b5eb85c84fc
 جرج آدام,6b7c28f3-3e40-4568-a5f5-aabfcced3540
 جورج آدم,6b7c28f3-3e40-4568-a5f5-aabfcced3540
 جورج ريد,a37343ac-dd36-4bc2-ab99-b3f4e54bf4b7
@@ -581,9 +589,11 @@ Winnie Ewing,d17451a8-ab8d-4523-a071-d9d929102390
 هنرى مكليش,9c0cc618-bc81-46d2-acfd-24380ed7a0ae
 هيو هنري,c2a05193-041a-47d9-b8ce-66a5dbd76489
 هیو هنری,c2a05193-041a-47d9-b8ce-66a5dbd76489
+وينى اوينج,d17451a8-ab8d-4523-a071-d9d929102390
 يان جنكينز,0b991da8-1b04-47ca-8b19-072e8423d6c6
 يان ويلزي,ebd4dbe6-9a4b-4a58-826b-93c8e68f9c4f
 پل مارتین,0ad3c005-077e-4170-8fa4-028082f2ea26
+چوان مكالپين,e3a2f111-07f8-41bc-92fb-7864c2695f36
 کالین کمپل,d34c0d36-ffe9-42c0-82dd-39991add078f
 کوین استوارت,7d51a021-9a0f-4946-8efa-a04df4ea26fa
 کیت براون,22d0a5fd-ce1b-47db-bc9b-8510bd142583
@@ -627,6 +637,7 @@ Winnie Ewing,d17451a8-ab8d-4523-a071-d9d929102390
 ドナルド・デュワー,e645af5e-fa78-4b29-84c3-0be6b1b2ca4a
 ニコラ・スタージョン,cc093062-a4d6-45d8-9596-783eb01d1893
 ニコル・スティーヴン,7aa72345-39b5-4b0a-8454-3efae94e59c8
+パトリシア・ファーガソン,5dee237b-c840-4618-9c33-fb44b6f8ed17
 フィオナ・ヒスロップ,d79326a6-0361-434d-aad6-c164cb609d96
 ヘンリー・マクリーシュ,9c0cc618-bc81-46d2-acfd-24380ed7a0ae
 ベン・ウォレス,2a9ac2e2-540e-4b05-ae33-975ee20b2e99

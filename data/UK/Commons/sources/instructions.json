@@ -96,14 +96,6 @@
       }
     },
     {
-      "file": "gender-balance/results.csv",
-      "type": "gender",
-      "create": {
-        "from": "gender-balance",
-        "source": "UK/Commons"
-      }
-    },
-    {
       "file": "morph/cabinet.csv",
       "type": "wikidata-cabinet",
       "create": {

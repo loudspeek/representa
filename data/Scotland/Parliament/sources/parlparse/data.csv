@@ -175,10 +175,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13997,Trish Godman,,,uk.org.publicwhip/person/13997,West Renfrewshire,uk.org.publicwhip/cons/10796,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
 13997,Trish Godman,,,uk.org.publicwhip/person/13997,West Renfrewshire,uk.org.publicwhip/cons/10796,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
 13997,Trish Godman,,,uk.org.publicwhip/person/13997,West Renfrewshire,uk.org.publicwhip/cons/10796,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
-13998,Annabel Goldie,,4306,uk.org.publicwhip/person/13998,West of Scotland,uk.org.publicwhip/cons/10723,Conservative,conservative,1999-05-06,regional_election,2003-03-31,regional_election,1
-13998,Annabel Goldie,,4306,uk.org.publicwhip/person/13998,West of Scotland,uk.org.publicwhip/cons/10723,Conservative,conservative,2003-05-01,regional_election,2007-04-02,regional_election,2
-13998,Annabel Goldie,,4306,uk.org.publicwhip/person/13998,West of Scotland,uk.org.publicwhip/cons/10723,Conservative,conservative,2007-05-03,regional_election,2011-03-23,regional_election,3
-13998,Annabel Goldie,,4306,uk.org.publicwhip/person/13998,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2011-05-06,regional_election,2016-03-23,regional_election,4
+13998,Baroness Goldie,,4306,uk.org.publicwhip/person/13998,West of Scotland,uk.org.publicwhip/cons/10723,Conservative,conservative,1999-05-06,regional_election,2003-03-31,regional_election,1
+13998,Baroness Goldie,,4306,uk.org.publicwhip/person/13998,West of Scotland,uk.org.publicwhip/cons/10723,Conservative,conservative,2003-05-01,regional_election,2007-04-02,regional_election,2
+13998,Baroness Goldie,,4306,uk.org.publicwhip/person/13998,West of Scotland,uk.org.publicwhip/cons/10723,Conservative,conservative,2007-05-03,regional_election,2011-03-23,regional_election,3
+13998,Baroness Goldie,,4306,uk.org.publicwhip/person/13998,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2011-05-06,regional_election,2016-03-23,regional_election,4
 13999,Charlie Gordon,,,uk.org.publicwhip/person/13999,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Labour,labour,2005-09-29,by_election,2007-04-02,regional_election,2
 13999,Charlie Gordon,,,uk.org.publicwhip/person/13999,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
 14000,Christine Grahame,,,uk.org.publicwhip/person/14000,South of Scotland,uk.org.publicwhip/cons/10722,Scottish National Party,scottish-national-party,1999-05-06,regional_election,2003-03-31,regional_election,1
@@ -308,9 +308,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 14048,Tom McCabe,,,uk.org.publicwhip/person/14048,Hamilton South,uk.org.publicwhip/cons/10772,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
 14048,Tom McCabe,,,uk.org.publicwhip/person/14048,Hamilton South,uk.org.publicwhip/cons/10772,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
 14048,Tom McCabe,,,uk.org.publicwhip/person/14048,Hamilton South,uk.org.publicwhip/cons/10772,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
-14049,Jack McConnell,,4168,uk.org.publicwhip/person/14049,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
-14049,Jack McConnell,,4168,uk.org.publicwhip/person/14049,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
-14049,Jack McConnell,,4168,uk.org.publicwhip/person/14049,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
+14049,Lord McConnell of Glenscorrodale,,4168,uk.org.publicwhip/person/14049,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
+14049,Lord McConnell of Glenscorrodale,,4168,uk.org.publicwhip/person/14049,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
+14049,Lord McConnell of Glenscorrodale,,4168,uk.org.publicwhip/person/14049,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
 14050,Bruce McFee,,,uk.org.publicwhip/person/14050,West of Scotland,uk.org.publicwhip/cons/10723,Scottish National Party,scottish-national-party,2003-05-01,regional_election,2007-04-02,regional_election,2
 14051,Jamie McGrigor,,,uk.org.publicwhip/person/14051,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,1999-05-06,regional_election,2003-03-31,regional_election,1
 14051,Jamie McGrigor,,,uk.org.publicwhip/person/14051,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2003-05-01,regional_election,2007-04-02,regional_election,2
@@ -387,8 +387,8 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 14078,Dave Petrie,,,uk.org.publicwhip/person/14078,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2006-04-19,replaced_in_region,2007-04-02,regional_election,2
 14079,Mike Pringle,,,uk.org.publicwhip/person/14079,Edinburgh South,uk.org.publicwhip/cons/10754,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
 14079,Mike Pringle,,,uk.org.publicwhip/person/14079,Edinburgh South,uk.org.publicwhip/cons/10754,Liberal Democrat,liberal-democrat,2007-05-03,regional_election,2011-03-23,regional_election,3
-14080,Jeremy Purvis,,4293,uk.org.publicwhip/person/14080,"Tweeddale, Ettrick and Lauderdale",uk.org.publicwhip/cons/10793,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
-14080,Jeremy Purvis,,4293,uk.org.publicwhip/person/14080,"Tweeddale, Ettrick and Lauderdale",uk.org.publicwhip/cons/10793,Liberal Democrat,liberal-democrat,2007-05-03,regional_election,2011-03-23,regional_election,3
+14080,Lord Purvis of Tweed,,4293,uk.org.publicwhip/person/14080,"Tweeddale, Ettrick and Lauderdale",uk.org.publicwhip/cons/10793,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
+14080,Lord Purvis of Tweed,,4293,uk.org.publicwhip/person/14080,"Tweeddale, Ettrick and Lauderdale",uk.org.publicwhip/cons/10793,Liberal Democrat,liberal-democrat,2007-05-03,regional_election,2011-03-23,regional_election,3
 14081,Lloyd Quinan,,,uk.org.publicwhip/person/14081,West of Scotland,uk.org.publicwhip/cons/10723,Scottish National Party,scottish-national-party,1999-05-06,regional_election,2003-03-31,regional_election,1
 14082,Nora Radcliffe,,,uk.org.publicwhip/person/14082,Gordon,uk.org.publicwhip/cons/10769,Liberal Democrat,liberal-democrat,1999-05-06,regional_election,2003-03-31,regional_election,1
 14082,Nora Radcliffe,,,uk.org.publicwhip/person/14082,Gordon,uk.org.publicwhip/cons/10769,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
@@ -442,9 +442,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 14099,Elaine Smith,,,uk.org.publicwhip/person/14099,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
 14099,Elaine Smith,,,uk.org.publicwhip/person/14099,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Labour,labour,2011-05-06,regional_election,2016-03-23,regional_election,4
 14100,Shirley-Anne Somerville,,,uk.org.publicwhip/person/14100,Lothians,uk.org.publicwhip/cons/10719,Scottish National Party,scottish-national-party,2007-08-31,replaced_in_region,2011-03-23,regional_election,3
-14101,Nicol Stephen,,4239,uk.org.publicwhip/person/14101,Aberdeen South,uk.org.publicwhip/cons/10726,Liberal Democrat,liberal-democrat,1999-05-06,regional_election,2003-03-31,regional_election,1
-14101,Nicol Stephen,,4239,uk.org.publicwhip/person/14101,Aberdeen South,uk.org.publicwhip/cons/10726,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
-14101,Nicol Stephen,,4239,uk.org.publicwhip/person/14101,Aberdeen South,uk.org.publicwhip/cons/10726,Liberal Democrat,liberal-democrat,2007-05-03,regional_election,2011-03-23,regional_election,3
+14101,Lord Stephen,,4239,uk.org.publicwhip/person/14101,Aberdeen South,uk.org.publicwhip/cons/10726,Liberal Democrat,liberal-democrat,1999-05-06,regional_election,2003-03-31,regional_election,1
+14101,Lord Stephen,,4239,uk.org.publicwhip/person/14101,Aberdeen South,uk.org.publicwhip/cons/10726,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
+14101,Lord Stephen,,4239,uk.org.publicwhip/person/14101,Aberdeen South,uk.org.publicwhip/cons/10726,Liberal Democrat,liberal-democrat,2007-05-03,regional_election,2011-03-23,regional_election,3
 14102,Stewart Stevenson,,,uk.org.publicwhip/person/14102,Banff and Buchan,uk.org.publicwhip/cons/10731,Scottish National Party,scottish-national-party,2001-06-07,by_election,2003-03-31,regional_election,1
 14102,Stewart Stevenson,,,uk.org.publicwhip/person/14102,Banff and Buchan,uk.org.publicwhip/cons/10731,Scottish National Party,scottish-national-party,2003-05-01,regional_election,2007-04-02,regional_election,2
 14102,Stewart Stevenson,,,uk.org.publicwhip/person/14102,Banff and Buchan,uk.org.publicwhip/cons/10731,Scottish National Party,scottish-national-party,2007-05-03,regional_election,2011-03-23,regional_election,3
@@ -580,7 +580,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13977,Bob Doris,,,uk.org.publicwhip/person/13977,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25082,James Dornan,,,uk.org.publicwhip/person/25082,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25083,Kezia Dugdale,,,uk.org.publicwhip/person/25083,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2016-05-07,regional_election,2019-07-15,resigned,5
-25503,Mairi Evans,,,uk.org.publicwhip/person/25503,Angus North and Mearns,uk.org.publicwhip/cons/10802,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
+25503,Mairi Gougeon,,,uk.org.publicwhip/person/25503,Angus North and Mearns,uk.org.publicwhip/cons/10802,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25085,Annabelle Ewing,,,uk.org.publicwhip/person/25085,Cowdenbeath,uk.org.publicwhip/cons/10807,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 13980,Fergus Ewing,,,uk.org.publicwhip/person/13980,Inverness and Nairn,uk.org.publicwhip/cons/10823,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 13982,Linda Fabiani,,,uk.org.publicwhip/person/13982,East Kilbride,uk.org.publicwhip/cons/10747,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5

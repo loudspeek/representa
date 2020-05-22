@@ -90,7 +90,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "015758b7-dcf5-4acb-9fba-551b9fd05c3a",
       "identifiers": [
         {
@@ -109,7 +108,6 @@
       "name": "Jean Turner"
     },
     {
-      "gender": "male",
       "id": "01f47ff9-74bd-4e47-a379-14122c38c1fe",
       "identifiers": [
         {
@@ -275,7 +273,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "033305b9-df75-486f-86d8-7c5317e15b8a",
       "identifiers": [
         {
@@ -902,6 +899,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Liam4Orkney"
+        },
+        {
+          "note": "website",
+          "url": "http://www.liammcarthur.org.uk/"
         }
       ],
       "name": "Liam McArthur",
@@ -924,7 +925,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "09ad7460-bd3d-4fa5-a687-cc072f243724",
       "identifiers": [
         {
@@ -1238,7 +1238,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "0e7f7dd3-7693-4abb-b4b4-8cd7ead76f40",
       "identifiers": [
         {
@@ -1597,6 +1596,11 @@
         {
           "lang": "ja",
           "name": "アラスデア・モーガン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "阿拉斯代尔·摩根",
           "note": "multilingual"
         },
         {
@@ -1999,7 +2003,6 @@
       "name": "Alison Harris"
     },
     {
-      "gender": "female",
       "id": "18775281-fd5f-4179-b873-fef5484cb2df",
       "identifiers": [
         {
@@ -2018,7 +2021,6 @@
       "name": "Margaret Burgess"
     },
     {
-      "gender": "male",
       "id": "1a1ba0e2-3977-43ac-890c-c1ef3b664b96",
       "identifiers": [
         {
@@ -2125,7 +2127,6 @@
       "name": "Neil Findlay"
     },
     {
-      "gender": "male",
       "id": "1aa5f5ac-0635-4a57-bf96-cfa6404ed842",
       "identifiers": [
         {
@@ -2247,6 +2248,7 @@
         }
       ],
       "email": "Ken.Macintosh.msp@parliament.scot",
+      "family_name": "Macintosh",
       "gender": "male",
       "given_name": "Ken",
       "id": "1b456bf4-58d1-47cd-93bd-038d277a43a7",
@@ -2340,7 +2342,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "1bca02f6-8ed1-4a4a-805e-3b2999f0acf6",
       "identifiers": [
         {
@@ -2432,7 +2433,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "1cba1613-425a-495e-adcf-f2935276511c",
       "identifiers": [
         {
@@ -2451,7 +2451,6 @@
       "name": "Dave Thompson"
     },
     {
-      "gender": "female",
       "id": "207bb8de-227a-433e-9e0a-468ac546019d",
       "identifiers": [
         {
@@ -2805,7 +2804,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gordon_Jackson_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Gordon_Jackson_(advocate)"
         }
       ],
       "name": "Gordon Jackson",
@@ -2826,6 +2825,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "戈登·杰克逊",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "戈登·杰克逊",
           "note": "multilingual"
@@ -2843,7 +2847,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "22b44c00-ff13-48cd-9102-dd10bf6c7a0e",
       "identifiers": [
         {
@@ -3516,7 +3519,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "27ef2e9f-3a97-440b-89f9-613305d24a5d",
       "identifiers": [
         {
@@ -3653,6 +3655,10 @@
           "url": "https://fr.wikipedia.org/wiki/Ben_Wallace_(homme_politique)"
         },
         {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Ben_Wallace"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Уоллес,_Бен_(политик)"
         },
@@ -3712,7 +3718,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "2b414f6f-4cdf-4b0a-a99d-0af20cc47740",
       "identifiers": [
         {
@@ -3950,7 +3955,6 @@
       "name": "Adam Tomkins"
     },
     {
-      "gender": "male",
       "id": "2d0b34bd-8a49-49b2-beba-0a11d2ba5a06",
       "identifiers": [
         {
@@ -4262,8 +4266,13 @@
           "url": "https://gd.wikipedia.org/wiki/Annabel_Goldie"
         }
       ],
-      "name": "Annabel Goldie",
+      "name": "Baroness Goldie",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Annabel Goldie",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "アナベル・ゴールディー",
@@ -4341,7 +4350,6 @@
       "name": "Finlay Carson"
     },
     {
-      "gender": "male",
       "id": "339bf47b-85f1-4941-a7a6-cd1dc2b606d4",
       "identifiers": [
         {
@@ -4467,6 +4475,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "ברוס קרופורד",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Брюс Крофорд",
           "note": "multilingual"
@@ -4474,7 +4487,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "347f5cf9-3cd6-450a-a82d-401fa47b4816",
       "identifiers": [
         {
@@ -4855,6 +4867,10 @@
           "url": "https://ar.wikipedia.org/wiki/روث_دافيدسون"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/روث_دافيدسون"
+        },
+        {
           "note": "Wikipedia (ca)",
           "url": "https://ca.wikipedia.org/wiki/Ruth_Davidson"
         },
@@ -4915,6 +4931,11 @@
       "other_names": [
         {
           "lang": "ar",
+          "name": "روث دافيدسون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
           "name": "روث دافيدسون",
           "note": "multilingual"
         },
@@ -5029,7 +5050,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "3aeff650-5189-4926-bb5d-b73912ff2c65",
       "identifiers": [
         {
@@ -5234,7 +5254,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "3f57b23b-91a1-45cf-833c-97d930b55cd7",
       "identifiers": [
         {
@@ -5402,7 +5421,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "414db735-3269-47e4-b26f-780791bb47d4",
       "identifiers": [
         {
@@ -5481,6 +5499,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:John_Lamont_(Scottish_politician)"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/جون_لامونت"
@@ -5590,6 +5612,10 @@
           "url": "https://ar.wikipedia.org/wiki/غرايم_داي"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/جرايم_داى"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Graeme_Dey"
         },
@@ -5614,6 +5640,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "arz",
+          "name": "جرايم داى",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "格雷姆·迪伊",
           "note": "multilingual"
@@ -5621,7 +5652,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "4495cfff-83c4-4b4e-8ba9-2b9d508dc572",
       "identifiers": [
         {
@@ -5640,7 +5670,6 @@
       "name": "Charlie Gordon"
     },
     {
-      "gender": "male",
       "id": "45511ff1-c5c7-4674-a7f5-26591110842b",
       "identifiers": [
         {
@@ -5887,7 +5916,6 @@
       "name": "Lyndsay McIntosh"
     },
     {
-      "gender": "male",
       "id": "4b87e745-d65f-4a2f-b67d-4da9ef10a955",
       "identifiers": [
         {
@@ -5968,7 +5996,6 @@
       "name": "Jenny Gilruth"
     },
     {
-      "gender": "male",
       "id": "4cbf8529-dbed-4363-996a-b67386119a5f",
       "identifiers": [
         {
@@ -6335,7 +6362,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "5290c919-9303-4155-bb14-2f31906ad4dd",
       "identifiers": [
         {
@@ -6443,7 +6469,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "53b3040b-a044-480f-82ff-0b7bc3415e62",
       "identifiers": [
         {
@@ -6462,7 +6487,6 @@
       "name": "Chris Ballance"
     },
     {
-      "gender": "male",
       "id": "542da096-db2c-48e2-b6ef-26c33cbfa7f6",
       "identifiers": [
         {
@@ -6481,7 +6505,6 @@
       "name": "Hanzala Malik"
     },
     {
-      "gender": "female",
       "id": "552ac614-1a43-4585-be1b-51ec2b0916d4",
       "identifiers": [
         {
@@ -6500,7 +6523,6 @@
       "name": "Shiona Baird"
     },
     {
-      "gender": "female",
       "id": "5669209c-f650-4812-af94-f90108ebdd10",
       "identifiers": [
         {
@@ -7133,6 +7155,7 @@
       "family_name": "Wallace",
       "gender": "male",
       "given_name": "Jim",
+      "honorific_prefix": "The Right Honourable",
       "id": "5d455184-56b6-488a-b51e-ab6e677b787c",
       "identifiers": [
         {
@@ -7246,6 +7269,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "吉姆·华莱士，坦克内斯男爵",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-hans",
           "name": "吉姆·华莱士，坦克内斯男爵",
           "note": "multilingual"
@@ -7319,7 +7347,14 @@
           "url": "https://twitter.com/PJFerguson18"
         }
       ],
-      "name": "Patricia Ferguson"
+      "name": "Patricia Ferguson",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "パトリシア・ファーガソン",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1947-02-11",
@@ -7467,6 +7502,11 @@
         {
           "lang": "ru",
           "name": "Алекс Нил",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "亚历克斯·内尔",
           "note": "multilingual"
         },
         {
@@ -8173,7 +8213,6 @@
       "name": "Jamie Halcro Johnston"
     },
     {
-      "gender": "female",
       "id": "6c90b417-5f7f-4c39-9c19-39d358dfe585",
       "identifiers": [
         {
@@ -8268,7 +8307,6 @@
       "name": "Maureen Watt"
     },
     {
-      "gender": "male",
       "id": "6d16ee63-bac2-4ed8-8915-6aba0f72c262",
       "identifiers": [
         {
@@ -8572,7 +8610,6 @@
       "name": "Gordon Lindhurst"
     },
     {
-      "gender": "female",
       "id": "74516f11-3cec-4fbc-9b29-cb0c06c9eca5",
       "identifiers": [
         {
@@ -8769,6 +8806,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1205251294",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "commons/anas-sarwar/3981",
           "scheme": "parliamentdotuk"
         },
@@ -8791,6 +8832,10 @@
         {
           "identifier": "jvkHFQc3",
           "scheme": "ukparliamentid"
+        },
+        {
+          "identifier": "9342158309870006690007",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q478812",
@@ -9126,6 +9171,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Nicol_Stephen"
+        },
+        {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/نيكول_ستيفن"
         },
@@ -9154,8 +9203,22 @@
           "url": "https://no.wikipedia.org/wiki/Nicol_Stephen"
         }
       ],
-      "name": "Nicol Stephen",
+      "name": "Lord Stephen",
       "other_names": [
+        {
+          "name": "Nicol Stephen",
+          "note": "alternate"
+        },
+        {
+          "lang": "af",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "an",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
         {
           "lang": "ar",
           "name": "نيكول ستيفن",
@@ -9167,8 +9230,113 @@
           "note": "multilingual"
         },
         {
+          "lang": "ast",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bar",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bm",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "br",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "co",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-at",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de-ch",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "Nicol Stephen, Baron Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-ca",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "en-gb",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eo",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "et",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frc",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "frp",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fur",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Nicol Stephen",
           "note": "multilingual"
         },
         {
@@ -9177,8 +9345,253 @@
           "note": "multilingual"
         },
         {
+          "lang": "gl",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gsw",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hr",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ia",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "id",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ie",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "io",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
           "lang": "ja",
           "name": "ニコル・スティーヴン",
+          "note": "multilingual"
+        },
+        {
+          "lang": "jam",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kab",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kg",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lb",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "li",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lij",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lt",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "lv",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mg",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "min",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ms",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nap",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nds-nl",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nn",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nrm",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "oc",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pap",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pcd",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pms",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "prg",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rgn",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "rm",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ro",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sc",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "scn",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sco",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sw",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tr",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vec",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vi",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vls",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vmf",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "vo",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wa",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "wo",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "尼科尔·斯蒂芬",
           "note": "multilingual"
         },
         {
@@ -9195,11 +9608,15 @@
           "lang": "zh-hant",
           "name": "尼科爾·斯蒂芬",
           "note": "multilingual"
+        },
+        {
+          "lang": "zu",
+          "name": "Nicol Stephen",
+          "note": "multilingual"
         }
       ]
     },
     {
-      "gender": "male",
       "id": "7b6bcd34-9069-4485-8d4c-3102b33b5bbf",
       "identifiers": [
         {
@@ -9348,6 +9765,11 @@
       ],
       "name": "Nora Radcliffe",
       "other_names": [
+        {
+          "lang": "zh",
+          "name": "诺拉·拉德克利弗",
+          "note": "multilingual"
+        },
         {
           "lang": "zh-cn",
           "name": "诺拉·拉德克利弗",
@@ -9627,7 +10049,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "7da42cf9-59f1-4639-9a0f-58bf3c90fbe7",
       "identifiers": [
         {
@@ -9700,7 +10121,6 @@
       "name": "Duncan McNeil"
     },
     {
-      "gender": "male",
       "id": "7f1691e6-cd64-4620-803a-00ba6ccba567",
       "identifiers": [
         {
@@ -9883,7 +10303,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "8022e531-754d-4cfe-8bc4-b056e8fca313",
       "identifiers": [
         {
@@ -10173,7 +10592,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "83082f21-ee01-4811-96f9-bb2941ee90e0",
       "identifiers": [
         {
@@ -10192,7 +10610,6 @@
       "name": "Jean Urquhart"
     },
     {
-      "gender": "male",
       "id": "831567ef-00e0-4c21-881e-5e210fbe590d",
       "identifiers": [
         {
@@ -10842,6 +11259,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "鲍勃·多尔斯",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "鲍勃·多尔斯",
           "note": "multilingual"
@@ -10973,7 +11395,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "8c6ab251-a68f-4855-ac03-de4cb213fe38",
       "identifiers": [
         {
@@ -11054,7 +11475,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "8d942163-14ac-4aca-b4be-4f5b6e8371f9",
       "identifiers": [
         {
@@ -11228,7 +11648,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "8fb96484-06dc-4af3-912b-9d074b85f6e6",
       "identifiers": [
         {
@@ -11252,6 +11671,7 @@
       "family_name": "Fergusson",
       "gender": "male",
       "given_name": "Alex",
+      "honorific_prefix": "The Right Honourable",
       "id": "911f4222-a3e7-4367-9ac5-8309767e87e1",
       "identifiers": [
         {
@@ -11604,6 +12024,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/الاسداير_موريسون"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Alasdair_Morrison"
         },
@@ -11612,7 +12036,14 @@
           "url": "https://en.wikipedia.org/wiki/Alasdair_Morrison_(politician)"
         }
       ],
-      "name": "Alasdair Morrison"
+      "name": "Alasdair Morrison",
+      "other_names": [
+        {
+          "lang": "arz",
+          "name": "الاسداير موريسون",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1954-04-14",
@@ -11669,7 +12100,6 @@
       "name": "Cathie Craigie"
     },
     {
-      "gender": "male",
       "id": "935a95bf-0f57-4b6b-a777-0a338e614a62",
       "identifiers": [
         {
@@ -11946,7 +12376,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "97dc27c3-c13f-4d47-a085-ce745100f3c4",
       "identifiers": [
         {
@@ -11965,7 +12394,6 @@
       "name": "Christian Allard"
     },
     {
-      "gender": "male",
       "id": "98e9789c-f93e-439e-b250-5dad40924fb3",
       "identifiers": [
         {
@@ -12317,7 +12745,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "9c14be1c-1d7c-44ec-8293-6246ab490935",
       "identifiers": [
         {
@@ -12426,7 +12853,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "9dc6c0dc-22cd-4b75-a679-dcd2aeaf2133",
       "identifiers": [
         {
@@ -12564,6 +12990,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35781571941"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Oliver_Mundell_2016.jpg"
         }
       ],
       "links": [
@@ -13053,6 +13482,10 @@
           "url": "https://ar.wikipedia.org/wiki/جورج_ريد_(سياسي_بريطاني)"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/جورج_ريد_(صحفى)"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/George_Reid_(Politiker,_1939)"
         },
@@ -13073,6 +13506,11 @@
       "other_names": [
         {
           "lang": "ar",
+          "name": "جورج ريد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
           "name": "جورج ريد",
           "note": "multilingual"
         },
@@ -13196,6 +13634,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "1990628",
+          "scheme": "fast"
+        },
+        {
           "identifier": "/m/025q2r",
           "scheme": "freebase"
         },
@@ -13273,7 +13715,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "a4fd3835-6ce2-4671-8ab6-7688bd31c5cc",
       "identifiers": [
         {
@@ -13292,7 +13733,6 @@
       "name": "Anne McTaggart"
     },
     {
-      "gender": "male",
       "id": "a7a8f8da-6d02-459a-86e8-00f57144857d",
       "identifiers": [
         {
@@ -13312,10 +13752,16 @@
           "scheme": "scotparl"
         }
       ],
-      "name": "Jeremy Purvis"
+      "name": "Lord Purvis of Tweed",
+      "other_names": [
+        {
+          "name": "Jeremy Purvis",
+          "note": "alternate"
+        }
+      ]
     },
     {
-      "birth_date": "1983-04-09",
+      "birth_date": "1983-01-27",
       "contact_details": [
         {
           "type": "twitter",
@@ -13370,6 +13816,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Douglas_Ross_(Scottish_politician)"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/دوغلاس_روس_(سياسي)"
@@ -13760,7 +14210,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "ad9b41ee-65cb-4418-bf78-475a445899e8",
       "identifiers": [
         {
@@ -13839,11 +14288,16 @@
           "url": "https://twitter.com/MairiGougeon"
         }
       ],
-      "name": "Mairi Evans",
+      "name": "Mairi Gougeon",
       "other_names": [
         {
-          "lang": "en",
-          "name": "Mairi Gougeon",
+          "lang": "gd",
+          "name": "Mairi Evans",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Mairi Evans",
           "note": "multilingual"
         }
       ]
@@ -14028,7 +14482,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "b07fbdde-c528-4613-81ca-dd9a80040b39",
       "identifiers": [
         {
@@ -14423,8 +14876,13 @@
           "url": "https://uk.wikipedia.org/wiki/Джек_Макконнелл"
         }
       ],
-      "name": "Jack McConnell",
+      "name": "Lord McConnell of Glenscorrodale",
       "other_names": [
+        {
+          "lang": "en",
+          "name": "Jack McConnell",
+          "note": "multilingual"
+        },
         {
           "lang": "gd",
           "name": "Seac MacDhòmhnaill",
@@ -14463,7 +14921,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "b9a76ce3-1549-499a-9b79-266caaf73543",
       "identifiers": [
         {
@@ -15066,7 +15523,6 @@
       "name": "Kate Maclean"
     },
     {
-      "gender": "male",
       "id": "bd49e4ae-c9ff-4804-8692-950766c3e560",
       "identifiers": [
         {
@@ -16434,7 +16890,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "c81de36e-a48a-4367-a74b-2a019721fa31",
       "identifiers": [
         {
@@ -16453,7 +16908,6 @@
       "name": "Ted Brocklebank"
     },
     {
-      "gender": "female",
       "id": "c87f7444-a84d-44f3-9182-6fd7d1e603c5",
       "identifiers": [
         {
@@ -16790,6 +17244,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/بيل_بومان"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Bill_Bowman_(Scottish_politician)"
         },
@@ -16806,7 +17264,14 @@
           "url": "https://twitter.com/billabowman"
         }
       ],
-      "name": "Bill Bowman"
+      "name": "Bill Bowman",
+      "other_names": [
+        {
+          "lang": "arz",
+          "name": "بيل بومان",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1972-05-06",
@@ -17188,6 +17653,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "斯图尔特·史蒂文森",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-cn",
           "name": "斯图尔特·史蒂文森",
           "note": "multilingual"
@@ -17271,6 +17741,10 @@
           "scheme": "ne_se"
         },
         {
+          "identifier": "A3137055X",
+          "scheme": "nlp"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/14105",
           "scheme": "parlparse"
         },
@@ -17297,7 +17771,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/9853640645"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/70/Nicola_Sturgeon_SNP_leader.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Nicola_Sturgeon_election_infobox_3.jpg"
         }
       ],
       "links": [
@@ -17426,6 +17900,10 @@
           "url": "https://hu.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Նիկոլա_Սթերջեն"
+        },
+        {
           "note": "Wikipedia (ia)",
           "url": "https://ia.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -17456,6 +17934,10 @@
         {
           "note": "Wikipedia (ko)",
           "url": "https://ko.wikipedia.org/wiki/니컬라_스터전"
+        },
+        {
+          "note": "Wikipedia (kw)",
+          "url": "https://kw.wikipedia.org/wiki/Nicola_Sturgeon"
         },
         {
           "note": "Wikipedia (la)",
@@ -17767,7 +18249,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "cc9d2221-ebeb-404d-945d-cd26e26783c0",
       "identifiers": [
         {
@@ -17838,6 +18319,11 @@
         {
           "lang": "ar",
           "name": "أندي كير",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "安迪·科尔",
           "note": "multilingual"
         },
         {
@@ -17960,6 +18446,7 @@
       "family_name": "Mountain",
       "gender": "male",
       "given_name": "Edward",
+      "honorific_prefix": "Sir",
       "id": "ce6317a5-55c6-4b8f-a218-755467a84cd7",
       "identifiers": [
         {
@@ -18013,7 +18500,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "cf3c9da6-0d69-40a9-97cf-df21d98c426f",
       "identifiers": [
         {
@@ -18107,7 +18593,6 @@
       "name": "Clare Adamson"
     },
     {
-      "gender": "female",
       "id": "d056d5aa-76fa-4b20-be01-15b3d2e3d7a2",
       "identifiers": [
         {
@@ -18320,6 +18805,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/وينى_اوينج"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Winnie_Ewing"
         },
@@ -18358,6 +18847,11 @@
       ],
       "name": "Winnie Ewing",
       "other_names": [
+        {
+          "lang": "arz",
+          "name": "وينى اوينج",
+          "note": "multilingual"
+        },
         {
           "lang": "ja",
           "name": "ウィニー・ユーイング",
@@ -19255,7 +19749,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "da1057e8-1794-476d-9c9a-28db9fefcb90",
       "identifiers": [
         {
@@ -19326,7 +19819,6 @@
       ]
     },
     {
-      "gender": "female",
       "id": "dcd56b36-1ffe-491d-b3c5-705bd0a127a5",
       "identifiers": [
         {
@@ -19499,7 +19991,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "dfc3dffd-5806-4882-9ce1-9dbefd513c0d",
       "identifiers": [
         {
@@ -19826,6 +20317,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/چوان_مكالپين"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Joan_McAlpine"
         },
@@ -19854,10 +20349,16 @@
           "url": "http://www.joanmcalpine.com/"
         }
       ],
-      "name": "Joan McAlpine"
+      "name": "Joan McAlpine",
+      "other_names": [
+        {
+          "lang": "arz",
+          "name": "چوان مكالپين",
+          "note": "multilingual"
+        }
+      ]
     },
     {
-      "gender": "female",
       "id": "e43898b1-f859-47b5-a66a-5c47cdc2ceab",
       "identifiers": [
         {
@@ -19906,6 +20407,10 @@
         {
           "identifier": "124785247",
           "scheme": "gnd"
+        },
+        {
+          "identifier": "93110",
+          "scheme": "gtaa"
         },
         {
           "identifier": "mr-donald-dewar",
@@ -20156,7 +20661,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "e715ee83-3aa9-4617-9a9b-457212ec76a0",
       "identifiers": [
         {
@@ -20349,7 +20853,6 @@
       "name": "Margaret Jamieson"
     },
     {
-      "gender": "male",
       "id": "e938898a-02f3-4237-ba31-f5002be58e78",
       "identifiers": [
         {
@@ -20655,6 +21158,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4b/RobinHarper.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikimedia Commons",
@@ -20696,7 +21205,6 @@
       ]
     },
     {
-      "gender": "male",
       "id": "f4ce21df-375e-4b54-942a-1fb2bb357d3d",
       "identifiers": [
         {
@@ -20715,7 +21223,6 @@
       "name": "Nigel Don"
     },
     {
-      "gender": "female",
       "id": "f5913368-309c-49bb-b02a-7911f65eaebc",
       "identifiers": [
         {
@@ -20734,7 +21241,6 @@
       "name": "Aileen McLeod"
     },
     {
-      "gender": "male",
       "id": "f63ce12c-5f51-499d-b0c2-24411a363620",
       "identifiers": [
         {
@@ -21082,6 +21588,7 @@
       "family_name": "McGrigor",
       "gender": "male",
       "given_name": "James",
+      "honorific_prefix": "Sir",
       "id": "fddff5e4-8472-4ce0-850e-1983363356dc",
       "identifiers": [
         {
@@ -21194,7 +21701,6 @@
       "name": "Rona Mackay"
     },
     {
-      "gender": "male",
       "id": "fe670895-999a-4f92-a373-243dc0f6234f",
       "identifiers": [
         {
@@ -21863,7 +22369,7 @@
         },
         {
           "lang": "ru",
-          "name": "независимый",
+          "name": "беспартийный",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -21977,7 +22483,7 @@
         },
         {
           "lang": "pl",
-          "name": "polityk niezrzeszony",
+          "name": "bezpartyjny",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22212,6 +22718,12 @@
         {
           "lang": "sl",
           "name": "neodvisni politik",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ary",
+          "name": "لامنتمي",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22636,12 +23148,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "ru",
-          "name": "беспартийный",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "tt",
           "name": "фиркасез",
           "note": "multilingual",
@@ -22716,6 +23222,24 @@
         {
           "lang": "zh-tw",
           "name": "無黨派",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pl",
+          "name": "niezrzeszony",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk bezpartyjny",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "pl",
+          "name": "polityk niezrzeszony",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -23387,6 +23911,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "arz",
+          "name": "الحزب القومى الاسكتلندى",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "wuu",
+          "name": "苏格兰民族党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "SNP",
           "note": "multilingual",
@@ -23619,7 +24155,7 @@
         },
         {
           "lang": "en",
-          "name": "Scottish Socialist Party",
+          "name": "Sokoto Smart People",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -23636,6 +24172,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "de",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nn",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "sco",
           "name": "Scots Socialist Pairty",
           "note": "multilingual",
@@ -23644,6 +24192,12 @@
         {
           "lang": "ar",
           "name": "الحزب الاشتراكي الاسكتلندي",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nl",
+          "name": "Scottish Socialist Party",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -23678,14 +24232,38 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "arz",
+          "name": "الحزب الاشتراكى الاسكتلندى",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pl",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "gd",
           "name": "Pàrtaidh Shòisealach na h-Alba",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
+          "lang": "gd",
+          "name": "Scottish Socialist Party",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "fr",
           "name": "Parti socialiste ecossais",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "fr",
+          "name": "Scottish Socialist Party",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -30467,6 +31045,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "克莱德班克和米尔盖",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh_hans",
           "name": "克莱德班克和米尔盖",
           "note": "multilingual"
@@ -31714,6 +32297,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh",
+          "name": "斯特拉斯克尔文和贝尔斯登",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh_hans",
           "name": "斯特拉斯克尔文和贝尔斯登",
           "note": "multilingual"
@@ -32476,6 +33064,11 @@
         {
           "lang": "gd",
           "name": "Siorrachd Rinn Friù a Tuath agus an Iar",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "伦弗鲁郡西北",
           "note": "multilingual"
         },
         {
