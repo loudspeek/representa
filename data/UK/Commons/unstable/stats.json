@@ -37,13 +37,13 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/parliament.csv",
       "type": "person",
       "scraper": "mashedkeyboard/uk-parliament-members",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/twitter.csv",
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "manual/emails.csv",
@@ -76,7 +76,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/cabinet.csv",
@@ -87,13 +87,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/twitter.csv",
