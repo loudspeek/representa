@@ -145,6 +145,12 @@
         "name": "威尔士工党",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "威尔士劳工党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
