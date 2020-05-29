@@ -11155,7 +11155,7 @@
         },
         {
           "lang": "ur",
-          "name": "آزاد",
+          "name": "آزاد سیاست دان",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12722,6 +12722,12 @@
         {
           "lang": "zh",
           "name": "威尔士工党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "威尔士劳工党",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -15812,6 +15818,11 @@
           "lang": "cy",
           "name": "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北威爾斯",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -15872,6 +15883,13 @@
         }
       ],
       "name": "Delyn",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "德林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
