@@ -145,6 +145,12 @@
         "name": "威尔士工党",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "威尔士劳工党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -221,6 +227,12 @@
       {
         "lang": "ar",
         "name": "الحزب الويلزي المحافظ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Partito Conservatore gallese",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -959,7 +971,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
