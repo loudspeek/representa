@@ -11155,7 +11155,7 @@
         },
         {
           "lang": "ur",
-          "name": "آزاد",
+          "name": "آزاد سیاست دان",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12562,8 +12562,26 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "it",
+          "name": "Partito Conservatore gallese",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Galesko Alderdi Kontserbadorea",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Welsh Conservatives",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eu",
+          "name": "Galesko Kontserbadoreak",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -12579,6 +12597,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -12722,6 +12741,12 @@
         {
           "lang": "zh",
           "name": "威尔士工党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "威尔士劳工党",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -15812,6 +15837,11 @@
           "lang": "cy",
           "name": "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北威爾斯",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -15872,6 +15902,13 @@
         }
       ],
       "name": "Delyn",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "德林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -16101,6 +16138,11 @@
       "name": "Torfaen",
       "other_names": [
         {
+          "lang": "ca",
+          "name": "Torfaen (etholaeth Cynulliad)",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Torfaen (Assembly constituency)",
           "note": "multilingual"
@@ -16243,6 +16285,11 @@
       "other_names": [
         {
           "lang": "br",
+          "name": "Castell-nedd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
           "name": "Castell-nedd",
           "note": "multilingual"
         },
