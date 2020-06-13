@@ -2289,6 +2289,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "2016年圖丁補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "2016 Tooting by-election",
         "note": "multilingual",
@@ -2893,6 +2899,24 @@
       {
         "lang": "en",
         "name": "1887 Basingstoke by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Elección de 1887 Basingstoke",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "1887 Basingstoke Wahl",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eo",
+        "name": "Elekto de Basingstoke de 1887",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3634,6 +3658,12 @@
       {
         "lang": "en",
         "name": "Richmond Park by-election, 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年列治文公園補選",
         "note": "multilingual",
         "source": "wikidata-label"
       }
