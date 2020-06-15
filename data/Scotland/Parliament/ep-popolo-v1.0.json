@@ -18,6 +18,7 @@
       "email": "Claudia.Beamish.msp@parliament.scot",
       "gender": "female",
       "given_name": "Claudia",
+      "honorific_prefix": "The Honorable",
       "id": "00745fc2-756a-40dd-bc5a-6a0a123aa666",
       "identifiers": [
         {
@@ -205,6 +206,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Joe_FitzPatrick"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Joe_FitzPatrick"
         },
         {
           "note": "twitter",
@@ -1514,6 +1519,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783688355"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Colin_Smyth_MSP.jpg"
         }
       ],
       "links": [
@@ -3659,6 +3667,10 @@
           "url": "https://ga.wikipedia.org/wiki/Ben_Wallace"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ben_Wallace_(politico)"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Уоллес,_Бен_(политик)"
         },
@@ -3713,6 +3725,11 @@
         {
           "lang": "zh",
           "name": "本·華萊士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "華禮仕",
           "note": "multilingual"
         }
       ]
@@ -4127,6 +4144,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Jamie4North"
+        },
+        {
+          "note": "website",
+          "url": "https://www.jamiestone.org.uk/"
         }
       ],
       "name": "Jamie Stone",
@@ -6995,6 +7016,11 @@
         {
           "lang": "zh",
           "name": "戴维·蒙戴尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "萬達偉",
           "note": "multilingual"
         }
       ]
@@ -12741,6 +12767,11 @@
           "lang": "zh-hant",
           "name": "亨利爾·麥克萊斯",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "麥敬思",
+          "note": "multilingual"
         }
       ]
     },
@@ -13362,6 +13393,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Mìcheal_Ruiseal"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Michael_Russell_(politico)"
         },
         {
           "note": "Wikipedia (pt)",
@@ -14900,7 +14935,7 @@
         },
         {
           "lang": "zh",
-          "name": "麥凱倫",
+          "name": "傑克·麥康奈爾",
           "note": "multilingual"
         },
         {
@@ -14916,6 +14951,11 @@
         {
           "lang": "zh-hant",
           "name": "傑克·麥克康耐爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "麥康納",
           "note": "multilingual"
         }
       ]
@@ -15369,6 +15409,11 @@
         {
           "lang": "zh",
           "name": "亚历克斯·萨尔蒙德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "薩蒙德",
           "note": "multilingual"
         }
       ]
@@ -17992,6 +18037,10 @@
           "url": "https://te.wikipedia.org/wiki/నికోలా_స్టర్గియాన్"
         },
         {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นิโคลา_สเตอร์เจียน"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -18113,6 +18162,11 @@
         {
           "lang": "te",
           "name": "నికోలా స్టర్గియాన్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นิโคลา สเตอร์เจียน",
           "note": "multilingual"
         },
         {
@@ -19946,10 +20000,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://scottishparliament.thirdlight.com/file/35960260779",
+      "image": "https://scottishparliament.thirdlight.com/file/35960260779",
       "images": [
         {
-          "url": "http://scottishparliament.thirdlight.com/file/35960260779"
+          "url": "https://scottishparliament.thirdlight.com/file/35960260779"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/RichardLyleMSP20120127.jpg"
@@ -21570,6 +21624,10 @@
           "url": "https://sco.wikipedia.org/wiki/Jamie_Greene"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Jamie_Greene"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jamiegreeneUK"
         }
@@ -21946,6 +22004,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Scottish_Conservative_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -22417,7 +22476,7 @@
         },
         {
           "lang": "ur",
-          "name": "آزاد",
+          "name": "آزاد سیاست دان",
           "note": "multilingual",
           "source": "wikidata-label"
         },
