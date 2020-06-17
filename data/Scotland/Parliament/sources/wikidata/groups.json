@@ -755,6 +755,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Scottish_Conservative_Logo.svg",
     "srgb": "0087DC"
   },
   "d0527c28-097e-48ba-bcb2-fa5a61478f20": {
@@ -1485,7 +1486,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
