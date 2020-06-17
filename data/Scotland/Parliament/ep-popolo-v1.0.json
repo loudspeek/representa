@@ -18,6 +18,7 @@
       "email": "Claudia.Beamish.msp@parliament.scot",
       "gender": "female",
       "given_name": "Claudia",
+      "honorific_prefix": "The Honorable",
       "id": "00745fc2-756a-40dd-bc5a-6a0a123aa666",
       "identifiers": [
         {
@@ -205,6 +206,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Joe_FitzPatrick"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Joe_FitzPatrick"
         },
         {
           "note": "twitter",
@@ -1414,7 +1419,7 @@
         },
         {
           "type": "twitter",
-          "value": "Carlaw4Eastwood"
+          "value": "Jackson_Carlaw"
         }
       ],
       "email": "Jackson.Carlaw.msp@parliament.scot",
@@ -1474,8 +1479,12 @@
           "url": "https://sco.wikipedia.org/wiki/Jackson_Carlaw"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/jackson4eastwood"
+        },
+        {
           "note": "twitter",
-          "url": "https://twitter.com/Carlaw4Eastwood"
+          "url": "https://twitter.com/Jackson_Carlaw"
         }
       ],
       "name": "Jackson Carlaw"
@@ -1514,6 +1523,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783688355"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Colin_Smyth_MSP.jpg"
         }
       ],
       "links": [
@@ -3466,6 +3478,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0b1279",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13991",
           "scheme": "parlparse"
         },
@@ -3505,8 +3521,20 @@
           "url": "https://sco.wikipedia.org/wiki/Murdo_Fraser"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/MSPMurdoFraser"
+        },
+        {
+          "note": "instagram",
+          "url": "murdo_fraser"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/murdo_fraser"
+        },
+        {
+          "note": "website",
+          "url": "http://www.murdofraser.com/"
         }
       ],
       "name": "Murdo Fraser",
@@ -3659,6 +3687,10 @@
           "url": "https://ga.wikipedia.org/wiki/Ben_Wallace"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ben_Wallace_(politico)"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Уоллес,_Бен_(политик)"
         },
@@ -3713,6 +3745,11 @@
         {
           "lang": "zh",
           "name": "本·華萊士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "華禮仕",
           "note": "multilingual"
         }
       ]
@@ -4127,6 +4164,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Jamie4North"
+        },
+        {
+          "note": "website",
+          "url": "https://www.jamiestone.org.uk/"
         }
       ],
       "name": "Jamie Stone",
@@ -6996,6 +7037,11 @@
           "lang": "zh",
           "name": "戴维·蒙戴尔",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "萬達偉",
+          "note": "multilingual"
         }
       ]
     },
@@ -8488,6 +8534,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Beatrice_Wishart"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Beatrice_Wishart"
         },
         {
           "note": "twitter",
@@ -10697,6 +10747,10 @@
           "url": "https://gd.wikipedia.org/wiki/Sarah_Boyack"
         },
         {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Sarah_Boyack"
+        },
+        {
           "note": "website",
           "url": "http://www.sarahboyack.com/"
         }
@@ -11129,6 +11183,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11cn6btnx0",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25542",
           "scheme": "parlparse"
         },
@@ -11166,6 +11224,14 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Annie_Wells_(politeecian)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/AnnieWellsMSP"
+        },
+        {
+          "note": "instagram",
+          "url": "anniewellsmsp"
         },
         {
           "note": "twitter",
@@ -12741,6 +12807,11 @@
           "lang": "zh-hant",
           "name": "亨利爾·麥克萊斯",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "麥敬思",
+          "note": "multilingual"
         }
       ]
     },
@@ -13362,6 +13433,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Mìcheal_Ruiseal"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Michael_Russell_(politico)"
         },
         {
           "note": "Wikipedia (pt)",
@@ -14900,7 +14975,7 @@
         },
         {
           "lang": "zh",
-          "name": "麥凱倫",
+          "name": "傑克·麥康奈爾",
           "note": "multilingual"
         },
         {
@@ -14916,6 +14991,11 @@
         {
           "lang": "zh-hant",
           "name": "傑克·麥克康耐爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "麥康納",
           "note": "multilingual"
         }
       ]
@@ -15369,6 +15449,11 @@
         {
           "lang": "zh",
           "name": "亚历克斯·萨尔蒙德",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "薩蒙德",
           "note": "multilingual"
         }
       ]
@@ -17992,6 +18077,10 @@
           "url": "https://te.wikipedia.org/wiki/నికోలా_స్టర్గియాన్"
         },
         {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นิโคลา_สเตอร์เจียน"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -18018,6 +18107,14 @@
         {
           "note": "Wikiquote (pl)",
           "url": "https://pl.wikiquote.org/wiki/Nicola_Sturgeon"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/NicolaSturgeonSNP"
+        },
+        {
+          "note": "instagram",
+          "url": "nicolasturgeon"
         },
         {
           "note": "twitter",
@@ -18113,6 +18210,11 @@
         {
           "lang": "te",
           "name": "నికోలా స్టర్గియాన్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นิโคลา สเตอร์เจียน",
           "note": "multilingual"
         },
         {
@@ -19946,10 +20048,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://scottishparliament.thirdlight.com/file/35960260779",
+      "image": "https://scottishparliament.thirdlight.com/file/35960260779",
       "images": [
         {
-          "url": "http://scottishparliament.thirdlight.com/file/35960260779"
+          "url": "https://scottishparliament.thirdlight.com/file/35960260779"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/RichardLyleMSP20120127.jpg"
@@ -21570,6 +21672,10 @@
           "url": "https://sco.wikipedia.org/wiki/Jamie_Greene"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Jamie_Greene"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jamiegreeneUK"
         }
@@ -21894,6 +22000,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11cn8x9ylh",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25519",
           "scheme": "parlparse"
         },
@@ -21904,6 +22014,10 @@
         {
           "identifier": "Q24052679",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCx-ejt-fjJFAlLEbpjkisIg",
+          "scheme": "youtube"
         }
       ],
       "image": "http://scottishparliament.thirdlight.com/file/35783688782",
@@ -21929,6 +22043,10 @@
           "url": "https://sco.wikipedia.org/wiki/Dean_Lockhart"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/DeanLockhartMSP"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/DeanLockhartMSP"
         }
@@ -21946,6 +22064,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Scottish_Conservative_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -22417,7 +22536,7 @@
         },
         {
           "lang": "ur",
-          "name": "آزاد",
+          "name": "آزاد سیاست دان",
           "note": "multilingual",
           "source": "wikidata-label"
         },
