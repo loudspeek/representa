@@ -789,6 +789,36 @@
     ],
     "office": "Member of Parliament"
   },
+  "Q16993907": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q16993907"
+      }
+    ],
+    "name": "1991 Hemsworth by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1991 Hemsworth by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Hemsworth by-election, 1991",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1991-11-07"
+    ],
+    "office": "Member of the 50th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Derek Enright"
+    ]
+  },
   "Q17020044": {
     "identifiers": [
       {
@@ -2289,6 +2319,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "2016年圖丁補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "2016 Tooting by-election",
         "note": "multilingual",
@@ -2897,6 +2933,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "es",
+        "name": "Elección de 1887 Basingstoke",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "1887 Basingstoke Wahl",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eo",
+        "name": "Elekto de Basingstoke de 1887",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Basingstoke by-election, 1887",
         "note": "multilingual",
@@ -3395,6 +3449,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "kw",
+        "name": "Dewisyans ollgemmyn Ruwvaneth Unys, 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -3636,6 +3696,12 @@
         "name": "Richmond Park by-election, 2016",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年列治文公園補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -3847,48 +3913,6 @@
     "successful_candidates": [
       ""
     ]
-  },
-  "Q29571267": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q29571267"
-      }
-    ],
-    "name": "2017 United Kingdom general election in Scotland",
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "2017 United Kingdom general election in Scotland",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élections générales britanniques de 2017 en Écosse",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "eleccions generals britàniques de 2017 a Escòcia",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "United Kingdom general election, 2017 in Scotland",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "dates": [
-      "2017-06-08"
-    ],
-    "follows": "2015 United Kingdom general election in Scotland",
-    "followed_by": "2019 United Kingdom general election in Scotland",
-    "part_of": "2017 United Kingdom general election",
-    "office": "Member of Parliament"
   },
   "Q30173038": {
     "identifiers": [
@@ -6419,6 +6443,48 @@
     "office": "Member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
       "Lisa Forbes"
+    ]
+  },
+  "Q65049889": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q65049889"
+      }
+    ],
+    "name": "2019 Brecon and Radnorshire by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2019 Brecon and Radnorshire by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Is-etholiad Brycheiniog a Sir Faesyfed, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Brycheiniog i Sir Faesyfed de 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eml",
+        "name": "Elesiòṅ in dal culéǵ ad Brecon e Radnorshire dal 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2019-08-01"
+    ],
+    "office": "Member of the 57th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Jane Dodds"
     ]
   },
   "Q6747459": {
