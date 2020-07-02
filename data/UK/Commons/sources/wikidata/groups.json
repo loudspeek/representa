@@ -507,6 +507,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "yi",
+        "name": "לייבאר פארטיי",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -3222,7 +3228,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3529,6 +3535,18 @@
       {
         "lang": "ary",
         "name": "لامنتمي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "partilaus",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4047,6 +4065,36 @@
         "name": "polityk niezrzeszony",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "DDDDDD"
@@ -4421,6 +4469,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "حزب ويلز",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -4631,6 +4685,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/SDLP_logo.svg",
     "srgb": "3A9E84"
   },
   "ukip": {
@@ -4967,7 +5022,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
     "srgb": "70147A"
   },
   "green": {
