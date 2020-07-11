@@ -99,6 +99,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "1999ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "1999年スコットランド議会総選挙",
         "note": "multilingual",
@@ -664,6 +670,12 @@
       {
         "lang": "ast",
         "name": "eleiciones parllamentaries d'Escocia de 2003",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "2003ko Eskoziako Legebiltzarrerako hauteskundeak",
         "note": "multilingual",
         "source": "wikidata-label"
       },
