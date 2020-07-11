@@ -79,6 +79,12 @@
         "name": "United Kingdom general election 1831",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "1831年英国総選挙",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -786,6 +792,63 @@
     ],
     "dates": [
       "1911"
+    ],
+    "office": "Member of Parliament"
+  },
+  "Q16993907": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q16993907"
+      }
+    ],
+    "name": "1991 Hemsworth by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1991 Hemsworth by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Hemsworth by-election, 1991",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1991-11-07"
+    ],
+    "office": "Member of the 50th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Derek Enright"
+    ]
+  },
+  "Q17016646": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q17016646"
+      }
+    ],
+    "name": "1908 Manchester North West by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1908 Manchester North West by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Manchester North West by-election, 1908",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1908"
     ],
     "office": "Member of Parliament"
   },
@@ -1854,7 +1917,10 @@
     "dates": [
       "1990-11-08"
     ],
-    "office": "Member of Parliament"
+    "office": "Member of the 50th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Joe Benton"
+    ]
   },
   "Q23020417": {
     "identifiers": [
@@ -2285,6 +2351,12 @@
       {
         "lang": "ca",
         "name": "eleccions parcials de Tooting de 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年圖丁補選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2897,6 +2969,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "es",
+        "name": "Elección de 1887 Basingstoke",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "1887 Basingstoke Wahl",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eo",
+        "name": "Elekto de Basingstoke de 1887",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Basingstoke by-election, 1887",
         "note": "multilingual",
@@ -3395,6 +3485,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "kw",
+        "name": "Dewisyans ollgemmyn Ruwvaneth Unys, 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -3636,6 +3732,12 @@
         "name": "Richmond Park by-election, 2016",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年列治文公園補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -3847,48 +3949,6 @@
     "successful_candidates": [
       ""
     ]
-  },
-  "Q29571267": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q29571267"
-      }
-    ],
-    "name": "2017 United Kingdom general election in Scotland",
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "2017 United Kingdom general election in Scotland",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élections générales britanniques de 2017 en Écosse",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "eleccions generals britàniques de 2017 a Escòcia",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "United Kingdom general election, 2017 in Scotland",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "dates": [
-      "2017-06-08"
-    ],
-    "follows": "2015 United Kingdom general election in Scotland",
-    "followed_by": "2019 United Kingdom general election in Scotland",
-    "part_of": "2017 United Kingdom general election",
-    "office": "Member of Parliament"
   },
   "Q30173038": {
     "identifiers": [
@@ -4587,6 +4647,139 @@
     "successful_candidates": [
       "David Cameron"
     ]
+  },
+  "Q3943728": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q3943728"
+      }
+    ],
+    "name": "1852 United Kingdom general election",
+    "other_names": [
+      {
+        "lang": "ko",
+        "name": "1852년 영국 총선",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Парламентские выборы в Великобритании 1852 года",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "1852 United Kingdom general election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "elecciones generales del Reino Unido de 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори у Великій Британії 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sv",
+        "name": "Förenade kungarikets parlamentsval 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élections générales britanniques de 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "1852年イギリス総選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "যুক্তরাজ্যের সাধারণ নির্বাচন, ১৮৫২",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1852年英國國會選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fi",
+        "name": "Yhdistyneen kuningaskunnan parlamenttivaalit 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ast",
+        "name": "eleiciones xenerales del Reinu Xuníu de 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Etholiad cyffredinol y Deyrnas Unedig 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات العامة في المملكة المتحدة 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "1852年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni generali nel Regno Unito del 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "1952年イギリス総選挙",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom general election, 1852",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1852"
+    ],
+    "start_date": "1852-07-07",
+    "end_date": "1852-07-31",
+    "follows": "1847 United Kingdom general election",
+    "followed_by": "1857 United Kingdom general election",
+    "office": "Member of Parliament"
   },
   "Q428598": {
     "identifiers": [
@@ -6421,6 +6614,78 @@
       "Lisa Forbes"
     ]
   },
+  "Q65049889": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q65049889"
+      }
+    ],
+    "name": "2019 Brecon and Radnorshire by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2019 Brecon and Radnorshire by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "Is-etholiad Brycheiniog a Sir Faesyfed, 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Brycheiniog i Sir Faesyfed de 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eml",
+        "name": "Elesiòṅ in dal culéǵ ad Brecon e Radnorshire dal 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2019-08-01"
+    ],
+    "office": "Member of the 57th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Jane Dodds"
+    ]
+  },
+  "Q6658617": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6658617"
+      }
+    ],
+    "name": "1991 Liverpool Walton by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1991 Liverpool Walton by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Liverpool Walton by-election, 1991",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1991-07-04"
+    ],
+    "office": "Member of the 50th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Peter Kilfoyle"
+    ]
+  },
   "Q6747459": {
     "identifiers": [
       {
@@ -6595,72 +6860,6 @@
       "David Lammy"
     ]
   },
-  "Q7864918": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q7864918"
-      }
-    ],
-    "name": "UK Parliamentary by-election",
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "UK Parliamentary by-election",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Nachwahl zum House of Commons",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élection partielle à la Chambre des communes du Royaume-Uni",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "eleccions parcials al Parlament del Regne Unit",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "cy",
-        "name": "is-etholiad Seneddol y Deyrnas Unedig",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "國會補選",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ar",
-        "name": "الانتخابات الفرعية في مجلس العموم البريطاني",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "by-election",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "UK by-election",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "office": "Member of Parliament"
-  },
   "Q78851988": {
     "identifiers": [
       {
@@ -6691,6 +6890,12 @@
       {
         "lang": "sv",
         "name": "Nästa parlamentsval i Storbritannien",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "第59屆英國大選",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -6928,6 +7133,36 @@
     ],
     "office": "Member of Parliament"
   },
+  "Q7917467": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7917467"
+      }
+    ],
+    "name": "1989 Vauxhall by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1989 Vauxhall by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Vauxhall by-election, 1989",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "1989-06-15"
+    ],
+    "office": "Member of the 50th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Kate Hoey"
+    ]
+  },
   "Q7970743": {
     "identifiers": [
       {
@@ -7003,6 +7238,45 @@
     "successful_candidates": [
       "Neil Turner"
     ]
+  },
+  "Q85720052": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q85720052"
+      }
+    ],
+    "name": "1866 Leominster by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1866 Leominster by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "office": "Member of Parliament"
+  },
+  "Q85720082": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q85720082"
+      }
+    ],
+    "name": "1868 Kirkcudbrightshire by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1868 Kirkcudbrightshire by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1868-01-30"
+    ],
+    "office": "Member of Parliament"
   },
   "Q918472": {
     "identifiers": [
