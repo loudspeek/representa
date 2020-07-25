@@ -145,6 +145,12 @@
         "name": "威尔士工党",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "威尔士劳工党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -153,6 +159,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
     "srgb": "DC241F"
   },
   "89e51135-5b4f-480a-a931-654928c345bb": {
@@ -225,8 +232,26 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "it",
+        "name": "Partito Conservatore gallese",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Galesko Alderdi Kontserbadorea",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Welsh Conservatives",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Galesko Kontserbadoreak",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -339,6 +364,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "حزب ويلز",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -425,6 +456,12 @@
       {
         "lang": "it",
         "name": "Liberal Democratici gallesi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Galesko Liberal Demokratak",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -771,7 +808,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
     "srgb": "70147A"
   },
   "50539eb9-5cb3-4018-92d6-3210f1c09c62": {
@@ -959,7 +995,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1266,6 +1302,18 @@
       {
         "lang": "ary",
         "name": "لامنتمي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "partilaus",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1782,6 +1830,36 @@
       {
         "lang": "pl",
         "name": "polityk niezrzeszony",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političari",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
