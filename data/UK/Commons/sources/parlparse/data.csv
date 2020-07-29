@@ -4245,7 +4245,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24749,Stephen Metcalfe,,4092,uk.org.publicwhip/person/24749,South Basildon and East Thurrock,uk.org.publicwhip/cons/2229,Conservative,conservative,2019-12-13,general_election,,,58
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2019-12-13,general_election,,,58
 10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2019-12-13,general_election,,,58
-24743,Jonathan Edwards,,3943,uk.org.publicwhip/person/24743,Carmarthen East and Dinefwr,uk.org.publicwhip/cons/117,Plaid Cymru,plaid-cymru,2019-12-13,general_election,,,58
+24743,Jonathan Edwards,,3943,uk.org.publicwhip/person/24743,Carmarthen East and Dinefwr,uk.org.publicwhip/cons/117,Plaid Cymru,plaid-cymru,2019-12-13,general_election,2020-05-22,changed_party,58
 25294,Kirsten Oswald,,4413,uk.org.publicwhip/person/25294,East Renfrewshire,uk.org.publicwhip/cons/204,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25827,Angela Richardson,,4840,uk.org.publicwhip/person/25827,Guildford,uk.org.publicwhip/cons/262,Conservative,conservative,2019-12-13,general_election,,,58
 10241,Damian Green,314,76,uk.org.publicwhip/person/10241,Ashford,uk.org.publicwhip/cons/15,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4295,13 +4295,13 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10185,Clive Efford,262,165,uk.org.publicwhip/person/10185,Eltham,uk.org.publicwhip/cons/216,Labour,labour,2019-12-13,general_election,,,58
 10051,Crispin Blunt,132,104,uk.org.publicwhip/person/10051,Reigate,uk.org.publicwhip/cons/472,Conservative,conservative,2019-12-13,general_election,,,58
 25839,Kate Griffiths,,4773,uk.org.publicwhip/person/25839,Burton,uk.org.publicwhip/cons/100,Conservative,conservative,2019-12-13,general_election,,,58
-25840,Robert Courts,,4589,uk.org.publicwhip/person/25840,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2019-12-13,general_election,,,58
+25593,Robert Courts,,4589,uk.org.publicwhip/person/25593,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2019-12-13,general_election,,,58
 25841,Robert Largan,,4852,uk.org.publicwhip/person/25841,High Peak,uk.org.publicwhip/cons/293,Conservative,conservative,2019-12-13,general_election,,,58
 25842,Antony Higginbotham,,4833,uk.org.publicwhip/person/25842,Burnley,uk.org.publicwhip/cons/99,Conservative,conservative,2019-12-13,general_election,,,58
 25531,Douglas Ross,,4627,uk.org.publicwhip/person/25531,Moray,uk.org.publicwhip/cons/385,Conservative,conservative,2019-12-13,general_election,,,58
 25699,Eddie Hughes,,4635,uk.org.publicwhip/person/25699,Walsall North,uk.org.publicwhip/cons/601,Conservative,conservative,2019-12-13,general_election,,,58
 25843,Virginia Crosbie,,4859,uk.org.publicwhip/person/25843,Ynys Môn,uk.org.publicwhip/cons/658,Conservative,conservative,2019-12-13,general_election,,,58
-10358,Julian Lewis,431,54,uk.org.publicwhip/person/10358,New Forest East,uk.org.publicwhip/cons/390,Conservative,conservative,2019-12-13,general_election,,,58
+10358,Julian Lewis,431,54,uk.org.publicwhip/person/10358,New Forest East,uk.org.publicwhip/cons/390,Conservative,conservative,2019-12-13,general_election,2020-07-14,changed_party,58
 10133,Jeremy Corbyn,212,185,uk.org.publicwhip/person/10133,Islington North,uk.org.publicwhip/cons/309,Labour,labour,2019-12-13,general_election,,,58
 14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,East Lothian,uk.org.publicwhip/cons/198,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25290,Craig Tracey,,4509,uk.org.publicwhip/person/25290,North Warwickshire,uk.org.publicwhip/cons/423,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4416,7 +4416,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11360,Liam Byrne,9451,1171,uk.org.publicwhip/person/11360,"Birmingham, Hodge Hill",uk.org.publicwhip/cons/49,Labour,labour,2019-12-13,general_election,,,58
 11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2019-12-13,general_election,,,58
 25872,Wendy Chamberlain,,4765,uk.org.publicwhip/person/25872,North East Fife,uk.org.publicwhip/cons/411,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
-25873,Neale Hanvey,,4782,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Independent,independent,2019-12-13,general_election,,,58
+25873,Neale Hanvey,,4782,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Independent,independent,2019-12-13,general_election,2020-05-28,changed_party,58
 25874,Christian Wakeford,,4871,uk.org.publicwhip/person/25874,Bury South,uk.org.publicwhip/cons/102,Conservative,conservative,2019-12-13,general_election,,,58
 11647,Diana R. Johnson,,1533,uk.org.publicwhip/person/11647,Kingston upon Hull North,uk.org.publicwhip/cons/319,Labour,labour,2019-12-13,general_election,,,58
 25379,Matthew Pennycook,,4520,uk.org.publicwhip/person/25379,Greenwich and Woolwich,uk.org.publicwhip/cons/261,Labour,labour,2019-12-13,general_election,,,58
@@ -4729,3 +4729,6 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24829,Andrea Leadsom,,4117,uk.org.publicwhip/person/24829,South Northamptonshire,uk.org.publicwhip/cons/2231,Conservative,conservative,2019-12-13,general_election,,,58
 25927,Andrew Griffith,,4874,uk.org.publicwhip/person/25927,Arundel and South Downs,uk.org.publicwhip/cons/13,Conservative,conservative,2019-12-13,general_election,,,58
 25440,Derek Thomas,,4532,uk.org.publicwhip/person/25440,St Ives,uk.org.publicwhip/cons/543,Conservative,conservative,2019-12-13,general_election,,,58
+25873,Neale Hanvey,,4782,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Scottish National Party,scottish-national-party,2020-05-29,changed_party,,,58
+24743,Jonathan Edwards,,3943,uk.org.publicwhip/person/24743,Carmarthen East and Dinefwr,uk.org.publicwhip/cons/117,Independent,independent,2020-05-23,changed_party,,,58
+10358,Julian Lewis,431,54,uk.org.publicwhip/person/10358,New Forest East,uk.org.publicwhip/cons/390,Independent,independent,2020-07-15,changed_party,,,58
