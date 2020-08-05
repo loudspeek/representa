@@ -507,6 +507,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "yi",
+        "name": "לייבאר פארטיי",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -515,6 +521,12 @@
       {
         "lang": "en",
         "name": "Labour Party (UK)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Labour Party (Great Britain) -- Wales -- Records and correspondence",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1144,6 +1156,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "en",
+        "name": "Conservative Party (Great Britain) -- Elections",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Conservative Party (Great Britain) -- Records and correspondence",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "it",
         "name": "Partito Conservatore e Unionista",
         "note": "multilingual",
@@ -1654,14 +1678,8 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "no",
-        "name": "Liberaldemokratene (Storbritannia)",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-yue",
-        "name": "自由民主黨 (英國)",
+        "lang": "vi",
+        "name": "Đảng Dân chủ Tự do (Anh)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1680,6 +1698,12 @@
       {
         "lang": "yue",
         "name": "自民黨",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "yue",
+        "name": "自由民主黨 (英國)",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -3222,7 +3246,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3529,6 +3553,18 @@
       {
         "lang": "ary",
         "name": "لامنتمي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "partilaus",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4047,6 +4083,48 @@
         "name": "polityk niezrzeszony",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "беспартыйны палітык",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "DDDDDD"
@@ -4421,6 +4499,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "حزب ويلز",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -4631,6 +4715,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/SDLP_logo.svg",
     "srgb": "3A9E84"
   },
   "ukip": {
@@ -4967,7 +5052,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
     "srgb": "70147A"
   },
   "green": {
@@ -5359,7 +5443,7 @@
       },
       {
         "lang": "ar",
-        "name": "حزب الكرامة (المملكة المتحدة)",
+        "name": "حزب الكرامة",
         "note": "multilingual",
         "source": "wikidata-label"
       },
