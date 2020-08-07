@@ -11155,7 +11155,7 @@
         },
         {
           "lang": "ur",
-          "name": "آزاد",
+          "name": "آزاد سیاست دان",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11462,6 +11462,24 @@
         {
           "lang": "ary",
           "name": "لامنتمي",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "hr",
+          "name": "Nezavisni",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nn",
+          "name": "partilaus",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ga",
+          "name": "polaiteoir neamhspleách",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11980,6 +11998,48 @@
           "name": "polityk niezrzeszony",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nezavisni političar",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nesvrstani",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nesvrstani političar",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nezavisni političari",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nesvrstani političari",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be",
+          "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be",
+          "name": "беспартыйны палітык",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "DDDDDD"
@@ -12125,6 +12185,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ar",
+          "name": "حزب ويلز",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Plaid",
           "note": "multilingual",
@@ -12154,7 +12220,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
       "links": [
         {
           "note": "website",
@@ -12562,8 +12627,26 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "it",
+          "name": "Partito Conservatore gallese",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Galesko Alderdi Kontserbadorea",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Welsh Conservatives",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "eu",
+          "name": "Galesko Kontserbadoreak",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -12579,6 +12662,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -12724,6 +12808,12 @@
           "name": "威尔士工党",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh",
+          "name": "威尔士劳工党",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "DC241F"
@@ -12796,6 +12886,12 @@
         {
           "lang": "it",
           "name": "Liberal Democratici gallesi",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "eu",
+          "name": "Galesko Liberal Demokratak",
           "note": "multilingual",
           "source": "wikidata-label"
         }
@@ -15812,6 +15908,11 @@
           "lang": "cy",
           "name": "Rhanbarth Gogledd Cymru (Cynulliad Cenedlaethol)",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "北威爾斯",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -15872,6 +15973,13 @@
         }
       ],
       "name": "Delyn",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "德林",
+          "note": "multilingual"
+        }
+      ],
       "type": "constituency"
     },
     {
@@ -16101,6 +16209,11 @@
       "name": "Torfaen",
       "other_names": [
         {
+          "lang": "ca",
+          "name": "Torfaen (etholaeth Cynulliad)",
+          "note": "multilingual"
+        },
+        {
           "lang": "de",
           "name": "Torfaen (Assembly constituency)",
           "note": "multilingual"
@@ -16243,6 +16356,11 @@
       "other_names": [
         {
           "lang": "br",
+          "name": "Castell-nedd",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
           "name": "Castell-nedd",
           "note": "multilingual"
         },
@@ -16683,6 +16801,11 @@
       ],
       "name": "South Wales East",
       "other_names": [
+        {
+          "lang": "ar",
+          "name": "جنوب ويلز الشرقية",
+          "note": "multilingual"
+        },
         {
           "lang": "cy",
           "name": "Rhanbarth Dwyrain De Cymru (Cynulliad Cenedlaethol)",
