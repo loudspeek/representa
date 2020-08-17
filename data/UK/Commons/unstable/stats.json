@@ -1,15 +1,15 @@
 {
   "people": {
-    "count": 1580,
+    "count": 1579,
     "wikidata": 1579,
     "latest_term": {
       "count": 650,
-      "wikidata": 649,
-      "images": 643,
+      "wikidata": 650,
+      "images": 646,
       "contacts": {
-        "email": 646,
-        "facebook": 474,
-        "twitter": 606
+        "email": 647,
+        "facebook": 478,
+        "twitter": 610
       }
     }
   },
@@ -27,7 +27,7 @@
     "wikidata": 777
   },
   "elections": {
-    "count": 152,
+    "count": 163,
     "latest": "2019-12-12"
   },
   "positions": {
@@ -37,13 +37,13 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/parliament.csv",
       "type": "person",
       "scraper": "mashedkeyboard/uk-parliament-members",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/twitter.csv",
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "manual/emails.csv",
@@ -76,7 +76,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/cabinet.csv",
@@ -87,13 +87,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/twitter.csv",
