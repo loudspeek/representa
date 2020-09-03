@@ -507,6 +507,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "yi",
+        "name": "לייבאר פארטיי",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -515,6 +521,18 @@
       {
         "lang": "en",
         "name": "Labour Party (UK)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Labour Party (Great Britain) -- Wales -- Records and correspondence",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Labor Party, UK",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1144,6 +1162,18 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "en",
+        "name": "Conservative Party (Great Britain) -- Elections",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Conservative Party (Great Britain) -- Records and correspondence",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "it",
         "name": "Partito Conservatore e Unionista",
         "note": "multilingual",
@@ -1654,14 +1684,8 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "no",
-        "name": "Liberaldemokratene (Storbritannia)",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh-yue",
-        "name": "自由民主黨 (英國)",
+        "lang": "vi",
+        "name": "Đảng Dân chủ Tự do (Anh)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1680,6 +1704,12 @@
       {
         "lang": "yue",
         "name": "自民黨",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "yue",
+        "name": "自由民主黨 (英國)",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1985,7 +2015,7 @@
       },
       {
         "lang": "sco",
-        "name": "Scottis Naitional Pairty",
+        "name": "Scots National Pairty",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2268,6 +2298,18 @@
       {
         "lang": "lv",
         "name": "Pàrtaidh Nàiseanta na h-Alba",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sco",
+        "name": "Scottish Naitional Pairty",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sco",
+        "name": "Scots Naitional Pairty",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3027,6 +3069,12 @@
         "name": "Sinn Fein",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "Mēs paši",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -3101,12 +3149,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "es",
-        "name": "candidato independiente",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "ta",
         "name": "சுயேட்சை",
         "note": "multilingual",
@@ -3133,12 +3175,6 @@
       {
         "lang": "el",
         "name": "ανεξάρτητος/η πολιτικός",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "independent politician",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3222,7 +3258,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3330,7 +3366,7 @@
       },
       {
         "lang": "eo",
-        "name": "sendependa politikisto",
+        "name": "senpartia",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3533,6 +3569,36 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hr",
+        "name": "Nezavisni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "partilaus",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "polaiteoir neamhspleách",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "independent politician",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -3595,60 +3661,6 @@
       {
         "lang": "arz",
         "name": "Independent",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidato cívico",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidatura independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "movimiento cívico",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidatura cívica",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidata cívica",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "sin partido",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "político independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "político sin partido",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -3875,18 +3887,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "en",
-        "name": "nonpartisan politician",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "independent member",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "it",
         "name": "candidato indipendente",
         "note": "multilingual",
@@ -3995,6 +3995,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "eo",
+        "name": "sendependa politikisto",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "bn",
         "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
@@ -4045,6 +4051,114 @@
       {
         "lang": "pl",
         "name": "polityk niezrzeszony",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "беспартыйны палітык",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidato cívico",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "independiente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidatura independiente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "movimiento cívico",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidatura cívica",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidata cívica",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "sin partido",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "político independiente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "político sin partido",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "nonpartisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent member",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4421,6 +4535,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "حزب ويلز",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -4631,6 +4751,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/SDLP_logo.svg",
     "srgb": "3A9E84"
   },
   "ukip": {
@@ -4967,7 +5088,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
     "srgb": "70147A"
   },
   "green": {
@@ -5359,7 +5479,7 @@
       },
       {
         "lang": "ar",
-        "name": "حزب الكرامة (المملكة المتحدة)",
+        "name": "حزب الكرامة",
         "note": "multilingual",
         "source": "wikidata-label"
       },
