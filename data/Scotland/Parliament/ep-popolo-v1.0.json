@@ -18,6 +18,7 @@
       "email": "Claudia.Beamish.msp@parliament.scot",
       "gender": "female",
       "given_name": "Claudia",
+      "honorific_prefix": "The Honorable",
       "id": "00745fc2-756a-40dd-bc5a-6a0a123aa666",
       "identifiers": [
         {
@@ -205,6 +206,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Joe_FitzPatrick"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Joe_FitzPatrick"
         },
         {
           "note": "twitter",
@@ -425,6 +430,10 @@
         {
           "identifier": "068369972",
           "scheme": "nta"
+        },
+        {
+          "identifier": "n96500314",
+          "scheme": "nukat"
         },
         {
           "identifier": "1458",
@@ -1150,6 +1159,11 @@
           "lang": "ar",
           "name": "سام قالبرايث",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "サム・ガルブレイス",
+          "note": "multilingual"
         }
       ]
     },
@@ -1414,7 +1428,7 @@
         },
         {
           "type": "twitter",
-          "value": "Carlaw4Eastwood"
+          "value": "Jackson_Carlaw"
         }
       ],
       "email": "Jackson.Carlaw.msp@parliament.scot",
@@ -1474,8 +1488,12 @@
           "url": "https://sco.wikipedia.org/wiki/Jackson_Carlaw"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/jackson4eastwood"
+        },
+        {
           "note": "twitter",
-          "url": "https://twitter.com/Carlaw4Eastwood"
+          "url": "https://twitter.com/Jackson_Carlaw"
         }
       ],
       "name": "Jackson Carlaw"
@@ -1514,6 +1532,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783688355"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Colin_Smyth_MSP.jpg"
         }
       ],
       "links": [
@@ -1670,6 +1691,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Iain_Smith_(Scottish_politician)"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Iain_Smith_(chính_khách_Scotland)"
         },
         {
           "note": "website",
@@ -2515,6 +2540,10 @@
           "scheme": "publicwhip"
         },
         {
+          "identifier": "10148",
+          "scheme": "rush"
+        },
+        {
           "identifier": "5009",
           "scheme": "scotparl"
         },
@@ -3081,6 +3110,7 @@
       "email": "Roseanna.Cunningham.msp@parliament.scot",
       "family_name": "Cunningham",
       "gender": "female",
+      "given_name": "Roseanna",
       "id": "235221fe-e41b-47ae-b69c-398ffb290d7c",
       "identifiers": [
         {
@@ -3466,6 +3496,10 @@
           "scheme": "everypolitician_legacy"
         },
         {
+          "identifier": "/m/0b1279",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/13991",
           "scheme": "parlparse"
         },
@@ -3505,8 +3539,20 @@
           "url": "https://sco.wikipedia.org/wiki/Murdo_Fraser"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/MSPMurdoFraser"
+        },
+        {
+          "note": "instagram",
+          "url": "murdo_fraser"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/murdo_fraser"
+        },
+        {
+          "note": "website",
+          "url": "http://www.murdofraser.com/"
         }
       ],
       "name": "Murdo Fraser",
@@ -3659,6 +3705,10 @@
           "url": "https://ga.wikipedia.org/wiki/Ben_Wallace"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Ben_Wallace_(politico)"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Уоллес,_Бен_(политик)"
         },
@@ -3713,6 +3763,11 @@
         {
           "lang": "zh",
           "name": "本·華萊士",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "華禮仕",
           "note": "multilingual"
         }
       ]
@@ -4081,6 +4136,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "9844",
+          "scheme": "rush"
+        },
+        {
           "identifier": "2068",
           "scheme": "scotparl"
         },
@@ -4127,6 +4186,10 @@
         {
           "note": "twitter",
           "url": "https://twitter.com/Jamie4North"
+        },
+        {
+          "note": "website",
+          "url": "https://www.jamiestone.org.uk/"
         }
       ],
       "name": "Jamie Stone",
@@ -4919,6 +4982,10 @@
           "url": "https://zh.wikipedia.org/wiki/露絲·戴維森"
         },
         {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Ruth_Davidson"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/RuthDavidsonMSP"
         },
@@ -5156,7 +5223,7 @@
         }
       ],
       "email": "James.Kelly.msp@parliament.scot",
-      "family_name": "Kelly",
+      "family_name": "tiginou",
       "gender": "male",
       "given_name": "James",
       "id": "3f4bb8f0-3f19-4048-a62d-02e28926962c",
@@ -5476,6 +5543,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "9902",
+          "scheme": "rush"
+        },
+        {
           "identifier": "4016",
           "scheme": "scotparl"
         },
@@ -5514,6 +5585,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Lamont_(Scottish_politician)"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/John_Lamont_(homme_politique_écossais)"
         },
         {
           "note": "Wikipedia (gd)",
@@ -5729,6 +5804,10 @@
           "scheme": "publicwhip"
         },
         {
+          "identifier": "10088",
+          "scheme": "rush"
+        },
+        {
           "identifier": "1820",
           "scheme": "scotparl"
         },
@@ -5841,6 +5920,10 @@
       ],
       "links": [
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/بريان_وايتل"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Brian_Whittle"
         },
@@ -5873,7 +5956,14 @@
           "url": "https://twitter.com/BrianWhittle"
         }
       ],
-      "name": "Brian Whittle"
+      "name": "Brian Whittle",
+      "other_names": [
+        {
+          "lang": "arz",
+          "name": "بريان وايتل",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1955",
@@ -6930,6 +7020,10 @@
           "url": "https://uk.wikipedia.org/wiki/Девід_Манделл"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/David_Mundell"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/戴维·蒙戴尔"
         },
@@ -6995,6 +7089,11 @@
         {
           "lang": "zh",
           "name": "戴维·蒙戴尔",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "萬達偉",
           "note": "multilingual"
         }
       ]
@@ -7756,6 +7855,10 @@
           "url": "https://en.wikipedia.org/wiki/Kate_Forbes"
         },
         {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Ceit_Fhoirbeis"
+        },
+        {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Ceit_Fhoirbeis"
         },
@@ -8474,6 +8577,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/56730435752"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/26/Beatrice_Wishart_MSP.jpg"
         }
       ],
       "links": [
@@ -8488,6 +8594,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Beatrice_Wishart"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Beatrice_Wishart"
         },
         {
           "note": "twitter",
@@ -8742,6 +8852,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783687854"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Liam_Kerr_MSP.jpg"
         }
       ],
       "links": [
@@ -8820,6 +8933,10 @@
         {
           "identifier": "anas_sarwar",
           "scheme": "publicwhip"
+        },
+        {
+          "identifier": "10134",
+          "scheme": "rush"
         },
         {
           "identifier": "5586",
@@ -10025,6 +10142,10 @@
           "url": "https://sco.wikipedia.org/wiki/Kevin_Stewart_(Scots_politeecian)"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Kevin_Stewart_(chính_khách_Scotland)"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/KevinStewartSNP"
         }
@@ -10230,6 +10351,10 @@
         {
           "identifier": "uk.org.publicwhip/person/25539",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "9914",
+          "scheme": "rush"
         },
         {
           "identifier": "3985",
@@ -10512,6 +10637,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "10149",
+          "scheme": "rush"
+        },
+        {
           "identifier": "5110",
           "scheme": "scotparl"
         },
@@ -10695,6 +10824,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Sarah_Boyack"
+        },
+        {
+          "note": "Wikipedia (sco)",
+          "url": "https://sco.wikipedia.org/wiki/Sarah_Boyack"
         },
         {
           "note": "website",
@@ -11129,6 +11262,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11cn6btnx0",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25542",
           "scheme": "parlparse"
         },
@@ -11166,6 +11303,14 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Annie_Wells_(politeecian)"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/AnnieWellsMSP"
+        },
+        {
+          "note": "instagram",
+          "url": "anniewellsmsp"
         },
         {
           "note": "twitter",
@@ -11349,6 +11494,10 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Mairead_Ewing"
+        },
+        {
+          "note": "Wikipedia (kw)",
+          "url": "https://kw.wikipedia.org/wiki/Margaret_Ewing"
         },
         {
           "note": "Wikipedia (pl)",
@@ -12175,6 +12324,10 @@
           "url": "https://ar.wikipedia.org/wiki/ليز_سميث_(لاعبة_كريكت)"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/اليزابيث_سميث"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Elizabeth_Smith_(Politikerin)"
         },
@@ -12200,6 +12353,11 @@
         {
           "lang": "ar",
           "name": "إليزابيث سميث",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "اليزابيث سميث",
           "note": "multilingual"
         },
         {
@@ -12713,6 +12871,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ga",
+          "name": "Eanraig MacGillÌosa",
+          "note": "multilingual"
+        },
+        {
           "lang": "gd",
           "name": "Eanraig MacGillÌosa",
           "note": "multilingual"
@@ -12740,6 +12903,11 @@
         {
           "lang": "zh-hant",
           "name": "亨利爾·麥克萊斯",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "麥敬思",
           "note": "multilingual"
         }
       ]
@@ -12772,6 +12940,7 @@
       ],
       "family_name": "Scott",
       "gender": "male",
+      "given_name": "Tavish",
       "id": "9cbb9ee3-7d10-47e1-bdfc-c831300818dc",
       "identifiers": [
         {
@@ -13364,6 +13533,10 @@
           "url": "https://gd.wikipedia.org/wiki/Mìcheal_Ruiseal"
         },
         {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Michael_Russell_(politico)"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Michael_William_Russell"
         },
@@ -13512,6 +13685,11 @@
         {
           "lang": "arz",
           "name": "جورج ريد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ジョージ・リード",
           "note": "multilingual"
         },
         {
@@ -13790,6 +13968,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "9908",
+          "scheme": "rush"
+        },
+        {
           "identifier": "4981",
           "scheme": "scotparl"
         },
@@ -13843,6 +14025,10 @@
         {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/道格拉斯·羅斯"
+        },
+        {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Douglas_Ross_(Scottish_politician)"
         },
         {
           "note": "twitter",
@@ -13982,6 +14168,7 @@
           "value": "KennyMacAskill"
         }
       ],
+      "family_name": "MacAskill",
       "gender": "male",
       "given_name": "Kenny",
       "id": "abbee5a4-f4e6-44f1-93f7-2d93d64623da",
@@ -14007,8 +14194,16 @@
           "scheme": "gnd"
         },
         {
+          "identifier": "no2003122900",
+          "scheme": "lcauth"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/14031",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "10244",
+          "scheme": "rush"
         },
         {
           "identifier": "2112",
@@ -14041,6 +14236,10 @@
         {
           "note": "Wikinews (en)",
           "url": "https://en.wikinews.org/wiki/Category:Kenny_MacAskill"
+        },
+        {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/كينى_ماكاسكيل"
         },
         {
           "note": "Wikipedia (ca)",
@@ -14077,6 +14276,11 @@
       ],
       "name": "Kenny MacAskill",
       "other_names": [
+        {
+          "lang": "arz",
+          "name": "كينى ماكاسكيل",
+          "note": "multilingual"
+        },
         {
           "lang": "gd",
           "name": "Coinneach MacAsgaill",
@@ -14687,6 +14891,10 @@
           "scheme": "publicwhip"
         },
         {
+          "identifier": "10108",
+          "scheme": "rush"
+        },
+        {
           "identifier": "1752",
           "scheme": "scotparl"
         },
@@ -14837,7 +15045,7 @@
         },
         {
           "note": "Wikipedia (ga)",
-          "url": "https://ga.wikipedia.org/wiki/Jack_McConnell"
+          "url": "https://ga.wikipedia.org/wiki/Seac_MacConaill"
         },
         {
           "note": "Wikipedia (gd)",
@@ -14900,7 +15108,7 @@
         },
         {
           "lang": "zh",
-          "name": "麥凱倫",
+          "name": "傑克·麥康奈爾",
           "note": "multilingual"
         },
         {
@@ -14916,6 +15124,11 @@
         {
           "lang": "zh-hant",
           "name": "傑克·麥克康耐爾",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "麥康納",
           "note": "multilingual"
         }
       ]
@@ -15370,6 +15583,11 @@
           "lang": "zh",
           "name": "亚历克斯·萨尔蒙德",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh-hk",
+          "name": "薩蒙德",
+          "note": "multilingual"
         }
       ]
     },
@@ -15688,6 +15906,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Derek_Mackay"
+        },
+        {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Derek_Mackay"
         },
         {
           "note": "twitter",
@@ -16737,6 +16959,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35781571135"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Alexander_Stewart_MSP.jpg"
         }
       ],
       "links": [
@@ -17142,6 +17367,10 @@
           "url": "https://en.wikipedia.org/wiki/James_Douglas-Hamilton,_Baron_Selkirk_of_Douglas"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/James_Douglas-Hamilton"
+        },
+        {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Seumas_Dùbhghlas-Hamalton"
         },
@@ -17198,6 +17427,11 @@
         {
           "lang": "sl",
           "name": "James Douglas-Hamilton",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "道格拉斯的塞爾扣克男爵",
           "note": "multilingual"
         }
       ]
@@ -17796,6 +18030,10 @@
           "url": "https://ar.wikipedia.org/wiki/نيكولا_ستارجن"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/نيكولا_ستارجن"
+        },
+        {
           "note": "Wikipedia (az)",
           "url": "https://az.wikipedia.org/wiki/Nikola_Stercen"
         },
@@ -17992,6 +18230,10 @@
           "url": "https://te.wikipedia.org/wiki/నికోలా_స్టర్గియాన్"
         },
         {
+          "note": "Wikipedia (th)",
+          "url": "https://th.wikipedia.org/wiki/นิโคลา_สเตอร์เจียน"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -18020,6 +18262,14 @@
           "url": "https://pl.wikiquote.org/wiki/Nicola_Sturgeon"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/NicolaSturgeonSNP"
+        },
+        {
+          "note": "instagram",
+          "url": "nicolasturgeon"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/NicolaSturgeon"
         },
@@ -18032,6 +18282,11 @@
       "other_names": [
         {
           "lang": "ar",
+          "name": "نيكولا ستارجن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
           "name": "نيكولا ستارجن",
           "note": "multilingual"
         },
@@ -18086,6 +18341,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "lv",
+          "name": "Nikola Stērdžena",
+          "note": "multilingual"
+        },
+        {
           "lang": "mk",
           "name": "Никола Стерџен",
           "note": "multilingual"
@@ -18113,6 +18373,11 @@
         {
           "lang": "te",
           "name": "నికోలా స్టర్గియాన్",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "นิโคลา สเตอร์เจียน",
           "note": "multilingual"
         },
         {
@@ -19946,10 +20211,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "http://scottishparliament.thirdlight.com/file/35960260779",
+      "image": "https://scottishparliament.thirdlight.com/file/35960260779",
       "images": [
         {
-          "url": "http://scottishparliament.thirdlight.com/file/35960260779"
+          "url": "https://scottishparliament.thirdlight.com/file/35960260779"
         },
         {
           "url": "https://upload.wikimedia.org/wikipedia/commons/6/60/RichardLyleMSP20120127.jpg"
@@ -20521,6 +20786,10 @@
           "url": "https://fr.wikipedia.org/wiki/Donald_Dewar"
         },
         {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Dòmhnall_Mac_an_Deòir"
+        },
+        {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Dòmhnall_Mac_an_Deòir"
         },
@@ -20591,6 +20860,11 @@
         {
           "lang": "arz",
           "name": "دونالد ديوار",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Dòmhnall Mac an Deòir",
           "note": "multilingual"
         },
         {
@@ -20694,20 +20968,8 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "138018154",
-          "scheme": "gnd"
-        },
-        {
           "identifier": "0000 0001 1438 7080",
           "scheme": "isni"
-        },
-        {
-          "identifier": "nb98001142",
-          "scheme": "lcauth"
-        },
-        {
-          "identifier": "067599362",
-          "scheme": "nta"
         },
         {
           "identifier": "uk.org.publicwhip/person/13974",
@@ -20716,10 +20978,6 @@
         {
           "identifier": "1956",
           "scheme": "scotparl"
-        },
-        {
-          "identifier": "16716006",
-          "scheme": "viaf"
         },
         {
           "identifier": "Q1174169",
@@ -21092,6 +21350,9 @@
       "images": [
         {
           "url": "http://scottishparliament.thirdlight.com/file/35783689308"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fulton_MacGregor_MSP.jpg"
         }
       ],
       "links": [
@@ -21570,6 +21831,10 @@
           "url": "https://sco.wikipedia.org/wiki/Jamie_Greene"
         },
         {
+          "note": "Wikipedia (vi)",
+          "url": "https://vi.wikipedia.org/wiki/Jamie_Greene"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/jamiegreeneUK"
         }
@@ -21625,7 +21890,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Sir_Jamie_McGrigor,_6th_Baronet"
+          "url": "https://en.wikipedia.org/wiki/Jamie_McGrigor"
         }
       ],
       "name": "Jamie McGrigor",
@@ -21894,6 +22159,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11cn8x9ylh",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25519",
           "scheme": "parlparse"
         },
@@ -21904,6 +22173,10 @@
         {
           "identifier": "Q24052679",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCx-ejt-fjJFAlLEbpjkisIg",
+          "scheme": "youtube"
         }
       ],
       "image": "http://scottishparliament.thirdlight.com/file/35783688782",
@@ -21929,6 +22202,10 @@
           "url": "https://sco.wikipedia.org/wiki/Dean_Lockhart"
         },
         {
+          "note": "facebook",
+          "url": "https://facebook.com/DeanLockhartMSP"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/DeanLockhartMSP"
         }
@@ -21946,6 +22223,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Scottish_Conservative_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -22204,6 +22482,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "eu",
+          "name": "Eskoziako Alderdi Berdea",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "英格蘭和威爾斯綠黨",
           "note": "multilingual",
@@ -22296,12 +22580,6 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "es",
-          "name": "candidato independiente",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "ta",
           "name": "சுயேட்சை",
           "note": "multilingual",
@@ -22328,12 +22606,6 @@
         {
           "lang": "el",
           "name": "ανεξάρτητος/η πολιτικός",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "en",
-          "name": "independent politician",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22417,7 +22689,7 @@
         },
         {
           "lang": "ur",
-          "name": "آزاد",
+          "name": "آزاد سیاست دان",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22525,7 +22797,7 @@
         },
         {
           "lang": "eo",
-          "name": "sendependa politikisto",
+          "name": "senpartia",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22728,6 +23000,36 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "hr",
+          "name": "Nezavisni",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "nn",
+          "name": "partilaus",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ga",
+          "name": "polaiteoir neamhspleách",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "en",
+          "name": "independent politician",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "es",
+          "name": "candidato independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -22790,60 +23092,6 @@
         {
           "lang": "arz",
           "name": "Independent",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "candidato cívico",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "independiente",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "candidatura independiente",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "movimiento cívico",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "candidatura cívica",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "candidata cívica",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "sin partido",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "político independiente",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "es",
-          "name": "político sin partido",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -23070,18 +23318,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "en",
-          "name": "nonpartisan politician",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "en",
-          "name": "independent member",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "it",
           "name": "candidato indipendente",
           "note": "multilingual",
@@ -23190,6 +23426,12 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "eo",
+          "name": "sendependa politikisto",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "bn",
           "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
@@ -23240,6 +23482,114 @@
         {
           "lang": "pl",
           "name": "polityk niezrzeszony",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nezavisni političar",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nesvrstani",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nesvrstani političar",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nezavisni političari",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "hr",
+          "name": "Nesvrstani političari",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be",
+          "name": "незалежны",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be",
+          "name": "беспартыйны палітык",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "candidato cívico",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "candidatura independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "movimiento cívico",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "candidatura cívica",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "candidata cívica",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "sin partido",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "político independiente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "es",
+          "name": "político sin partido",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "nonpartisan politician",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent member",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -23696,7 +24046,7 @@
         },
         {
           "lang": "sco",
-          "name": "Scottis Naitional Pairty",
+          "name": "Scots National Pairty",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -23981,6 +24331,18 @@
           "name": "Pàrtaidh Nàiseanta na h-Alba",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "sco",
+          "name": "Scottish Naitional Pairty",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sco",
+          "name": "Scots Naitional Pairty",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": "FFF95D"
@@ -24155,7 +24517,7 @@
         },
         {
           "lang": "en",
-          "name": "Sokoto Smart People",
+          "name": "Scottish Socialist Party",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -24172,18 +24534,6 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "de",
-          "name": "Scottish Socialist Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nn",
-          "name": "Scottish Socialist Party",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
           "lang": "sco",
           "name": "Scots Socialist Pairty",
           "note": "multilingual",
@@ -24192,12 +24542,6 @@
         {
           "lang": "ar",
           "name": "الحزب الاشتراكي الاسكتلندي",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "nl",
-          "name": "Scottish Socialist Party",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -24238,32 +24582,14 @@
           "source": "wikidata-label"
         },
         {
-          "lang": "pl",
-          "name": "Scottish Socialist Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "gd",
           "name": "Pàrtaidh Shòisealach na h-Alba",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
-          "lang": "gd",
-          "name": "Scottish Socialist Party",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "fr",
           "name": "Parti socialiste ecossais",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "fr",
-          "name": "Scottish Socialist Party",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -32018,6 +32344,11 @@
         {
           "lang": "gd",
           "name": "Fìobh an Ear-Thuath",
+          "note": "multilingual"
+        },
+        {
+          "lang": "kw",
+          "name": "Fife North-Est",
           "note": "multilingual"
         },
         {
