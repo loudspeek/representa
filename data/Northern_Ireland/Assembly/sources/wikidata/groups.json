@@ -225,6 +225,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "الحزب الاتحادي الديمقراطي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "北愛民主統一黨",
         "note": "multilingual",
@@ -621,18 +627,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "it",
-        "name": "Feniani",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "it",
-        "name": "Sinnfeiner",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "ja",
         "name": "シン・フェイン",
         "note": "multilingual",
@@ -671,6 +665,12 @@
       {
         "lang": "en",
         "name": "Sinn Fein",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "Mēs paši",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1107,6 +1107,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "nn",
+        "name": "Social Democratic and Labour Party (SDLP)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK Social Democratic and Labour Party",
         "note": "multilingual",
@@ -1131,6 +1137,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/SDLP_logo.svg",
     "srgb": "3A9E84"
   },
   "909cfd94-8020-4586-8cef-ea8aaedefd65": {
@@ -1247,6 +1254,12 @@
       {
         "lang": "eu",
         "name": "Ipar Irlandako Aliantza Alderdia",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fi",
+        "name": "Alliance Party (Pohjois-Irlanti)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1394,6 +1407,12 @@
         "name": "进步联合党",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "进步联合党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1546,6 +1565,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Green_Party_Northern_Ireland_logo_2019.png",
     "srgb": "8DC63F"
   },
   "bfd58379-df9a-4f5d-8787-9b5580f05c16": {
@@ -1924,6 +1944,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "حزب استقلال المملكه المتحده",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -1937,7 +1963,7 @@
       },
       {
         "lang": "en",
-        "name": "Ukip",
+        "name": "Young Independence - UKIPs Youth Wing",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1972,7 +1998,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Ukipsm.svg",
     "srgb": "70147A"
   },
   "98eb435f-dab9-4b01-baff-1abb6d5a1e0a": {
@@ -2063,12 +2088,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "es",
-        "name": "candidato independiente",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "ta",
         "name": "சுயேட்சை",
         "note": "multilingual",
@@ -2095,12 +2114,6 @@
       {
         "lang": "el",
         "name": "ανεξάρτητος/η πολιτικός",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "independent politician",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2136,7 +2149,7 @@
       },
       {
         "lang": "ru",
-        "name": "независимый",
+        "name": "беспартийный",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2184,7 +2197,7 @@
       },
       {
         "lang": "ur",
-        "name": "آزاد",
+        "name": "آزاد سیاست دان",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2250,7 +2263,7 @@
       },
       {
         "lang": "pl",
-        "name": "polityk niezrzeszony",
+        "name": "bezpartyjny",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2292,7 +2305,7 @@
       },
       {
         "lang": "eo",
-        "name": "sendependa politikisto",
+        "name": "senpartia",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2489,6 +2502,42 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ary",
+        "name": "لامنتمي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "partilaus",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "polaiteoir neamhspleách",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "independent politician",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -2551,60 +2600,6 @@
       {
         "lang": "arz",
         "name": "Independent",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidato cívico",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidatura independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "movimiento cívico",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidatura cívica",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "candidata cívica",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "sin partido",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "político independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
-        "name": "político sin partido",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2831,18 +2826,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "en",
-        "name": "nonpartisan politician",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "independent member",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "it",
         "name": "candidato indipendente",
         "note": "multilingual",
@@ -2909,12 +2892,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "ru",
-        "name": "беспартийный",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "tt",
         "name": "фиркасез",
         "note": "multilingual",
@@ -2957,6 +2934,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "eo",
+        "name": "sendependa politikisto",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "bn",
         "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
@@ -2989,6 +2972,132 @@
       {
         "lang": "zh-tw",
         "name": "無黨派",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "niezrzeszony",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk bezpartyjny",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "polityk niezrzeszony",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političar",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nezavisni političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "hr",
+        "name": "Nesvrstani političari",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "беспартыйны палітык",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidato cívico",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "independiente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidatura independiente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "movimiento cívico",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidatura cívica",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "candidata cívica",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "sin partido",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "político independiente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "político sin partido",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "nonpartisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent member",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3059,6 +3168,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "es",
+        "name": "El Pueblo Antes que el Lucro",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ga",
         "name": "Pobal Roimh Bhrabús",
         "note": "multilingual",
@@ -3069,11 +3184,29 @@
         "name": "人民擺在利益前聯盟",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "Pueblo Antes que el Lucro",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "People Before Profit",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "es",
+        "name": "PBP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
       {
-        "url": "http://www.peoplebeforeprofit.ie/",
+        "url": "https://www.pbp.ie",
         "note": "website"
       }
     ],
@@ -3174,7 +3307,7 @@
       },
       {
         "lang": "fr",
-        "name": "président du parlement",
+        "name": "président d'assemblée parlementaire",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3383,6 +3516,36 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hi",
+        "name": "सभापती",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "mr",
+        "name": "सभापती",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sk",
+        "name": "predseda parlamentu",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ur",
+        "name": "اسپیکر",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "ομιλών",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "県議会議長",
         "note": "multilingual",
@@ -3528,7 +3691,19 @@
       },
       {
         "lang": "fr",
-        "name": "président d'assemblée parlementaire",
+        "name": "président du parlement",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "président de chambre parlementaire",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "président d'assemblée",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
