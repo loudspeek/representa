@@ -99,6 +99,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "1999ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "1999年スコットランド議会総選挙",
         "note": "multilingual",
@@ -187,7 +193,10 @@
     "dates": [
       "2013-06-20"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Mark McDonald"
+    ]
   },
   "Q16828287": {
     "identifiers": [
@@ -220,7 +229,10 @@
     "dates": [
       "2014-01-23"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Alex Rowley"
+    ]
   },
   "Q1862416": {
     "identifiers": [
@@ -394,6 +406,12 @@
         "name": "Parlamentswahl in Schottland 2021",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "sco",
+        "name": "Scots Pairlament election, 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
@@ -433,7 +451,10 @@
     "dates": [
       "2017-06-08"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Rachael Hamilton"
+    ]
   },
   "Q30578120": {
     "identifiers": [
@@ -521,7 +542,10 @@
     "dates": [
       "2001-06-07"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Stewart Stevenson"
+    ]
   },
   "Q5566767": {
     "identifiers": [
@@ -548,7 +572,10 @@
     "dates": [
       "2005-09-29"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Charlie Gordon"
+    ]
   },
   "Q65051630": {
     "identifiers": [
@@ -668,6 +695,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2003ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "de",
         "name": "Schottische Parlamentswahl 2003",
         "note": "multilingual",
@@ -727,7 +760,10 @@
     "dates": [
       "2006-04-27"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Richard Lochhead"
+    ]
   },
   "Q7437890": {
     "identifiers": [
@@ -876,7 +912,10 @@
     "dates": [
       "2001-06-07"
     ],
-    "office": "Member of the Scottish Parliament"
+    "office": "Member of the Scottish Parliament",
+    "successful_candidates": [
+      "Brian Fitzpatrick"
+    ]
   },
   "Q953141": {
     "identifiers": [
