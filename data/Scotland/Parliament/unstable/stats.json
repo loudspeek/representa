@@ -8,7 +8,7 @@
       "images": 135,
       "contacts": {
         "email": 129,
-        "facebook": 4,
+        "facebook": 9,
         "twitter": 122
       }
     }
@@ -37,19 +37,19 @@
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-05-22"
     },
     {
       "file": "morph/scotparl.csv",
       "type": "person",
       "scraper": "mashedkeyboard/scottish_parliament_member_info",
-      "lastmod": "2019-11-01"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "manual/terms.csv",
@@ -59,13 +59,13 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "morph/cabinet.csv",
@@ -82,7 +82,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-09-10"
     }
   ]
 }
