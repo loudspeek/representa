@@ -626,6 +626,12 @@
         "name": "Scots Naitional Pairty",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "PKA",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1793,6 +1799,12 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
