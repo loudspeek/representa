@@ -3666,7 +3666,7 @@
         },
         {
           "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Ben_Wallace"
+          "url": "https://af.wikipedia.org/wiki/Ben_Wallace_(politikus)"
         },
         {
           "note": "Wikipedia (ar)",
@@ -18792,7 +18792,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "no",
+          "lang": "nb",
           "name": "Sir Edward Mountain, 4th Baronet",
           "note": "multilingual"
         },
@@ -23084,6 +23084,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "crh",
+          "name": "fırqasız",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -24395,6 +24401,12 @@
         {
           "lang": "sco",
           "name": "Scots Naitional Pairty",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "kw",
+          "name": "PKA",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
