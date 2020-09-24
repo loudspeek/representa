@@ -18,7 +18,7 @@
       "email": "Claudia.Beamish.msp@parliament.scot",
       "gender": "female",
       "given_name": "Claudia",
-      "honorific_prefix": "The Honorable",
+      "honorific_prefix": "The Honourable",
       "id": "00745fc2-756a-40dd-bc5a-6a0a123aa666",
       "identifiers": [
         {
@@ -1496,7 +1496,14 @@
           "url": "https://twitter.com/Jackson_Carlaw"
         }
       ],
-      "name": "Jackson Carlaw"
+      "name": "Jackson Carlaw",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "積遜·卡羅",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -3666,7 +3673,7 @@
         },
         {
           "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Ben_Wallace"
+          "url": "https://af.wikipedia.org/wiki/Ben_Wallace_(politikus)"
         },
         {
           "note": "Wikipedia (ar)",
@@ -14951,6 +14958,11 @@
           "lang": "arz",
           "name": "كاثى چيمسون",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "嘉霏·翠薇信",
+          "note": "multilingual"
         }
       ]
     },
@@ -18792,7 +18804,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "no",
+          "lang": "nb",
           "name": "Sir Edward Mountain, 4th Baronet",
           "note": "multilingual"
         },
@@ -23084,6 +23096,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "crh",
+          "name": "fırqasız",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "無黨派",
           "note": "multilingual",
@@ -24395,6 +24413,12 @@
         {
           "lang": "sco",
           "name": "Scots Naitional Pairty",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "kw",
+          "name": "PKA",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -31026,6 +31050,11 @@
         {
           "lang": "ja",
           "name": "ハイランド・アンド・アイランズ選挙区",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "高地與島嶼",
           "note": "multilingual"
         }
       ],
