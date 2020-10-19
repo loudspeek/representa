@@ -159,7 +159,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
     "srgb": "DC241F"
   },
   "89e51135-5b4f-480a-a931-654928c345bb": {
@@ -953,7 +952,7 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -989,7 +988,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1320,6 +1319,12 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
