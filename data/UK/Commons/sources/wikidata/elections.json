@@ -4068,7 +4068,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2019",
+        "name": "eleccions al Parlament del Regne Unit de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6106,7 +6106,7 @@
       }
     ],
     "dates": [
-      "1818-07-18"
+      "1818"
     ],
     "start_date": "1818-06-15",
     "end_date": "1818-07-25",
