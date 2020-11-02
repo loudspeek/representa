@@ -370,7 +370,7 @@
       },
       {
         "lang": "yue",
-        "name": "工黨 (英國)",
+        "name": "工黨",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -497,6 +497,12 @@
       {
         "lang": "yi",
         "name": "לייבאר פארטיי",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sk",
+        "name": "Labouristická strana (Spojené kráľovstvo)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1084,12 +1090,6 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "no",
-        "name": "Det konservative parti (Storbritannia)",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
         "lang": "simple",
         "name": "Conservative Party (UK)",
         "note": "multilingual",
@@ -1146,6 +1146,12 @@
       {
         "lang": "en",
         "name": "Conservative Party (Great Britain) -- Records and correspondence",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "British Conservative Party",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1278,6 +1284,12 @@
       {
         "lang": "ar",
         "name": "المحافظون ريطانيا",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Gwithadorek ha Unyansydhel",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1790,6 +1802,36 @@
         "name": "الديمقراطيين الليبراليبن",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Livrel Werinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "LivWer",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Livrel Werinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Livrel Gwerinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "自由民主党 (イギリス)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -2286,6 +2328,12 @@
       {
         "lang": "sco",
         "name": "Scots Naitional Pairty",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "PKA",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3204,19 +3252,13 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3240,7 +3282,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3486,7 +3528,7 @@
       },
       {
         "lang": "bn",
-        "name": "স্বতন্ত্র প্রার্থী",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3571,6 +3613,12 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4135,6 +4183,24 @@
       {
         "lang": "en",
         "name": "independent member",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent candidate",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "non-partisan politician",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
