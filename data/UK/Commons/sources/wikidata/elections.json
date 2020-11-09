@@ -3597,7 +3597,7 @@
       "Sinn Féin",
       "Plaid Cymru",
       "Green Party of England and Wales",
-      "independent politician"
+      "Independent politician"
     ],
     "eligible_voters": "46843896",
     "ballots_cast": "32181757"
@@ -4068,7 +4068,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2019",
+        "name": "eleccions al Parlament del Regne Unit de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5613,6 +5613,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1812",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ro",
         "name": "Alegerile generale din Regatul Unit",
         "note": "multilingual",
@@ -6106,7 +6112,7 @@
       }
     ],
     "dates": [
-      "1818-07-18"
+      "1818"
     ],
     "start_date": "1818-06-15",
     "end_date": "1818-07-25",
@@ -7310,6 +7316,12 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1806",
         "note": "multilingual",
         "source": "wikidata-label"
       },
