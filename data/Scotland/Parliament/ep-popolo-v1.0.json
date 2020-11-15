@@ -18,7 +18,7 @@
       "email": "Claudia.Beamish.msp@parliament.scot",
       "gender": "female",
       "given_name": "Claudia",
-      "honorific_prefix": "The Honorable",
+      "honorific_prefix": "The Honourable",
       "id": "00745fc2-756a-40dd-bc5a-6a0a123aa666",
       "identifiers": [
         {
@@ -71,10 +71,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Claudia_Beamish"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Claudia_Beamish"
         },
         {
           "note": "twitter",
@@ -902,10 +898,6 @@
           "url": "https://gd.wikipedia.org/wiki/Liam_MacArtair"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Liam_McArthur"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/Liam4Orkney"
         },
@@ -1147,10 +1139,6 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sam_Galbraith"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Sam_Galbraith"
         }
       ],
       "name": "Sam Galbraith",
@@ -1496,7 +1484,14 @@
           "url": "https://twitter.com/Jackson_Carlaw"
         }
       ],
-      "name": "Jackson Carlaw"
+      "name": "Jackson Carlaw",
+      "other_names": [
+        {
+          "lang": "zh",
+          "name": "積遜·卡羅",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -1512,7 +1507,7 @@
       "email": "Colin.Smyth.msp@parliament.scot",
       "family_name": "Smyth",
       "gender": "male",
-      "given_name": "Colin",
+      "given_name": "Colin Jaden",
       "id": "114ccf84-6453-44a7-8ac3-b1a57271291c",
       "identifiers": [
         {
@@ -2017,10 +2012,6 @@
           "url": "https://gd.wikipedia.org/wiki/Alison_Harris"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Alison_Harris"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/AlisonHarrisMSP"
         }
@@ -2139,10 +2130,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Neil_Findlay"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Neil_Findlay"
         },
         {
           "note": "twitter",
@@ -2686,10 +2673,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Rachael_Hamilton"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Rachael_Hamilton"
         },
         {
           "note": "twitter",
@@ -3301,10 +3284,6 @@
           "url": "https://gd.wikipedia.org/wiki/Neil_Bibby"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Neil_Bibby"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/NeilBibby"
         }
@@ -3407,6 +3386,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/John_Swinney"
         },
         {
           "note": "Wikipedia (gd)",
@@ -3533,10 +3516,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Murchadh_Friseal"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Murdo_Fraser"
         },
         {
           "note": "facebook",
@@ -3666,7 +3645,7 @@
         },
         {
           "note": "Wikipedia (af)",
-          "url": "https://af.wikipedia.org/wiki/Ben_Wallace"
+          "url": "https://af.wikipedia.org/wiki/Ben_Wallace_(politikus)"
         },
         {
           "note": "Wikipedia (ar)",
@@ -4085,10 +4064,6 @@
           "url": "https://gd.wikipedia.org/wiki/Peter_Chapman"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Peter_Chapman_(politeecian)"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/PeterChapmanMSP"
         }
@@ -4402,10 +4377,6 @@
           "url": "https://gd.wikipedia.org/wiki/Finlay_Carson"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Finlay_Carson"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/fincarson"
         }
@@ -4697,10 +4668,6 @@
           "url": "https://gd.wikipedia.org/wiki/Alison_Johnstone"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Alison_Johnstone"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/alisonjohnstone"
         },
@@ -4833,10 +4800,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Maurice_Golden"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Maurice_Golden"
         },
         {
           "note": "twitter",
@@ -5386,10 +5349,6 @@
           "url": "https://gd.wikipedia.org/wiki/Michelle_Ballantyne"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Michelle_Ballantyne"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/MBallantyneMSP"
         }
@@ -5595,10 +5554,6 @@
           "url": "https://gd.wikipedia.org/wiki/John_Lamont"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/John_Lamont_(Scots_politeecian)"
-        },
-        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/約翰·拉蒙"
         },
@@ -5780,6 +5735,10 @@
           "scheme": "bbc_democracy_live"
         },
         {
+          "identifier": "1291",
+          "scheme": "democracyclub"
+        },
+        {
           "identifier": "13973",
           "scheme": "everypolitician_legacy"
         },
@@ -5946,10 +5905,6 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Brian_Whittle"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Brian_Whittle"
         },
         {
           "note": "twitter",
@@ -7334,6 +7289,10 @@
           "url": "https://en.wikipedia.org/wiki/Jim_Wallace,_Baron_Wallace_of_Tankerness"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jim_Wallace"
+        },
+        {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Seumas_Uallas"
         },
@@ -7715,10 +7674,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Graham_Simpson"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Graham_Simpson_(Scots_politeecian)"
         },
         {
           "note": "twitter",
@@ -8130,6 +8085,10 @@
           "url": "https://gd.wikipedia.org/wiki/Patrick_Harvie"
         },
         {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Харви,_Патрик"
+        },
+        {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Patrick_Harvie"
         },
@@ -8307,10 +8266,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Jamie_Halcro_Johnston"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Jamie_Halcro_Johnston"
         }
       ],
       "name": "Jamie Halcro Johnston"
@@ -8596,10 +8551,6 @@
           "url": "https://gd.wikipedia.org/wiki/Beatrice_Wishart"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Beatrice_Wishart"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/beatricewishart"
         }
@@ -8707,10 +8658,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Gordon_Lindhurst"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Gordon_Lindhurst"
         },
         {
           "note": "twitter",
@@ -8869,10 +8816,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Liam_Kerr"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Liam_Kerr"
         },
         {
           "note": "twitter",
@@ -9163,6 +9106,7 @@
         }
       ],
       "email": "Paul.Wheelhouse.msp@parliament.scot",
+      "family_name": "Wheelhouse",
       "gender": "male",
       "given_name": "Paul",
       "id": "7a59bb42-56ae-4b0d-8036-ef875cd6b2a5",
@@ -9209,10 +9153,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Paul_Wheelhouse"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Paul_Wheelhouse"
         },
         {
           "note": "Wikipedia (tr)",
@@ -9310,6 +9250,14 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Nicol_Stephen"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Nicol_Stephen"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Nicol_Stephen"
         },
         {
           "note": "Wikipedia (gd)",
@@ -9573,11 +9521,6 @@
         },
         {
           "lang": "nn",
-          "name": "Nicol Stephen",
-          "note": "multilingual"
-        },
-        {
-          "lang": "no",
           "name": "Nicol Stephen",
           "note": "multilingual"
         },
@@ -10318,12 +10261,12 @@
           "url": "https://gd.wikipedia.org/wiki/Alexander_Burnett"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Alexander_Burnett_(politeecian)"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/AJABurnett"
+        },
+        {
+          "note": "website",
+          "url": "http://www.alexanderburnett.com"
         }
       ],
       "name": "Alexander Burnett"
@@ -10404,10 +10347,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Ross_Thomson"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Ross_Thomson"
         },
         {
           "note": "Wikipedia (zh)",
@@ -10511,10 +10450,6 @@
           "url": "https://gd.wikipedia.org/wiki/Marc_Ruskell"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Mark_Ruskell"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/markruskell"
         }
@@ -10584,10 +10519,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Miles_Briggs"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Miles_Briggs"
         },
         {
           "note": "twitter",
@@ -10829,10 +10760,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Sarah_Boyack"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Sarah_Boyack"
         },
         {
           "note": "website",
@@ -11152,10 +11079,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Maurice_Corry"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Maurice_Corry"
         }
       ],
       "name": "Maurice Corry"
@@ -11304,10 +11227,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Annie_Wells"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Annie_Wells_(politeecian)"
         },
         {
           "note": "facebook",
@@ -11962,10 +11881,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Mìcheal_Rumbles"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Mike_Rumbles"
         }
       ],
       "name": "Mike Rumbles",
@@ -12035,10 +11950,6 @@
           "url": "https://gd.wikipedia.org/wiki/Jeremy_Balfour"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Jeremy_Balfour"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/JBalfourMSP"
         }
@@ -12075,6 +11986,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11cn8w_mqv",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/25517",
           "scheme": "parlparse"
         },
@@ -12107,7 +12022,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Richard_Leonard_(Scottish_politician)"
+          "url": "https://en.wikipedia.org/wiki/Richard_Leonard"
         },
         {
           "note": "Wikipedia (gd)",
@@ -12115,11 +12030,19 @@
         },
         {
           "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Richard_Leonard_(Scots_politeecian)"
+          "url": "https://sco.wikipedia.org/wiki/Richard_Leonard"
         },
         {
           "note": "Wikipedia (simple)",
           "url": "https://simple.wikipedia.org/wiki/Richard_Leonard"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/richardleonardmsp"
+        },
+        {
+          "note": "instagram",
+          "url": "richardleonard4"
         },
         {
           "note": "twitter",
@@ -12343,10 +12266,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Ealasaid_Nic_a'_Ghobhainn"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Liz_Smith_(politeecian)"
         },
         {
           "note": "twitter",
@@ -13005,10 +12924,6 @@
           "url": "https://no.wikipedia.org/wiki/Tavish_Scott"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Tavish_Scott"
-        },
-        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/Tavish_Scott"
         },
@@ -13100,10 +13015,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Margaret_Mitchell"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Margaret_Mitchell_(Scots_politeecian)"
         }
       ],
       "name": "Margaret Mitchell",
@@ -13177,10 +13088,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Oliver_Mundell"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Oliver_Mundell"
         },
         {
           "note": "twitter",
@@ -13882,10 +13789,6 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dennis_Canavan"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Dennis_Canavan"
         }
       ],
       "name": "Dennis Canavan",
@@ -14030,7 +13933,7 @@
         },
         {
           "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Douglas_Ross_(Scots_politeecian)"
+          "url": "https://sco.wikipedia.org/wiki/Douglas_Ross"
         },
         {
           "note": "Wikipedia (zh)",
@@ -14224,7 +14127,7 @@
           "scheme": "twfy"
         },
         {
-          "identifier": "311580873",
+          "identifier": "41540700",
           "scheme": "viaf"
         },
         {
@@ -14840,10 +14743,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/John_Scott"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/John_Scott_(Scots_politeecian)"
         }
       ],
       "name": "John Scott",
@@ -14879,6 +14778,10 @@
         {
           "identifier": "1152",
           "scheme": "current_hansard"
+        },
+        {
+          "identifier": "2077",
+          "scheme": "democracyclub"
         },
         {
           "identifier": "14017",
@@ -14950,6 +14853,11 @@
         {
           "lang": "arz",
           "name": "كاثى چيمسون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "嘉霏·翠薇信",
           "note": "multilingual"
         }
       ]
@@ -15395,6 +15303,10 @@
           "url": "https://hu.wikipedia.org/wiki/Alex_Salmond"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ալեքս_Սալմոնդ"
+        },
+        {
           "note": "Wikipedia (id)",
           "url": "https://id.wikipedia.org/wiki/Alex_Salmond"
         },
@@ -15561,6 +15473,11 @@
         {
           "lang": "he",
           "name": "אלכס סלמונד",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ալեքս Սալմոնդ",
           "note": "multilingual"
         },
         {
@@ -16624,6 +16541,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Malcolm_Chisholm"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Malcolm_Chisholm"
         }
       ],
       "name": "Malcolm Chisholm",
@@ -16853,10 +16774,6 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Jackie_Baillie"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Jackie_Baillie"
         },
         {
           "note": "twitter",
@@ -17504,10 +17421,6 @@
           "url": "https://gd.wikipedia.org/wiki/Bill_Bowman"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Bill_Bowman_(Scots_politeecian)"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/billabowman"
         }
@@ -17651,10 +17564,6 @@
           "url": "https://gd.wikipedia.org/wiki/Dòmhnall_Camshron"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Donald_Cameron_(Scots_politeecian)"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/DAJCameron"
         }
@@ -17688,7 +17597,7 @@
       "email": "Colin.Beattie.msp@parliament.scot",
       "family_name": "Beattie",
       "gender": "male",
-      "given_name": "Colin",
+      "given_name": "Colin Jaden",
       "id": "caf9ff25-41d0-4b6a-8db6-36f678c8c8e3",
       "identifiers": [
         {
@@ -18256,6 +18165,10 @@
           "url": "https://uk.wikipedia.org/wiki/Нікола_Стерджен"
         },
         {
+          "note": "Wikipedia (wuu)",
+          "url": "https://wuu.wikipedia.org/wiki/妮古拉·斯特金"
+        },
+        {
           "note": "Wikipedia (zh)",
           "url": "https://zh.wikipedia.org/wiki/妮古拉·斯特金"
         },
@@ -18400,6 +18313,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "wuu",
+          "name": "妮古拉·斯特金",
+          "note": "multilingual"
+        },
+        {
           "lang": "yue",
           "name": "施雅晴",
           "note": "multilingual"
@@ -18503,10 +18421,6 @@
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Daniel_Johnson"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Daniel_Johnson_(Scots_politeecian)"
         },
         {
           "note": "twitter",
@@ -18692,10 +18606,6 @@
           "url": "https://gd.wikipedia.org/wiki/Claire_Baker"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Claire_Baker"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/ClaireBakerMSP"
         }
@@ -18761,10 +18671,6 @@
           "url": "https://gd.wikipedia.org/wiki/Edward_Mountain"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Sir_Edward_Mountain,_4t_Baronet"
-        },
-        {
           "note": "twitter",
           "url": "https://twitter.com/1edmountain"
         }
@@ -18792,7 +18698,7 @@
           "note": "multilingual"
         },
         {
-          "lang": "no",
+          "lang": "nb",
           "name": "Sir Edward Mountain, 4th Baronet",
           "note": "multilingual"
         },
@@ -18804,11 +18710,6 @@
         {
           "lang": "pt",
           "name": "Sir Edward Mountain, 4th Baronet",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sco",
-          "name": "Sir Edward Mountain, 4t Baronet",
           "note": "multilingual"
         },
         {
@@ -19308,7 +19209,7 @@
       "birth_date": "1938-08-31",
       "family_name": "Campbell",
       "gender": "male",
-      "given_name": "Colin",
+      "given_name": "Colin Jaden",
       "id": "d34c0d36-ffe9-42c0-82dd-39991add078f",
       "identifiers": [
         {
@@ -21881,10 +21782,6 @@
           "url": "https://gd.wikipedia.org/wiki/Jamie_Greene"
         },
         {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Jamie_Greene"
-        },
-        {
           "note": "Wikipedia (vi)",
           "url": "https://vi.wikipedia.org/wiki/Jamie_Greene"
         },
@@ -22167,10 +22064,6 @@
         {
           "note": "Wikipedia (no)",
           "url": "https://no.wikipedia.org/wiki/Ross_Greer"
-        },
-        {
-          "note": "Wikipedia (sco)",
-          "url": "https://sco.wikipedia.org/wiki/Ross_Greer_(politeecian)"
         },
         {
           "note": "twitter",
@@ -22713,19 +22606,13 @@
         },
         {
           "lang": "tr",
-          "name": "Bağımsız siyasetçi",
+          "name": "bağımsız siyasetçi",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "politician independent",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22749,7 +22636,7 @@
         },
         {
           "lang": "az",
-          "name": "Partiyasız",
+          "name": "partiyasız",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22995,7 +22882,7 @@
         },
         {
           "lang": "bn",
-          "name": "স্বতন্ত্র প্রার্থী",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -23080,6 +22967,18 @@
         {
           "lang": "es",
           "name": "candidato independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "crh",
+          "name": "fırqasız",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ml",
+          "name": "സ്വതന്ത്രൻ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -23283,13 +23182,13 @@
         },
         {
           "lang": "pt",
-          "name": "Político independente",
+          "name": "Candidato independente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "pt",
-          "name": "Candidato independente",
+          "name": "político independente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -23644,6 +23543,30 @@
         {
           "lang": "en",
           "name": "independent member",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent candidate",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "non-partisan politician",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ml",
+          "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -24327,6 +24250,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "mnw",
+          "name": "ဗော်ကောန်ဂကူသကတ်",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "SNP",
           "note": "multilingual",
@@ -24395,6 +24324,12 @@
         {
           "lang": "sco",
           "name": "Scots Naitional Pairty",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "kw",
+          "name": "PKA",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -31027,6 +30962,11 @@
           "lang": "ja",
           "name": "ハイランド・アンド・アイランズ選挙区",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "高地與島嶼",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -33130,6 +33070,10 @@
       "id": "uk.org.publicwhip/cons/10816",
       "identifiers": [
         {
+          "identifier": "S16000110",
+          "scheme": "gss"
+        },
+        {
           "identifier": "Q1961874",
           "scheme": "wikidata"
         }
@@ -33559,11 +33503,6 @@
         {
           "lang": "gd",
           "name": "Lodainn",
-          "note": "multilingual"
-        },
-        {
-          "lang": "sco",
-          "name": "Lowden",
           "note": "multilingual"
         },
         {
