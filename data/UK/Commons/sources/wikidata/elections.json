@@ -4068,7 +4068,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2019",
+        "name": "eleccions al Parlament del Regne Unit de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5613,6 +5613,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1812",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "olltoghchán 1812  na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ro",
         "name": "Alegerile generale din Regatul Unit",
         "note": "multilingual",
@@ -6099,6 +6111,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "olltoghchán 1818  na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1818",
         "note": "multilingual",
@@ -6106,7 +6124,7 @@
       }
     ],
     "dates": [
-      "1818-07-18"
+      "1818"
     ],
     "start_date": "1818-06-15",
     "end_date": "1818-07-25",
@@ -6238,6 +6256,12 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1820",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "olltoghchán 1820 na Ríochta Aontaithe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6646,6 +6670,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "olltoghchán 1832 na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1826",
         "note": "multilingual",
@@ -6824,12 +6854,6 @@
       {
         "lang": "en",
         "name": "2019 Peterborough by-election",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "sco",
-        "name": "2019 Peterborough bi-election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7310,6 +7334,12 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1806",
         "note": "multilingual",
         "source": "wikidata-label"
       },
