@@ -322,6 +322,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2011ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "de",
         "name": "Schottische Parlamentswahl 2011",
         "note": "multilingual",
@@ -849,6 +855,12 @@
       {
         "lang": "el",
         "name": "Σκωτσέζικες βουλευτικές εκλογές",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "2016ko Eskoziako Legebiltzarrerako hauteskundeak",
         "note": "multilingual",
         "source": "wikidata-label"
       },
