@@ -370,7 +370,7 @@
       },
       {
         "lang": "yue",
-        "name": "工黨 (英國)",
+        "name": "工黨",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -501,6 +501,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sk",
+        "name": "Labouristická strana (Spojené kráľovstvo)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -567,7 +573,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/New_Labour_new_Britain_logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Labour_Party_Wordmark.svg",
     "srgb": "DC241F"
   },
   "conservative": {
@@ -941,7 +947,7 @@
       },
       {
         "lang": "yue",
-        "name": "保守黨 (英國)",
+        "name": "保守黨",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1084,14 +1090,8 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "no",
-        "name": "Det konservative parti (Storbritannia)",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "simple",
-        "name": "Conservative Party (UK)",
+        "lang": "pnb",
+        "name": "کنزرویٹو پارٹی (برطانیہ)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1146,6 +1146,18 @@
       {
         "lang": "en",
         "name": "Conservative Party (Great Britain) -- Records and correspondence",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "British Conservative Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Conservative Party (UK)",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1280,6 +1292,18 @@
         "name": "المحافظون ريطانيا",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Gwithadorek ha Unyansydhel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nb",
+        "name": "Det konservative parti (Storbritannia)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1343,7 +1367,7 @@
       },
       {
         "lang": "cs",
-        "name": "Liberálně demokratická strana",
+        "name": "Liberální demokraté",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1666,6 +1690,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "wuu",
+        "name": "自由民主党 (英国)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pnb",
+        "name": "لبرل ڈیموکریٹس پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Lib Dems",
         "note": "multilingual",
@@ -1790,6 +1826,36 @@
         "name": "الديمقراطيين الليبراليبن",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Livrel Werinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "LivWer",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Livrel Werinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Livrel Gwerinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "自由民主党 (イギリス)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1798,6 +1864,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Liberal_Democratas_logo.svg.png",
     "srgb": "FAA61A"
   },
   "scottish-national-party": {
@@ -2218,6 +2285,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "mnw",
+        "name": "ဗော်ကောန်ဂကူသကတ်",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -2286,6 +2359,12 @@
       {
         "lang": "sco",
         "name": "Scots Naitional Pairty",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "PKA",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2731,7 +2810,7 @@
     ],
     "links": [
       {
-        "url": "http://www.mydup.com/",
+        "url": "https://mydup.com/",
         "note": "website"
       }
     ],
@@ -3204,19 +3283,13 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3240,7 +3313,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3486,7 +3559,7 @@
       },
       {
         "lang": "bn",
-        "name": "স্বতন্ত্র প্রার্থী",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3571,6 +3644,24 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്രൻ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3774,13 +3865,13 @@
       },
       {
         "lang": "pt",
-        "name": "Político independente",
+        "name": "Candidato independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "pt",
-        "name": "Candidato independente",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4135,6 +4226,30 @@
       {
         "lang": "en",
         "name": "independent member",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent candidate",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "non-partisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5660,6 +5775,12 @@
       {
         "lang": "en",
         "name": "Alliance Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "APNI",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
