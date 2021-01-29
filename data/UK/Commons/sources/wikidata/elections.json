@@ -3527,6 +3527,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2017ko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -3577,6 +3583,12 @@
       {
         "lang": "en",
         "name": "General election, 2017",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Erresuma Batuko hauteskunde orokorrak, 2017",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4068,7 +4080,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2019",
+        "name": "eleccions al Parlament del Regne Unit de 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4681,6 +4693,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2015eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "2015 UK general election",
         "note": "multilingual",
@@ -4707,6 +4725,12 @@
       {
         "lang": "en",
         "name": "General election, 2015",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Erresuma Batuko hauteskunde orokorrak, 2015",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5098,6 +5122,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2005eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "2005 UK general election",
         "note": "multilingual",
@@ -5124,6 +5154,12 @@
       {
         "lang": "en",
         "name": "General election, 2005",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Erresuma Batuko hauteskunde orokorrak, 2005",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5609,6 +5645,18 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1812",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1812",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "olltoghchán 1812  na Ríochta Aontaithe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6099,6 +6147,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "olltoghchán 1818  na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1818",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1818",
         "note": "multilingual",
@@ -6106,7 +6166,7 @@
       }
     ],
     "dates": [
-      "1818-07-18"
+      "1818"
     ],
     "start_date": "1818-06-15",
     "end_date": "1818-07-25",
@@ -6238,6 +6298,18 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1820",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "olltoghchán 1820 na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1820",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6486,6 +6558,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2001eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "2001 UK general election",
         "note": "multilingual",
@@ -6512,6 +6590,12 @@
       {
         "lang": "en",
         "name": "General election, 2001",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Erresuma Batuko hauteskunde orokorrak, 2001",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -6642,6 +6726,12 @@
       {
         "lang": "zh",
         "name": "1826年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "olltoghchán 1832 na Ríochta Aontaithe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6824,12 +6914,6 @@
       {
         "lang": "en",
         "name": "2019 Peterborough by-election",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "sco",
-        "name": "2019 Peterborough bi-election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7310,6 +7394,12 @@
       {
         "lang": "ar",
         "name": "الانتخابات العامة في المملكة المتحدة 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הבחירות הכלליות בבריטניה 1806",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8051,6 +8141,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "1997ko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "el",
         "name": "Γενικές εκλογές του Ηνωμένου Βασιλείου 1997",
         "note": "multilingual",
@@ -8131,6 +8227,12 @@
       {
         "lang": "en",
         "name": "General election, 1997",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Erresuma Batuko hauteskunde orokorrak, 1997",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
