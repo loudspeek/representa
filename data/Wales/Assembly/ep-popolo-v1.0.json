@@ -11113,19 +11113,13 @@
         },
         {
           "lang": "tr",
-          "name": "Bağımsız siyasetçi",
+          "name": "bağımsız siyasetçi",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "politician independent",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11149,7 +11143,7 @@
         },
         {
           "lang": "az",
-          "name": "Partiyasız",
+          "name": "partiyasız",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11395,7 +11389,7 @@
         },
         {
           "lang": "bn",
-          "name": "স্বতন্ত্র প্রার্থী",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11480,6 +11474,36 @@
         {
           "lang": "es",
           "name": "candidato independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "crh",
+          "name": "fırqasız",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ml",
+          "name": "സ്വതന്ത്രൻ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "независим",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt-br",
+          "name": "sem partido",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ne",
+          "name": "निर्दलीय",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11670,6 +11694,12 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "sv",
+          "name": "oberoende",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "ar",
           "name": "سياسيون مستقلون",
           "note": "multilingual",
@@ -11683,13 +11713,13 @@
         },
         {
           "lang": "pt",
-          "name": "Político independente",
+          "name": "Candidato independente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "pt",
-          "name": "Candidato independente",
+          "name": "político independente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -12044,6 +12074,30 @@
         {
           "lang": "en",
           "name": "independent member",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent candidate",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "non-partisan politician",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ml",
+          "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -12511,6 +12565,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ur",
+          "name": "یو کے انڈیپینڈنٹ پارٹی",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pnb",
+          "name": "یو کے انڈیپینڈنٹ پارٹی",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -12668,7 +12734,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -15927,6 +15992,10 @@
       "id": "185b1834-7457-44e6-bd27-466961209c94",
       "identifiers": [
         {
+          "identifier": "/m/026h108",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5166754",
           "scheme": "wikidata"
         }
@@ -16422,6 +16491,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "eu",
+          "name": "Hego Gales Erdialdea",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "南威爾斯中 (威爾斯國民議會選區)",
           "note": "multilingual"
@@ -16746,6 +16820,10 @@
     {
       "id": "f0871af7-a432-43fc-be8c-874d403711ab",
       "identifiers": [
+        {
+          "identifier": "/m/026gzg3",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q5016911",
           "scheme": "wikidata"
