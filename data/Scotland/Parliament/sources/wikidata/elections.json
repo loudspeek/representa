@@ -322,6 +322,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2011ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "de",
         "name": "Schottische Parlamentswahl 2011",
         "note": "multilingual",
@@ -410,6 +416,12 @@
       {
         "lang": "sco",
         "name": "Scots Pairlament election, 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори в Шотландії 2021",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -849,6 +861,12 @@
       {
         "lang": "el",
         "name": "Σκωτσέζικες βουλευτικές εκλογές",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "2016ko Eskoziako Legebiltzarrerako hauteskundeak",
         "note": "multilingual",
         "source": "wikidata-label"
       },
