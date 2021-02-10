@@ -271,6 +271,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "Eleccions a l'Assemblea Nacional de Gal·les de 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2016年威爾斯議會選舉",
         "note": "multilingual",
@@ -409,6 +415,18 @@
       {
         "lang": "zh",
         "name": "2021年威爾斯國民議會選舉",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори в Уельсі 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "Eleccions al Parlament gal·lès de 2021",
         "note": "multilingual",
         "source": "wikidata-label"
       }
