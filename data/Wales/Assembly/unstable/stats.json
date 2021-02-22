@@ -28,7 +28,7 @@
   },
   "elections": {
     "count": 7,
-    "latest": "2018-02-06"
+    "latest": "2021-05-06"
   },
   "positions": {
     "cabinet": 84
@@ -60,7 +60,7 @@
     {
       "file": "wikidata/parties.json",
       "type": "group",
-      "lastmod": "2019-12-13"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "morph/terms.csv",
@@ -77,13 +77,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-02-24"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/welsh-assembly-constituencies-wikidata",
-      "lastmod": "2020-01-16"
+      "lastmod": "2020-09-10"
     },
     {
       "file": "morph/twitter.csv",
