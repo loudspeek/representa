@@ -11113,19 +11113,13 @@
         },
         {
           "lang": "tr",
-          "name": "Bağımsız siyasetçi",
+          "name": "bağımsız siyasetçi",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "ro",
           "name": "politician independent",
-          "note": "multilingual",
-          "source": "wikidata-label"
-        },
-        {
-          "lang": "ca",
-          "name": "independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11149,7 +11143,7 @@
         },
         {
           "lang": "az",
-          "name": "Partiyasız",
+          "name": "partiyasız",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11395,7 +11389,7 @@
         },
         {
           "lang": "bn",
-          "name": "স্বতন্ত্র প্রার্থী",
+          "name": "স্বতন্ত্র রাজনীতিবিদ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11480,6 +11474,42 @@
         {
           "lang": "es",
           "name": "candidato independiente",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "crh",
+          "name": "fırqasız",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ml",
+          "name": "സ്വതന്ത്രൻ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bg",
+          "name": "независим",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pt-br",
+          "name": "sem partido",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ne",
+          "name": "निर्दलीय",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "wuu",
+          "name": "无党籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11670,6 +11700,12 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "sv",
+          "name": "oberoende",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "ar",
           "name": "سياسيون مستقلون",
           "note": "multilingual",
@@ -11683,13 +11719,13 @@
         },
         {
           "lang": "pt",
-          "name": "Político independente",
+          "name": "Candidato independente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "pt",
-          "name": "Candidato independente",
+          "name": "político independente",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -11886,12 +11922,6 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "bn",
-          "name": "স্বতন্ত্র রাজনীতিবিদ",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "ast",
           "name": "candidatu independiente",
           "note": "multilingual",
@@ -12044,6 +12074,36 @@
         {
           "lang": "en",
           "name": "independent member",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "independent candidate",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "en",
+          "name": "non-partisan politician",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ml",
+          "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "vi",
+          "name": "Chính khách độc lập",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -12511,6 +12571,24 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ur",
+          "name": "یو کے انڈیپینڈنٹ پارٹی",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pnb",
+          "name": "یو کے انڈیپینڈنٹ پارٹی",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ms",
+          "name": "Parti Kemerdekaan UK",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -12668,7 +12746,6 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
       "links": [
         {
           "note": "website",
@@ -12770,6 +12847,12 @@
         {
           "lang": "zh-hans",
           "name": "威尔士工党",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ar",
+          "name": "حزب العمال الويلزي",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15881,6 +15964,10 @@
       "id": "080b66df-b506-4e70-a60a-a285169e14e2",
       "identifiers": [
         {
+          "identifier": "/m/0fhm29",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5136797",
           "scheme": "wikidata"
         }
@@ -15898,6 +15985,10 @@
     {
       "id": "167f4c5b-a21b-4a2f-964f-c75dab4590bf",
       "identifiers": [
+        {
+          "identifier": "/m/0fhmk1",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7057143",
           "scheme": "wikidata"
@@ -15927,6 +16018,10 @@
       "id": "185b1834-7457-44e6-bd27-466961209c94",
       "identifiers": [
         {
+          "identifier": "/m/026h108",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5166754",
           "scheme": "wikidata"
         }
@@ -15945,6 +16040,10 @@
       "id": "1886ccf2-4216-45d7-848e-647bd41afa00",
       "identifiers": [
         {
+          "identifier": "/m/026pqby",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q6661286",
           "scheme": "wikidata"
         }
@@ -15955,6 +16054,10 @@
     {
       "id": "1892aa93-74e4-4907-9687-47973bf9f611",
       "identifiers": [
+        {
+          "identifier": "/m/026txpm",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7019054",
           "scheme": "wikidata"
@@ -15974,6 +16077,10 @@
       "id": "1cf258c1-e57d-4ae4-a424-0234ff1645d9",
       "identifiers": [
         {
+          "identifier": "/m/026h2dn",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5254972",
           "scheme": "wikidata"
         }
@@ -15992,6 +16099,10 @@
       "id": "24a87923-5fdf-41a6-b255-fca47288f76f",
       "identifiers": [
         {
+          "identifier": "/m/026txnl",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7018848",
           "scheme": "wikidata"
         }
@@ -16009,6 +16120,10 @@
     {
       "id": "35fb73c8-49f2-40b5-a1e7-4da73e1d4173",
       "identifiers": [
+        {
+          "identifier": "/m/026pqdn",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q5038486",
           "scheme": "wikidata"
@@ -16033,6 +16148,10 @@
       "id": "3b73dd22-6bee-4ce1-be54-a74ff532e502",
       "identifiers": [
         {
+          "identifier": "/m/026wlyx",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7080136",
           "scheme": "wikidata"
         }
@@ -16051,6 +16170,10 @@
       "id": "46e001d9-4c2c-4675-b8b8-fac2fe9169b0",
       "identifiers": [
         {
+          "identifier": "/m/026my_t",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5043201",
           "scheme": "wikidata"
         }
@@ -16061,6 +16184,11 @@
           "lang": "cy",
           "name": "Dwyrain Caerfyrddin a Dinefwr",
           "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Carmarthen Ekialdea eta Dinefwr",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -16068,6 +16196,10 @@
     {
       "id": "4ef1bdca-47c1-4f24-89ec-240864e6ed8d",
       "identifiers": [
+        {
+          "identifier": "/m/0fhm0k",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q8038114",
           "scheme": "wikidata"
@@ -16087,6 +16219,10 @@
       "id": "5ec963f4-4e5f-479e-a1c7-2ba955a5dc1f",
       "identifiers": [
         {
+          "identifier": "/m/026wm2q",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q4666775",
           "scheme": "wikidata"
         }
@@ -16104,6 +16240,10 @@
     {
       "id": "5ee3a254-92b8-430e-9a2a-41a9f7a1b4cf",
       "identifiers": [
+        {
+          "identifier": "/m/026dlkc",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q4738671",
           "scheme": "wikidata"
@@ -16123,6 +16263,10 @@
       "id": "5fda6cf1-63a1-4467-bfa7-b8b9945c6722",
       "identifiers": [
         {
+          "identifier": "/m/026twv3",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q6084441",
           "scheme": "wikidata"
         }
@@ -16133,6 +16277,10 @@
     {
       "id": "680ff789-c6ba-40f7-a0ec-6b02d98aa73e",
       "identifiers": [
+        {
+          "identifier": "/m/026pq9k",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7228415",
           "scheme": "wikidata"
@@ -16147,6 +16295,10 @@
         {
           "identifier": "fec80bf6-3102-4559-a3ae-fb3ab6bb6767",
           "scheme": "bbc_things"
+        },
+        {
+          "identifier": "/m/026wm0n",
+          "scheme": "freebase"
         },
         {
           "identifier": "sh85056133",
@@ -16171,6 +16323,10 @@
       "id": "7132ad05-c3da-4d05-84c5-8deccd0d0a8d",
       "identifiers": [
         {
+          "identifier": "/m/0276ntp",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5318359",
           "scheme": "wikidata"
         }
@@ -16181,6 +16337,10 @@
     {
       "id": "768bc023-3097-474f-afc4-239d1108e286",
       "identifiers": [
+        {
+          "identifier": "/m/026twsr",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q5016924",
           "scheme": "wikidata"
@@ -16202,6 +16362,10 @@
         {
           "identifier": "bb631508-d4ef-470a-8fc8-de12e57c424d",
           "scheme": "bbc_things"
+        },
+        {
+          "identifier": "/m/011bnb39",
+          "scheme": "freebase"
         },
         {
           "identifier": "W09000037",
@@ -16266,6 +16430,10 @@
       "id": "852c2a41-c131-4e31-b0dc-d3051905cdc3",
       "identifiers": [
         {
+          "identifier": "/m/026mz2x",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5043210",
           "scheme": "wikidata"
         }
@@ -16284,6 +16452,10 @@
       "id": "885aa33f-21c1-4b71-b7e1-48b07d297265",
       "identifiers": [
         {
+          "identifier": "/m/026pppm",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7321386",
           "scheme": "wikidata"
         }
@@ -16294,6 +16466,10 @@
     {
       "id": "89ddbb6f-126a-4eb5-984a-4de934b086f4",
       "identifiers": [
+        {
+          "identifier": "/m/026myzf",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q4960088",
           "scheme": "wikidata"
@@ -16332,6 +16508,10 @@
           "scheme": "bbc_things"
         },
         {
+          "identifier": "/m/026hkq8",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q8054067",
           "scheme": "wikidata"
         }
@@ -16352,6 +16532,10 @@
         {
           "identifier": "6eedf35c-3592-46d9-a04c-8fdf68239bae",
           "scheme": "bbc_things"
+        },
+        {
+          "identifier": "/m/026wl_m",
+          "scheme": "freebase"
         },
         {
           "identifier": "Q6984487",
@@ -16392,6 +16576,10 @@
       "id": "956deaca-d6f6-47a2-8694-6062927ff8e3",
       "identifiers": [
         {
+          "identifier": "/m/026h2j2",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q6810309",
           "scheme": "wikidata"
         }
@@ -16410,6 +16598,10 @@
       "id": "976db739-babc-46ea-b08d-fccc212f722d",
       "identifiers": [
         {
+          "identifier": "/m/0fhmw0",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7568764",
           "scheme": "wikidata"
         }
@@ -16419,6 +16611,11 @@
         {
           "lang": "cy",
           "name": "Rhanbarth Canol De Cymru (Cynulliad Cenedlaethol)",
+          "note": "multilingual"
+        },
+        {
+          "lang": "eu",
+          "name": "Hego Gales Erdialdea",
           "note": "multilingual"
         },
         {
@@ -16433,6 +16630,10 @@
       "id": "9beb7368-d010-4bf3-aed5-9a566f845474",
       "identifiers": [
         {
+          "identifier": "/m/026mz3l",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5064122",
           "scheme": "wikidata"
         }
@@ -16443,6 +16644,10 @@
     {
       "id": "9d152dd1-055e-4cec-bf56-b0fd6dd76193",
       "identifiers": [
+        {
+          "identifier": "/m/026gzl7",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q13128697",
           "scheme": "wikidata"
@@ -16461,6 +16666,10 @@
     {
       "id": "9d16167a-6e9c-4f13-ad07-3585324f62bf",
       "identifiers": [
+        {
+          "identifier": "/m/026mz48",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q4243314",
           "scheme": "wikidata"
@@ -16484,6 +16693,10 @@
           "scheme": "bbc_things"
         },
         {
+          "identifier": "/m/0271ns9",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q4789158",
           "scheme": "wikidata"
         }
@@ -16494,6 +16707,10 @@
     {
       "id": "a5cbe142-884a-4539-b831-97a369ee2b7e",
       "identifiers": [
+        {
+          "identifier": "/m/026pqfb",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q5038472",
           "scheme": "wikidata"
@@ -16517,6 +16734,10 @@
           "scheme": "bbc_things"
         },
         {
+          "identifier": "/m/026pqg0",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5038385",
           "scheme": "wikidata"
         }
@@ -16534,6 +16755,10 @@
     {
       "id": "ba5b7d5e-59ac-40f6-bbba-64e9d52f7564",
       "identifiers": [
+        {
+          "identifier": "/m/026twxw",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q6901044",
           "scheme": "wikidata"
@@ -16558,6 +16783,10 @@
       "id": "c123a958-c8fd-4881-b198-38c2b5c06310",
       "identifiers": [
         {
+          "identifier": "/m/026pqfp",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5038453",
           "scheme": "wikidata"
         }
@@ -16575,6 +16804,10 @@
     {
       "id": "c4ed5aab-7650-48b6-a455-2791d205eeff",
       "identifiers": [
+        {
+          "identifier": "/m/026wm1b",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q4966526",
           "scheme": "wikidata"
@@ -16599,6 +16832,10 @@
       "id": "ca4c5e23-2a17-4683-ac95-1730bf961225",
       "identifiers": [
         {
+          "identifier": "/m/026ppm6",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7909545",
           "scheme": "wikidata"
         }
@@ -16616,6 +16853,10 @@
     {
       "id": "cc1cb63a-bc50-48b9-ab85-6510e15d4df3",
       "identifiers": [
+        {
+          "identifier": "/m/0fhmz3",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7568795",
           "scheme": "wikidata"
@@ -16635,6 +16876,10 @@
       "id": "cfa1c835-4714-4046-874c-666aea926fb5",
       "identifiers": [
         {
+          "identifier": "/m/026pqcm",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q5199989",
           "scheme": "wikidata"
         }
@@ -16652,6 +16897,10 @@
     {
       "id": "dbb23b11-d692-4851-ad96-87fc78d6a4c2",
       "identifiers": [
+        {
+          "identifier": "/m/0fhmsm",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q6841063",
           "scheme": "wikidata"
@@ -16671,6 +16920,10 @@
       "id": "e37a0ab2-25c1-4abc-a252-33fce618a42f",
       "identifiers": [
         {
+          "identifier": "/m/02707j2",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q4666807",
           "scheme": "wikidata"
         }
@@ -16681,6 +16934,10 @@
     {
       "id": "e3c8eca0-ebf7-49de-b3ea-3f0a559e8521",
       "identifiers": [
+        {
+          "identifier": "/m/026wlvt",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7653727",
           "scheme": "wikidata"
@@ -16700,6 +16957,10 @@
       "id": "e7be15c2-65a2-44a0-9cf5-d53c92970143",
       "identifiers": [
         {
+          "identifier": "/m/026hknx",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7909529",
           "scheme": "wikidata"
         }
@@ -16717,6 +16978,10 @@
     {
       "id": "e910148e-242a-479d-bfe4-8130b5761bdd",
       "identifiers": [
+        {
+          "identifier": "/m/026mzrj",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7240912",
           "scheme": "wikidata"
@@ -16736,6 +17001,10 @@
       "id": "ed841f08-80d6-4b17-a494-34941b81537e",
       "identifiers": [
         {
+          "identifier": "/m/026twrc",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q4923797",
           "scheme": "wikidata"
         }
@@ -16746,6 +17015,10 @@
     {
       "id": "f0871af7-a432-43fc-be8c-874d403711ab",
       "identifiers": [
+        {
+          "identifier": "/m/026gzg3",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q5016911",
           "scheme": "wikidata"
@@ -16765,6 +17038,10 @@
       "id": "f462189b-f677-4778-b359-3e436573801b",
       "identifiers": [
         {
+          "identifier": "/m/026wlxj",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q7653683",
           "scheme": "wikidata"
         }
@@ -16783,6 +17060,10 @@
       "id": "fc63451e-ccf0-4001-b7ca-2f22c1af21c3",
       "identifiers": [
         {
+          "identifier": "/m/026twwh",
+          "scheme": "freebase"
+        },
+        {
           "identifier": "Q6820690",
           "scheme": "wikidata"
         }
@@ -16800,6 +17081,10 @@
     {
       "id": "ff168f40-b756-4eab-a36e-900066b7cde3",
       "identifiers": [
+        {
+          "identifier": "/m/0fhmx1",
+          "scheme": "freebase"
+        },
         {
           "identifier": "Q7568768",
           "scheme": "wikidata"
