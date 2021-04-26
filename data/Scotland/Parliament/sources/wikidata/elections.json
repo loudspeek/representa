@@ -6,7 +6,7 @@
         "identifier": "Q1269950"
       }
     ],
-    "name": "1999 Scottish Parliament election",
+    "name": "1999 Scottish Parliament general election",
     "other_names": [
       {
         "lang": "de",
@@ -22,7 +22,7 @@
       },
       {
         "lang": "en",
-        "name": "1999 Scottish Parliament election",
+        "name": "1999 Scottish Parliament general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -105,6 +105,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sco",
+        "name": "Scots Pairlament election, 1999",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "1999年スコットランド議会総選挙",
         "note": "multilingual",
@@ -132,7 +138,7 @@
     "dates": [
       "1999-05-06"
     ],
-    "followed_by": "2003 Scottish Parliament election",
+    "followed_by": "2003 Scottish Parliament general election",
     "office": "Member of the 1st Scottish Parliament",
     "successful_candidates": [
       "Donald Dewar"
@@ -241,7 +247,7 @@
         "identifier": "Q1862416"
       }
     ],
-    "name": "2011 Scottish Parliament election",
+    "name": "2011 Scottish Parliament general election",
     "other_names": [
       {
         "lang": "gl",
@@ -257,7 +263,7 @@
       },
       {
         "lang": "en",
-        "name": "2011 Scottish Parliament election",
+        "name": "2011 Scottish Parliament general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -322,6 +328,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2011ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "de",
         "name": "Schottische Parlamentswahl 2011",
         "note": "multilingual",
@@ -367,8 +379,8 @@
     "dates": [
       "2011-05-05"
     ],
-    "follows": "2007 Scottish Parliament election",
-    "followed_by": "2016 Scottish Parliament election",
+    "follows": "2007 Scottish Parliament general election",
+    "followed_by": "2016 Scottish Parliament general election",
     "office": "Member of the 4th Scottish Parliament",
     "successful_candidates": [
       "Alex Salmond"
@@ -381,11 +393,11 @@
         "identifier": "Q24969168"
       }
     ],
-    "name": "Next Scottish Parliament election",
+    "name": "2021 Scottish Parliament general election",
     "other_names": [
       {
         "lang": "en",
-        "name": "Next Scottish Parliament election",
+        "name": "2021 Scottish Parliament general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -412,12 +424,36 @@
         "name": "Scots Pairlament election, 2021",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори в Шотландії 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "Élections législatives écossaises de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari in Scozia del 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gd",
+        "name": "Taghadh Albannach 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
       "2021-05-06"
     ],
-    "follows": "2016 Scottish Parliament election",
+    "follows": "2016 Scottish Parliament general election",
     "office": "Member of the Scottish Parliament"
   },
   "Q29587217": {
@@ -614,7 +650,7 @@
         "identifier": "Q683800"
       }
     ],
-    "name": "2003 Scottish Parliament election",
+    "name": "2003 Scottish Parliament general election",
     "other_names": [
       {
         "lang": "de",
@@ -630,7 +666,7 @@
       },
       {
         "lang": "en",
-        "name": "2003 Scottish Parliament election",
+        "name": "2003 Scottish Parliament general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -728,8 +764,8 @@
     "dates": [
       "2003-05-01"
     ],
-    "follows": "1999 Scottish Parliament election",
-    "followed_by": "2007 Scottish Parliament election",
+    "follows": "1999 Scottish Parliament general election",
+    "followed_by": "2007 Scottish Parliament general election",
     "office": "Member of the 2nd Scottish Parliament",
     "successful_candidates": [
       "Jack McConnell"
@@ -772,11 +808,11 @@
         "identifier": "Q7437890"
       }
     ],
-    "name": "2016 Scottish Parliament election",
+    "name": "2016 Scottish Parliament general election",
     "other_names": [
       {
         "lang": "en",
-        "name": "2016 Scottish Parliament election",
+        "name": "2016 Scottish Parliament general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -853,6 +889,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "eu",
+        "name": "2016ko Eskoziako Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "2016年5月5日",
         "note": "multilingual",
@@ -880,8 +922,8 @@
     "dates": [
       "2016-05-05"
     ],
-    "follows": "2011 Scottish Parliament election",
-    "followed_by": "Next Scottish Parliament election",
+    "follows": "2011 Scottish Parliament general election",
+    "followed_by": "2021 Scottish Parliament general election",
     "office": "Member of the 5th Scottish Parliament",
     "successful_candidates": [
       "Nicola Sturgeon"
@@ -924,7 +966,7 @@
         "identifier": "Q953141"
       }
     ],
-    "name": "2007 Scottish Parliament election",
+    "name": "2007 Scottish Parliament general election",
     "other_names": [
       {
         "lang": "fr",
@@ -952,7 +994,7 @@
       },
       {
         "lang": "en",
-        "name": "2007 Scottish Parliament election",
+        "name": "2007 Scottish Parliament general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1062,8 +1104,8 @@
     "dates": [
       "2007-05-03"
     ],
-    "follows": "2003 Scottish Parliament election",
-    "followed_by": "2011 Scottish Parliament election",
+    "follows": "2003 Scottish Parliament general election",
+    "followed_by": "2011 Scottish Parliament general election",
     "office": "Member of the 3rd Scottish Parliament",
     "successful_candidates": [
       "Alex Salmond"
