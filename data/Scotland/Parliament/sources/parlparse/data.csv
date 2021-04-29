@@ -627,7 +627,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25521,Fulton MacGregor,,,uk.org.publicwhip/person/25521,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 14035,Kenneth Macintosh,,,uk.org.publicwhip/person/14035,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,,,5
 25522,Rona Mackay,,,uk.org.publicwhip/person/25522,Strathkelvin and Bearsden,uk.org.publicwhip/cons/10792,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25096,Derek Mackay,,,uk.org.publicwhip/person/25096,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
+25096,Derek Mackay,,,uk.org.publicwhip/person/25096,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2020-02-05,changed_party,5
 25523,Ben Macpherson,,,uk.org.publicwhip/person/25523,Edinburgh Northern and Leith,uk.org.publicwhip/cons/10813,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25524,Ruth Maguire,,,uk.org.publicwhip/person/25524,Cunninghame South,uk.org.publicwhip/cons/10740,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25100,Jenny Marra,,,uk.org.publicwhip/person/25100,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2016-05-07,regional_election,,,5
@@ -677,13 +677,17 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25118,Paul Wheelhouse,,,uk.org.publicwhip/person/25118,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 14117,Sandra White,,,uk.org.publicwhip/person/14117,Glasgow Kelvin,uk.org.publicwhip/cons/10763,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25543,Brian Whittle,,,uk.org.publicwhip/person/25543,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2016-05-07,regional_election,,,5
-25544,Andy Wightman,,,uk.org.publicwhip/person/25544,Lothian,uk.org.publicwhip/cons/10836,Green,green,2016-05-07,regional_election,,,5
+25544,Andy Wightman,,,uk.org.publicwhip/person/25544,Lothian,uk.org.publicwhip/cons/10836,Green,green,2016-05-07,regional_election,2020-12-17,changed_party,5
 25119,Humza Yousaf,,,uk.org.publicwhip/person/25119,Glasgow Pollok,uk.org.publicwhip/cons/10765,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
 25599,Bill Bowman,,,uk.org.publicwhip/person/25599,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-12-21,replaced_in_region,,,5
 25510,Rachael Hamilton,,,uk.org.publicwhip/person/25510,"Ettrick, Roxburgh and Berwickshire",uk.org.publicwhip/cons/10817,Conservative,conservative,2017-06-08,by_election,,,5
-25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2017-05-23,appointed,,,5
+25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2017-05-23,appointed,2020-11-23,changed_party,5
 25714,Tom Mason,,,uk.org.publicwhip/person/25714,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2017-06-20,appointed,,,5
 25715,Jamie Halcro Johnston,,,uk.org.publicwhip/person/25715,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2017-06-20,appointed,,,5
 25104,Mark McDonald,,,uk.org.publicwhip/person/25104,Aberdeen Donside,uk.org.publicwhip/cons/10797,Independent,independent,2018-03-06,changed_party,,,5
 13956,Sarah Boyack,,,uk.org.publicwhip/person/13956,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2019-07-15,replaced_in_region,,,5
 25775,Beatrice Wishart,,,uk.org.publicwhip/person/25775,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2019-08-30,by_election,,,5
+25096,Derek Mackay,,,uk.org.publicwhip/person/25096,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Independent,independent,2020-02-06,changed_party,,,5
+25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Independent,independent,2020-11-24,changed_party,2021-01-10,changed_party,5
+25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Reform UK,reform,2021-01-11,changed_party,,,5
+25544,Andy Wightman,,,uk.org.publicwhip/person/25544,Lothian,uk.org.publicwhip/cons/10836,Independent,independent,2020-12-18,changed_party,,,5
