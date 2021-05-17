@@ -550,140 +550,273 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25219,Cameron Buchanan,,,uk.org.publicwhip/person/25219,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2013-09-04,replaced_in_region,2016-03-23,regional_election,4
 14120,John Wilson,,,uk.org.publicwhip/person/14120,Central Scotland,uk.org.publicwhip/cons/10716,Independent,independent,2014-09-24,changed_party,2016-03-23,regional_election,4
 25484,Lesley Brennan,,,uk.org.publicwhip/person/25484,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2016-01-13,appointed,2016-03-23,regional_election,4
-25072,George Adam,,,uk.org.publicwhip/person/25072,Paisley,uk.org.publicwhip/cons/10828,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25073,Clare Adamson,,,uk.org.publicwhip/person/25073,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13947,Alasdair Allan,,,uk.org.publicwhip/person/13947,Na h-Eileanan an Iar,uk.org.publicwhip/cons/10816,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25491,Tom Arthur,,,uk.org.publicwhip/person/25491,Renfrewshire South,uk.org.publicwhip/cons/10832,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13949,Jackie Baillie,,,uk.org.publicwhip/person/13949,Dumbarton,uk.org.publicwhip/cons/10741,Labour,labour,2016-05-07,regional_election,,,5
-13951,Claire Baker,,,uk.org.publicwhip/person/13951,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2016-05-07,regional_election,,,5
-25492,Jeremy Balfour,,,uk.org.publicwhip/person/25492,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2016-05-07,regional_election,,,5
-25090,Claudia Beamish,,,uk.org.publicwhip/person/25090,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2016-05-07,regional_election,,,5
-25074,Colin Beattie,,,uk.org.publicwhip/person/25074,Midlothian North and Musselburgh,uk.org.publicwhip/cons/10826,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25076,Neil Bibby,,,uk.org.publicwhip/person/25076,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,,,5
-25494,Miles Briggs,,,uk.org.publicwhip/person/25494,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2016-05-07,regional_election,,,5
-13961,Keith Brown,,,uk.org.publicwhip/person/13961,Clackmannanshire and Dunblane,uk.org.publicwhip/cons/10806,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25495,Alexander Burnett,,,uk.org.publicwhip/person/25495,Aberdeenshire West,uk.org.publicwhip/cons/10800,Conservative,conservative,2016-05-07,regional_election,,,5
-25496,Donald Cameron,,,uk.org.publicwhip/person/25496,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2016-05-07,regional_election,,,5
-13966,Aileen Campbell,,,uk.org.publicwhip/person/13966,Clydesdale,uk.org.publicwhip/cons/10736,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13967,Jackson Carlaw,,,uk.org.publicwhip/person/13967,Eastwood,uk.org.publicwhip/cons/10749,Conservative,conservative,2016-05-07,regional_election,,,5
-25497,Finlay Carson,,,uk.org.publicwhip/person/25497,Galloway and West Dumfries,uk.org.publicwhip/cons/10818,Conservative,conservative,2016-05-07,regional_election,,,5
-25498,Peter Chapman,,,uk.org.publicwhip/person/25498,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-05-07,regional_election,,,5
-13968,Willie Coffey,,,uk.org.publicwhip/person/13968,Kilmarnock and Irvine Valley,uk.org.publicwhip/cons/10824,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25500,Alex Cole-Hamilton,,,uk.org.publicwhip/person/25500,Edinburgh Western,uk.org.publicwhip/cons/10815,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,,,5
-13969,Angela Constance,,,uk.org.publicwhip/person/13969,Almond Valley,uk.org.publicwhip/cons/10801,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25501,Maurice Corry,,,uk.org.publicwhip/person/25501,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2016-05-07,regional_election,,,5
-13971,Bruce Crawford,,,uk.org.publicwhip/person/13971,Stirling,uk.org.publicwhip/cons/10791,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-10148,Roseanna Cunningham,227,,uk.org.publicwhip/person/10148,Perthshire South and Kinross-shire,uk.org.publicwhip/cons/10830,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25080,Ruth Davidson,,,uk.org.publicwhip/person/25080,Edinburgh Central,uk.org.publicwhip/cons/10750,Conservative,conservative,2016-05-07,regional_election,,,5
-25502,Ash Denham,,,uk.org.publicwhip/person/25502,Edinburgh Eastern,uk.org.publicwhip/cons/10812,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25081,Graeme Dey,,,uk.org.publicwhip/person/25081,Angus South,uk.org.publicwhip/cons/10803,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13977,Bob Doris,,,uk.org.publicwhip/person/13977,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25082,James Dornan,,,uk.org.publicwhip/person/25082,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
+25072,George Adam,,,uk.org.publicwhip/person/25072,Paisley,uk.org.publicwhip/cons/10828,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25073,Clare Adamson,,,uk.org.publicwhip/person/25073,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13947,Alasdair Allan,,,uk.org.publicwhip/person/13947,Na h-Eileanan an Iar,uk.org.publicwhip/cons/10816,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25491,Tom Arthur,,,uk.org.publicwhip/person/25491,Renfrewshire South,uk.org.publicwhip/cons/10832,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13949,Jackie Baillie,,,uk.org.publicwhip/person/13949,Dumbarton,uk.org.publicwhip/cons/10741,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+13951,Claire Baker,,,uk.org.publicwhip/person/13951,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25492,Jeremy Balfour,,,uk.org.publicwhip/person/25492,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25090,Claudia Beamish,,,uk.org.publicwhip/person/25090,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25074,Colin Beattie,,,uk.org.publicwhip/person/25074,Midlothian North and Musselburgh,uk.org.publicwhip/cons/10826,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25076,Neil Bibby,,,uk.org.publicwhip/person/25076,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25494,Miles Briggs,,,uk.org.publicwhip/person/25494,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+13961,Keith Brown,,,uk.org.publicwhip/person/13961,Clackmannanshire and Dunblane,uk.org.publicwhip/cons/10806,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25495,Alexander Burnett,,,uk.org.publicwhip/person/25495,Aberdeenshire West,uk.org.publicwhip/cons/10800,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25496,Donald Cameron,,,uk.org.publicwhip/person/25496,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+13966,Aileen Campbell,,,uk.org.publicwhip/person/13966,Clydesdale,uk.org.publicwhip/cons/10736,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13967,Jackson Carlaw,,,uk.org.publicwhip/person/13967,Eastwood,uk.org.publicwhip/cons/10749,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25497,Finlay Carson,,,uk.org.publicwhip/person/25497,Galloway and West Dumfries,uk.org.publicwhip/cons/10818,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25498,Peter Chapman,,,uk.org.publicwhip/person/25498,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+13968,Willie Coffey,,,uk.org.publicwhip/person/13968,Kilmarnock and Irvine Valley,uk.org.publicwhip/cons/10824,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25500,Alex Cole-Hamilton,,,uk.org.publicwhip/person/25500,Edinburgh Western,uk.org.publicwhip/cons/10815,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,2021-05-05,dissolution,5
+13969,Angela Constance,,,uk.org.publicwhip/person/13969,Almond Valley,uk.org.publicwhip/cons/10801,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25501,Maurice Corry,,,uk.org.publicwhip/person/25501,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+13971,Bruce Crawford,,,uk.org.publicwhip/person/13971,Stirling,uk.org.publicwhip/cons/10791,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+10148,Roseanna Cunningham,227,,uk.org.publicwhip/person/10148,Perthshire South and Kinross-shire,uk.org.publicwhip/cons/10830,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25080,Ruth Davidson,,,uk.org.publicwhip/person/25080,Edinburgh Central,uk.org.publicwhip/cons/10750,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25502,Ash Denham,,,uk.org.publicwhip/person/25502,Edinburgh Eastern,uk.org.publicwhip/cons/10812,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25081,Graeme Dey,,,uk.org.publicwhip/person/25081,Angus South,uk.org.publicwhip/cons/10803,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13977,Bob Doris,,,uk.org.publicwhip/person/13977,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25082,James Dornan,,,uk.org.publicwhip/person/25082,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
 25083,Kezia Dugdale,,,uk.org.publicwhip/person/25083,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2016-05-07,regional_election,2019-07-15,resigned,5
-25503,Mairi Gougeon,,,uk.org.publicwhip/person/25503,Angus North and Mearns,uk.org.publicwhip/cons/10802,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25085,Annabelle Ewing,,,uk.org.publicwhip/person/25085,Cowdenbeath,uk.org.publicwhip/cons/10807,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13980,Fergus Ewing,,,uk.org.publicwhip/person/13980,Inverness and Nairn,uk.org.publicwhip/cons/10823,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13982,Linda Fabiani,,,uk.org.publicwhip/person/13982,East Kilbride,uk.org.publicwhip/cons/10747,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25086,Mary Fee,,,uk.org.publicwhip/person/25086,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,,,5
-25087,Neil Findlay,,,uk.org.publicwhip/person/25087,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2016-05-07,regional_election,,,5
-25088,John Finnie,,,uk.org.publicwhip/person/25088,Highlands and Islands,uk.org.publicwhip/cons/10718,Green,green,2016-05-07,regional_election,,,5
-13987,Joe FitzPatrick,,,uk.org.publicwhip/person/13987,Dundee City West,uk.org.publicwhip/cons/10810,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25504,Kate Forbes,,,uk.org.publicwhip/person/25504,"Skye, Lochaber and Badenoch",uk.org.publicwhip/cons/10834,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13991,Murdo Fraser,,,uk.org.publicwhip/person/13991,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,,,5
-25505,Jeane Freeman,,,uk.org.publicwhip/person/25505,"Carrick, Cumnock and Doon Valley",uk.org.publicwhip/cons/10733,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-13994,Kenneth Gibson,,,uk.org.publicwhip/person/13994,Cunninghame North,uk.org.publicwhip/cons/10739,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25506,Jenny Gilruth,,,uk.org.publicwhip/person/25506,Mid Fife and Glenrothes,uk.org.publicwhip/cons/10825,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25507,Maurice Golden,,,uk.org.publicwhip/person/25507,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2016-05-07,regional_election,,,5
-14000,Christine Grahame,,,uk.org.publicwhip/person/14000,"Midlothian South, Tweeddale and Lauderdale",uk.org.publicwhip/cons/10827,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14001,Rhoda Grant,,,uk.org.publicwhip/person/14001,Highlands and Islands,uk.org.publicwhip/cons/10718,Labour,labour,2016-05-07,regional_election,,,5
-14002,Iain Gray,,,uk.org.publicwhip/person/14002,East Lothian,uk.org.publicwhip/cons/10748,Labour,labour,2016-05-07,regional_election,,,5
-25508,Jamie Greene,,,uk.org.publicwhip/person/25508,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2016-05-07,regional_election,,,5
-25509,Ross Greer,,,uk.org.publicwhip/person/25509,West Scotland,uk.org.publicwhip/cons/10838,Green,green,2016-05-07,regional_election,,,5
-25089,Mark Griffin,,,uk.org.publicwhip/person/25089,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,,,5
+25503,Mairi Gougeon,,,uk.org.publicwhip/person/25503,Angus North and Mearns,uk.org.publicwhip/cons/10802,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25085,Annabelle Ewing,,,uk.org.publicwhip/person/25085,Cowdenbeath,uk.org.publicwhip/cons/10807,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13980,Fergus Ewing,,,uk.org.publicwhip/person/13980,Inverness and Nairn,uk.org.publicwhip/cons/10823,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13982,Linda Fabiani,,,uk.org.publicwhip/person/13982,East Kilbride,uk.org.publicwhip/cons/10747,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25086,Mary Fee,,,uk.org.publicwhip/person/25086,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25087,Neil Findlay,,,uk.org.publicwhip/person/25087,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25088,John Finnie,,,uk.org.publicwhip/person/25088,Highlands and Islands,uk.org.publicwhip/cons/10718,Green,green,2016-05-07,regional_election,2021-05-05,dissolution,5
+13987,Joe FitzPatrick,,,uk.org.publicwhip/person/13987,Dundee City West,uk.org.publicwhip/cons/10810,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25504,Kate Forbes,,,uk.org.publicwhip/person/25504,"Skye, Lochaber and Badenoch",uk.org.publicwhip/cons/10834,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13991,Murdo Fraser,,,uk.org.publicwhip/person/13991,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25505,Jeane Freeman,,,uk.org.publicwhip/person/25505,"Carrick, Cumnock and Doon Valley",uk.org.publicwhip/cons/10733,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+13994,Kenneth Gibson,,,uk.org.publicwhip/person/13994,Cunninghame North,uk.org.publicwhip/cons/10739,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25506,Jenny Gilruth,,,uk.org.publicwhip/person/25506,Mid Fife and Glenrothes,uk.org.publicwhip/cons/10825,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25507,Maurice Golden,,,uk.org.publicwhip/person/25507,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14000,Christine Grahame,,,uk.org.publicwhip/person/14000,"Midlothian South, Tweeddale and Lauderdale",uk.org.publicwhip/cons/10827,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14001,Rhoda Grant,,,uk.org.publicwhip/person/14001,Highlands and Islands,uk.org.publicwhip/cons/10718,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+14002,Iain Gray,,,uk.org.publicwhip/person/14002,East Lothian,uk.org.publicwhip/cons/10748,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25508,Jamie Greene,,,uk.org.publicwhip/person/25508,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25509,Ross Greer,,,uk.org.publicwhip/person/25509,West Scotland,uk.org.publicwhip/cons/10838,Green,green,2016-05-07,regional_election,2021-05-05,dissolution,5
+25089,Mark Griffin,,,uk.org.publicwhip/person/25089,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
 25510,Rachael Hamilton,,,uk.org.publicwhip/person/25510,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2016-05-07,regional_election,2017-06-07,resigned,5
-25511,Emma Harper,,,uk.org.publicwhip/person/25511,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25512,Alison Harris,,,uk.org.publicwhip/person/25512,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,,,5
-14006,Patrick Harvie,,,uk.org.publicwhip/person/14006,Glasgow,uk.org.publicwhip/cons/10717,Green,green,2016-05-07,regional_election,,,5
-25513,Clare Haughey,,,uk.org.publicwhip/person/25513,Rutherglen,uk.org.publicwhip/cons/10833,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14009,Jamie Hepburn,,,uk.org.publicwhip/person/14009,Cumbernauld and Kilsyth,uk.org.publicwhip/cons/10738,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14012,Fiona Hyslop,,,uk.org.publicwhip/person/14012,Linlithgow,uk.org.publicwhip/cons/10776,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25514,Daniel Johnson,,,uk.org.publicwhip/person/25514,Edinburgh Southern,uk.org.publicwhip/cons/10814,Labour,labour,2016-05-07,regional_election,,,5
+25511,Emma Harper,,,uk.org.publicwhip/person/25511,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25512,Alison Harris,,,uk.org.publicwhip/person/25512,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14006,Patrick Harvie,,,uk.org.publicwhip/person/14006,Glasgow,uk.org.publicwhip/cons/10717,Green,green,2016-05-07,regional_election,2021-05-05,dissolution,5
+25513,Clare Haughey,,,uk.org.publicwhip/person/25513,Rutherglen,uk.org.publicwhip/cons/10833,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14009,Jamie Hepburn,,,uk.org.publicwhip/person/14009,Cumbernauld and Kilsyth,uk.org.publicwhip/cons/10738,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14012,Fiona Hyslop,,,uk.org.publicwhip/person/14012,Linlithgow,uk.org.publicwhip/cons/10776,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25514,Daniel Johnson,,,uk.org.publicwhip/person/25514,Edinburgh Southern,uk.org.publicwhip/cons/10814,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
 14020,Alex Johnstone,,,uk.org.publicwhip/person/14020,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-05-07,regional_election,2016-12-07,died,5
-25091,Alison Johnstone,,,uk.org.publicwhip/person/25091,Lothian,uk.org.publicwhip/cons/10836,Green,green,2016-05-07,regional_election,,,5
-14022,James Kelly,,,uk.org.publicwhip/person/14022,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,,,5
-25515,Liam Kerr,,,uk.org.publicwhip/person/25515,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-05-07,regional_election,,,5
-14024,Bill Kidd,,,uk.org.publicwhip/person/14024,Glasgow Anniesland,uk.org.publicwhip/cons/10759,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14025,Johann Lamont,,,uk.org.publicwhip/person/14025,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,,,5
+25091,Alison Johnstone,,,uk.org.publicwhip/person/25091,Lothian,uk.org.publicwhip/cons/10836,Green,green,2016-05-07,regional_election,2021-05-05,dissolution,5
+14022,James Kelly,,,uk.org.publicwhip/person/14022,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25515,Liam Kerr,,,uk.org.publicwhip/person/25515,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14024,Bill Kidd,,,uk.org.publicwhip/person/14024,Glasgow Anniesland,uk.org.publicwhip/cons/10759,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14025,Johann Lamont,,,uk.org.publicwhip/person/14025,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
 14026,John Lamont,,4608,uk.org.publicwhip/person/14026,"Ettrick, Roxburgh and Berwickshire",uk.org.publicwhip/cons/10817,Conservative,conservative,2016-05-07,regional_election,2017-05-04,resigned,5
-25516,Monica Lennon,,,uk.org.publicwhip/person/25516,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,,,5
-25517,Richard Leonard,,,uk.org.publicwhip/person/25517,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,,,5
-25518,Gordon Lindhurst,,,uk.org.publicwhip/person/25518,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2016-05-07,regional_election,,,5
-14029,Richard Lochhead,,,uk.org.publicwhip/person/14029,Moray,uk.org.publicwhip/cons/10779,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25519,Dean Lockhart,,,uk.org.publicwhip/person/25519,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,,,5
-25093,Richard Lyle,,,uk.org.publicwhip/person/25093,Uddingston and Bellshill,uk.org.publicwhip/cons/10835,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14034,Lewis Macdonald,,,uk.org.publicwhip/person/14034,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2016-05-07,regional_election,,,5
-25094,Angus MacDonald,,,uk.org.publicwhip/person/25094,Falkirk East,uk.org.publicwhip/cons/10756,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25095,Gordon MacDonald,,,uk.org.publicwhip/person/25095,Edinburgh Pentlands,uk.org.publicwhip/cons/10753,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25521,Fulton MacGregor,,,uk.org.publicwhip/person/25521,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14035,Kenneth Macintosh,,,uk.org.publicwhip/person/14035,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,,,5
-25522,Rona Mackay,,,uk.org.publicwhip/person/25522,Strathkelvin and Bearsden,uk.org.publicwhip/cons/10792,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25096,Derek Mackay,,,uk.org.publicwhip/person/25096,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25523,Ben Macpherson,,,uk.org.publicwhip/person/25523,Edinburgh Northern and Leith,uk.org.publicwhip/cons/10813,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25524,Ruth Maguire,,,uk.org.publicwhip/person/25524,Cunninghame South,uk.org.publicwhip/cons/10740,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25100,Jenny Marra,,,uk.org.publicwhip/person/25100,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2016-05-07,regional_election,,,5
-25525,Gillian Martin,,,uk.org.publicwhip/person/25525,Aberdeenshire East,uk.org.publicwhip/cons/10799,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25101,John Mason,,,uk.org.publicwhip/person/25101,Glasgow Shettleston,uk.org.publicwhip/cons/10767,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14043,Michael Matheson,,,uk.org.publicwhip/person/14043,Falkirk West,uk.org.publicwhip/cons/10757,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25102,Joan McAlpine,,,uk.org.publicwhip/person/25102,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14046,Liam McArthur,,,uk.org.publicwhip/person/14046,Orkney Islands,uk.org.publicwhip/cons/10784,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,,,5
+25516,Monica Lennon,,,uk.org.publicwhip/person/25516,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25517,Richard Leonard,,,uk.org.publicwhip/person/25517,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25518,Gordon Lindhurst,,,uk.org.publicwhip/person/25518,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14029,Richard Lochhead,,,uk.org.publicwhip/person/14029,Moray,uk.org.publicwhip/cons/10779,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25519,Dean Lockhart,,,uk.org.publicwhip/person/25519,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25093,Richard Lyle,,,uk.org.publicwhip/person/25093,Uddingston and Bellshill,uk.org.publicwhip/cons/10835,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14034,Lewis Macdonald,,,uk.org.publicwhip/person/14034,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25094,Angus MacDonald,,,uk.org.publicwhip/person/25094,Falkirk East,uk.org.publicwhip/cons/10756,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25095,Gordon MacDonald,,,uk.org.publicwhip/person/25095,Edinburgh Pentlands,uk.org.publicwhip/cons/10753,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25521,Fulton MacGregor,,,uk.org.publicwhip/person/25521,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14035,Kenneth Macintosh,,,uk.org.publicwhip/person/14035,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25522,Rona Mackay,,,uk.org.publicwhip/person/25522,Strathkelvin and Bearsden,uk.org.publicwhip/cons/10792,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25096,Derek Mackay,,,uk.org.publicwhip/person/25096,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2020-02-05,changed_party,5
+25523,Ben Macpherson,,,uk.org.publicwhip/person/25523,Edinburgh Northern and Leith,uk.org.publicwhip/cons/10813,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25524,Ruth Maguire,,,uk.org.publicwhip/person/25524,Cunninghame South,uk.org.publicwhip/cons/10740,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25100,Jenny Marra,,,uk.org.publicwhip/person/25100,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25525,Gillian Martin,,,uk.org.publicwhip/person/25525,Aberdeenshire East,uk.org.publicwhip/cons/10799,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25101,John Mason,,,uk.org.publicwhip/person/25101,Glasgow Shettleston,uk.org.publicwhip/cons/10767,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14043,Michael Matheson,,,uk.org.publicwhip/person/14043,Falkirk West,uk.org.publicwhip/cons/10757,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25102,Joan McAlpine,,,uk.org.publicwhip/person/25102,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14046,Liam McArthur,,,uk.org.publicwhip/person/14046,Orkney Islands,uk.org.publicwhip/cons/10784,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,2021-05-05,dissolution,5
 25104,Mark McDonald,,,uk.org.publicwhip/person/25104,Aberdeen Donside,uk.org.publicwhip/cons/10797,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2018-03-05,changed_party,5
-25527,Ivan McKee,,,uk.org.publicwhip/person/25527,Glasgow Provan,uk.org.publicwhip/cons/10820,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14056,Christina McKelvie,,,uk.org.publicwhip/person/14056,"Hamilton, Larkhall and Stonehouse",uk.org.publicwhip/cons/10822,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14060,Stuart McMillan,,,uk.org.publicwhip/person/14060,Greenock and Inverclyde,uk.org.publicwhip/cons/10770,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14062,Pauline McNeill,,,uk.org.publicwhip/person/14062,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,,,5
-14065,Margaret Mitchell,,,uk.org.publicwhip/person/14065,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,,,5
-25529,Edward Mountain,,,uk.org.publicwhip/person/25529,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2016-05-07,regional_election,,,5
-25530,Oliver Mundell,,,uk.org.publicwhip/person/25530,Dumfriesshire,uk.org.publicwhip/cons/10808,Conservative,conservative,2016-05-07,regional_election,,,5
-14071,Alex Neil,,,uk.org.publicwhip/person/14071,Airdrie and Shotts,uk.org.publicwhip/cons/10727,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14075,Gil Paterson,,,uk.org.publicwhip/person/14075,Clydebank and Milngavie,uk.org.publicwhip/cons/10735,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25111,Willie Rennie,,,uk.org.publicwhip/person/25111,North East Fife,uk.org.publicwhip/cons/10781,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,,,5
-14085,Shona Robison,,,uk.org.publicwhip/person/14085,Dundee City East,uk.org.publicwhip/cons/10809,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
+25527,Ivan McKee,,,uk.org.publicwhip/person/25527,Glasgow Provan,uk.org.publicwhip/cons/10820,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14056,Christina McKelvie,,,uk.org.publicwhip/person/14056,"Hamilton, Larkhall and Stonehouse",uk.org.publicwhip/cons/10822,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14060,Stuart McMillan,,,uk.org.publicwhip/person/14060,Greenock and Inverclyde,uk.org.publicwhip/cons/10770,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14062,Pauline McNeill,,,uk.org.publicwhip/person/14062,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+14065,Margaret Mitchell,,,uk.org.publicwhip/person/14065,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25529,Edward Mountain,,,uk.org.publicwhip/person/25529,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25530,Oliver Mundell,,,uk.org.publicwhip/person/25530,Dumfriesshire,uk.org.publicwhip/cons/10808,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14071,Alex Neil,,,uk.org.publicwhip/person/14071,Airdrie and Shotts,uk.org.publicwhip/cons/10727,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14075,Gil Paterson,,,uk.org.publicwhip/person/14075,Clydebank and Milngavie,uk.org.publicwhip/cons/10735,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25111,Willie Rennie,,,uk.org.publicwhip/person/25111,North East Fife,uk.org.publicwhip/cons/10781,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,2021-05-05,dissolution,5
+14085,Shona Robison,,,uk.org.publicwhip/person/14085,Dundee City East,uk.org.publicwhip/cons/10809,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
 25531,Douglas Ross,,4627,uk.org.publicwhip/person/25531,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2016-05-07,regional_election,2017-06-11,resigned,5
-25532,Gail Ross,,,uk.org.publicwhip/person/25532,"Caithness, Sutherland and Ross",uk.org.publicwhip/cons/10805,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25218,Alex Rowley,,,uk.org.publicwhip/person/25218,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2016-05-07,regional_election,,,5
-14087,Mike Rumbles,,,uk.org.publicwhip/person/14087,North East Scotland,uk.org.publicwhip/cons/10721,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,,,5
-14088,Mark Ruskell,,,uk.org.publicwhip/person/14088,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Green,green,2016-05-07,regional_election,,,5
-14089,Michael Russell,,,uk.org.publicwhip/person/14089,Argyll and Bute,uk.org.publicwhip/cons/10729,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-24738,Anas Sarwar,,3981,uk.org.publicwhip/person/24738,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,,,5
-14091,John Scott,,,uk.org.publicwhip/person/14091,Ayr,uk.org.publicwhip/cons/10730,Conservative,conservative,2016-05-07,regional_election,,,5
+25532,Gail Ross,,,uk.org.publicwhip/person/25532,"Caithness, Sutherland and Ross",uk.org.publicwhip/cons/10805,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25218,Alex Rowley,,,uk.org.publicwhip/person/25218,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+14087,Mike Rumbles,,,uk.org.publicwhip/person/14087,North East Scotland,uk.org.publicwhip/cons/10721,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,2021-05-05,dissolution,5
+14088,Mark Ruskell,,,uk.org.publicwhip/person/14088,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Green,green,2016-05-07,regional_election,2021-05-05,dissolution,5
+14089,Michael Russell,,,uk.org.publicwhip/person/14089,Argyll and Bute,uk.org.publicwhip/cons/10729,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+24738,Anas Sarwar,,3981,uk.org.publicwhip/person/24738,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+14091,John Scott,,,uk.org.publicwhip/person/14091,Ayr,uk.org.publicwhip/cons/10730,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
 14092,Tavish Scott,,,uk.org.publicwhip/person/14092,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2016-05-07,regional_election,2019-07-15,resigned,5
-25535,Graham Simpson,,,uk.org.publicwhip/person/25535,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,,,5
-14096,Elizabeth Smith,,,uk.org.publicwhip/person/14096,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,,,5
-14099,Elaine Smith,,,uk.org.publicwhip/person/14099,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,,,5
-25536,Colin Smyth,,,uk.org.publicwhip/person/25536,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2016-05-07,regional_election,,,5
-14100,Shirley-Anne Somerville,,,uk.org.publicwhip/person/14100,Dunfermline,uk.org.publicwhip/cons/10811,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14102,Stewart Stevenson,,,uk.org.publicwhip/person/14102,Banffshire and Buchan Coast,uk.org.publicwhip/cons/10804,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25114,Kevin Stewart,,,uk.org.publicwhip/person/25114,Aberdeen Central,uk.org.publicwhip/cons/10724,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14103,David Stewart,,,uk.org.publicwhip/person/14103,Highlands and Islands,uk.org.publicwhip/cons/10718,Labour,labour,2016-05-07,regional_election,,,5
-25538,Alexander Stewart,,,uk.org.publicwhip/person/25538,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,,,5
-14105,Nicola Sturgeon,,,uk.org.publicwhip/person/14105,Glasgow Southside,uk.org.publicwhip/cons/10821,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-10581,John Swinney,648,,uk.org.publicwhip/person/10581,Perthshire North,uk.org.publicwhip/cons/10829,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
+25535,Graham Simpson,,,uk.org.publicwhip/person/25535,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14096,Elizabeth Smith,,,uk.org.publicwhip/person/14096,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14099,Elaine Smith,,,uk.org.publicwhip/person/14099,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25536,Colin Smyth,,,uk.org.publicwhip/person/25536,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+14100,Shirley-Anne Somerville,,,uk.org.publicwhip/person/14100,Dunfermline,uk.org.publicwhip/cons/10811,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14102,Stewart Stevenson,,,uk.org.publicwhip/person/14102,Banffshire and Buchan Coast,uk.org.publicwhip/cons/10804,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25114,Kevin Stewart,,,uk.org.publicwhip/person/25114,Aberdeen Central,uk.org.publicwhip/cons/10724,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14103,David Stewart,,,uk.org.publicwhip/person/14103,Highlands and Islands,uk.org.publicwhip/cons/10718,Labour,labour,2016-05-07,regional_election,2021-05-05,dissolution,5
+25538,Alexander Stewart,,,uk.org.publicwhip/person/25538,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+14105,Nicola Sturgeon,,,uk.org.publicwhip/person/14105,Glasgow Southside,uk.org.publicwhip/cons/10821,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+10581,John Swinney,648,,uk.org.publicwhip/person/10581,Perthshire North,uk.org.publicwhip/cons/10829,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
 25539,Ross Thomson,,4599,uk.org.publicwhip/person/25539,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-05-07,regional_election,2017-06-09,resigned,5
-25540,Maree Todd,,,uk.org.publicwhip/person/25540,Highlands and Islands,uk.org.publicwhip/cons/10718,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25541,Adam Tomkins,,,uk.org.publicwhip/person/25541,Glasgow,uk.org.publicwhip/cons/10717,Conservative,conservative,2016-05-07,regional_election,,,5
-25115,David Torrance,,,uk.org.publicwhip/person/25115,Kirkcaldy,uk.org.publicwhip/cons/10775,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14115,Maureen Watt,,,uk.org.publicwhip/person/14115,Aberdeen South and North Kincardine,uk.org.publicwhip/cons/10798,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25542,Annie Wells,,,uk.org.publicwhip/person/25542,Glasgow,uk.org.publicwhip/cons/10717,Conservative,conservative,2016-05-07,regional_election,,,5
-25118,Paul Wheelhouse,,,uk.org.publicwhip/person/25118,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-14117,Sandra White,,,uk.org.publicwhip/person/14117,Glasgow Kelvin,uk.org.publicwhip/cons/10763,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25543,Brian Whittle,,,uk.org.publicwhip/person/25543,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2016-05-07,regional_election,,,5
-25544,Andy Wightman,,,uk.org.publicwhip/person/25544,Lothian,uk.org.publicwhip/cons/10836,Green,green,2016-05-07,regional_election,,,5
-25119,Humza Yousaf,,,uk.org.publicwhip/person/25119,Glasgow Pollok,uk.org.publicwhip/cons/10765,Scottish National Party,scottish-national-party,2016-05-07,regional_election,,,5
-25599,Bill Bowman,,,uk.org.publicwhip/person/25599,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-12-21,replaced_in_region,,,5
-25510,Rachael Hamilton,,,uk.org.publicwhip/person/25510,"Ettrick, Roxburgh and Berwickshire",uk.org.publicwhip/cons/10817,Conservative,conservative,2017-06-08,by_election,,,5
-25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2017-05-23,appointed,,,5
-25714,Tom Mason,,,uk.org.publicwhip/person/25714,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2017-06-20,appointed,,,5
-25715,Jamie Halcro Johnston,,,uk.org.publicwhip/person/25715,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2017-06-20,appointed,,,5
-25104,Mark McDonald,,,uk.org.publicwhip/person/25104,Aberdeen Donside,uk.org.publicwhip/cons/10797,Independent,independent,2018-03-06,changed_party,,,5
-13956,Sarah Boyack,,,uk.org.publicwhip/person/13956,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2019-07-15,replaced_in_region,,,5
-25775,Beatrice Wishart,,,uk.org.publicwhip/person/25775,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2019-08-30,by_election,,,5
+25540,Maree Todd,,,uk.org.publicwhip/person/25540,Highlands and Islands,uk.org.publicwhip/cons/10718,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25541,Adam Tomkins,,,uk.org.publicwhip/person/25541,Glasgow,uk.org.publicwhip/cons/10717,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25115,David Torrance,,,uk.org.publicwhip/person/25115,Kirkcaldy,uk.org.publicwhip/cons/10775,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14115,Maureen Watt,,,uk.org.publicwhip/person/14115,Aberdeen South and North Kincardine,uk.org.publicwhip/cons/10798,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25542,Annie Wells,,,uk.org.publicwhip/person/25542,Glasgow,uk.org.publicwhip/cons/10717,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25118,Paul Wheelhouse,,,uk.org.publicwhip/person/25118,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+14117,Sandra White,,,uk.org.publicwhip/person/14117,Glasgow Kelvin,uk.org.publicwhip/cons/10763,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25543,Brian Whittle,,,uk.org.publicwhip/person/25543,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2016-05-07,regional_election,2021-05-05,dissolution,5
+25544,Andy Wightman,,,uk.org.publicwhip/person/25544,Lothian,uk.org.publicwhip/cons/10836,Green,green,2016-05-07,regional_election,2020-12-17,changed_party,5
+25119,Humza Yousaf,,,uk.org.publicwhip/person/25119,Glasgow Pollok,uk.org.publicwhip/cons/10765,Scottish National Party,scottish-national-party,2016-05-07,regional_election,2021-05-05,dissolution,5
+25599,Bill Bowman,,,uk.org.publicwhip/person/25599,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2016-12-21,replaced_in_region,2021-05-05,dissolution,5
+25510,Rachael Hamilton,,,uk.org.publicwhip/person/25510,"Ettrick, Roxburgh and Berwickshire",uk.org.publicwhip/cons/10817,Conservative,conservative,2017-06-08,by_election,2021-05-05,dissolution,5
+25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2017-05-23,appointed,2020-11-23,changed_party,5
+25714,Tom Mason,,,uk.org.publicwhip/person/25714,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2017-06-20,appointed,2021-05-05,dissolution,5
+25715,Jamie Halcro Johnston,,,uk.org.publicwhip/person/25715,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2017-06-20,appointed,2021-05-05,dissolution,5
+25104,Mark McDonald,,,uk.org.publicwhip/person/25104,Aberdeen Donside,uk.org.publicwhip/cons/10797,Independent,independent,2018-03-06,changed_party,2021-05-05,dissolution,5
+13956,Sarah Boyack,,,uk.org.publicwhip/person/13956,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2019-07-15,replaced_in_region,2021-05-05,dissolution,5
+25775,Beatrice Wishart,,,uk.org.publicwhip/person/25775,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2019-08-30,by_election,2021-05-05,dissolution,5
+25096,Derek Mackay,,,uk.org.publicwhip/person/25096,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Independent,independent,2020-02-06,changed_party,2021-05-05,dissolution,5
+25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Independent,independent,2020-11-24,changed_party,2021-01-10,changed_party,5
+25712,Michelle Ballantyne,,,uk.org.publicwhip/person/25712,South Scotland,uk.org.publicwhip/cons/10837,Reform UK,reform,2021-01-11,changed_party,2021-05-05,dissolution,5
+25544,Andy Wightman,,,uk.org.publicwhip/person/25544,Lothian,uk.org.publicwhip/cons/10836,Independent,independent,2020-12-18,changed_party,2021-05-05,dissolution,5
+25072,George Adam,,,uk.org.publicwhip/person/25072,Paisley,uk.org.publicwhip/cons/10828,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25985,Karen Adam,,,uk.org.publicwhip/person/25985,Banffshire and Buchan Coast,uk.org.publicwhip/cons/10804,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25073,Clare Adamson,,,uk.org.publicwhip/person/25073,Motherwell and Wishaw,uk.org.publicwhip/cons/10780,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+13947,Alasdair Allan,,,uk.org.publicwhip/person/13947,Na h-Eileanan an Iar,uk.org.publicwhip/cons/10816,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25491,Tom Arthur,,,uk.org.publicwhip/person/25491,Renfrewshire South,uk.org.publicwhip/cons/10832,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+13949,Jackie Baillie,,,uk.org.publicwhip/person/13949,Dumbarton,uk.org.publicwhip/cons/10741,Labour,labour,2021-05-08,regional_election,,,5
+13951,Claire Baker,,,uk.org.publicwhip/person/13951,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2021-05-08,regional_election,,,5
+25492,Jeremy Balfour,,,uk.org.publicwhip/person/25492,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2021-05-08,regional_election,,,5
+25074,Colin Beattie,,,uk.org.publicwhip/person/25074,Midlothian North and Musselburgh,uk.org.publicwhip/cons/10826,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25076,Neil Bibby,,,uk.org.publicwhip/person/25076,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2021-05-08,regional_election,,,5
+13956,Sarah Boyack,,,uk.org.publicwhip/person/13956,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2021-05-08,regional_election,,,5
+25494,Miles Briggs,,,uk.org.publicwhip/person/25494,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2021-05-08,regional_election,,,5
+13961,Keith Brown,,,uk.org.publicwhip/person/13961,Clackmannanshire and Dunblane,uk.org.publicwhip/cons/10806,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25986,Siobhian Brown,,,uk.org.publicwhip/person/25986,Ayr,uk.org.publicwhip/cons/10730,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25987,Ariane Burgess,,,uk.org.publicwhip/person/25987,Highlands and Islands,uk.org.publicwhip/cons/10718,Green,green,2021-05-08,regional_election,,,5
+25495,Alexander Burnett,,,uk.org.publicwhip/person/25495,Aberdeenshire West,uk.org.publicwhip/cons/10800,Conservative,conservative,2021-05-08,regional_election,,,5
+25988,Stephanie Callaghan,,,uk.org.publicwhip/person/25988,Uddingston and Bellshill,uk.org.publicwhip/cons/10835,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25496,Donald Cameron,,,uk.org.publicwhip/person/25496,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2021-05-08,regional_election,,,5
+13967,Jackson Carlaw,,,uk.org.publicwhip/person/13967,Eastwood,uk.org.publicwhip/cons/10749,Conservative,conservative,2021-05-08,regional_election,,,5
+25497,Finlay Carson,,,uk.org.publicwhip/person/25497,Galloway and West Dumfries,uk.org.publicwhip/cons/10818,Conservative,conservative,2021-05-08,regional_election,,,5
+25989,Maggie Chapman,,,uk.org.publicwhip/person/25989,North East Scotland,uk.org.publicwhip/cons/10721,Green,green,2021-05-08,regional_election,,,5
+25990,Foysol Choudhury,,,uk.org.publicwhip/person/25990,Lothian,uk.org.publicwhip/cons/10836,Labour,labour,2021-05-08,regional_election,,,5
+11963,Baroness Clark of Kilwinning,,1590,uk.org.publicwhip/person/11963,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2021-05-08,regional_election,,,5
+13968,Willie Coffey,,,uk.org.publicwhip/person/13968,Kilmarnock and Irvine Valley,uk.org.publicwhip/cons/10824,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25500,Alex Cole-Hamilton,,,uk.org.publicwhip/person/25500,Edinburgh Western,uk.org.publicwhip/cons/10815,Liberal Democrat,liberal-democrat,2021-05-08,regional_election,,,5
+13969,Angela Constance,,,uk.org.publicwhip/person/13969,Almond Valley,uk.org.publicwhip/cons/10801,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25502,Ash Denham,,,uk.org.publicwhip/person/25502,Edinburgh Eastern,uk.org.publicwhip/cons/10812,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25081,Graeme Dey,,,uk.org.publicwhip/person/25081,Angus South,uk.org.publicwhip/cons/10803,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25991,Natalie Don,,,uk.org.publicwhip/person/25991,Renfrewshire North and West,uk.org.publicwhip/cons/10831,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+13977,Bob Doris,,,uk.org.publicwhip/person/13977,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25082,James Dornan,,,uk.org.publicwhip/person/25082,Glasgow Cathcart,uk.org.publicwhip/cons/10761,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25992,Sharon Dowey,,,uk.org.publicwhip/person/25992,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2021-05-08,regional_election,,,5
+25993,Jackie Dunbar,,,uk.org.publicwhip/person/25993,Aberdeen Donside,uk.org.publicwhip/cons/10797,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25994,Pam Duncan-Glancy,,,uk.org.publicwhip/person/25994,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2021-05-08,regional_election,,,5
+25085,Annabelle Ewing,,,uk.org.publicwhip/person/25085,Cowdenbeath,uk.org.publicwhip/cons/10807,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+13980,Fergus Ewing,,,uk.org.publicwhip/person/13980,Inverness and Nairn,uk.org.publicwhip/cons/10823,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25995,Jim Fairlie,,,uk.org.publicwhip/person/25995,Perthshire South and Kinross-shire,uk.org.publicwhip/cons/10830,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25996,Russell Findlay,,,uk.org.publicwhip/person/25996,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2021-05-08,regional_election,,,5
+13987,Joe FitzPatrick,,,uk.org.publicwhip/person/13987,Dundee City West,uk.org.publicwhip/cons/10810,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25504,Kate Forbes,,,uk.org.publicwhip/person/25504,"Skye, Lochaber and Badenoch",uk.org.publicwhip/cons/10834,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+13991,Murdo Fraser,,,uk.org.publicwhip/person/13991,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2021-05-08,regional_election,,,5
+25997,Meghan Gallacher,,,uk.org.publicwhip/person/25997,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2021-05-08,regional_election,,,5
+13994,Kenneth Gibson,,,uk.org.publicwhip/person/13994,Cunninghame North,uk.org.publicwhip/cons/10739,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25506,Jenny Gilruth,,,uk.org.publicwhip/person/25506,Mid Fife and Glenrothes,uk.org.publicwhip/cons/10825,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25507,Maurice Golden,,,uk.org.publicwhip/person/25507,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2021-05-08,regional_election,,,5
+25998,Pam Gosal,,,uk.org.publicwhip/person/25998,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2021-05-08,regional_election,,,5
+25503,Mairi Gougeon,,,uk.org.publicwhip/person/25503,Angus North and Mearns,uk.org.publicwhip/cons/10802,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14000,Christine Grahame,,,uk.org.publicwhip/person/14000,"Midlothian South, Tweeddale and Lauderdale",uk.org.publicwhip/cons/10827,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14001,Rhoda Grant,,,uk.org.publicwhip/person/14001,Highlands and Islands,uk.org.publicwhip/cons/10718,Labour,labour,2021-05-08,regional_election,,,5
+25293,Neil Gray,,4365,uk.org.publicwhip/person/25293,Airdrie and Shotts,uk.org.publicwhip/cons/10727,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25508,Jamie Greene,,,uk.org.publicwhip/person/25508,West Scotland,uk.org.publicwhip/cons/10838,Conservative,conservative,2021-05-08,regional_election,,,5
+25509,Ross Greer,,,uk.org.publicwhip/person/25509,West Scotland,uk.org.publicwhip/cons/10838,Green,green,2021-05-08,regional_election,,,5
+25089,Mark Griffin,,,uk.org.publicwhip/person/25089,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2021-05-08,regional_election,,,5
+25999,Sandesh Gulhane,,,uk.org.publicwhip/person/25999,Glasgow,uk.org.publicwhip/cons/10717,Conservative,conservative,2021-05-08,regional_election,,,5
+25715,Jamie Halcro Johnston,,,uk.org.publicwhip/person/25715,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2021-05-08,regional_election,,,5
+25510,Rachael Hamilton,,,uk.org.publicwhip/person/25510,"Ettrick, Roxburgh and Berwickshire",uk.org.publicwhip/cons/10817,Conservative,conservative,2021-05-08,regional_election,,,5
+25511,Emma Harper,,,uk.org.publicwhip/person/25511,South Scotland,uk.org.publicwhip/cons/10837,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14006,Patrick Harvie,,,uk.org.publicwhip/person/14006,Glasgow,uk.org.publicwhip/cons/10717,Green,green,2021-05-08,regional_election,,,5
+25513,Clare Haughey,,,uk.org.publicwhip/person/25513,Rutherglen,uk.org.publicwhip/cons/10833,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14009,Jamie Hepburn,,,uk.org.publicwhip/person/14009,Cumbernauld and Kilsyth,uk.org.publicwhip/cons/10738,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26000,Craig Hoy,,,uk.org.publicwhip/person/26000,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2021-05-08,regional_election,,,5
+14012,Fiona Hyslop,,,uk.org.publicwhip/person/14012,Linlithgow,uk.org.publicwhip/cons/10776,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25514,Daniel Johnson,,,uk.org.publicwhip/person/25514,Edinburgh Southern,uk.org.publicwhip/cons/10814,Labour,labour,2021-05-08,regional_election,,,5
+25091,Alison Johnstone,,,uk.org.publicwhip/person/25091,Lothian,uk.org.publicwhip/cons/10836,Green,green,2021-05-08,regional_election,,,5
+25515,Liam Kerr,,,uk.org.publicwhip/person/25515,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2021-05-08,regional_election,,,5
+25696,Stephen Kerr,,4604,uk.org.publicwhip/person/25696,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2021-05-08,regional_election,,,5
+14024,Bill Kidd,,,uk.org.publicwhip/person/14024,Glasgow Anniesland,uk.org.publicwhip/cons/10759,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25516,Monica Lennon,,,uk.org.publicwhip/person/25516,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2021-05-08,regional_election,,,5
+25517,Richard Leonard,,,uk.org.publicwhip/person/25517,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2021-05-08,regional_election,,,5
+14029,Richard Lochhead,,,uk.org.publicwhip/person/14029,Moray,uk.org.publicwhip/cons/10779,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25519,Dean Lockhart,,,uk.org.publicwhip/person/25519,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2021-05-08,regional_election,,,5
+26001,Douglas Lumsden,,,uk.org.publicwhip/person/26001,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2021-05-08,regional_election,,,5
+25095,Gordon MacDonald,,,uk.org.publicwhip/person/25095,Edinburgh Pentlands,uk.org.publicwhip/cons/10753,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25521,Fulton MacGregor,,,uk.org.publicwhip/person/25521,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26002,Gillian Mackay,,,uk.org.publicwhip/person/26002,Central Scotland,uk.org.publicwhip/cons/10716,Green,green,2021-05-08,regional_election,,,5
+25522,Rona Mackay,,,uk.org.publicwhip/person/25522,Strathkelvin and Bearsden,uk.org.publicwhip/cons/10792,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25523,Ben Macpherson,,,uk.org.publicwhip/person/25523,Edinburgh Northern and Leith,uk.org.publicwhip/cons/10813,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25524,Ruth Maguire,,,uk.org.publicwhip/person/25524,Cunninghame South,uk.org.publicwhip/cons/10740,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26003,Michael Marra,,,uk.org.publicwhip/person/26003,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2021-05-08,regional_election,,,5
+25525,Gillian Martin,,,uk.org.publicwhip/person/25525,Aberdeenshire East,uk.org.publicwhip/cons/10799,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25101,John Mason,,,uk.org.publicwhip/person/25101,Glasgow Shettleston,uk.org.publicwhip/cons/10767,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14043,Michael Matheson,,,uk.org.publicwhip/person/14043,Falkirk West,uk.org.publicwhip/cons/10757,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26004,Màiri McAllan,,,uk.org.publicwhip/person/26004,Clydesdale,uk.org.publicwhip/cons/10736,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14046,Liam McArthur,,,uk.org.publicwhip/person/14046,Orkney Islands,uk.org.publicwhip/cons/10784,Liberal Democrat,liberal-democrat,2021-05-08,regional_election,,,5
+25527,Ivan McKee,,,uk.org.publicwhip/person/25527,Glasgow Provan,uk.org.publicwhip/cons/10820,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14056,Christina McKelvie,,,uk.org.publicwhip/person/14056,"Hamilton, Larkhall and Stonehouse",uk.org.publicwhip/cons/10822,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26005,Paul McLennan,,,uk.org.publicwhip/person/26005,East Lothian,uk.org.publicwhip/cons/10748,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14060,Stuart McMillan,,,uk.org.publicwhip/person/14060,Greenock and Inverclyde,uk.org.publicwhip/cons/10770,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26006,Marie McNair,,,uk.org.publicwhip/person/26006,Clydebank and Milngavie,uk.org.publicwhip/cons/10735,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14062,Pauline McNeill,,,uk.org.publicwhip/person/14062,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2021-05-08,regional_election,,,5
+26007,Jenni Minto,,,uk.org.publicwhip/person/26007,Argyll and Bute,uk.org.publicwhip/cons/10729,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26008,Carol Mochan,,,uk.org.publicwhip/person/26008,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2021-05-08,regional_election,,,5
+25529,Edward Mountain,,,uk.org.publicwhip/person/25529,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2021-05-08,regional_election,,,5
+25530,Oliver Mundell,,,uk.org.publicwhip/person/25530,Dumfriesshire,uk.org.publicwhip/cons/10808,Conservative,conservative,2021-05-08,regional_election,,,5
+26009,Audrey Nicoll,,,uk.org.publicwhip/person/26009,Aberdeen South and North Kincardine,uk.org.publicwhip/cons/10798,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26010,Paul O'Kane,,,uk.org.publicwhip/person/26010,West Scotland,uk.org.publicwhip/cons/10838,Labour,labour,2021-05-08,regional_election,,,5
+25111,Willie Rennie,,,uk.org.publicwhip/person/25111,North East Fife,uk.org.publicwhip/cons/10781,Liberal Democrat,liberal-democrat,2021-05-08,regional_election,,,5
+11189,Angus Robertson,5726,1433,uk.org.publicwhip/person/11189,Edinburgh Central,uk.org.publicwhip/cons/10750,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14085,Shona Robison,,,uk.org.publicwhip/person/14085,Dundee City East,uk.org.publicwhip/cons/10809,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26011,Emma Roddick,,,uk.org.publicwhip/person/26011,Highlands and Islands,uk.org.publicwhip/cons/10718,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25531,Douglas Ross,,4627,uk.org.publicwhip/person/25531,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2021-05-08,regional_election,,,5
+25218,Alex Rowley,,,uk.org.publicwhip/person/25218,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2021-05-08,regional_election,,,5
+14088,Mark Ruskell,,,uk.org.publicwhip/person/14088,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Green,green,2021-05-08,regional_election,,,5
+24738,Anas Sarwar,,3981,uk.org.publicwhip/person/24738,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2021-05-08,regional_election,,,5
+25535,Graham Simpson,,,uk.org.publicwhip/person/25535,Central Scotland,uk.org.publicwhip/cons/10716,Conservative,conservative,2021-05-08,regional_election,,,5
+26012,Lorna Slater,,,uk.org.publicwhip/person/26012,Lothian,uk.org.publicwhip/cons/10836,Green,green,2021-05-08,regional_election,,,5
+14096,Elizabeth Smith,,,uk.org.publicwhip/person/14096,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2021-05-08,regional_election,,,5
+25536,Colin Smyth,,,uk.org.publicwhip/person/25536,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2021-05-08,regional_election,,,5
+14100,Shirley-Anne Somerville,,,uk.org.publicwhip/person/14100,Dunfermline,uk.org.publicwhip/cons/10811,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26013,Collette Stevenson,,,uk.org.publicwhip/person/26013,East Kilbride,uk.org.publicwhip/cons/10747,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25538,Alexander Stewart,,,uk.org.publicwhip/person/25538,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2021-05-08,regional_election,,,5
+26014,Kaukab Stewart,,,uk.org.publicwhip/person/26014,Glasgow Kelvin,uk.org.publicwhip/cons/10763,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25114,Kevin Stewart,,,uk.org.publicwhip/person/25114,Aberdeen Central,uk.org.publicwhip/cons/10724,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+14105,Nicola Sturgeon,,,uk.org.publicwhip/person/14105,Glasgow Southside,uk.org.publicwhip/cons/10821,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25639,Paul Sweeney,,4642,uk.org.publicwhip/person/25639,Glasgow,uk.org.publicwhip/cons/10717,Labour,labour,2021-05-08,regional_election,,,5
+10581,John Swinney,648,,uk.org.publicwhip/person/10581,Perthshire North,uk.org.publicwhip/cons/10829,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25352,Michelle Thomson,,4422,uk.org.publicwhip/person/25352,Falkirk East,uk.org.publicwhip/cons/10756,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25540,Maree Todd,,,uk.org.publicwhip/person/25540,"Caithness, Sutherland and Ross",uk.org.publicwhip/cons/10805,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25115,David Torrance,,,uk.org.publicwhip/person/25115,Kirkcaldy,uk.org.publicwhip/cons/10775,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26015,Evelyn Tweed,,,uk.org.publicwhip/person/26015,Stirling,uk.org.publicwhip/cons/10791,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26016,Mercedes Villabla,,,uk.org.publicwhip/person/26016,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2021-05-08,regional_election,,,5
+26017,Sue Webber,,,uk.org.publicwhip/person/26017,Lothian,uk.org.publicwhip/cons/10836,Conservative,conservative,2021-05-08,regional_election,,,5
+25542,Annie Wells,,,uk.org.publicwhip/person/25542,Glasgow,uk.org.publicwhip/cons/10717,Conservative,conservative,2021-05-08,regional_election,,,5
+26018,Tess White,,,uk.org.publicwhip/person/26018,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2021-05-08,regional_election,,,5
+25651,Martin Whitfield,,4626,uk.org.publicwhip/person/25651,South Scotland,uk.org.publicwhip/cons/10837,Labour,labour,2021-05-08,regional_election,,,5
+26019,Elena Whitham,,,uk.org.publicwhip/person/26019,"Carrick, Cumnock and Doon Valley",uk.org.publicwhip/cons/10733,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+25543,Brian Whittle,,,uk.org.publicwhip/person/25543,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2021-05-08,regional_election,,,5
+25775,Beatrice Wishart,,,uk.org.publicwhip/person/25775,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2021-05-08,regional_election,,,5
+25119,Humza Yousaf,,,uk.org.publicwhip/person/25119,Glasgow Pollok,uk.org.publicwhip/cons/10765,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
