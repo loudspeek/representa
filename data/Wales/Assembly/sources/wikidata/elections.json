@@ -271,6 +271,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "Eleccions a l'Assemblea Nacional de Gal·les de 2016",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2016年威爾斯議會選舉",
         "note": "multilingual",
@@ -287,7 +293,7 @@
       "2016-05-05"
     ],
     "follows": "2011 National Assembly for Wales election",
-    "followed_by": "2021 Welsh Parliament election",
+    "followed_by": "2021 Senedd election",
     "office": "Member of the 5th National Assembly for Wales"
   },
   "Q1655536": {
@@ -386,11 +392,11 @@
         "identifier": "Q28403875"
       }
     ],
-    "name": "2021 Welsh Parliament election",
+    "name": "2021 Senedd election",
     "other_names": [
       {
         "lang": "en",
-        "name": "2021 Welsh Parliament election",
+        "name": "2021 Senedd election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -411,13 +417,73 @@
         "name": "2021年威爾斯國民議會選舉",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "uk",
+        "name": "Парламентські вибори в Уельсі 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "Eleccions al Parlament gal·lès de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ja",
+        "name": "2021年ウェールズ議会選挙",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gl",
+        "name": "Eleccións ao Parlamento de Gales de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "el",
+        "name": "Ουαλικές βουλευτικές εκλογές 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "it",
+        "name": "Elezioni parlamentari gallesi del 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Parlamentswahl in Wales 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2021年威爾斯議會選舉",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gl",
+        "name": "Eleccións ao Senedd de Gales de 2021",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "2021 Welsh Parliament election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "2021-05-06"
     ],
     "follows": "2016 National Assembly for Wales election",
-    "office": "Member of the National Assembly for Wales"
+    "office": "Member of the Senedd"
   },
   "Q48798262": {
     "identifiers": [
@@ -444,7 +510,7 @@
     "dates": [
       "2018-02-06"
     ],
-    "office": "Member of the National Assembly for Wales",
+    "office": "Member of the Senedd",
     "successful_candidates": [
       "Jack Sargeant"
     ]
