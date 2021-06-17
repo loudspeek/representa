@@ -131,11 +131,10 @@
     ],
     "links": [
       {
-        "url": "http://www.scottishlabour.org.uk/",
+        "url": "https://scottishlabour.org.uk/",
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/2/22/Scottish_Labour_logo.svg",
     "srgb": "DC241F"
   },
   "0f64137d-d78d-497f-ba8c-559f8840047c": {
@@ -556,6 +555,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "mnw",
+        "name": "ဗော်ကောန်ဂကူသကတ်",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "Det skotske nasjonalistpartiet",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -624,6 +635,12 @@
       {
         "lang": "sco",
         "name": "Scots Naitional Pairty",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "PKA",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -731,6 +748,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "cs",
+        "name": "Skotští konzervativci",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Eskoziako Alderdi Kontserbadorea",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "gd",
         "name": "Na Tòraidhean",
         "note": "multilingual",
@@ -757,6 +786,18 @@
       {
         "lang": "en",
         "name": "Scottish Conservative Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "Skotská konzervativní a unionistická strana",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "Skotská konzervativní strana",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -858,6 +899,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "cs",
+        "name": "Skotští liberální demokraté",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ru",
+        "name": "Шотландские либеральные демократы",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "Eskoziako Liberal-Demokratak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "スコットランド自由民主党",
         "note": "multilingual",
@@ -942,6 +1001,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sco",
+        "name": "Scots Green Pairty",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "vec",
         "name": "Partìo Verde Scosexe",
         "note": "multilingual",
@@ -1002,6 +1067,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "cs",
+        "name": "Skotští zelení",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "英格蘭和威爾斯綠黨",
         "note": "multilingual",
@@ -1015,13 +1086,25 @@
       },
       {
         "lang": "en",
-        "name": "Scots Green Pairty",
+        "name": "Scottish Greens",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Scots Green Pairtie",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "es",
         "name": "Partido Verde Escoces",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "cs",
+        "name": "Skotská zelená strana",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1137,6 +1220,12 @@
       {
         "lang": "arz",
         "name": "الحزب الاشتراكى الاسكتلندى",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cs",
+        "name": "Skotská socialistická strana",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1426,19 +1515,13 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1462,7 +1545,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1708,7 +1791,7 @@
       },
       {
         "lang": "bn",
-        "name": "স্বতন্ত্র প্রার্থী",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1744,7 +1827,7 @@
       },
       {
         "lang": "eu",
-        "name": "Politikari independente",
+        "name": "hautagai independente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1793,6 +1876,42 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്രൻ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "sem partido",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ne",
+        "name": "निर्दलीय",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "wuu",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1899,6 +2018,30 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "de",
+        "name": "wilder Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "wilde Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteiloser Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteilose Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "id",
         "name": "Politikus independen",
         "note": "multilingual",
@@ -1983,6 +2126,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "sv",
+        "name": "oberoende",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "ar",
         "name": "سياسيون مستقلون",
         "note": "multilingual",
@@ -1996,13 +2145,13 @@
       },
       {
         "lang": "pt",
-        "name": "Político independente",
+        "name": "Candidato independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "pt",
-        "name": "Candidato independente",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2199,12 +2348,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "bn",
-        "name": "স্বতন্ত্র রাজনীতিবিদ",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "ast",
         "name": "candidatu independiente",
         "note": "multilingual",
@@ -2284,13 +2427,19 @@
       },
       {
         "lang": "be",
-        "name": "незалежны",
+        "name": "беспартыйны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "be",
-        "name": "беспартыйны палітык",
+        "name": "беспартыйная",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2357,6 +2506,42 @@
       {
         "lang": "en",
         "name": "independent member",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent candidate",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "non-partisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "vi",
+        "name": "Chính khách độc lập",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "politikari independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
