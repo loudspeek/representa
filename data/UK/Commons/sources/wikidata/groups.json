@@ -88,7 +88,7 @@
       },
       {
         "lang": "eu",
-        "name": "Erresuma Batuko Alderdi Laborista",
+        "name": "Alderdi Laborista",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -370,7 +370,7 @@
       },
       {
         "lang": "yue",
-        "name": "工黨 (英國)",
+        "name": "工黨",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -501,6 +501,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sk",
+        "name": "Labouristická strana (Spojené kráľovstvo)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vec",
+        "name": "Partio Laburista (Regno Unio)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -559,6 +571,24 @@
         "name": "Лейбарысцкая партыя (Вялікабрытанія)",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Alderdi Langiletiarra",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Alderdi Langiletiarra (Erresuma Batua)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "Alderdi Laborista (Erresuma Batua)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -567,7 +597,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/New_Labour_new_Britain_logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Labour_Party_Wordmark.svg",
     "srgb": "DC241F"
   },
   "conservative": {
@@ -941,7 +971,7 @@
       },
       {
         "lang": "yue",
-        "name": "保守黨 (英國)",
+        "name": "保守黨",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1061,7 +1091,7 @@
       },
       {
         "lang": "ne",
-        "name": "कन्जर्भेटिभ पार्टी (संयुक्त अधिराज्य)",
+        "name": "कन्जर्भेटिभ पार्टी",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1084,14 +1114,20 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "no",
-        "name": "Det konservative parti (Storbritannia)",
+        "lang": "pnb",
+        "name": "کنزرویٹو پارٹی (برطانیہ)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
-        "lang": "simple",
-        "name": "Conservative Party (UK)",
+        "lang": "vec",
+        "name": "Partio Conservatore (Regno Unio)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ba",
+        "name": "Бөйөк Британияның Консерватив фирҡәһе",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1146,6 +1182,18 @@
       {
         "lang": "en",
         "name": "Conservative Party (Great Britain) -- Records and correspondence",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "British Conservative Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Conservative Party (UK)",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1280,6 +1328,18 @@
         "name": "المحافظون ريطانيا",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Gwithadorek ha Unyansydhel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "nb",
+        "name": "Det konservative parti (Storbritannia)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1343,7 +1403,7 @@
       },
       {
         "lang": "cs",
-        "name": "Liberálně demokratická strana",
+        "name": "Liberální demokraté",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1666,6 +1726,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "wuu",
+        "name": "自由民主党 (英国)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pnb",
+        "name": "لبرل ڈیموکریٹس پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Lib Dems",
         "note": "multilingual",
@@ -1788,6 +1860,36 @@
       {
         "lang": "ar",
         "name": "الديمقراطيين الليبراليبن",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Livrel Werinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "LivWer",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Livrel Werinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Livrel Gwerinel",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "自由民主党 (イギリス)",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2218,6 +2320,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "mnw",
+        "name": "ဗော်ကောန်ဂကူသကတ်",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nn",
+        "name": "Det skotske nasjonalistpartiet",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "co",
+        "name": "Partitu Naziunale Scuzzese",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -2286,6 +2406,12 @@
       {
         "lang": "sco",
         "name": "Scots Naitional Pairty",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "PKA",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2604,7 +2730,7 @@
       },
       {
         "lang": "ar",
-        "name": "الحزب الاتحادي الديمقراطي",
+        "name": "الحزب الديمقراطي الاتحادي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2731,7 +2857,7 @@
     ],
     "links": [
       {
-        "url": "http://www.mydup.com/",
+        "url": "https://mydup.com/",
         "note": "website"
       }
     ],
@@ -2945,6 +3071,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "nl",
+        "name": "Sinn Féin-partij",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "pt",
         "name": "Sinn fein",
         "note": "multilingual",
@@ -3047,6 +3179,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "en",
+        "name": "Sinn Féin party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "lv",
         "name": "Mēs paši",
         "note": "multilingual",
@@ -3055,7 +3193,7 @@
     ],
     "links": [
       {
-        "url": "http://www.sinnfein.ie/",
+        "url": "https://www.sinnfein.ie/",
         "note": "website"
       }
     ],
@@ -3204,19 +3342,13 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3240,7 +3372,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3486,7 +3618,7 @@
       },
       {
         "lang": "bn",
-        "name": "স্বতন্ত্র প্রার্থী",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3522,7 +3654,7 @@
       },
       {
         "lang": "eu",
-        "name": "Politikari independente",
+        "name": "hautagai independente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3571,6 +3703,42 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്രൻ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "sem partido",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ne",
+        "name": "निर्दलीय",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "wuu",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3677,6 +3845,30 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "de",
+        "name": "wilder Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "wilde Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteiloser Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteilose Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "id",
         "name": "Politikus independen",
         "note": "multilingual",
@@ -3761,6 +3953,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "sv",
+        "name": "oberoende",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "ar",
         "name": "سياسيون مستقلون",
         "note": "multilingual",
@@ -3774,13 +3972,13 @@
       },
       {
         "lang": "pt",
-        "name": "Político independente",
+        "name": "Candidato independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "pt",
-        "name": "Candidato independente",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -3977,12 +4175,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "bn",
-        "name": "স্বতন্ত্র রাজনীতিবিদ",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "ast",
         "name": "candidatu independiente",
         "note": "multilingual",
@@ -4062,13 +4254,19 @@
       },
       {
         "lang": "be",
-        "name": "незалежны",
+        "name": "беспартыйны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "be",
-        "name": "беспартыйны палітык",
+        "name": "беспартыйная",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4135,6 +4333,42 @@
       {
         "lang": "en",
         "name": "independent member",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent candidate",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "non-partisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "vi",
+        "name": "Chính khách độc lập",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "politikari independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4289,6 +4523,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fa",
+        "name": "حزب اتحادگرای اولستر",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Ольстэрская прафсаюзная партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "pt",
         "name": "Ulster unionist party",
         "note": "multilingual",
@@ -4399,6 +4645,12 @@
       {
         "lang": "en",
         "name": "UUP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "ОПП",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4699,6 +4951,12 @@
       {
         "lang": "nn",
         "name": "Social Democratic and Labour Party (SDLP)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Demokratik Sosial dan Buruh",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5016,6 +5274,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ur",
+        "name": "یو کے انڈیپینڈنٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pnb",
+        "name": "یو کے انڈیپینڈنٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Kemerdekaan UK",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -5064,6 +5340,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/British_party_UKIP.svg",
     "srgb": "70147A"
   },
   "green": {
@@ -5312,6 +5589,18 @@
       {
         "lang": "kw",
         "name": "Parti Gwerdh Pow Sows ha Kembra",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ur",
+        "name": "انگلستان اور ویلز کی گرین پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pnb",
+        "name": "انگلستان تے ویلز دی گرین پارٹی",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5660,6 +5949,12 @@
       {
         "lang": "en",
         "name": "Alliance Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "APNI",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
