@@ -153,11 +153,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/ad8671d3b5b2acfcef5aac8c34168d6375743dc9/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/b7b8e5bc22ec16e457a25e906b8291f9823801f4/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1624471479",
+        "lastmod": "1624472343",
         "person_count": 1582,
-        "sha": "ad8671d3b5b2acfcef5aac8c34168d6375743dc9",
+        "sha": "b7b8e5bc22ec16e457a25e906b8291f9823801f4",
         "legislative_periods": [
           {
             "id": "term/58",
@@ -222,7 +222,7 @@
             "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/ad8671d3b5b2acfcef5aac8c34168d6375743dc9/data/UK/Commons/term-52.csv"
           }
         ],
-        "statement_count": 169409,
+        "statement_count": 169411,
         "type": "lower house"
       }
     ]
