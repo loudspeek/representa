@@ -116,7 +116,7 @@
       "file": "morph/areas.csv",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/uk-constituencies",
+        "scraper": "mashedkeyboard/uk-constituencies",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "area-wikidata",
