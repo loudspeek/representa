@@ -105,6 +105,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ar",
+        "name": "حزب العمال الويلزي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "it",
         "name": "Wales Labour Party",
         "note": "multilingual",
@@ -159,7 +165,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Welsh_Labour_Website_Logo.svg",
     "srgb": "DC241F"
   },
   "89e51135-5b4f-480a-a931-654928c345bb": {
@@ -760,6 +765,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ur",
+        "name": "یو کے انڈیپینڈنٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pnb",
+        "name": "یو کے انڈیپینڈنٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Kemerdekaan UK",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -808,6 +831,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/British_party_UKIP.svg",
     "srgb": "70147A"
   },
   "50539eb9-5cb3-4018-92d6-3210f1c09c62": {
@@ -953,19 +977,13 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -989,7 +1007,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1235,7 +1253,7 @@
       },
       {
         "lang": "bn",
-        "name": "স্বতন্ত্র প্রার্থী",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1271,7 +1289,7 @@
       },
       {
         "lang": "eu",
-        "name": "Politikari independente",
+        "name": "hautagai independente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1320,6 +1338,42 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്രൻ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "sem partido",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ne",
+        "name": "निर्दलीय",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "wuu",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1426,6 +1480,30 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "de",
+        "name": "wilder Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "wilde Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteiloser Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteilose Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "id",
         "name": "Politikus independen",
         "note": "multilingual",
@@ -1510,6 +1588,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "sv",
+        "name": "oberoende",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "ar",
         "name": "سياسيون مستقلون",
         "note": "multilingual",
@@ -1523,13 +1607,13 @@
       },
       {
         "lang": "pt",
-        "name": "Político independente",
+        "name": "Candidato independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "pt",
-        "name": "Candidato independente",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1726,12 +1810,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "bn",
-        "name": "স্বতন্ত্র রাজনীতিবিদ",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "ast",
         "name": "candidatu independiente",
         "note": "multilingual",
@@ -1811,13 +1889,19 @@
       },
       {
         "lang": "be",
-        "name": "незалежны",
+        "name": "беспартыйны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "be",
-        "name": "беспартыйны палітык",
+        "name": "беспартыйная",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1884,6 +1968,42 @@
       {
         "lang": "en",
         "name": "independent member",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent candidate",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "non-partisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "vi",
+        "name": "Chính khách độc lập",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "politikari independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

@@ -26,18 +26,18 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10589,Lord Kilclooney,655,657,uk.org.publicwhip/person/10589,Strangford,uk.org.publicwhip/cons/557-NI,UUP,uup,2003-11-26,general_election,2007-01-30,dissolution,2
 10605,Lord Trimble,672,658,uk.org.publicwhip/person/10605,Upper Bann,uk.org.publicwhip/cons/593-NI,UUP,uup,1998-06-25,general_election,2003-04-28,general_election,1
 10605,Lord Trimble,672,658,uk.org.publicwhip/person/10605,Upper Bann,uk.org.publicwhip/cons/593-NI,UUP,uup,2003-11-26,general_election,2007-01-30,dissolution,2
-10679,William McCrea,70,655,uk.org.publicwhip/person/10679,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,1998-06-25,general_election,2003-04-28,general_election,1
-10679,William McCrea,70,655,uk.org.publicwhip/person/10679,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
-10679,William McCrea,70,655,uk.org.publicwhip/person/10679,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2007-03-09,election,2010-07-01,resigned,3
+10679,Lord McCrea of Magherafelt and Cookstown,70,655,uk.org.publicwhip/person/10679,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,1998-06-25,general_election,2003-04-28,general_election,1
+10679,Lord McCrea of Magherafelt and Cookstown,70,655,uk.org.publicwhip/person/10679,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
+10679,Lord McCrea of Magherafelt and Cookstown,70,655,uk.org.publicwhip/person/10679,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2007-03-09,election,2010-07-01,resigned,3
 10768,David Burnside,6716,,uk.org.publicwhip/person/10768,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2003-11-26,general_election,2007-01-30,dissolution,2
 10768,David Burnside,6716,,uk.org.publicwhip/person/10768,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2007-03-09,election,2009-06-01,resigned,3
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,1998-06-25,general_election,2003-04-28,general_election,1
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2007-03-09,election,2011-03-24,dissolution,3
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
-10857,Nigel Dodds,4137,1388,uk.org.publicwhip/person/10857,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,1998-06-25,general_election,2003-04-28,general_election,1
-10857,Nigel Dodds,4137,1388,uk.org.publicwhip/person/10857,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
-10857,Nigel Dodds,4137,1388,uk.org.publicwhip/person/10857,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2007-03-09,election,2010-09-10,resigned,3
+10857,Lord Dodds of Duncairn,4137,1388,uk.org.publicwhip/person/10857,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,1998-06-25,general_election,2003-04-28,general_election,1
+10857,Lord Dodds of Duncairn,4137,1388,uk.org.publicwhip/person/10857,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
+10857,Lord Dodds of Duncairn,4137,1388,uk.org.publicwhip/person/10857,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2007-03-09,election,2010-09-10,resigned,3
 10858,Pat Doherty,4140,1465,uk.org.publicwhip/person/10858,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,1998-06-25,general_election,2003-04-28,general_election,1
 10858,Pat Doherty,4140,1465,uk.org.publicwhip/person/10858,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2003-11-26,general_election,2007-01-30,dissolution,2
 10858,Pat Doherty,4140,1465,uk.org.publicwhip/person/10858,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2007-03-09,election,2011-03-24,dissolution,3
@@ -715,7 +715,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25159,Declan McAleer,,,uk.org.publicwhip/person/25159,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
 25709,Colm Gildernew,,,uk.org.publicwhip/person/25709,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-06-15,appointed,,,6
 25710,Karen Mullan,,,uk.org.publicwhip/person/25710,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2017-06-12,appointed,,,6
-25711,Catherine Kelly,,,uk.org.publicwhip/person/25711,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-06-12,appointed,,,6
+25711,Catherine Kelly,,,uk.org.publicwhip/person/25711,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-06-12,appointed,2020-10-31,resigned,6
 13897,Trevor Clarke,,,uk.org.publicwhip/person/13897,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2017-06-28,appointed,,,6
 25716,Emma Rogan,,,uk.org.publicwhip/person/25716,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-06-20,appointed,,,6
 25741,John Blair,,,uk.org.publicwhip/person/25741,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2018-06-27,appointed,,,6
@@ -733,3 +733,4 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13814,Naomi Long,,3920,uk.org.publicwhip/person/13814,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2020-01-09,appointed,,,6
 13891,Martina Anderson,,,uk.org.publicwhip/person/13891,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2020-02-10,appointed,,,6
 25940,Cara Hunter,,,uk.org.publicwhip/person/25940,East Londonderry,uk.org.publicwhip/cons/197-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-05-19,appointed,,,6
+25968,Nicola Brogan,,,uk.org.publicwhip/person/25968,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2020-11-23,appointed,,,6

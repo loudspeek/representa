@@ -226,7 +226,7 @@
       },
       {
         "lang": "ar",
-        "name": "الحزب الاتحادي الديمقراطي",
+        "name": "الحزب الديمقراطي الاتحادي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -353,7 +353,7 @@
     ],
     "links": [
       {
-        "url": "http://www.mydup.com/",
+        "url": "https://mydup.com/",
         "note": "website"
       }
     ],
@@ -567,6 +567,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "nl",
+        "name": "Sinn Féin-partij",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "pt",
         "name": "Sinn fein",
         "note": "multilingual",
@@ -669,6 +675,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "en",
+        "name": "Sinn Féin party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "lv",
         "name": "Mēs paši",
         "note": "multilingual",
@@ -677,7 +689,7 @@
     ],
     "links": [
       {
-        "url": "http://www.sinnfein.ie/",
+        "url": "https://www.sinnfein.ie/",
         "note": "website"
       }
     ],
@@ -831,6 +843,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fa",
+        "name": "حزب اتحادگرای اولستر",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Ольстэрская прафсаюзная партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "pt",
         "name": "Ulster unionist party",
         "note": "multilingual",
@@ -941,6 +965,12 @@
       {
         "lang": "en",
         "name": "UUP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "ОПП",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1113,6 +1143,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ms",
+        "name": "Parti Demokratik Sosial dan Buruh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK Social Democratic and Labour Party",
         "note": "multilingual",
@@ -1270,6 +1306,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "en",
+        "name": "APNI",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "de",
         "name": "Alliance",
         "note": "multilingual",
@@ -1411,6 +1453,12 @@
       {
         "lang": "zh",
         "name": "进步联合党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "PUP",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1588,6 +1636,12 @@
         "name": "Northern Ireland Women's Coalition",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "es",
+        "name": "Coalición de Mujeres de Irlanda del Norte",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "srgb": "00A693"
@@ -1654,6 +1708,12 @@
         "name": "הקול היוניוניסטי המסורתי",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "TUV",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1950,6 +2010,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ur",
+        "name": "یو کے انڈیپینڈنٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pnb",
+        "name": "یو کے انڈیپینڈنٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Parti Kemerdekaan UK",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -1998,6 +2076,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/British_party_UKIP.svg",
     "srgb": "70147A"
   },
   "98eb435f-dab9-4b01-baff-1abb6d5a1e0a": {
@@ -2167,19 +2246,13 @@
       },
       {
         "lang": "tr",
-        "name": "Bağımsız siyasetçi",
+        "name": "bağımsız siyasetçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "ro",
         "name": "politician independent",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2203,7 +2276,7 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2449,7 +2522,7 @@
       },
       {
         "lang": "bn",
-        "name": "স্বতন্ত্র প্রার্থী",
+        "name": "স্বতন্ত্র রাজনীতিবিদ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2485,7 +2558,7 @@
       },
       {
         "lang": "eu",
-        "name": "Politikari independente",
+        "name": "hautagai independente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2534,6 +2607,42 @@
       {
         "lang": "es",
         "name": "candidato independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "crh",
+        "name": "fırqasız",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്രൻ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "sem partido",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ne",
+        "name": "निर्दलीय",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "wuu",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2640,6 +2749,30 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "de",
+        "name": "wilder Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "wilde Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteiloser Abgeordneter",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "parteilose Abgeordnete",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "id",
         "name": "Politikus independen",
         "note": "multilingual",
@@ -2724,6 +2857,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "sv",
+        "name": "oberoende",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "ar",
         "name": "سياسيون مستقلون",
         "note": "multilingual",
@@ -2737,13 +2876,13 @@
       },
       {
         "lang": "pt",
-        "name": "Político independente",
+        "name": "Candidato independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "pt",
-        "name": "Candidato independente",
+        "name": "político independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2940,12 +3079,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "bn",
-        "name": "স্বতন্ত্র রাজনীতিবিদ",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "ast",
         "name": "candidatu independiente",
         "note": "multilingual",
@@ -3025,13 +3158,19 @@
       },
       {
         "lang": "be",
-        "name": "незалежны",
+        "name": "беспартыйны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "be",
-        "name": "беспартыйны палітык",
+        "name": "беспартыйная",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "be",
+        "name": "незалежны палітык",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -3098,6 +3237,42 @@
       {
         "lang": "en",
         "name": "independent member",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "independent candidate",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "non-partisan politician",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ml",
+        "name": "സ്വതന്ത്ര സ്ഥാനാർത്ഥി",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "vi",
+        "name": "Chính khách độc lập",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "eu",
+        "name": "politikari independente",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3174,6 +3349,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "El Poble Abans del Benefici",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ga",
         "name": "Pobal Roimh Bhrabús",
         "note": "multilingual",
@@ -3210,6 +3391,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/18/People_before_Profit_logo_2021.png",
     "srgb": "660000"
   },
   "abbd8be6-906c-45ad-b6e3-d0788f87d641": {
@@ -3542,6 +3724,36 @@
       {
         "lang": "el",
         "name": "ομιλών",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms",
+        "name": "Speaker",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "ceann comhairle",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "yue",
+        "name": "議長",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zu",
+        "name": "Isikhulumi sephalamende",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ta",
+        "name": "பேரவைத் தலைவர்",
         "note": "multilingual",
         "source": "wikidata-label"
       },
