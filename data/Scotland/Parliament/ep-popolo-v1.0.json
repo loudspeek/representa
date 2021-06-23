@@ -563,11 +563,28 @@
       "name": "Des McNulty"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jenni.Minto.msp@parliament.scot"
+        }
+      ],
+      "email": "Jenni.Minto.msp@parliament.scot",
       "id": "0876888a-dbe5-4e8c-af8c-eb25c836988e",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26007",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16184",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374111660",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374111660"
         }
       ],
       "name": "Jenni Minto"
@@ -622,11 +639,28 @@
       "name": "Bill Walker"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Marie.McNair.msp@parliament.scot"
+        }
+      ],
+      "email": "Marie.McNair.msp@parliament.scot",
       "id": "09bd42c0-1bf7-41e4-aa0d-b5684f0ef05d",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26006",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16176",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354171544",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354171544"
         }
       ],
       "name": "Marie McNair"
@@ -1044,11 +1078,28 @@
       "name": "Colin Smyth"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Maggie.Chapman.msp@parliament.scot"
+        }
+      ],
+      "email": "Maggie.Chapman.msp@parliament.scot",
       "id": "114f59b5-c739-4440-97d5-e9d0a6d281b0",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25989",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16207",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374113466",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374113466"
         }
       ],
       "name": "Maggie Chapman"
@@ -1385,11 +1436,28 @@
       "name": "Alison Harris"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Paul.O'Kane.msp@parliament.scot"
+        }
+      ],
+      "email": "Paul.O'Kane.msp@parliament.scot",
       "id": "1715b009-6958-4b98-adfe-2b3cfa99d526",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26010",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16203",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354171896",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354171896"
         }
       ],
       "name": "Paul O'Kane"
@@ -1718,6 +1786,13 @@
       "name": "Dave Thompson"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Martin.Whitfield.msp@parliament.scot"
+        }
+      ],
+      "email": "Martin.Whitfield.msp@parliament.scot",
       "id": "20091163-d730-4791-b612-1e4ac3c001a1",
       "identifiers": [
         {
@@ -1727,6 +1802,16 @@
         {
           "identifier": "uk.org.publicwhip/person/25651",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16213",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374111216",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374111216"
         }
       ],
       "name": "Martin Whitfield"
@@ -2415,11 +2500,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jim.Fairlie.msp@parliament.scot"
+        }
+      ],
+      "email": "Jim.Fairlie.msp@parliament.scot",
       "id": "279f1583-5846-40bc-a5a0-35833606fb7f",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25995",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16187",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354171933",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354171933"
         }
       ],
       "name": "Jim Fairlie"
@@ -2443,11 +2545,28 @@
       "name": "Alison McInnes"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Elena.Whitham.msp@parliament.scot"
+        }
+      ],
+      "email": "Elena.Whitham.msp@parliament.scot",
       "id": "297df134-312d-4f58-83ee-5362d81b06c8",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26019",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16189",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370749846",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370749846"
         }
       ],
       "name": "Elena Whitham"
@@ -2661,11 +2780,28 @@
       "name": "Colin Keir"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Craig.Hoy.msp@parliament.scot"
+        }
+      ],
+      "email": "Craig.Hoy.msp@parliament.scot",
       "id": "2bc64e33-2270-443b-a0fd-708dbee9bfd1",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26000",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16210",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370593643",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370593643"
         }
       ],
       "name": "Craig Hoy"
@@ -2964,11 +3100,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Gillian.Mackay.msp@parliament.scot"
+        }
+      ],
+      "email": "Gillian.Mackay.msp@parliament.scot",
       "id": "2e97ff91-e01f-43ed-a923-5b557073ba6d",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26002",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16195",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355682236",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355682236"
         }
       ],
       "name": "Gillian Mackay"
@@ -3593,11 +3746,28 @@
       "name": "Bashir Ahmad"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Pam.Duncan-Glancy.msp@parliament.scot"
+        }
+      ],
+      "email": "Pam.Duncan-Glancy.msp@parliament.scot",
       "id": "3baa0cfc-8968-4c2b-a819-a3230b0871cd",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25994",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16199",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374112119",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374112119"
         }
       ],
       "name": "Pam Duncan-Glancy"
@@ -3716,6 +3886,13 @@
       "name": "Richard Baker"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Stephen.Kerr.msp@parliament.scot"
+        }
+      ],
+      "email": "Stephen.Kerr.msp@parliament.scot",
       "id": "3fe77ee6-4938-4edc-a21e-f6dbf7e5fc74",
       "identifiers": [
         {
@@ -3725,6 +3902,16 @@
         {
           "identifier": "uk.org.publicwhip/person/25696",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16193",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355682885",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355682885"
         }
       ],
       "name": "Stephen Kerr"
@@ -3744,11 +3931,28 @@
       "name": "Michelle Ballantyne"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Carol.Mochan.msp@parliament.scot"
+        }
+      ],
+      "email": "Carol.Mochan.msp@parliament.scot",
       "id": "40b51d14-9035-4855-8777-1225e56b28bb",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26008",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16211",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67371828940",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67371828940"
         }
       ],
       "name": "Carol Mochan"
@@ -3825,6 +4029,13 @@
       "name": "John Lamont"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Neil.Gray.msp@parliament.scot"
+        }
+      ],
+      "email": "Neil.Gray.msp@parliament.scot",
       "id": "41f1a87f-fde0-4176-ae1c-a545d57066cf",
       "identifiers": [
         {
@@ -3834,6 +4045,16 @@
         {
           "identifier": "uk.org.publicwhip/person/25293",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16180",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354928689",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354928689"
         }
       ],
       "name": "Neil Gray"
@@ -4022,11 +4243,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Meghan.Gallacher.msp@parliament.scot"
+        }
+      ],
+      "email": "Meghan.Gallacher.msp@parliament.scot",
       "id": "481e05a5-51ae-4dc6-85f5-64d86967e870",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25997",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16194",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67651906155",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67651906155"
         }
       ],
       "name": "Meghan Gallacher"
@@ -4452,11 +4690,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Mairi.McAllan.msp@parliament.scot"
+        }
+      ],
+      "email": "Mairi.McAllan.msp@parliament.scot",
       "id": "50785168-dc43-4a40-a7d9-c3a9efd44349",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26004",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16190",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355780519",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355780519"
         }
       ],
       "name": "Màiri McAllan"
@@ -4573,11 +4828,28 @@
       "name": "Humza Yousaf"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Karen.Adam.msp@parliament.scot"
+        }
+      ],
+      "email": "Karen.Adam.msp@parliament.scot",
       "id": "5338a503-0413-4351-b892-0bc508028e09",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25985",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16177",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370593660",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370593660"
         }
       ],
       "name": "Karen Adam"
@@ -4767,11 +5039,28 @@
       "name": "Alasdair Allan"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Stephanie.Callaghan.msp@parliament.scot"
+        }
+      ],
+      "email": "Stephanie.Callaghan.msp@parliament.scot",
       "id": "5990a619-3508-4e24-b30e-0c9b71eb44e9",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25988",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16188",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354912193",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354912193"
         }
       ],
       "name": "Stephanie Callaghan"
@@ -5037,11 +5326,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Ariane.Burgess.msp@parliament.scot"
+        }
+      ],
+      "email": "Ariane.Burgess.msp@parliament.scot",
       "id": "5adc8a80-60c3-4616-b62d-4fe62d5e34fc",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25987",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16196",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374112173",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374112173"
         }
       ],
       "name": "Ariane Burgess"
@@ -5921,6 +6227,13 @@
       "name": "John Wilson"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Angus.Robertson.msp@parliament.scot"
+        }
+      ],
+      "email": "Angus.Robertson.msp@parliament.scot",
       "id": "6dfebc09-c2fe-4104-904b-db665aee67d6",
       "identifiers": [
         {
@@ -5934,6 +6247,16 @@
         {
           "identifier": "uk.org.publicwhip/person/11189",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16185",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354912111",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354912111"
         }
       ],
       "name": "Angus Robertson"
@@ -6333,6 +6656,13 @@
       "name": "Paul Wheelhouse"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Paul.Sweeney.msp@parliament.scot"
+        }
+      ],
+      "email": "Paul.Sweeney.msp@parliament.scot",
       "id": "7a806f82-d2b7-4f86-b315-1d4dbe40178b",
       "identifiers": [
         {
@@ -6342,6 +6672,16 @@
         {
           "identifier": "uk.org.publicwhip/person/25639",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16198",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370750539",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370750539"
         }
       ],
       "name": "Paul Sweeney"
@@ -7377,21 +7717,55 @@
       "name": "Mark Ruskell"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Siobhian.Brown.msp@parliament.scot"
+        }
+      ],
+      "email": "Siobhian.Brown.msp@parliament.scot",
       "id": "81144e9c-984a-427c-85f4-2488717ed244",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25986",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16183",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374112656",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374112656"
         }
       ],
       "name": "Siobhian Brown"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Paul.McLennan.msp@parliament.scot"
+        }
+      ],
+      "email": "Paul.McLennan.msp@parliament.scot",
       "id": "81dcd91e-25ce-4cff-90fc-9e9d207c8909",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26005",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16179",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355781738",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355781738"
         }
       ],
       "name": "Paul McLennan"
@@ -8715,11 +9089,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Jackie.Dunbar.msp@parliament.scot"
+        }
+      ],
+      "email": "Jackie.Dunbar.msp@parliament.scot",
       "id": "9411c41f-9dab-4a6c-86d9-4cd13ee4b916",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25993",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16175",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370749352",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370749352"
         }
       ],
       "name": "Jackie Dunbar"
@@ -8810,11 +9201,28 @@
       "name": "Christian Allard"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Collette.Stevenson.msp@parliament.scot"
+        }
+      ],
+      "email": "Collette.Stevenson.msp@parliament.scot",
       "id": "981d6d67-3a16-4557-abc8-db8a14ee4ad6",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26013",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16191",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355682929",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355682929"
         }
       ],
       "name": "Collette Stevenson"
@@ -9252,11 +9660,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Michael.Marra.msp@parliament.scot"
+        }
+      ],
+      "email": "Michael.Marra.msp@parliament.scot",
       "id": "9d225599-bb8f-4e03-9d20-cd3b151ed25e",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26003",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16205",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370593194",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370593194"
         }
       ],
       "name": "Michael Marra"
@@ -9298,11 +9723,28 @@
       "name": "Margaret Mitchell"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Natalie.Don.msp@parliament.scot"
+        }
+      ],
+      "email": "Natalie.Don.msp@parliament.scot",
       "id": "9f2158da-e4ad-4d1b-a03d-161e618e6758",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25991",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16181",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355682514",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355682514"
         }
       ],
       "name": "Natalie Don"
@@ -9458,11 +9900,28 @@
       "name": "Dorothy-Grace Elder"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Pam.Gosal.msp@parliament.scot"
+        }
+      ],
+      "email": "Pam.Gosal.msp@parliament.scot",
       "id": "a0a8f578-421d-408b-bff3-f9c3e31b255c",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25998",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16204",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354171305",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354171305"
         }
       ],
       "name": "Pam Gosal"
@@ -10091,11 +10550,28 @@
       "name": "Anne McTaggart"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Sharon.Dowey.msp@parliament.scot"
+        }
+      ],
+      "email": "Sharon.Dowey.msp@parliament.scot",
       "id": "a62db16d-de05-4d6b-942f-34f767636026",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25992",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16212",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370749816",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370749816"
         }
       ],
       "name": "Sharon Dowey"
@@ -10160,11 +10636,28 @@
       "name": "Douglas Ross"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Douglas.Lumsden.msp@parliament.scot"
+        }
+      ],
+      "email": "Douglas.Lumsden.msp@parliament.scot",
       "id": "a8cb53b1-7361-41dd-974c-591ac5357aa2",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26001",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16206",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355781752",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355781752"
         }
       ],
       "name": "Douglas Lumsden"
@@ -10201,11 +10694,28 @@
       "name": "David Torrance"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Audrey.Nicoll.msp@parliament.scot"
+        }
+      ],
+      "email": "Audrey.Nicoll.msp@parliament.scot",
       "id": "ab94ecbe-cec9-4ba2-980a-617ec4d01426",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26009",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16186",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67371828432",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67371828432"
         }
       ],
       "name": "Audrey Nicoll"
@@ -10468,11 +10978,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Mercedes.Villalba.msp@parliament.scot"
+        }
+      ],
+      "email": "Mercedes.Villalba.msp@parliament.scot",
       "id": "ac87f1b3-453c-4452-9f62-04555112c84b",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26016",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16209",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67371827963",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67371827963"
         }
       ],
       "name": "Mercedes Villalba"
@@ -11694,16 +12221,40 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Russell.Findlay.msp@parliament.scot"
+        }
+      ],
+      "email": "Russell.Findlay.msp@parliament.scot",
       "id": "baf3f87d-05c9-486a-a34e-80c2814456a2",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25996",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16201",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354170533",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354170533"
         }
       ],
       "name": "Russell Findlay"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Katy.Clark.msp@parliament.scot"
+        }
+      ],
+      "email": "Katy.Clark.msp@parliament.scot",
       "id": "bb035c35-446e-4090-8b5b-fd40747297a1",
       "identifiers": [
         {
@@ -11713,16 +12264,49 @@
         {
           "identifier": "uk.org.publicwhip/person/11963",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16202",
+          "scheme": "scotparl"
         }
       ],
-      "name": "Baroness Clark of Kilwinning"
+      "image": "http://scottishparliament.thirdlight.com/file/67978159883",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67978159883"
+        }
+      ],
+      "name": "Baroness Clark of Kilwinning",
+      "other_names": [
+        {
+          "name": "Katy Clark",
+          "note": "alternate"
+        }
+      ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Tess.White.msp@parliament.scot"
+        }
+      ],
+      "email": "Tess.White.msp@parliament.scot",
       "id": "bb71cc0c-a5f0-427a-a585-88866d2fc5a6",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26018",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16208",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374111581",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374111581"
         }
       ],
       "name": "Tess White"
@@ -14023,11 +14607,28 @@
       "name": "Claire Baker"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Lorna.Slater.msp@parliament.scot"
+        }
+      ],
+      "email": "Lorna.Slater.msp@parliament.scot",
       "id": "ce183096-bfa8-4507-850b-8506e3ac681a",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26012",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16215",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354170146",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354170146"
         }
       ],
       "name": "Lorna Slater"
@@ -15412,11 +16013,28 @@
       ]
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Sandesh.Gulhane.msp@parliament.scot"
+        }
+      ],
+      "email": "Sandesh.Gulhane.msp@parliament.scot",
       "id": "e35d7857-2300-4bcc-a4f8-ab6997c6915d",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25999",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16200",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67374112946",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67374112946"
         }
       ],
       "name": "Sandesh Gulhane"
@@ -15813,11 +16431,28 @@
       "name": "David Davidson"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Sue.Webber.msp@parliament.scot"
+        }
+      ],
+      "email": "Sue.Webber.msp@parliament.scot",
       "id": "e7cbbd33-9db6-432d-8a30-c5647f753098",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26017",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16214",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67371828310",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67371828310"
         }
       ],
       "name": "Sue Webber"
@@ -16124,11 +16759,28 @@
       "name": "Fulton MacGregor"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Evelyn.Tweed.msp@parliament.scot"
+        }
+      ],
+      "email": "Evelyn.Tweed.msp@parliament.scot",
       "id": "f2904fe0-190a-480c-84aa-3871fe717f51",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26015",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16182",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355780235",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355780235"
         }
       ],
       "name": "Evelyn Tweed"
@@ -16282,11 +16934,28 @@
       "name": "Colin Fox"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Foysol.Choudhury.msp@parliament.scot"
+        }
+      ],
+      "email": "Foysol.Choudhury.msp@parliament.scot",
       "id": "f67fe1db-3802-4867-953d-49e9ee4b7a29",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/25990",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16216",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67355781310",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67355781310"
         }
       ],
       "name": "Foysol Choudhury"
@@ -16538,11 +17207,28 @@
       "name": "Rona Mackay"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Kaukab.Stewart.msp@parliament.scot"
+        }
+      ],
+      "email": "Kaukab.Stewart.msp@parliament.scot",
       "id": "fde70120-ced7-4ca1-a746-d32640ed81d5",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26014",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16192",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354912137",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354912137"
         }
       ],
       "name": "Kaukab Stewart"
@@ -16659,16 +17345,40 @@
       "name": "Ross Greer"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Emma.Roddick.msp@parliament.scot"
+        }
+      ],
+      "email": "Emma.Roddick.msp@parliament.scot",
       "id": "fea47b0c-bc9b-4e9c-9d3b-a8097e915232",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26011",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16197",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67370593628",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67370593628"
         }
       ],
       "name": "Emma Roddick"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Michelle.Thomson.msp@parliament.scot"
+        }
+      ],
+      "email": "Michelle.Thomson.msp@parliament.scot",
       "id": "fedb0873-8194-4193-be1e-7e0a976f02e7",
       "identifiers": [
         {
@@ -16678,6 +17388,16 @@
         {
           "identifier": "uk.org.publicwhip/person/25352",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "16178",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/67354171529",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/67354171529"
         }
       ],
       "name": "Michelle Thomson"
