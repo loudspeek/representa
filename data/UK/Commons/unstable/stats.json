@@ -1,20 +1,20 @@
 {
   "people": {
-    "count": 1580,
-    "wikidata": 1579,
+    "count": 1582,
+    "wikidata": 775,
     "latest_term": {
-      "count": 650,
-      "wikidata": 649,
-      "images": 643,
+      "count": 653,
+      "wikidata": 330,
+      "images": 540,
       "contacts": {
         "email": 646,
-        "facebook": 474,
-        "twitter": 606
+        "facebook": 483,
+        "twitter": 561
       }
     }
   },
   "groups": {
-    "count": 21,
+    "count": 22,
     "wikidata": 16
   },
   "terms": {
@@ -24,26 +24,26 @@
   },
   "areas": {
     "count": 777,
-    "wikidata": 777
+    "wikidata": 776
   },
   "elections": {
-    "count": 152,
-    "latest": "2019-12-12"
+    "count": 167,
+    "latest": "2021-07-01"
   },
   "positions": {
-    "cabinet": 240
+    "cabinet": 122
   },
   "sources": [
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/parliament.csv",
       "type": "person",
       "scraper": "mashedkeyboard/uk-parliament-members",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/twitter.csv",
@@ -61,7 +61,7 @@
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/uk-house-of-commons-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "manual/emails.csv",
@@ -76,7 +76,7 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/cabinet.csv",
@@ -87,13 +87,13 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
-      "scraper": "everypolitician-scrapers/uk-constituencies",
-      "lastmod": "2020-02-24"
+      "scraper": "mashedkeyboard/uk-constituencies",
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/twitter.csv",
