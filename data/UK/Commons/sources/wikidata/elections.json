@@ -1,4 +1,40 @@
 {
+  "Q106973120": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q106973120"
+      }
+    ],
+    "name": "2021 Batley and Spen by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Batley and Spen by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Batley and Spen de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Batley and Spen by-election, 2021",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2021-07-01"
+    ],
+    "office": "Member of Parliament",
+    "successful_candidates": [
+      "Kim Leadbeater"
+    ]
+  },
   "Q1188713": {
     "identifiers": [
       {
@@ -4291,6 +4327,12 @@
       {
         "lang": "sr",
         "name": "Парламентарни избори у Уједињеном Краљевству 2019.",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "af",
+        "name": "Britse algemene verkiesing van 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
