@@ -1,20 +1,20 @@
 {
   "people": {
-    "count": 306,
-    "wikidata": 238,
+    "count": 348,
+    "wikidata": 134,
     "latest_term": {
-      "count": 135,
-      "wikidata": 135,
-      "images": 135,
+      "count": 177,
+      "wikidata": 31,
+      "images": 147,
       "contacts": {
         "email": 129,
-        "facebook": 4,
-        "twitter": 122
+        "facebook": 5,
+        "twitter": 25
       }
     }
   },
   "groups": {
-    "count": 10,
+    "count": 11,
     "wikidata": 9
   },
   "terms": {
@@ -28,28 +28,28 @@
   },
   "elections": {
     "count": 17,
-    "latest": "2019-08-29"
+    "latest": "2021-05-06"
   },
   "positions": {
-    "cabinet": 126
+    "cabinet": 105
   },
   "sources": [
     {
       "file": "parlparse/data.csv",
       "type": "membership",
-      "lastmod": "2020-01-16"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/scotparl.csv",
       "type": "person",
       "scraper": "mashedkeyboard/scottish_parliament_member_info",
-      "lastmod": "2019-11-01"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/wikidata.csv",
       "type": "wikidata",
       "scraper": "mashedkeyboard/scottish-parliament-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "manual/terms.csv",
@@ -59,13 +59,13 @@
     {
       "file": "wikidata/groups.json",
       "type": "group",
-      "lastmod": "2020-01-16"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/areas.csv",
       "type": "area-wikidata",
       "scraper": "everypolitician-scrapers/scottish-parliament-constituencies-wikidata",
-      "lastmod": "2020-02-24"
+      "lastmod": "2021-06-23"
     },
     {
       "file": "morph/cabinet.csv",
@@ -82,7 +82,7 @@
     {
       "file": "wikidata/elections.json",
       "type": "wikidata-elections",
-      "lastmod": "2020-01-16"
+      "lastmod": "2021-06-23"
     }
   ]
 }
