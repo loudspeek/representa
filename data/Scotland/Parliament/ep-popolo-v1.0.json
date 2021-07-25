@@ -2745,6 +2745,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ne",
+          "name": "बेन वालेस",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Уоллес, Бен",
           "note": "multilingual"
@@ -4718,6 +4723,7 @@
     },
     {
       "birth_date": "1948-12-05",
+      "family_name": "Robertson",
       "gender": "male",
       "given_name": "John",
       "id": "51420336-4caf-4ee7-856e-fc0562a10bed",
@@ -5175,10 +5181,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Official_portrait_of_David_Mundell_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Official_portrait_of_David_Mundell_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg"
         }
       ],
       "links": [
@@ -9488,7 +9494,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/МакЛейш,_Генри"
+          "url": "https://ru.wikipedia.org/wiki/Маклиш,_Генри"
         }
       ],
       "name": "Henry McLeish",
@@ -11565,7 +11571,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/МакКоннел,_Джек"
+          "url": "https://ru.wikipedia.org/wiki/Макконнелл,_Джек"
         },
         {
           "note": "Wikipedia (sco)",
@@ -12628,14 +12634,14 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Shona.Robison.msp@parliament.scot"
+          "value": "dundee@shona.robison.scot"
         },
         {
           "type": "twitter",
           "value": "ShonaRobison"
         }
       ],
-      "email": "Shona.Robison.msp@parliament.scot",
+      "email": "dundee@shona.robison.scot",
       "family_name": "Robison",
       "gender": "female",
       "given_name": "Shona",
@@ -12713,11 +12719,6 @@
       "other_names": [
         {
           "lang": "ca",
-          "name": "Shona Robinson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
           "name": "Shona Robinson",
           "note": "multilingual"
         },
@@ -14004,7 +14005,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/9853640645"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nicola_Sturgeon_SNP_Conference_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Nicola_Sturgeon_election_infobox_3.jpg"
         }
       ],
       "links": [
@@ -14250,7 +14251,7 @@
         },
         {
           "note": "Wikipedia (wuu)",
-          "url": "https://wuu.wikipedia.org/wiki/妮古拉·斯特金"
+          "url": "https://wuu.wikipedia.org/wiki/施雅晴"
         },
         {
           "note": "Wikipedia (zh)",
@@ -18188,7 +18189,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính trị gia độc lập",
+          "name": "chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18944,7 +18945,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính khách độc lập",
+          "name": "chính khách độc lập",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
