@@ -420,6 +420,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "ডেভিড স্টিল",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "David Steel",
           "note": "multilingual"
@@ -718,6 +723,11 @@
         {
           "lang": "ar",
           "name": "باول مارتن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "পল মার্টিন",
           "note": "multilingual"
         },
         {
@@ -2745,6 +2755,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ne",
+          "name": "बेन वालेस",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Уоллес, Бен",
           "note": "multilingual"
@@ -4617,6 +4632,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "জন ইয়াং",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جان یانگ",
           "note": "multilingual"
@@ -4683,6 +4703,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "বিল বাটলার",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Билл Батлер",
           "note": "multilingual"
@@ -4718,6 +4743,7 @@
     },
     {
       "birth_date": "1948-12-05",
+      "family_name": "Robertson",
       "gender": "male",
       "given_name": "John",
       "id": "51420336-4caf-4ee7-856e-fc0562a10bed",
@@ -5175,10 +5201,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Official_portrait_of_David_Mundell_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Official_portrait_of_David_Mundell_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg"
         }
       ],
       "links": [
@@ -8150,6 +8176,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "রবার্ট ব্রাউন",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "رابرت براون",
           "note": "multilingual"
@@ -9119,6 +9150,7 @@
       "birth_date": "1964-03-19",
       "family_name": "Muldoon",
       "gender": "male",
+      "given_name": "Bristow",
       "id": "95ac8fc5-c2b4-4ae8-abef-39f8c8bae2ab",
       "identifiers": [
         {
@@ -9488,7 +9520,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/МакЛейш,_Генри"
+          "url": "https://ru.wikipedia.org/wiki/Маклиш,_Генри"
         }
       ],
       "name": "Henry McLeish",
@@ -10184,6 +10216,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "মাইকেল রাসেল",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "مایکل راسل",
           "note": "multilingual"
@@ -10314,6 +10351,11 @@
         {
           "lang": "arz",
           "name": "جورج ريد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "জর্জ রিড",
           "note": "multilingual"
         },
         {
@@ -11319,6 +11361,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "জন স্কট",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جان اسکات",
           "note": "multilingual"
@@ -11565,7 +11612,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/МакКоннел,_Джек"
+          "url": "https://ru.wikipedia.org/wiki/Макконнелл,_Джек"
         },
         {
           "note": "Wikipedia (sco)",
@@ -12628,14 +12675,14 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Shona.Robison.msp@parliament.scot"
+          "value": "dundee@shona.robison.scot"
         },
         {
           "type": "twitter",
           "value": "ShonaRobison"
         }
       ],
-      "email": "Shona.Robison.msp@parliament.scot",
+      "email": "dundee@shona.robison.scot",
       "family_name": "Robison",
       "gender": "female",
       "given_name": "Shona",
@@ -12713,11 +12760,6 @@
       "other_names": [
         {
           "lang": "ca",
-          "name": "Shona Robinson",
-          "note": "multilingual"
-        },
-        {
-          "lang": "fr",
           "name": "Shona Robinson",
           "note": "multilingual"
         },
@@ -14004,7 +14046,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/9853640645"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nicola_Sturgeon_SNP_Conference_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Nicola_Sturgeon_in_2020_outside_Edinburgh_Castle.jpg"
         }
       ],
       "links": [
@@ -14250,7 +14292,7 @@
         },
         {
           "note": "Wikipedia (wuu)",
-          "url": "https://wuu.wikipedia.org/wiki/妮古拉·斯特金"
+          "url": "https://wuu.wikipedia.org/wiki/施雅晴"
         },
         {
           "note": "Wikipedia (zh)",
@@ -15301,7 +15343,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/35855660228"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fiona_Hyslop_2018.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fiona_Hyslop_(26485977214).jpg"
         }
       ],
       "links": [
@@ -15679,6 +15721,11 @@
         {
           "lang": "ar",
           "name": "أندرو ويلسون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "অ্যান্ড্রু উইলসন",
           "note": "multilingual"
         },
         {
@@ -18188,7 +18235,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính trị gia độc lập",
+          "name": "chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18944,7 +18991,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính khách độc lập",
+          "name": "chính khách độc lập",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
