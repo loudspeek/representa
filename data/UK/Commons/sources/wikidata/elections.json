@@ -1,4 +1,40 @@
 {
+  "Q106973120": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q106973120"
+      }
+    ],
+    "name": "2021 Batley and Spen by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Batley and Spen by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Batley and Spen de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Batley and Spen by-election, 2021",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2021-07-01"
+    ],
+    "office": "Member of Parliament",
+    "successful_candidates": [
+      "Kim Leadbeater"
+    ]
+  },
   "Q1188713": {
     "identifiers": [
       {
@@ -3276,7 +3312,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2017",
+        "name": "eleccions al Parlament del Regne Unit de 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4295,6 +4331,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "af",
+        "name": "Britse algemene verkiesing van 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2019年英國大選",
         "note": "multilingual",
@@ -4701,6 +4743,12 @@
       {
         "lang": "eu",
         "name": "2015eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5981,6 +6029,12 @@
       {
         "lang": "fr",
         "name": "élection partielle de Fermanagh and South Tyrone d'avril 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Fermanagh and South Tyrone d'abril de 1981",
         "note": "multilingual",
         "source": "wikidata-label"
       },
