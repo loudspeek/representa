@@ -111,6 +111,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fi",
+        "name": "Työväenpuolue (Skotlanti)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "gd",
         "name": "Pàrtaidh Làbrach na h-Alba",
         "note": "multilingual",
@@ -762,6 +768,12 @@
       {
         "lang": "eu",
         "name": "Eskoziako Alderdi Kontserbadorea",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fi",
+        "name": "Konservatiivipuolue (Skotlanti)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1785,7 +1797,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chính trị gia độc lập",
+        "name": "chính trị gia độc lập",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2541,7 +2553,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chính khách độc lập",
+        "name": "chính khách độc lập",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
