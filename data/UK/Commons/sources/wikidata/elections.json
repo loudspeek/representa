@@ -1,4 +1,40 @@
 {
+  "Q106973120": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q106973120"
+      }
+    ],
+    "name": "2021 Batley and Spen by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Batley and Spen by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials de Batley and Spen de 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Batley and Spen by-election, 2021",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2021-07-01"
+    ],
+    "office": "Member of Parliament",
+    "successful_candidates": [
+      "Kim Leadbeater"
+    ]
+  },
   "Q1188713": {
     "identifiers": [
       {
@@ -71,6 +107,12 @@
       {
         "lang": "zh-hans",
         "name": "1831年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1831",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3276,7 +3318,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2017",
+        "name": "eleccions al Parlament del Regne Unit de 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4295,6 +4337,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "af",
+        "name": "Britse algemene verkiesing van 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2019年英國大選",
         "note": "multilingual",
@@ -4701,6 +4749,12 @@
       {
         "lang": "eu",
         "name": "2015eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5673,6 +5727,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1812",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ro",
         "name": "Alegerile generale din Regatul Unit",
         "note": "multilingual",
@@ -5985,6 +6045,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions parcials de Fermanagh and South Tyrone d'abril de 1981",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Fermanagh and South Tyrone by-election, April 1981",
         "note": "multilingual",
@@ -6059,6 +6125,9 @@
         "note": "multilingual",
         "source": "wikidata-alias"
       }
+    ],
+    "dates": [
+      "2018-06-14"
     ],
     "office": "Member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
@@ -6179,6 +6248,12 @@
       {
         "lang": "he",
         "name": "הבחירות הכלליות בבריטניה 1818",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1818",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6336,6 +6411,12 @@
       {
         "lang": "he",
         "name": "הבחירות הכלליות בבריטניה 1820",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1820",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6758,6 +6839,12 @@
       {
         "lang": "ga",
         "name": "olltoghchán 1832 na Ríochta Aontaithe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1826",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7508,6 +7595,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1806",
         "note": "multilingual",
@@ -7598,6 +7691,12 @@
       {
         "lang": "zh",
         "name": "1807年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pt-br",
+        "name": "eleições gerais do Reino Unido de 1807",
         "note": "multilingual",
         "source": "wikidata-label"
       },
