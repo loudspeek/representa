@@ -11377,7 +11377,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính trị gia độc lập",
+          "name": "chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -11510,6 +11510,24 @@
         {
           "lang": "wuu",
           "name": "无党籍",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ku",
+          "name": "Siyasetmedarê serbixwe",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "os",
+          "name": "æнæпартион",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "azb",
+          "name": "بی‌طرف سیاستچی",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -12133,7 +12151,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính khách độc lập",
+          "name": "chính khách độc lập",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -12760,6 +12778,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "fi",
+          "name": "Konservatiivipuolue (Wales)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Welsh Conservatives",
           "note": "multilingual",
@@ -12890,6 +12914,12 @@
         {
           "lang": "ar",
           "name": "حزب العمال الويلزي",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fi",
+          "name": "Työväenpuolue (Wales)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
