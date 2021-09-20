@@ -111,6 +111,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fi",
+        "name": "Työväenpuolue (Skotlanti)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "gd",
         "name": "Pàrtaidh Làbrach na h-Alba",
         "note": "multilingual",
@@ -766,6 +772,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fi",
+        "name": "Konservatiivipuolue (Skotlanti)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "gd",
         "name": "Na Tòraidhean",
         "note": "multilingual",
@@ -1260,7 +1272,7 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "sco",
+        "lang": "en",
         "name": "Scots Socialist Pairtie",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -1785,7 +1797,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chính trị gia độc lập",
+        "name": "chính trị gia độc lập",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1918,6 +1930,30 @@
       {
         "lang": "wuu",
         "name": "无党籍",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ku",
+        "name": "Siyasetmedarê serbixwe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "os",
+        "name": "æнæпартион",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "azb",
+        "name": "بی‌طرف سیاستچی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "udm",
+        "name": "партие пырисьтэм",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2541,13 +2577,25 @@
       },
       {
         "lang": "vi",
-        "name": "Chính khách độc lập",
+        "name": "chính khách độc lập",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "eu",
         "name": "politikari independente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "udm",
+        "name": "партитэм",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "udm",
+        "name": "беспартийной",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

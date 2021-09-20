@@ -420,6 +420,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "ডেভিড স্টিল",
+          "note": "multilingual"
+        },
+        {
           "lang": "en",
           "name": "David Steel",
           "note": "multilingual"
@@ -718,6 +723,11 @@
         {
           "lang": "ar",
           "name": "باول مارتن",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "পল মার্টিন",
           "note": "multilingual"
         },
         {
@@ -1081,10 +1091,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Maggie.Chapman.msp@parliament.scot"
+          "value": "maggie.chapman.msp@parliament.scot"
         }
       ],
-      "email": "Maggie.Chapman.msp@parliament.scot",
+      "email": "maggie.chapman.msp@parliament.scot",
       "id": "114f59b5-c739-4440-97d5-e9d0a6d281b0",
       "identifiers": [
         {
@@ -1966,6 +1976,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "গর্ডন জ্যাকসন",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "گوردون جکسون",
           "note": "multilingual"
@@ -2307,7 +2322,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/35943496226"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Deputy_First_Minister,_John_Swinney.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Official_Portrait_of_John_Swinney.jpg"
         }
       ],
       "links": [
@@ -2745,6 +2760,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "ne",
+          "name": "बेन वालेस",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Уоллес, Бен",
           "note": "multilingual"
@@ -2850,6 +2870,10 @@
           "url": "https://ar.wikipedia.org/wiki/آدم_إينغرام"
         },
         {
+          "note": "Wikipedia (arz)",
+          "url": "https://arz.wikipedia.org/wiki/آدم_اينجرام"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Adam_Ingram"
         },
@@ -2871,6 +2895,11 @@
         {
           "lang": "ar",
           "name": "آدم إينغرام",
+          "note": "multilingual"
+        },
+        {
+          "lang": "arz",
+          "name": "آدم اينجرام",
           "note": "multilingual"
         }
       ]
@@ -3040,10 +3069,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/9/96/Official_portrait_of_Jamie_Stone_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Official_portrait_of_Jamie_Stone_MP_crop_2.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Official_portrait_of_Jamie_Stone_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Official_portrait_of_Jamie_Stone_MP_crop_2.jpg"
         }
       ],
       "links": [
@@ -3588,6 +3617,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "অ্যালান উইলসন",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Аллан Уилсон",
           "note": "multilingual"
@@ -3774,7 +3808,7 @@
     },
     {
       "birth_date": "1944-04-19",
-      "death_date": "2021-06",
+      "death_date": "2021-06-18",
       "family_name": "Welsh",
       "gender": "male",
       "given_name": "Andrew",
@@ -4617,6 +4651,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "জন ইয়াং",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جان یانگ",
           "note": "multilingual"
@@ -4683,6 +4722,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "বিল বাটলার",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Билл Батлер",
           "note": "multilingual"
@@ -4718,6 +4762,7 @@
     },
     {
       "birth_date": "1948-12-05",
+      "family_name": "Robertson",
       "gender": "male",
       "given_name": "John",
       "id": "51420336-4caf-4ee7-856e-fc0562a10bed",
@@ -4753,6 +4798,12 @@
         {
           "identifier": "Q1700483",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Johnhomerobertson.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Johnhomerobertson.jpg"
         }
       ],
       "links": [
@@ -5030,10 +5081,10 @@
           "scheme": "scotparl"
         }
       ],
-      "image": "http://scottishparliament.thirdlight.com/file/35800892437",
+      "image": "http://scottishparliament.thirdlight.com/file/69343533162",
       "images": [
         {
-          "url": "http://scottishparliament.thirdlight.com/file/35800892437"
+          "url": "http://scottishparliament.thirdlight.com/file/69343533162"
         }
       ],
       "name": "Alasdair Allan"
@@ -5175,10 +5226,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Official_portrait_of_David_Mundell_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/44/Official_portrait_of_David_Mundell_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg"
         }
       ],
       "links": [
@@ -6317,6 +6368,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "রিচার্ড সিম্পসন",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Ричард Симпсон",
           "note": "multilingual"
@@ -7292,6 +7348,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Mike_Watson,_Baron_Watson_of_Invergowrie"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Mike_Watson"
         }
       ],
       "name": "Mike Watson",
@@ -8147,6 +8207,11 @@
         {
           "lang": "ar",
           "name": "روبرت براون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "রবার্ট ব্রাউন",
           "note": "multilingual"
         },
         {
@@ -9119,6 +9184,7 @@
       "birth_date": "1964-03-19",
       "family_name": "Muldoon",
       "gender": "male",
+      "given_name": "Bristow",
       "id": "95ac8fc5-c2b4-4ae8-abef-39f8c8bae2ab",
       "identifiers": [
         {
@@ -9427,10 +9493,10 @@
           "scheme": "wikitree"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Henry_Mcleish.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Official_Portrait_of_Henry_McLeish,_2000.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Henry_Mcleish.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Official_Portrait_of_Henry_McLeish,_2000.jpg"
         }
       ],
       "links": [
@@ -9488,7 +9554,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/МакЛейш,_Генри"
+          "url": "https://ru.wikipedia.org/wiki/Маклиш,_Генри"
         }
       ],
       "name": "Henry McLeish",
@@ -9854,6 +9920,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "কেনেথ গিবসন",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Кеннет Гибсон",
           "note": "multilingual"
@@ -10184,6 +10255,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "মাইকেল রাসেল",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "مایکل راسل",
           "note": "multilingual"
@@ -10314,6 +10390,11 @@
         {
           "lang": "arz",
           "name": "جورج ريد",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "জর্জ রিড",
           "note": "multilingual"
         },
         {
@@ -11319,6 +11400,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "জন স্কট",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جان اسکات",
           "note": "multilingual"
@@ -11565,7 +11651,7 @@
         },
         {
           "note": "Wikipedia (ru)",
-          "url": "https://ru.wikipedia.org/wiki/МакКоннел,_Джек"
+          "url": "https://ru.wikipedia.org/wiki/Макконнелл,_Джек"
         },
         {
           "note": "Wikipedia (sco)",
@@ -11709,6 +11795,10 @@
         {
           "identifier": "0000 0004 3245 2060",
           "scheme": "isni"
+        },
+        {
+          "identifier": "A2879137X",
+          "scheme": "nlp"
         },
         {
           "identifier": "380672545",
@@ -12628,14 +12718,14 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Shona.Robison.msp@parliament.scot"
+          "value": "dundee@shona.robison.scot"
         },
         {
           "type": "twitter",
           "value": "ShonaRobison"
         }
       ],
-      "email": "Shona.Robison.msp@parliament.scot",
+      "email": "dundee@shona.robison.scot",
       "family_name": "Robison",
       "gender": "female",
       "given_name": "Shona",
@@ -12717,11 +12807,6 @@
           "note": "multilingual"
         },
         {
-          "lang": "fr",
-          "name": "Shona Robinson",
-          "note": "multilingual"
-        },
-        {
           "lang": "gd",
           "name": "Seòna Robasdan",
           "note": "multilingual"
@@ -12799,6 +12884,11 @@
         {
           "lang": "ar",
           "name": "هيو هنري",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "হিউ হেনরি",
           "note": "multilingual"
         },
         {
@@ -13886,6 +13976,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "bn",
+          "name": "স্টুয়ার্ট স্টিভেনসন",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh",
           "name": "斯图尔特·史蒂文森",
           "note": "multilingual"
@@ -14004,7 +14099,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/9853640645"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Nicola_Sturgeon_SNP_Conference_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/24/Nicola_Sturgeon_election_infobox_3.jpg"
         }
       ],
       "links": [
@@ -14134,7 +14229,7 @@
         },
         {
           "note": "Wikipedia (he)",
-          "url": "https://he.wikipedia.org/wiki/ניקולה_סטרג'ון"
+          "url": "https://he.wikipedia.org/wiki/ניקולה_סטרג'ן"
         },
         {
           "note": "Wikipedia (hu)",
@@ -14250,7 +14345,7 @@
         },
         {
           "note": "Wikipedia (wuu)",
-          "url": "https://wuu.wikipedia.org/wiki/妮古拉·斯特金"
+          "url": "https://wuu.wikipedia.org/wiki/施雅晴"
         },
         {
           "note": "Wikipedia (zh)",
@@ -14328,7 +14423,7 @@
         },
         {
           "lang": "he",
-          "name": "ניקולה סטרג'ון",
+          "name": "ניקולה סטרג'ן",
           "note": "multilingual"
         },
         {
@@ -15301,7 +15396,7 @@
           "url": "http://scottishparliament.thirdlight.com/file/35855660228"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Fiona_Hyslop_2018.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Fiona_Hyslop_(26485977214).jpg"
         }
       ],
       "links": [
@@ -15679,6 +15774,11 @@
         {
           "lang": "ar",
           "name": "أندرو ويلسون",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "অ্যান্ড্রু উইলসন",
           "note": "multilingual"
         },
         {
@@ -16428,7 +16528,14 @@
           "url": "https://en.wikipedia.org/wiki/David_Davidson_(Scottish_politician)"
         }
       ],
-      "name": "David Davidson"
+      "name": "David Davidson",
+      "other_names": [
+        {
+          "lang": "bn",
+          "name": "ডেভিড ডেভিডসন",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -16488,12 +16595,20 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1233143964",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/14001",
           "scheme": "parlparse"
         },
         {
           "identifier": "1860",
           "scheme": "scotparl"
+        },
+        {
+          "identifier": "2848162118001802320000",
+          "scheme": "viaf"
         },
         {
           "identifier": "Q769138",
@@ -16629,7 +16744,7 @@
         },
         {
           "note": "Wikipedia (de)",
-          "url": "https://de.wikipedia.org/wiki/Ian_Welsh"
+          "url": "https://de.wikipedia.org/wiki/Ian_Welsh_(Politiker)"
         },
         {
           "note": "Wikipedia (en)",
@@ -17546,6 +17661,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "fi",
+          "name": "Konservatiivipuolue (Skotlanti)",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "gd",
           "name": "Na Tòraidhean",
           "note": "multilingual",
@@ -18188,7 +18309,7 @@
         },
         {
           "lang": "vi",
-          "name": "Chính trị gia độc lập",
+          "name": "chính trị gia độc lập",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18321,6 +18442,30 @@
         {
           "lang": "wuu",
           "name": "无党籍",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ku",
+          "name": "Siyasetmedarê serbixwe",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "os",
+          "name": "æнæпартион",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "azb",
+          "name": "بی‌طرف سیاستچی",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "udm",
+          "name": "партие пырисьтэм",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18944,13 +19089,25 @@
         },
         {
           "lang": "vi",
-          "name": "Chính khách độc lập",
+          "name": "chính khách độc lập",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "eu",
           "name": "politikari independente",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "udm",
+          "name": "партитэм",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "udm",
+          "name": "беспартийной",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -19073,6 +19230,12 @@
         {
           "lang": "eu",
           "name": "Eskoziako Alderdi Laborista",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "fi",
+          "name": "Työväenpuolue (Skotlanti)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -20019,7 +20182,7 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "sco",
+          "lang": "en",
           "name": "Scots Socialist Pairtie",
           "note": "multilingual",
           "source": "wikidata-alias"
@@ -30086,6 +30249,11 @@
           "lang": "gd",
           "name": "Srath Amain",
           "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "アーモンド・ヴァレー選挙区",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -31024,6 +31192,11 @@
           "lang": "gd",
           "name": "An t-Eilean Sgitheanach, Loch Abar agus Bàideanach",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "斯凱，洛哈伯和巴德諾赫",
+          "note": "multilingual"
         }
       ],
       "type": "constituency"
@@ -31075,6 +31248,11 @@
         {
           "lang": "gd",
           "name": "Lodainn",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ja",
+          "name": "ロージアン選挙リージョン",
           "note": "multilingual"
         },
         {
