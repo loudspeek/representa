@@ -58,7 +58,7 @@
       },
       {
         "lang": "cy",
-        "name": "Y Blaid Lafur",
+        "name": "y Blaid Lafur",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -513,6 +513,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ku-latn",
+        "name": "Partiya Karkeran",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -589,6 +595,12 @@
         "name": "Alderdi Laborista (Erresuma Batua)",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "ku-latn",
+        "name": "partiya Labour",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -659,7 +671,7 @@
       },
       {
         "lang": "cy",
-        "name": "Y Blaid Geidwadol",
+        "name": "y Blaid Geidwadol",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1128,6 +1140,12 @@
       {
         "lang": "ba",
         "name": "Бөйөк Британияның Консерватив фирҡәһе",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ku-latn",
+        "name": "Partiya Mihafezekar a Brîtanyayê",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2495,8 +2513,20 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "Partit Laborista i Cooperatiu",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "合作工党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Labour and Co-operative",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3606,7 +3636,7 @@
       },
       {
         "lang": "vi",
-        "name": "Chính trị gia độc lập",
+        "name": "chính trị gia độc lập",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3739,6 +3769,30 @@
       {
         "lang": "wuu",
         "name": "无党籍",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ku",
+        "name": "Siyasetmedarê serbixwe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "os",
+        "name": "æнæпартион",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "azb",
+        "name": "بی‌طرف سیاستچی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "udm",
+        "name": "партие пырисьтэм",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4362,13 +4416,25 @@
       },
       {
         "lang": "vi",
-        "name": "Chính khách độc lập",
+        "name": "chính khách độc lập",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "eu",
         "name": "politikari independente",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "udm",
+        "name": "партитэм",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "udm",
+        "name": "беспартийной",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4531,6 +4597,12 @@
       {
         "lang": "be-tarask",
         "name": "Ольстэрская прафсаюзная партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hu",
+        "name": "Ulsteri Unionista Párt",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4961,6 +5033,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hu",
+        "name": "Szociáldemokrata és Munkáspárt",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK Social Democratic and Labour Party",
         "note": "multilingual",
@@ -4986,7 +5064,7 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/SDLP_logo.svg",
-    "srgb": "3A9E84"
+    "srgb": "006400"
   },
   "ukip": {
     "identifiers": [
@@ -5943,6 +6021,12 @@
       {
         "lang": "fi",
         "name": "Alliance Party (Pohjois-Irlanti)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eo",
+        "name": "Alianca Partio de Nord-Irlando",
         "note": "multilingual",
         "source": "wikidata-label"
       },
