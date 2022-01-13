@@ -1,4 +1,100 @@
 {
+  "Q104852518": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q104852518"
+      }
+    ],
+    "name": "1838 St Ives by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1838 St Ives by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1838-05-24"
+    ],
+    "office": "Member of the 13th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "William Praed"
+    ]
+  },
+  "Q106610644": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q106610644"
+      }
+    ],
+    "name": "2021 Airdrie and Shotts by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Airdrie and Shotts by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2021-05-13"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Anum Qaisar-Javed"
+    ]
+  },
+  "Q106617183": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q106617183"
+      }
+    ],
+    "name": "2021 Hartlepool by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Hartlepool by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2021-05-06"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Jill Mortimer"
+    ]
+  },
+  "Q106630692": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q106630692"
+      }
+    ],
+    "name": "2021 Chesham and Amersham by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Chesham and Amersham by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2021-06-17"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Sarah Green"
+    ]
+  },
   "Q106973120": {
     "identifiers": [
       {
@@ -21,6 +117,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "2021年巴特利和斯彭補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Batley and Spen by-election, 2021",
         "note": "multilingual",
@@ -34,6 +136,125 @@
     "successful_candidates": [
       "Kim Leadbeater"
     ]
+  },
+  "Q108917363": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q108917363"
+      }
+    ],
+    "name": "2022 Southend West by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2022 Southend West by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2022年西紹森德補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2022年西绍森德补选",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2022-02-03"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom"
+  },
+  "Q109116483": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q109116483"
+      }
+    ],
+    "name": "2021 Old Bexley and Sidcup by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 Old Bexley and Sidcup by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2021-12-02"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Louie French"
+    ],
+    "eligible_voters": "64831",
+    "ballots_cast": "21783"
+  },
+  "Q109389169": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q109389169"
+      }
+    ],
+    "name": "2021 North Shropshire by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2021 North Shropshire by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات الفرعية شمال شروبشير 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2021年北什羅普補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2021-12-16"
+    ],
+    "follows": "2019 United Kingdom general election",
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Helen Morgan"
+    ],
+    "eligible_voters": "82314",
+    "ballots_cast": "38110"
+  },
+  "Q110478152": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q110478152"
+      }
+    ],
+    "name": "2022 Birmingham Erdington by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2022 Birmingham Erdington by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2022"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom"
   },
   "Q1188713": {
     "identifiers": [
@@ -113,6 +334,12 @@
       {
         "lang": "pt-br",
         "name": "eleições gerais do Reino Unido de 1831",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1831",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1401,7 +1628,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2010",
+        "name": "eleccions al Parlament del Regne Unit de 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2042,6 +2269,55 @@
     ],
     "office": "Member of Parliament"
   },
+  "Q23058607": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q23058607"
+      }
+    ],
+    "name": "2016 Ogmore by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2016 Ogmore by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "2016年嶽磨補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh-hans",
+        "name": "2016年岳磨補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年岳磨補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Ogmore by-election, 2016",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2016-05-05"
+    ],
+    "follows": "2015 United Kingdom general election",
+    "office": "Member of the 56th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Chris Elmore"
+    ]
+  },
   "Q23461659": {
     "identifiers": [
       {
@@ -2434,12 +2710,6 @@
       },
       {
         "lang": "en",
-        "name": "2016 Tooting by-election",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
         "name": "Tooting by-election, 2016",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -2596,17 +2866,23 @@
         "identifier": "Q24652477"
       }
     ],
-    "name": "Batley and Spen by-election, 2016",
+    "name": "2016 Batley and Spen by-election",
     "other_names": [
       {
         "lang": "en",
-        "name": "Batley and Spen by-election, 2016",
+        "name": "2016 Batley and Spen by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年巴特利和斯彭補選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "en",
-        "name": "2016 Batley and Spen by-election",
+        "name": "Batley and Spen by-election, 2016",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3578,6 +3854,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "arz",
+        "name": "انتخابات المملكه المتحده العامه سنة 2017",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2017年英国大选",
         "note": "multilingual",
@@ -3683,6 +3965,12 @@
       {
         "lang": "en",
         "name": "Witney by-election, 2016",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年威特尼補選",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3837,11 +4125,11 @@
         "identifier": "Q28100207"
       }
     ],
-    "name": "Richmond Park by-election, 2016",
+    "name": "2016 Richmond Park by-election",
     "other_names": [
       {
         "lang": "en",
-        "name": "Richmond Park by-election, 2016",
+        "name": "2016 Richmond Park by-election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3850,6 +4138,12 @@
         "name": "2016年列治文公園補選",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Richmond Park by-election, 2016",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -3953,13 +4247,19 @@
         "identifier": "Q28404735"
       }
     ],
-    "name": "Sleaford and North Hykeham by-election, 2016",
+    "name": "2016 Sleaford and North Hykeham by-election",
     "other_names": [
+      {
+        "lang": "en",
+        "name": "2016 Sleaford and North Hykeham by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
       {
         "lang": "en",
         "name": "Sleaford and North Hykeham by-election, 2016",
         "note": "multilingual",
-        "source": "wikidata-label"
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -4637,7 +4937,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament del Regne Unit de 2015",
+        "name": "eleccions al Parlament del Regne Unit de 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4922,6 +5222,12 @@
       {
         "lang": "pt-br",
         "name": "eleições gerais do Reino Unido de 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions generals del Regne Unit de 1852",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5733,6 +6039,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1812",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ro",
         "name": "Alegerile generale din Regatul Unit",
         "note": "multilingual",
@@ -6255,11 +6567,20 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1818",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1818",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
+    ],
+    "dates": [
+      "1818-07-18"
     ],
     "start_date": "1818-06-15",
     "end_date": "1818-07-25",
@@ -6411,6 +6732,12 @@
       {
         "lang": "pt-br",
         "name": "eleições gerais do Reino Unido de 1820",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1820",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6840,6 +7167,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1826",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1826",
         "note": "multilingual",
@@ -6921,6 +7254,12 @@
       {
         "lang": "pt-br",
         "name": "eleições gerais do Reino Unido de 1802",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1802",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7079,6 +7418,36 @@
       "Jane Dodds"
     ]
   },
+  "Q6519232": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q6519232"
+      }
+    ],
+    "name": "2011 Leicester South by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2011 Leicester South by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "Leicester South by-election, 2011",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "dates": [
+      "2011-05-05"
+    ],
+    "office": "Member of the 55th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Jonathan Ashworth"
+    ]
+  },
   "Q6658617": {
     "identifiers": [
       {
@@ -7210,6 +7579,32 @@
     "office": "Member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Seamus Mallon"
+    ]
+  },
+  "Q7085642": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7085642"
+      }
+    ],
+    "name": "2011 Oldham East and Saddleworth by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2011 Oldham East and Saddleworth by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2011-01-13"
+    ],
+    "follows": "2010 United Kingdom general election",
+    "followed_by": "2015 United Kingdom general election",
+    "office": "Member of the 55th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Debbie Abrahams"
     ]
   },
   "Q7232496": {
@@ -7398,78 +7793,6 @@
       "Matthew Taylor, Baron Taylor of Goss Moor"
     ]
   },
-  "Q7864918": {
-    "identifiers": [
-      {
-        "scheme": "wikidata",
-        "identifier": "Q7864918"
-      }
-    ],
-    "name": "UK Parliamentary by-election",
-    "other_names": [
-      {
-        "lang": "en",
-        "name": "UK Parliamentary by-election",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "de",
-        "name": "Nachwahl zum House of Commons",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "fr",
-        "name": "élection partielle à la Chambre des communes du Royaume-Uni",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ca",
-        "name": "eleccions parcials al Parlament del Regne Unit",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "cy",
-        "name": "is-etholiad Seneddol y Deyrnas Unedig",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "zh",
-        "name": "國會補選",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "ar",
-        "name": "الانتخابات الفرعية في مجلس العموم البريطاني",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "arz",
-        "name": "انتخابات مجلس العموم الفرعيه",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "by-election",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "en",
-        "name": "UK by-election",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      }
-    ],
-    "office": "Member of Parliament"
-  },
   "Q78851988": {
     "identifiers": [
       {
@@ -7592,6 +7915,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1806",
         "note": "multilingual",
@@ -7685,6 +8014,12 @@
       {
         "lang": "pt-br",
         "name": "eleições gerais do Reino Unido de 1807",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1807",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8515,6 +8850,12 @@
       {
         "lang": "zh-hans",
         "name": "1830年英国大选",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions al Parlament del Regne Unit de 1830",
         "note": "multilingual",
         "source": "wikidata-label"
       },

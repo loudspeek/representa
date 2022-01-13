@@ -519,6 +519,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "bn",
+        "name": "লেবার পার্টি (যুক্তরাজ্য)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -689,7 +695,7 @@
       },
       {
         "lang": "eo",
-        "name": "Konservisma Partio",
+        "name": "Konservativa Partio",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1358,6 +1364,12 @@
         "name": "Det konservative parti (Storbritannia)",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "eo",
+        "name": "Konservisma Partio",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1752,6 +1764,12 @@
       {
         "lang": "pnb",
         "name": "لبرل ڈیموکریٹس پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vec",
+        "name": "Partio Libarałe Democràtego",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2765,6 +2783,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Partio Unionista Democràtego",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "北愛民主統一黨",
         "note": "multilingual",
@@ -3642,7 +3666,7 @@
       },
       {
         "lang": "vec",
-        "name": "Poidego independente",
+        "name": "indipendente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3732,7 +3756,7 @@
       },
       {
         "lang": "es",
-        "name": "candidato independiente",
+        "name": "político independiente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4607,6 +4631,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Partio Unionista del Ulster",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "pt",
         "name": "Ulster unionist party",
         "note": "multilingual",
@@ -5039,6 +5069,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Partio Socialdemocràtego e Laburista",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UK Social Democratic and Labour Party",
         "note": "multilingual",
@@ -5063,7 +5099,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/c/c7/SDLP_logo.svg",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Logo_of_the_Social_Democratic_and_Labour_Party_(2021).svg",
     "srgb": "006400"
   },
   "ukip": {
@@ -5366,6 +5402,12 @@
       {
         "lang": "ms",
         "name": "Parti Kemerdekaan UK",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vec",
+        "name": "Partio de ła Indipendensa del Reino Unio",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5683,8 +5725,20 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hu",
+        "name": "Anglia és Wales Zöld Pártja",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Green Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "GPEW",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -5817,6 +5871,12 @@
       {
         "lang": "arz",
         "name": "حزب الاحترام",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vec",
+        "name": "Respeto - Ła Coałision Unia",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6027,6 +6087,12 @@
       {
         "lang": "eo",
         "name": "Alianca Partio de Nord-Irlando",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vec",
+        "name": "Partio de ła Liansa de Irlanda del Nord",
         "note": "multilingual",
         "source": "wikidata-label"
       },

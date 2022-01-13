@@ -4139,7 +4139,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25308,Carolyn Harris,,4480,uk.org.publicwhip/person/25308,Swansea East,uk.org.publicwhip/cons/569,Labour,labour,2019-12-13,general_election,,,58
 25067,Dan Jarvis,,4243,uk.org.publicwhip/person/25067,Barnsley Central,uk.org.publicwhip/cons/22,Labour,labour,2019-12-13,general_election,,,58
 25269,Mhairi Black,,4421,uk.org.publicwhip/person/25269,Paisley and Renfrewshire South,uk.org.publicwhip/cons/711,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
-10009,David Amess,89,44,uk.org.publicwhip/person/10009,Southend West,uk.org.publicwhip/cons/537,Conservative,conservative,2019-12-13,general_election,,,58
+10009,David Amess,89,44,uk.org.publicwhip/person/10009,Southend West,uk.org.publicwhip/cons/537,Conservative,conservative,2019-12-13,general_election,2021-10-15,died,58
 25681,Ellie Reeves,,4620,uk.org.publicwhip/person/25681,Lewisham West and Penge,uk.org.publicwhip/cons/2202,Labour,labour,2019-12-13,general_election,,,58
 11785,James Duddridge,,1559,uk.org.publicwhip/person/11785,Rochford and Southend East,uk.org.publicwhip/cons/478,Conservative,conservative,2019-12-13,general_election,,,58
 24816,Liz Kendall,,4026,uk.org.publicwhip/person/24816,Leicester West,uk.org.publicwhip/cons/334,Labour,labour,2019-12-13,general_election,,,58
@@ -4303,7 +4303,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25843,Virginia Crosbie,,4859,uk.org.publicwhip/person/25843,Ynys Môn,uk.org.publicwhip/cons/658,Conservative,conservative,2019-12-13,general_election,,,58
 10358,Julian Lewis,431,54,uk.org.publicwhip/person/10358,New Forest East,uk.org.publicwhip/cons/390,Conservative,conservative,2019-12-13,general_election,2020-07-14,changed_party,58
 10133,Jeremy Corbyn,212,185,uk.org.publicwhip/person/10133,Islington North,uk.org.publicwhip/cons/309,Labour,labour,2019-12-13,general_election,2020-10-28,changed_party,58
-14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,East Lothian,uk.org.publicwhip/cons/198,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,East Lothian,uk.org.publicwhip/cons/198,Scottish National Party,scottish-national-party,2019-12-13,general_election,,changed_party,58
 25290,Craig Tracey,,4509,uk.org.publicwhip/person/25290,North Warwickshire,uk.org.publicwhip/cons/423,Conservative,conservative,2019-12-13,general_election,,,58
 25844,Duncan Baker,,4784,uk.org.publicwhip/person/25844,North Norfolk,uk.org.publicwhip/cons/416,Conservative,conservative,2019-12-13,general_election,,,58
 25845,Nadia Whittome,,4869,uk.org.publicwhip/person/25845,Nottingham East,uk.org.publicwhip/cons/435,Labour,labour,2019-12-13,general_election,,,58
@@ -4402,7 +4402,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10367,Tony Lloyd,440,450,uk.org.publicwhip/person/10367,Rochdale,uk.org.publicwhip/cons/477,Labour,labour,2019-12-13,general_election,,,58
 11973,Stewart Hosie,,1514,uk.org.publicwhip/person/11973,Dundee East,uk.org.publicwhip/cons/183,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25659,Alex Burghart,,4613,uk.org.publicwhip/person/25659,Brentwood and Ongar,uk.org.publicwhip/cons/84,Conservative,conservative,2019-12-13,general_election,,,58
-11640,James Brokenshire,,1530,uk.org.publicwhip/person/11640,Old Bexley and Sidcup,uk.org.publicwhip/cons/441,Conservative,conservative,2019-12-13,general_election,,,58
+11640,James Brokenshire,,1530,uk.org.publicwhip/person/11640,Old Bexley and Sidcup,uk.org.publicwhip/cons/441,Conservative,conservative,2019-12-13,general_election,2021-10-07,death,58
 24728,Nick Smith,,3928,uk.org.publicwhip/person/24728,Blaenau Gwent,uk.org.publicwhip/cons/61,Labour,labour,2019-12-13,general_election,,,58
 10596,Stephen Timms,663,163,uk.org.publicwhip/person/10596,East Ham,uk.org.publicwhip/cons/194,Labour,labour,2019-12-13,general_election,,,58
 25409,Hannah Bardell,,4486,uk.org.publicwhip/person/25409,Livingston,uk.org.publicwhip/cons/350,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
@@ -4412,7 +4412,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25666,Preet Kaur Gill,,4603,uk.org.publicwhip/person/25666,"Birmingham, Edgbaston",uk.org.publicwhip/cons/46,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
 24788,Shabana Mahmood,,3914,uk.org.publicwhip/person/24788,"Birmingham, Ladywood",uk.org.publicwhip/cons/50,Labour,labour,2019-12-13,general_election,,,58
 25685,Lee Rowley,,4652,uk.org.publicwhip/person/25685,North East Derbyshire,uk.org.publicwhip/cons/410,Conservative,conservative,2019-12-13,general_election,,,58
-24825,Jack Dromey,,3913,uk.org.publicwhip/person/24825,"Birmingham, Erdington",uk.org.publicwhip/cons/47,Labour,labour,2019-12-13,general_election,,,58
+24825,Jack Dromey,,3913,uk.org.publicwhip/person/24825,"Birmingham, Erdington",uk.org.publicwhip/cons/47,Labour,labour,2019-12-13,general_election,2022-01-07,death,58
 11360,Liam Byrne,9451,1171,uk.org.publicwhip/person/11360,"Birmingham, Hodge Hill",uk.org.publicwhip/cons/49,Labour,labour,2019-12-13,general_election,,,58
 11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2019-12-13,general_election,,,58
 25872,Wendy Chamberlain,,4765,uk.org.publicwhip/person/25872,North East Fife,uk.org.publicwhip/cons/411,Liberal Democrat,liberal-democrat,2019-12-13,general_election,,,58
@@ -4588,7 +4588,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25362,Mike Wood,,4384,uk.org.publicwhip/person/25362,Dudley South,uk.org.publicwhip/cons/179,Conservative,conservative,2019-12-13,general_election,,,58
 11696,Philip Dunne,,1542,uk.org.publicwhip/person/11696,Ludlow,uk.org.publicwhip/cons/354,Conservative,conservative,2019-12-13,general_election,,,58
 24896,Kate Green,,4120,uk.org.publicwhip/person/24896,Stretford and Urmston,uk.org.publicwhip/cons/561,Labour,labour,2019-12-13,general_election,,,58
-10473,Owen Paterson,543,274,uk.org.publicwhip/person/10473,North Shropshire,uk.org.publicwhip/cons/417,Conservative,conservative,2019-12-13,general_election,,,58
+10473,Owen Paterson,543,274,uk.org.publicwhip/person/10473,North Shropshire,uk.org.publicwhip/cons/417,Conservative,conservative,2019-12-13,general_election,2021-11-05,resignation,58
 25353,Keir Starmer,,4514,uk.org.publicwhip/person/25353,Holborn and St Pancras,uk.org.publicwhip/cons/295,Labour,labour,2019-12-13,general_election,,,58
 24943,Paul Blomfield,,4058,uk.org.publicwhip/person/24943,Sheffield Central,uk.org.publicwhip/cons/500,Labour,labour,2019-12-13,general_election,,,58
 10041,Paul Beresford,122,103,uk.org.publicwhip/person/10041,Mole Valley,uk.org.publicwhip/cons/382,Conservative,conservative,2019-12-13,general_election,,,58
@@ -4740,3 +4740,6 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25873,Neale Hanvey,,4782,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Alba,alba,2021-03-28,changed_party,,,58
 26034,Sarah Green,,4918,uk.org.publicwhip/person/26034,Chesham and Amersham,uk.org.publicwhip/cons/129,Liberal Democrat,liberal-democrat,2021-06-18,by_election,,,58
 26040,Kim Leadbeater,,4923,uk.org.publicwhip/person/26040,Batley and Spen,uk.org.publicwhip/cons/30,Labour,labour,2021-07-02,by_election,,,58
+14031,Kenny MacAskill,,4772,uk.org.publicwhip/person/14031,East Lothian,uk.org.publicwhip/cons/198,Alba,alba,2021-03-26,changed_party,,,58
+26053,Louie French,,4932,uk.org.publicwhip/person/26053,Old Bexley and Sidcup,uk.org.publicwhip/cons/441,Conservative,conservative,2021-12-02,by_election,,,58
+26054,Helen Morgan,,4934,uk.org.publicwhip/person/26054,North Shropshire,uk.org.publicwhip/cons/417,Liberal Democrat,liberal-democrat,2021-12-16,by_election,,,58
