@@ -207,6 +207,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "nl",
+        "name": "Labour-partij",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "nn",
         "name": "Det britiske arbeidarpartiet",
         "note": "multilingual",
@@ -1152,6 +1158,18 @@
       {
         "lang": "ku-latn",
         "name": "Partiya Mihafezekar a Brîtanyayê",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "os",
+        "name": "Консервативон парти",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pap",
+        "name": "Partido Konservativo",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2458,7 +2476,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2010-09-29_189x189px_Yellow_Box_with_SNP_logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Scottish_National_Party_Logo.svg",
     "srgb": "FFF95D"
   },
   "labourco-operative": {
@@ -3426,7 +3444,7 @@
       },
       {
         "lang": "az",
-        "name": "partiyasız",
+        "name": "Bitərəf siyasətçi",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4459,6 +4477,12 @@
       {
         "lang": "udm",
         "name": "беспартийной",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "Partiyasız",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

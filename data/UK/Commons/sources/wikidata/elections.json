@@ -163,12 +163,29 @@
         "name": "2022年西绍森德补选",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "2021年西紹森德補選",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "2021年西绍森德补选",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
       "2022-02-03"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom"
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Anna Firth"
+    ],
+    "eligible_voters": "66354",
+    "ballots_cast": "15942"
   },
   "Q109116483": {
     "identifiers": [
@@ -249,12 +266,22 @@
         "name": "2022 Birmingham Erdington by-election",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "待定",
+        "note": "multilingual",
+        "source": "wikidata-label"
       }
     ],
     "dates": [
-      "2022"
+      "2022-03-03"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom"
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Paulette Hamilton"
+    ],
+    "ballots_cast": "17016"
   },
   "Q1188713": {
     "identifiers": [
@@ -4686,7 +4713,7 @@
       "2019-12-12"
     ],
     "follows": "2017 United Kingdom general election",
-    "followed_by": "Next United Kingdom general election",
+    "followed_by": "next United Kingdom general election",
     "office": "Member of Parliament",
     "successful_candidates": [
       "Conservative Party",
@@ -7793,6 +7820,78 @@
       "Matthew Taylor, Baron Taylor of Goss Moor"
     ]
   },
+  "Q7864918": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q7864918"
+      }
+    ],
+    "name": "UK Parliamentary by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "UK Parliamentary by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Nachwahl zum House of Commons",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élection partielle à la Chambre des communes du Royaume-Uni",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "eleccions parcials al Parlament del Regne Unit",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "cy",
+        "name": "is-etholiad Seneddol y Deyrnas Unedig",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "國會補選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "الانتخابات الفرعية في مجلس العموم البريطاني",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "arz",
+        "name": "انتخابات مجلس العموم الفرعيه",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "by-election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UK by-election",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      }
+    ],
+    "office": "Member of Parliament"
+  },
   "Q78851988": {
     "identifiers": [
       {
@@ -7800,11 +7899,17 @@
         "identifier": "Q78851988"
       }
     ],
-    "name": "Next United Kingdom general election",
+    "name": "next United Kingdom general election",
     "other_names": [
       {
-        "lang": "en",
+        "lang": "simple",
         "name": "Next United Kingdom general election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "next United Kingdom general election",
         "note": "multilingual",
         "source": "wikidata-label"
       },
