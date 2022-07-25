@@ -283,6 +283,82 @@
     ],
     "ballots_cast": "17016"
   },
+  "Q111602577": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q111602577"
+      }
+    ],
+    "name": "2022 Wakefield by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2022 Wakefield by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2022-06-23"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Simon Lightwood"
+    ],
+    "eligible_voters": "69601",
+    "ballots_cast": "27205"
+  },
+  "Q111784514": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q111784514"
+      }
+    ],
+    "name": "2022 Tiverton and Honiton by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2022 Tiverton and Honiton by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2022-06-23"
+    ],
+    "office": "Member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Richard Foord"
+    ],
+    "ballots_cast": "42707"
+  },
+  "Q112663198": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q112663198"
+      }
+    ],
+    "name": "1812 Weymouth and Melcombe Regis by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1812 Weymouth and Melcombe Regis by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1812-01-18"
+    ],
+    "office": "Member of the 3rd Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Joseph Hume"
+    ],
+    "ballots_cast": "0"
+  },
   "Q1188713": {
     "identifiers": [
       {
@@ -367,6 +443,12 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 1831",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1831",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1589,7 +1671,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 2010",
+        "name": "parlamentsvalget i Storbritannien 2010",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1698,6 +1780,18 @@
       {
         "lang": "be-tarask",
         "name": "парлямэнцкія выбары ў Вялікабрытаніі 2010 року",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 2010",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hu",
+        "name": "2010-es parlamenti választások az Egyesült Királyságban",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1887,9 +1981,20 @@
     ],
     "follows": "2005 United Kingdom general election",
     "followed_by": "2015 United Kingdom general election",
-    "office": "Prime Minister of the United Kingdom",
+    "office": "Member of Parliament",
     "successful_candidates": [
-      "David Cameron"
+      "Conservative Party",
+      "Labour Party",
+      "Liberal Democrats",
+      "Democratic Unionist Party",
+      "Scottish National Party",
+      "Sinn Féin",
+      "Plaid Cymru",
+      "Social Democratic and Labour Party",
+      "Green Party of England and Wales",
+      "Alliance Party of Northern Ireland",
+      "Speaker of the House of Commons",
+      "Sylvia Hermon"
     ],
     "eligible_voters": "45597461",
     "ballots_cast": "29687604"
@@ -3654,7 +3759,7 @@
       },
       {
         "lang": "pt",
-        "name": "eleições gerais do Reino Unido, 2017",
+        "name": "eleições gerais do Reino Unido em 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3786,7 +3891,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 2017",
+        "name": "parlamentsvalget i Storbritannien 2017",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4578,7 +4683,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 2019",
+        "name": "parlamentsvalget i Storbritannien 2019",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4808,7 +4913,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 2015",
+        "name": "parlamentsvalget i Storbritannien 2015",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5259,6 +5364,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1852",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "1952年イギリス総選挙",
         "note": "multilingual",
@@ -5402,7 +5513,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 2005",
+        "name": "parlamentsvalget i Storbritannien 2005",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5523,6 +5634,12 @@
       {
         "lang": "eu",
         "name": "2005eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 2005",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6055,7 +6172,7 @@
       },
       {
         "lang": "ga",
-        "name": "olltoghchán 1812  na Ríochta Aontaithe",
+        "name": "Olltoghchán na Ríochta Aontaithe 1812",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6212,7 +6329,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 1992",
+        "name": "parlamentsvalget i Storbritannien 1992",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6315,6 +6432,12 @@
       {
         "lang": "eu",
         "name": "1992ko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1992",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6577,7 +6700,7 @@
       },
       {
         "lang": "ga",
-        "name": "olltoghchán 1818  na Ríochta Aontaithe",
+        "name": "Olltoghchán na Ríochta Aontaithe 1818",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6746,7 +6869,7 @@
       },
       {
         "lang": "ga",
-        "name": "olltoghchán 1820 na Ríochta Aontaithe",
+        "name": "Olltoghchán na Ríochta Aontaithe 1820",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6891,7 +7014,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 2001",
+        "name": "parlamentsvalget i Storbritannien 2001",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7012,6 +7135,12 @@
       {
         "lang": "eu",
         "name": "2001eko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 2001",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7183,7 +7312,7 @@
       },
       {
         "lang": "ga",
-        "name": "olltoghchán 1832 na Ríochta Aontaithe",
+        "name": "Olltoghchán na Ríochta Aontaithe 1826",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7287,6 +7416,12 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 1802",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1802",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7878,6 +8013,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "fothoghchán Pharlaimint na Breataine",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "by-election",
         "note": "multilingual",
@@ -7934,6 +8075,18 @@
       {
         "lang": "zh",
         "name": "第59屆英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "de",
+        "name": "Britische Unterhauswahl 2025",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "da",
+        "name": "næste parlamentsvalg i Storbritannien",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -8022,6 +8175,12 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1806",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8125,6 +8284,12 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 1807",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1807",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8443,7 +8608,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 1987",
+        "name": "parlamentsvalget i Storbritannien 1987",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8504,6 +8669,12 @@
       {
         "lang": "eu",
         "name": "1987ko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1987",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8670,7 +8841,7 @@
       },
       {
         "lang": "da",
-        "name": "Parlamentsvalget i Storbritannien 1997",
+        "name": "parlamentsvalget i Storbritannien 1997",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8785,6 +8956,12 @@
       {
         "lang": "eu",
         "name": "1997ko Erresuma Batuko hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1997",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8961,6 +9138,12 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 1830",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ga",
+        "name": "Olltoghchán na Ríochta Aontaithe 1830",
         "note": "multilingual",
         "source": "wikidata-label"
       },

@@ -531,6 +531,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "gv",
+        "name": "Partee yn Lught Obbyr",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -2807,6 +2813,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sr",
+        "name": "Демократска унионистичка партија",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "北愛民主統一黨",
         "note": "multilingual",
@@ -3269,6 +3281,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Sinn_Féin.png",
     "srgb": "008800"
   },
   "independent": {
@@ -3318,7 +3331,7 @@
       },
       {
         "lang": "fr",
-        "name": "sans étiquette",
+        "name": "indépendant",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3444,7 +3457,7 @@
       },
       {
         "lang": "az",
-        "name": "Bitərəf siyasətçi",
+        "name": "bitərəf",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3654,7 +3667,7 @@
       },
       {
         "lang": "ms",
-        "name": "Bebas",
+        "name": "Ahli politik bebas",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3839,6 +3852,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pap",
+        "name": "politiko independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "my",
+        "name": "တစ်သီးပုဂ္ဂလ နိုင်ငံရေးသမား",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -3876,18 +3901,6 @@
       },
       {
         "lang": "fr",
-        "name": "Sans etiquette",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
-        "name": "Indépendant",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
         "name": "Non-inscrits",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -3895,6 +3908,12 @@
       {
         "lang": "fr",
         "name": "Non-inscrit",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "sans étiquette",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4410,12 +4429,6 @@
       },
       {
         "lang": "es",
-        "name": "político independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
         "name": "político sin partido",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -4483,6 +4496,24 @@
       {
         "lang": "az",
         "name": "Partiyasız",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "Bitərəf siyasətçi",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "Bebas (ahli politik)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ga",
+        "name": "Neamhspleách (polaitíocht)",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4657,6 +4688,12 @@
       {
         "lang": "vec",
         "name": "Partio Unionista del Ulster",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sr",
+        "name": "Алстерска унионистичка партија",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4895,6 +4932,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "id",
+        "name": "Partai Wales",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -4909,6 +4952,12 @@
       {
         "lang": "en",
         "name": "Plaid Cymru – the Party of Wales",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Kemerdekaan Wales",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -5095,6 +5144,18 @@
       {
         "lang": "vec",
         "name": "Partio Socialdemocràtego e Laburista",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sr",
+        "name": "Социјалдемократска и лабуристичка партија",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be",
+        "name": "Сацыял-дэмакратычная і лейбарысцкая партыя",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6117,6 +6178,24 @@
       {
         "lang": "vec",
         "name": "Partio de ła Liansa de Irlanda del Nord",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب التحالف لأيرلندا الشمالية",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fa",
+        "name": "حزب اتحاد ایرلند شمالی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sr",
+        "name": "Партија Алијансе Северне Ирске",
         "note": "multilingual",
         "source": "wikidata-label"
       },
