@@ -76,17 +76,12 @@ end
 
 class RemoteSource::Parlparse < RemoteSource
   def write
-    gh_url = 'https://raw.githubusercontent.com/loudspeek/representa/master/data/'
-    term_file_url = gh_url + '%s/sources/manual/terms.csv'
-    instructions_url = gh_url + '%s/sources/parlparse/instructions.json'
-    cwd = Dir.pwd.split('/').last(2).join('/')
+    term_file_url = '%s/sources/manual/terms.csv'
+    instructions_url = '%s/sources/parlparse/instructions.json'
+    cwd = Dir.pwd
 
-    args = {
-      terms_csv:         term_file_url % cwd,
-      instructions_json: instructions_url % cwd,
-    }
-    remote = 'https://repres-parlparse-to-csv.herokuapp.com/?' + URI.encode_www_form(args)
-    copy_url(remote)
+    csv = ParlparseToCSV.parse(term_file_url % cwd, instructions_url % cwd)
+    File.write(i(:file), csv)
   end
 end
 
