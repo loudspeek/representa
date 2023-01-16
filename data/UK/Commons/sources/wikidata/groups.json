@@ -22,7 +22,7 @@
       },
       {
         "lang": "ar",
-        "name": "حزب العمال البريطاني",
+        "name": "حزب العمال (المملكة المتحدة)",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -537,6 +537,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "azb",
+        "name": "ایشچی پارتیسی(بریتانیا)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "tl",
+        "name": "Partido Laborista (Reyno Unido)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -557,12 +569,6 @@
       {
         "lang": "en",
         "name": "Labor Party, UK",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
-        "name": "Lab",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1180,6 +1186,42 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "azb",
+        "name": "موحافیظه‌کار پارتیسی (بریتانیا)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uz",
+        "name": "Konservatorlar partiyasi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "tl",
+        "name": "Partido Konserbatibo (Reyno Unido)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "mn",
+        "name": "Консерватив Нам (Их Британи)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bs",
+        "name": "Konzervativna stranka",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms-arab",
+        "name": "ڤرتي کونسرۏاتيف",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Parti conservateur britannique",
         "note": "multilingual",
@@ -1394,6 +1436,12 @@
         "name": "Konservisma Partio",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "uz",
+        "name": "Konservatorlar Partiyasi",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -1463,7 +1511,7 @@
       },
       {
         "lang": "cy",
-        "name": "Y Democratiaid Rhyddfrydol",
+        "name": "y Democratiaid Rhyddfrydol",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1798,6 +1846,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "azb",
+        "name": "لیبرال دموکرات پارتیسی (بریتانیا)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Лібэральныя дэмакраты (Вялікабрытанія)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Lib Dems",
         "note": "multilingual",
@@ -1950,6 +2010,12 @@
       {
         "lang": "ja",
         "name": "自由民主党 (イギリス)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pt",
+        "name": "Liberais Democratas",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -2105,7 +2171,7 @@
       },
       {
         "lang": "kv",
-        "name": "Шотландса войтырлöн ютыр",
+        "name": "Шотландса войтырлӧн ютыр",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2249,7 +2315,7 @@
       },
       {
         "lang": "ar",
-        "name": "الحزب القومي الاسكتلندي",
+        "name": "الحزب الوطني الإسكتلندي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2394,6 +2460,24 @@
       {
         "lang": "co",
         "name": "Partitu Naziunale Scuzzese",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "azb",
+        "name": "ایسکاتلند میلی پارتیسی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "lt",
+        "name": "Škotijos nacionalinė partija",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Шатляндзкая нацыянальная партыя",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2815,6 +2899,24 @@
       {
         "lang": "sr",
         "name": "Демократска унионистичка партија",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ps",
+        "name": "ڈیموکریٹک یونینسٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Дэмакратычная юніянісцкая партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ur",
+        "name": "ڈیموکریٹک یونینسٹ پارٹی",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3457,7 +3559,7 @@
       },
       {
         "lang": "az",
-        "name": "bitərəf",
+        "name": "partiyasız",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3667,7 +3769,7 @@
       },
       {
         "lang": "ms",
-        "name": "Ahli politik bebas",
+        "name": "ahli politik bebas",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3805,7 +3907,7 @@
       },
       {
         "lang": "bg",
-        "name": "независим",
+        "name": "независим политик",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3860,6 +3962,18 @@
       {
         "lang": "my",
         "name": "တစ်သီးပုဂ္ဂလ နိုင်ငံရေးသမား",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms-arab",
+        "name": "اهلي ڤوليتيک بيبس",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "te",
+        "name": "స్వతంత్ర రాజకీయ నాయకుడు",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4495,25 +4609,37 @@
       },
       {
         "lang": "az",
-        "name": "Partiyasız",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "az",
         "name": "Bitərəf siyasətçi",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
+        "lang": "az",
+        "name": "bitərəf",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "ms",
-        "name": "Bebas (ahli politik)",
+        "name": "bebas (ahli politik)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "bebas",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "ga",
         "name": "Neamhspleách (polaitíocht)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -4698,6 +4824,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ur",
+        "name": "السٹر یونینسٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "pt",
         "name": "Ulster unionist party",
         "note": "multilingual",
@@ -4820,7 +4952,7 @@
     ],
     "links": [
       {
-        "url": "http://www.uup.org/",
+        "url": "https://www.uup.org/",
         "note": "website"
       }
     ],
@@ -4934,6 +5066,12 @@
       {
         "lang": "id",
         "name": "Partai Wales",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Партыя Ўэйлза",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5156,6 +5294,24 @@
       {
         "lang": "be",
         "name": "Сацыял-дэмакратычная і лейбарысцкая партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ps",
+        "name": "سوشل ڈیموکریٹک اینڈ لیبر پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Сацыял-дэмакратычная і лейбарысцкая партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ur",
+        "name": "سوشل ڈیموکریٹک اینڈ لیبر پارٹی",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5497,6 +5653,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "uz",
+        "name": "Buyuk Britaniya Mustaqillik partiyasi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -5816,6 +5978,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "be-tarask",
+        "name": "Зялёная партыя Ангельшчыны і Ўэйлза",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Green Party",
         "note": "multilingual",
@@ -5986,7 +6154,7 @@
     ],
     "links": [
       {
-        "url": "http://www.respectparty.org/",
+        "url": "https://therespectparty.net/",
         "note": "website"
       }
     ],
@@ -6042,6 +6210,30 @@
         "name": "英國統一黨",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom Unionist Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "United Kingdom Unionist Party U.K.U.P.",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "U.K.U.P.",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "UKUP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "660066"
@@ -6196,6 +6388,18 @@
       {
         "lang": "sr",
         "name": "Партија Алијансе Северне Ирске",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ps",
+        "name": "الائنس پارٹی آف ناردرن آئرلینڈ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ur",
+        "name": "الائنس پارٹی آف ناردرن آئرلینڈ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
