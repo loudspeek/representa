@@ -117,6 +117,30 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Partio Laburista Scosezo",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب العمال الاسكوتلندي",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sco",
+        "name": "Scots Labour Pairty",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הלייבור הסקוטית",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "gd",
         "name": "Pàrtaidh Làbrach na h-Alba",
         "note": "multilingual",
@@ -131,6 +155,12 @@
       {
         "lang": "es",
         "name": "Partido Laborista Escoces",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "蘇格蘭青年工黨",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -286,7 +316,7 @@
       },
       {
         "lang": "kv",
-        "name": "Шотландса войтырлöн ютыр",
+        "name": "Шотландса войтырлӧн ютыр",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -430,7 +460,7 @@
       },
       {
         "lang": "ar",
-        "name": "الحزب القومي الاسكتلندي",
+        "name": "الحزب الوطني الإسكتلندي",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -579,6 +609,24 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "azb",
+        "name": "ایسکاتلند میلی پارتیسی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "lt",
+        "name": "Škotijos nacionalinė partija",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Шатляндзкая нацыянальная партыя",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
         "note": "multilingual",
@@ -663,7 +711,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/8/8b/2010-09-29_189x189px_Yellow_Box_with_SNP_logo.png",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Scottish_National_Party_Logo.svg",
     "srgb": "FFF95D"
   },
   "716f311e-eac7-455c-b890-aed7db66b0f5": {
@@ -774,6 +822,12 @@
       {
         "lang": "fi",
         "name": "Konservatiivipuolue (Skotlanti)",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "vec",
+        "name": "Partio Conservador Scosezo",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -935,8 +989,26 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Libarałi-Democràteghi Scosezi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "ליברל-דמוקרטים סקוטיים",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ja",
         "name": "スコットランド自由民主党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "苏格兰自由民主党",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1087,6 +1159,12 @@
       {
         "lang": "cs",
         "name": "Skotští zelení",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הירוקים הסקוטיים",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1248,6 +1326,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Partio Sociałista Scosezo",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "gd",
         "name": "Pàrtaidh Shòisealach na h-Alba",
         "note": "multilingual",
@@ -1333,6 +1417,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Sołidarietà",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Solidarite",
         "note": "multilingual",
@@ -1383,6 +1473,12 @@
       {
         "lang": "en",
         "name": "All Scotland Pensioners Party",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "蘇格蘭老齡公民團結黨",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1437,7 +1533,7 @@
       },
       {
         "lang": "fr",
-        "name": "sans étiquette",
+        "name": "indépendant",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1773,7 +1869,7 @@
       },
       {
         "lang": "ms",
-        "name": "Bebas",
+        "name": "ahli politik bebas",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1803,7 +1899,7 @@
       },
       {
         "lang": "vec",
-        "name": "Poidego independente",
+        "name": "indipendente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1893,7 +1989,7 @@
       },
       {
         "lang": "es",
-        "name": "candidato independiente",
+        "name": "político independiente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1911,7 +2007,7 @@
       },
       {
         "lang": "bg",
-        "name": "независим",
+        "name": "независим политик",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1958,6 +2054,30 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pap",
+        "name": "politiko independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "my",
+        "name": "တစ်သီးပုဂ္ဂလ နိုင်ငံရေးသမား",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms-arab",
+        "name": "اهلي ڤوليتيک بيبس",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "te",
+        "name": "స్వతంత్ర రాజకీయ నాయకుడు",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -1995,18 +2115,6 @@
       },
       {
         "lang": "fr",
-        "name": "Sans etiquette",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
-        "name": "Indépendant",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
         "name": "Non-inscrits",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -2014,6 +2122,12 @@
       {
         "lang": "fr",
         "name": "Non-inscrit",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "sans étiquette",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2529,12 +2643,6 @@
       },
       {
         "lang": "es",
-        "name": "político independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
         "name": "político sin partido",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -2596,6 +2704,42 @@
       {
         "lang": "udm",
         "name": "беспартийной",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "Bitərəf siyasətçi",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "bitərəf",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "bebas (ahli politik)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "bebas",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ga",
+        "name": "Neamhspleách (polaitíocht)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
         "note": "multilingual",
         "source": "wikidata-alias"
       }

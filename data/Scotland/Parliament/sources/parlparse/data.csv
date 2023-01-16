@@ -761,7 +761,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25516,Monica Lennon,,,uk.org.publicwhip/person/25516,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2021-05-08,regional_election,,,5
 25517,Richard Leonard,,,uk.org.publicwhip/person/25517,Central Scotland,uk.org.publicwhip/cons/10716,Labour,labour,2021-05-08,regional_election,,,5
 14029,Richard Lochhead,,,uk.org.publicwhip/person/14029,Moray,uk.org.publicwhip/cons/10779,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
-25519,Dean Lockhart,,,uk.org.publicwhip/person/25519,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2021-05-08,regional_election,,,5
+25519,Dean Lockhart,,,uk.org.publicwhip/person/25519,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2021-05-08,regional_election,2022-09-05,resigned,5
 26001,Douglas Lumsden,,,uk.org.publicwhip/person/26001,North East Scotland,uk.org.publicwhip/cons/10721,Conservative,conservative,2021-05-08,regional_election,,,5
 25095,Gordon MacDonald,,,uk.org.publicwhip/person/25095,Edinburgh Pentlands,uk.org.publicwhip/cons/10753,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
 25521,Fulton MacGregor,,,uk.org.publicwhip/person/25521,Coatbridge and Chryston,uk.org.publicwhip/cons/10737,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
@@ -820,3 +820,4 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25543,Brian Whittle,,,uk.org.publicwhip/person/25543,South Scotland,uk.org.publicwhip/cons/10837,Conservative,conservative,2021-05-08,regional_election,,,5
 25775,Beatrice Wishart,,,uk.org.publicwhip/person/25775,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2021-05-08,regional_election,,,5
 25119,Humza Yousaf,,,uk.org.publicwhip/person/25119,Glasgow Pollok,uk.org.publicwhip/cons/10765,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
+26091,Roz McCall,,,uk.org.publicwhip/person/26091,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2022-09-05,appointed,,,5
