@@ -227,6 +227,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  activesupport (~> 5.2)
   close_old_pull_requests!
   colorize
   csv_to_popolo!
@@ -264,4 +265,4 @@ RUBY VERSION
    ruby 2.4.4p296
 
 BUNDLED WITH
-   1.16.5
+   1.16.6

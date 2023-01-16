@@ -41,3 +41,5 @@ group :test do
   gem 'vcr'
   gem 'webmock'
 end
+
+gem "activesupport", "~> 5.2"

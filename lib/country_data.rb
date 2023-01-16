@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require 'active_support/core_ext/hash'
+
 module Everypolitician
   module Metadata
     # The metadata for a country, included in countries.json
@@ -125,7 +127,7 @@ module Everypolitician
           json = JSON.load(json_file.read, lambda do |hash|
             statements += hash.values.select { |value| value.class == String }.count if hash.class == Hash
           end, symbolize_names: true, create_additions: false)
-          [json, statements]
+          [json.with_indifferent_access, statements]
         end
       end
 
