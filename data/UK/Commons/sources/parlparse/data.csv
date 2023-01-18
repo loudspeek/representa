@@ -4260,7 +4260,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25727,Janet Daby,,4698,uk.org.publicwhip/person/25727,Lewisham East,uk.org.publicwhip/cons/338,Labour,labour,2019-12-13,general_election,,,58
 25285,Alan Mak,,4484,uk.org.publicwhip/person/25285,Havant,uk.org.publicwhip/cons/281,Conservative,conservative,2019-12-13,general_election,,,58
 25831,Natalie Elphicke,,4795,uk.org.publicwhip/person/25831,Dover,uk.org.publicwhip/cons/177,Conservative,conservative,2019-12-13,general_election,,,58
-11667,Rosie Cooper,,1538,uk.org.publicwhip/person/11667,West Lancashire,uk.org.publicwhip/cons/626,Labour,labour,2019-12-13,general_election,,,58
+11667,Rosie Cooper,,1538,uk.org.publicwhip/person/11667,West Lancashire,uk.org.publicwhip/cons/626,Labour,labour,2019-12-13,general_election,2022-11-30,resigned,58
 25380,Vicky Foxcroft,,4491,uk.org.publicwhip/person/25380,"Lewisham, Deptford",uk.org.publicwhip/cons/340,Labour,labour,2019-12-13,general_election,,,58
 13934,Virendra Sharma,,1604,uk.org.publicwhip/person/13934,"Ealing, Southall",uk.org.publicwhip/cons/190,Labour,labour,2019-12-13,general_election,,,58
 25278,Owen Thompson,,4482,uk.org.publicwhip/person/25278,Midlothian,uk.org.publicwhip/cons/379,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
@@ -4587,7 +4587,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25438,James Heappey,,4528,uk.org.publicwhip/person/25438,Wells,uk.org.publicwhip/cons/616,Conservative,conservative,2019-12-13,general_election,,,58
 25362,Mike Wood,,4384,uk.org.publicwhip/person/25362,Dudley South,uk.org.publicwhip/cons/179,Conservative,conservative,2019-12-13,general_election,,,58
 11696,Philip Dunne,,1542,uk.org.publicwhip/person/11696,Ludlow,uk.org.publicwhip/cons/354,Conservative,conservative,2019-12-13,general_election,,,58
-24896,Kate Green,,4120,uk.org.publicwhip/person/24896,Stretford and Urmston,uk.org.publicwhip/cons/561,Labour,labour,2019-12-13,general_election,,,58
+24896,Kate Green,,4120,uk.org.publicwhip/person/24896,Stretford and Urmston,uk.org.publicwhip/cons/561,Labour,labour,2019-12-13,general_election,2022-11-10,resigned,58
 10473,Owen Paterson,543,274,uk.org.publicwhip/person/10473,North Shropshire,uk.org.publicwhip/cons/417,Conservative,conservative,2019-12-13,general_election,2021-11-05,resigned,58
 25353,Keir Starmer,,4514,uk.org.publicwhip/person/25353,Holborn and St Pancras,uk.org.publicwhip/cons/295,Labour,labour,2019-12-13,general_election,,,58
 24943,Paul Blomfield,,4058,uk.org.publicwhip/person/24943,Sheffield Central,uk.org.publicwhip/cons/500,Labour,labour,2019-12-13,general_election,,,58
@@ -4750,4 +4750,5 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 26085,Simon Lightwood,,4943,uk.org.publicwhip/person/26085,Wakefield,uk.org.publicwhip/cons/599,Labour,labour,2022-06-24,by_election,,,58
 26086,Richard Foord,,4942,uk.org.publicwhip/person/26086,Tiverton and Honiton,uk.org.publicwhip/cons/578,Liberal Democrat,liberal-democrat,2022-06-24,by_election,,,58
 10358,Julian Lewis,431,54,uk.org.publicwhip/person/10358,New Forest East,uk.org.publicwhip/cons/390,Conservative,conservative,2020-12-30,changed_party,,,58
-26118,Samantha Dixon,,,uk.org.publicwhip/person/26118,City of Chester,uk.org.publicwhip/cons/130,Labour,labour,2022-12-01,by_election,,,58
+26118,Samantha Dixon,,4976,uk.org.publicwhip/person/26118,City of Chester,uk.org.publicwhip/cons/130,Labour,labour,2022-12-01,by_election,,,58
+26120,Andrew Western,,4979,uk.org.publicwhip/person/26120,Stretford and Urmston,uk.org.publicwhip/cons/561,Labour,labour,2022-12-16,by_election,,,58
