@@ -153,11 +153,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/2c0a940de5dea5bfe6a689ae19ecc18b2e5f8065/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/77d0dee45fb948390521bb1fa2fd2ca97894ad56/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1674042047",
+        "lastmod": "1674042282",
         "person_count": 1591,
-        "sha": "2c0a940de5dea5bfe6a689ae19ecc18b2e5f8065",
+        "sha": "77d0dee45fb948390521bb1fa2fd2ca97894ad56",
         "legislative_periods": [
           {
             "id": "term/58",
@@ -165,7 +165,7 @@
             "start_date": "2019-12-13",
             "slug": "58",
             "csv": "data/UK/Commons/term-58.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/2c0a940de5dea5bfe6a689ae19ecc18b2e5f8065/data/UK/Commons/term-58.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/77d0dee45fb948390521bb1fa2fd2ca97894ad56/data/UK/Commons/term-58.csv"
           },
           {
             "end_date": "2019-11-06",
