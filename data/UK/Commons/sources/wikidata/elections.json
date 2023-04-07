@@ -18,7 +18,7 @@
     "dates": [
       "2021-05-13"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Anum Qaisar-Javed"
     ]
@@ -42,7 +42,7 @@
     "dates": [
       "2021-05-06"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Jill Mortimer"
     ]
@@ -66,7 +66,7 @@
     "dates": [
       "2021-06-17"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Sarah Green"
     ]
@@ -156,7 +156,7 @@
     "dates": [
       "2022-02-03"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Anna Firth"
     ],
@@ -182,7 +182,7 @@
     "dates": [
       "2021-12-02"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Louie French"
     ],
@@ -221,7 +221,7 @@
       "2021-12-16"
     ],
     "follows": "2019 United Kingdom general election",
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Helen Morgan"
     ],
@@ -253,7 +253,7 @@
     "dates": [
       "2022-03-03"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Paulette Hamilton"
     ],
@@ -284,7 +284,7 @@
     "dates": [
       "2022-06-23"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Simon Lightwood"
     ],
@@ -316,7 +316,7 @@
     "dates": [
       "2022-06-23"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Richard Foord"
     ],
@@ -341,7 +341,7 @@
     "dates": [
       "1812-01-18"
     ],
-    "office": "Member of the 3rd Parliament of the United Kingdom",
+    "office": "member of the 3rd Parliament of the United Kingdom",
     "successful_candidates": [
       "Joseph Hume"
     ],
@@ -364,9 +364,13 @@
       }
     ],
     "dates": [
-      "2023"
+      "2023-02-09"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom"
+    "office": "member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Ashley Dalton"
+    ],
+    "ballots_cast": "22639"
   },
   "Q114877234": {
     "identifiers": [
@@ -393,7 +397,7 @@
     "dates": [
       "2022-12-01"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Samantha Dixon"
     ],
@@ -418,7 +422,7 @@
     "dates": [
       "2022-12-15"
     ],
-    "office": "Member of the 58th Parliament of the United Kingdom",
+    "office": "member of the 58th Parliament of the United Kingdom",
     "successful_candidates": [
       "Andrew Western"
     ],
@@ -1267,7 +1271,7 @@
     "dates": [
       "1991-11-07"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Derek Enright"
     ]
@@ -1324,7 +1328,7 @@
     "dates": [
       "1994-05-05"
     ],
-    "office": "Member of the 51st Parliament of the United Kingdom",
+    "office": "member of the 51st Parliament of the United Kingdom",
     "successful_candidates": [
       "Denis MacShane"
     ]
@@ -2408,7 +2412,7 @@
     "dates": [
       "1990-11-08"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Joe Benton"
     ]
@@ -2511,7 +2515,7 @@
       "2016-05-05"
     ],
     "follows": "2015 United Kingdom general election",
-    "office": "Member of the 56th Parliament of the United Kingdom",
+    "office": "member of the 56th Parliament of the United Kingdom",
     "successful_candidates": [
       "Chris Elmore"
     ]
@@ -5331,7 +5335,7 @@
     ],
     "follows": "2010 United Kingdom general election",
     "followed_by": "2017 United Kingdom general election",
-    "office": "Member of the 56th Parliament of the United Kingdom",
+    "office": "member of the 56th Parliament of the United Kingdom",
     "successful_candidates": [
       "Conservative Party",
       "Labour Party",
@@ -5816,7 +5820,7 @@
     ],
     "follows": "2001 United Kingdom general election",
     "followed_by": "2010 United Kingdom general election",
-    "office": "Member of the 54th Parliament of the United Kingdom",
+    "office": "member of the 54th Parliament of the United Kingdom",
     "successful_candidates": [
       "Labour Party",
       "Conservative Party",
@@ -5919,7 +5923,7 @@
     "dates": [
       "2018-05-03"
     ],
-    "office": "Member of the 57th Parliament of the United Kingdom",
+    "office": "member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
       "Órfhlaith Begley"
     ]
@@ -5949,7 +5953,7 @@
     "dates": [
       "1982-10-28"
     ],
-    "office": "Member of the 48th Parliament of the United Kingdom",
+    "office": "member of the 48th Parliament of the United Kingdom",
     "successful_candidates": [
       "John Spellar"
     ]
@@ -5973,7 +5977,7 @@
     "dates": [
       "1984-03-01"
     ],
-    "office": "Member of the 49th Parliament of the United Kingdom",
+    "office": "member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Tony Benn"
     ]
@@ -6262,7 +6266,7 @@
     "dates": [
       "1984-05-03"
     ],
-    "office": "Member of the 49th Parliament of the United Kingdom",
+    "office": "member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Ann Clwyd"
     ]
@@ -6643,7 +6647,7 @@
     ],
     "follows": "1987 United Kingdom general election",
     "followed_by": "1997 United Kingdom general election",
-    "office": "Member of the 51st Parliament of the United Kingdom",
+    "office": "member of the 51st Parliament of the United Kingdom",
     "successful_candidates": [
       "John Major"
     ]
@@ -6687,7 +6691,7 @@
     ],
     "follows": "1979 United Kingdom general election",
     "followed_by": "August 1981 Fermanagh and South Tyrone by-election",
-    "office": "Member of the 48th Parliament of the United Kingdom",
+    "office": "member of the 48th Parliament of the United Kingdom",
     "successful_candidates": [
       "Bobby Sands"
     ]
@@ -6724,7 +6728,7 @@
       "1981-08-20"
     ],
     "follows": "April 1981 Fermanagh and South Tyrone by-election",
-    "office": "Member of the 48th Parliament of the United Kingdom",
+    "office": "member of the 48th Parliament of the United Kingdom",
     "successful_candidates": [
       "Owen Carron"
     ]
@@ -6754,7 +6758,7 @@
     "dates": [
       "2018-06-14"
     ],
-    "office": "Member of the 57th Parliament of the United Kingdom",
+    "office": "member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
       "Janet Daby"
     ],
@@ -6933,7 +6937,7 @@
       "1987-02-26"
     ],
     "followed_by": "1987 United Kingdom general election",
-    "office": "Member of the 49th Parliament of the United Kingdom",
+    "office": "member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Rosie Barnes"
     ]
@@ -6965,7 +6969,7 @@
     ],
     "follows": "1997 United Kingdom general election",
     "followed_by": "2001 United Kingdom general election",
-    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "office": "member of the 52nd Parliament of the United Kingdom",
     "successful_candidates": [
       "Bill Tynan"
     ]
@@ -7358,7 +7362,7 @@
     ],
     "follows": "1997 United Kingdom general election",
     "followed_by": "2005 United Kingdom general election",
-    "office": "Member of the 53rd Parliament of the United Kingdom",
+    "office": "member of the 53rd Parliament of the United Kingdom",
     "successful_candidates": [
       "Labour Party",
       "Conservative Party",
@@ -7433,7 +7437,7 @@
     "dates": [
       "2019-04-04"
     ],
-    "office": "Member of the 57th Parliament of the United Kingdom",
+    "office": "member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
       "Ruth Jones"
     ],
@@ -7677,7 +7681,7 @@
     "dates": [
       "1988-07-14"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Dudley Fishburn"
     ]
@@ -7707,7 +7711,7 @@
     "dates": [
       "1991-11-07"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Nicol Stephen, Baron Stephen"
     ]
@@ -7737,7 +7741,7 @@
     "dates": [
       "2019-06-06"
     ],
-    "office": "Member of the 57th Parliament of the United Kingdom",
+    "office": "member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
       "Lisa Forbes"
     ],
@@ -7780,7 +7784,7 @@
     "dates": [
       "2019-08-01"
     ],
-    "office": "Member of the 57th Parliament of the United Kingdom",
+    "office": "member of the 57th Parliament of the United Kingdom",
     "successful_candidates": [
       "Jane Dodds"
     ]
@@ -7810,7 +7814,7 @@
     "dates": [
       "2011-05-05"
     ],
-    "office": "Member of the 55th Parliament of the United Kingdom",
+    "office": "member of the 55th Parliament of the United Kingdom",
     "successful_candidates": [
       "Jonathan Ashworth"
     ]
@@ -7840,7 +7844,7 @@
     "dates": [
       "1991-07-04"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Peter Kilfoyle"
     ]
@@ -7919,7 +7923,7 @@
       "2013-03-07"
     ],
     "follows": "2010 United Kingdom general election",
-    "office": "Member of the 55th Parliament of the United Kingdom",
+    "office": "member of the 55th Parliament of the United Kingdom",
     "successful_candidates": [
       "Francie Molloy"
     ]
@@ -7943,7 +7947,7 @@
     "dates": [
       "1986-01-23"
     ],
-    "office": "Member of the 49th Parliament of the United Kingdom",
+    "office": "member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Seamus Mallon"
     ]
@@ -7969,7 +7973,7 @@
     ],
     "follows": "2010 United Kingdom general election",
     "followed_by": "2015 United Kingdom general election",
-    "office": "Member of the 55th Parliament of the United Kingdom",
+    "office": "member of the 55th Parliament of the United Kingdom",
     "successful_candidates": [
       "Debbie Abrahams"
     ]
@@ -7999,7 +8003,7 @@
     "dates": [
       "1984-06-14"
     ],
-    "office": "Member of the 49th Parliament of the United Kingdom",
+    "office": "member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Mike Hancock"
     ]
@@ -8031,7 +8035,7 @@
     ],
     "follows": "1997 United Kingdom general election",
     "followed_by": "2001 United Kingdom general election",
-    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "office": "member of the 52nd Parliament of the United Kingdom",
     "successful_candidates": [
       "Mark Hendrick"
     ]
@@ -8061,7 +8065,7 @@
     "dates": [
       "1991-03-07"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Michael Carr"
     ]
@@ -8093,7 +8097,7 @@
     ],
     "follows": "1997 United Kingdom general election",
     "followed_by": "2001 United Kingdom general election",
-    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "office": "member of the 52nd Parliament of the United Kingdom",
     "successful_candidates": [
       "William McCrea"
     ]
@@ -8125,7 +8129,7 @@
     ],
     "follows": "1997 United Kingdom general election",
     "followed_by": "2001 United Kingdom general election",
-    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "office": "member of the 52nd Parliament of the United Kingdom",
     "successful_candidates": [
       "David Lammy"
     ]
@@ -8155,7 +8159,7 @@
     "dates": [
       "1987-03-12"
     ],
-    "office": "Member of the 49th Parliament of the United Kingdom",
+    "office": "member of the 49th Parliament of the United Kingdom",
     "successful_candidates": [
       "Matthew Taylor, Baron Taylor of Goss Moor"
     ]
@@ -8590,7 +8594,7 @@
     "dates": [
       "1989-06-15"
     ],
-    "office": "Member of the 50th Parliament of the United Kingdom",
+    "office": "member of the 50th Parliament of the United Kingdom",
     "successful_candidates": [
       "Kate Hoey"
     ]
@@ -8668,7 +8672,7 @@
     ],
     "follows": "1997 United Kingdom general election",
     "followed_by": "2001 United Kingdom general election",
-    "office": "Member of the 52nd Parliament of the United Kingdom",
+    "office": "member of the 52nd Parliament of the United Kingdom",
     "successful_candidates": [
       "Neil Turner"
     ]
@@ -9390,7 +9394,7 @@
     "dates": [
       "1838-05-24"
     ],
-    "office": "Member of the 13th Parliament of the United Kingdom",
+    "office": "member of the 13th Parliament of the United Kingdom",
     "successful_candidates": [
       "William Praed"
     ]

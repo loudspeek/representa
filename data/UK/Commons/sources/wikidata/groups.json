@@ -1222,6 +1222,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "gv",
+        "name": "yn Partee Cumaadagh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "fr",
         "name": "Parti conservateur britannique",
         "note": "multilingual",
@@ -1440,6 +1446,48 @@
       {
         "lang": "uz",
         "name": "Konservatorlar Partiyasi",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Yn Partee Thoreeagh",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Ny Thoreeyn",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Partee Thoreeagh",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Partee Cumaadagh",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Cumaadee",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Ny Cumaadee",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Partee Cumaadagh y Reeriaght Unnaneysit",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -1858,6 +1906,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "gv",
+        "name": "Deynlaghteyryn Libraalagh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Lib Dems",
         "note": "multilingual",
@@ -2016,6 +2070,12 @@
       {
         "lang": "pt",
         "name": "Liberais Democratas",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "gv",
+        "name": "Yn Partee Deynlagh Libraalagh",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -3375,6 +3435,12 @@
         "name": "Mēs paši",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "Şin Feyn partiyası",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -3978,6 +4044,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "gv",
+        "name": "politickeyr neuchrogheydagh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -4135,24 +4207,6 @@
       },
       {
         "lang": "sv",
-        "name": "vänstervilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
-        "name": "liberal vilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
-        "name": "moderat vilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
         "name": "politiska vildar",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -4171,25 +4225,25 @@
       },
       {
         "lang": "sv",
-        "name": "frisinnad vilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
-        "name": "högervilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
         "name": "oberoende",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sv",
+        "name": "utan partibeteckning",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "ar",
         "name": "سياسيون مستقلون",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "مستقل سياسي",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4261,31 +4315,31 @@
       },
       {
         "lang": "da",
-        "name": "Uden for partierne",
+        "name": "uden for partierne",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Frigænger",
+        "name": "frigænger",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Udenfor partierne",
+        "name": "udenfor partierne",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Uafhængig",
+        "name": "uafhængig",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Partiløs",
+        "name": "partiløs",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4376,6 +4430,18 @@
       {
         "lang": "ca",
         "name": "polític independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ca",
+        "name": "indep.",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ca",
+        "name": "INDEP",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4826,6 +4892,12 @@
       {
         "lang": "ur",
         "name": "السٹر یونینسٹ پارٹی",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be",
+        "name": "Ольстэрская юніянісцкая партыя",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5314,12 +5386,6 @@
         "name": "سوشل ڈیموکریٹک اینڈ لیبر پارٹی",
         "note": "multilingual",
         "source": "wikidata-label"
-      },
-      {
-        "lang": "en",
-        "name": "UK Social Democratic and Labour Party",
-        "note": "multilingual",
-        "source": "wikidata-alias"
       },
       {
         "lang": "en",
