@@ -117,6 +117,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "he",
+        "name": "הלייבור הוולשי",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "it",
         "name": "Wales Labour Party",
         "note": "multilingual",
@@ -271,6 +277,12 @@
         "name": "Galesko Kontserbadoreak",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "威尔士保守党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -387,6 +399,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "id",
+        "name": "Partai Wales",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "be-tarask",
+        "name": "Партыя Ўэйлза",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -403,6 +427,12 @@
         "name": "Plaid Cymru – the Party of Wales",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "Partai Kemerdekaan Wales",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -411,6 +441,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Plaid_cymru_logo.svg",
     "srgb": "3F8428"
   },
   "b2f6b2f1-281c-464f-abc4-4e91a245ee0e": {
@@ -481,11 +512,23 @@
         "name": "Galesko Liberal Demokratak",
         "note": "multilingual",
         "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "הליברל-דמוקרטים הוולשיים",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "威尔士自由民主党",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
       {
-        "url": "https://www.welshlibdems.wales/",
+        "url": "https://www.libdems.wales/",
         "note": "website"
       }
     ],
@@ -795,6 +838,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "vec",
+        "name": "Partio de ła Indipendensa del Reino Unio",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "uz",
+        "name": "Buyuk Britaniya Mustaqillik partiyasi",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -893,7 +948,7 @@
       },
       {
         "lang": "fr",
-        "name": "sans étiquette",
+        "name": "indépendant",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1229,7 +1284,7 @@
       },
       {
         "lang": "ms",
-        "name": "Bebas",
+        "name": "ahli politik bebas",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1259,7 +1314,7 @@
       },
       {
         "lang": "vec",
-        "name": "Poidego independente",
+        "name": "indipendente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1349,7 +1404,7 @@
       },
       {
         "lang": "es",
-        "name": "candidato independiente",
+        "name": "político independiente",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1367,7 +1422,7 @@
       },
       {
         "lang": "bg",
-        "name": "независим",
+        "name": "независим политик",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1414,6 +1469,36 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "pap",
+        "name": "politiko independiente",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "my",
+        "name": "တစ်သီးပုဂ္ဂလ နိုင်ငံရေးသမား",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ms-arab",
+        "name": "اهلي ڤوليتيک بيبس",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "te",
+        "name": "స్వతంత్ర రాజకీయ నాయకుడు",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gv",
+        "name": "politickeyr neuchrogheydagh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "無黨派",
         "note": "multilingual",
@@ -1451,18 +1536,6 @@
       },
       {
         "lang": "fr",
-        "name": "Sans etiquette",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
-        "name": "Indépendant",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "fr",
         "name": "Non-inscrits",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -1470,6 +1543,12 @@
       {
         "lang": "fr",
         "name": "Non-inscrit",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "fr",
+        "name": "sans étiquette",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1577,24 +1656,6 @@
       },
       {
         "lang": "sv",
-        "name": "vänstervilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
-        "name": "liberal vilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
-        "name": "moderat vilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
         "name": "politiska vildar",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -1613,25 +1674,25 @@
       },
       {
         "lang": "sv",
-        "name": "frisinnad vilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
-        "name": "högervilde",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "sv",
         "name": "oberoende",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sv",
+        "name": "utan partibeteckning",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "ar",
         "name": "سياسيون مستقلون",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "مستقل سياسي",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1703,31 +1764,31 @@
       },
       {
         "lang": "da",
-        "name": "Uden for partierne",
+        "name": "uden for partierne",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Frigænger",
+        "name": "frigænger",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Udenfor partierne",
+        "name": "udenfor partierne",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Uafhængig",
+        "name": "uafhængig",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "da",
-        "name": "Partiløs",
+        "name": "partiløs",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1818,6 +1879,18 @@
       {
         "lang": "ca",
         "name": "polític independent",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ca",
+        "name": "indep.",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ca",
+        "name": "INDEP",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1985,12 +2058,6 @@
       },
       {
         "lang": "es",
-        "name": "político independiente",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "es",
         "name": "político sin partido",
         "note": "multilingual",
         "source": "wikidata-alias"
@@ -2054,6 +2121,42 @@
         "name": "беспартийной",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "Bitərəf siyasətçi",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "bitərəf",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "bebas (ahli politik)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ms",
+        "name": "bebas",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ga",
+        "name": "Neamhspleách (polaitíocht)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "bg",
+        "name": "независим",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "DDDDDD"
@@ -2070,6 +2173,12 @@
       {
         "lang": "en",
         "name": "Blaenau Gwent People's Voice",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "布莱耐格温特人民之声",
         "note": "multilingual",
         "source": "wikidata-label"
       }
@@ -2094,6 +2203,12 @@
       {
         "lang": "en",
         "name": "John Marek Independent Party",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "约翰·马雷克独立党",
         "note": "multilingual",
         "source": "wikidata-label"
       }

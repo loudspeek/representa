@@ -81,6 +81,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "zh",
+        "name": "2011年威尔士议会选举",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "en",
         "name": "National Assembly for Wales election, 2011",
         "note": "multilingual",
@@ -192,6 +198,12 @@
         "name": "National Assembly for Wales election, 2007",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "2007年威爾斯國民議會選舉",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "dates": [
@@ -279,6 +291,12 @@
       {
         "lang": "zh",
         "name": "2016年威爾斯議會選舉",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh",
+        "name": "2016年威尔士议会选举",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -426,7 +444,7 @@
       },
       {
         "lang": "ca",
-        "name": "Eleccions al Parlament gal·lès de 2021",
+        "name": "eleccions al Parlament gal·lès de 2021",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -473,6 +491,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "kw",
+        "name": "Etholans Senedh Kembra 2021",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "eu",
+        "name": "2021eko Galesko Legebiltzarrerako hauteskundeak",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2021年威爾斯議會選舉",
         "note": "multilingual",
@@ -509,6 +539,12 @@
       {
         "lang": "en",
         "name": "2018 Alyn and Deeside by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "fr",
+        "name": "élection partielle d'Alyn and Deeside de 2018",
         "note": "multilingual",
         "source": "wikidata-label"
       },
