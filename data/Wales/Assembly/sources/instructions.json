@@ -16,7 +16,7 @@
       "create": {
         "from": "morph",
         "scraper": "mashedkeyboard/welsh-assembly",
-        "query": "SELECT id,name,party,email FROM data ORDER BY id"
+        "query": "SELECT id,name,party,email,image FROM data ORDER BY id"
       },
       "source": "https://senedd.wales/",
       "type": "person",
