@@ -238,11 +238,11 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1683289761",
+        "lastmod": "1683294572",
         "person_count": 161,
-        "sha": "abc28af498c0e498b31310857314f4fde1fc8cd1",
+        "sha": "5a80ba5bf3d9a1154bf993b33972e9f92df33469",
         "legislative_periods": [
           {
             "id": "term/6",
@@ -250,7 +250,7 @@
             "start_date": "2021-05-08",
             "slug": "6",
             "csv": "data/Wales/Assembly/term-6.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-6.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/term-6.csv"
           },
           {
             "end_date": "2021-05-06",
@@ -259,7 +259,7 @@
             "start_date": "2016-05-06",
             "slug": "5",
             "csv": "data/Wales/Assembly/term-5.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-5.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/term-5.csv"
           },
           {
             "end_date": "2016-04-06",
@@ -268,7 +268,7 @@
             "start_date": "2011-09-15",
             "slug": "4",
             "csv": "data/Wales/Assembly/term-4.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-4.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/term-4.csv"
           },
           {
             "end_date": "2011-03-31",
@@ -277,7 +277,7 @@
             "start_date": "2007-05-04",
             "slug": "3",
             "csv": "data/Wales/Assembly/term-3.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-3.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/term-3.csv"
           },
           {
             "end_date": "2007-05-02",
@@ -286,7 +286,7 @@
             "start_date": "2003-05-02",
             "slug": "2",
             "csv": "data/Wales/Assembly/term-2.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-2.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/term-2.csv"
           },
           {
             "end_date": "2003-04-30",
@@ -295,7 +295,7 @@
             "start_date": "1999-05-07",
             "slug": "1",
             "csv": "data/Wales/Assembly/term-1.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-1.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/5a80ba5bf3d9a1154bf993b33972e9f92df33469/data/Wales/Assembly/term-1.csv"
           }
         ],
         "statement_count": 0,
