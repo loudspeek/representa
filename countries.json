@@ -238,19 +238,28 @@
         "slug": "Assembly",
         "sources_directory": "data/Wales/Assembly/sources",
         "popolo": "data/Wales/Assembly/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/02f301ee721f8deee31394097e54e5cdebf24403/data/Wales/Assembly/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/ep-popolo-v1.0.json",
         "names": "data/Wales/Assembly/names.csv",
-        "lastmod": "1682324396",
-        "person_count": 142,
-        "sha": "02f301ee721f8deee31394097e54e5cdebf24403",
+        "lastmod": "1683289761",
+        "person_count": 161,
+        "sha": "abc28af498c0e498b31310857314f4fde1fc8cd1",
         "legislative_periods": [
           {
+            "id": "term/6",
+            "name": "6th Senedd",
+            "start_date": "2021-05-08",
+            "slug": "6",
+            "csv": "data/Wales/Assembly/term-6.csv",
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-6.csv"
+          },
+          {
+            "end_date": "2021-05-06",
             "id": "term/5",
             "name": "5th Welsh Assembly",
             "start_date": "2016-05-06",
             "slug": "5",
             "csv": "data/Wales/Assembly/term-5.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/3ecda70e87c8253d378f9ccc6ff9dab2282f6a6f/data/Wales/Assembly/term-5.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-5.csv"
           },
           {
             "end_date": "2016-04-06",
@@ -259,7 +268,7 @@
             "start_date": "2011-09-15",
             "slug": "4",
             "csv": "data/Wales/Assembly/term-4.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/3ecda70e87c8253d378f9ccc6ff9dab2282f6a6f/data/Wales/Assembly/term-4.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-4.csv"
           },
           {
             "end_date": "2011-03-31",
@@ -268,7 +277,7 @@
             "start_date": "2007-05-04",
             "slug": "3",
             "csv": "data/Wales/Assembly/term-3.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/92be4e5761adc54acad651b46e9b3917b9c43d75/data/Wales/Assembly/term-3.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-3.csv"
           },
           {
             "end_date": "2007-05-02",
@@ -277,7 +286,7 @@
             "start_date": "2003-05-02",
             "slug": "2",
             "csv": "data/Wales/Assembly/term-2.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/92be4e5761adc54acad651b46e9b3917b9c43d75/data/Wales/Assembly/term-2.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-2.csv"
           },
           {
             "end_date": "2003-04-30",
@@ -286,7 +295,7 @@
             "start_date": "1999-05-07",
             "slug": "1",
             "csv": "data/Wales/Assembly/term-1.csv",
-            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/13f38f2a3ac8c5e7427068ab8a177612e437c013/data/Wales/Assembly/term-1.csv"
+            "csv_url": "https://raw.githubusercontent.com/loudspeek/representa/abc28af498c0e498b31310857314f4fde1fc8cd1/data/Wales/Assembly/term-1.csv"
           }
         ],
         "statement_count": 0,
