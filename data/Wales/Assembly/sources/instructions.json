@@ -4,7 +4,7 @@
       "file": "morph/p39s.csv",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/welsh-assembly-p39s",
+        "scraper": "mashedkeyboard/welsh-assembly-p39s",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
@@ -12,25 +12,25 @@
       "sourcetype": "wikidata"
     },
     {
-      "file": "morph/official-5.csv",
+      "file": "morph/official-6.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/welsh-assembly",
-        "query": "SELECT id,name,image,email,website,facebook,twitter,other_name FROM data ORDER BY id"
+        "scraper": "mashedkeyboard/welsh-assembly",
+        "query": "SELECT id,name,party,email FROM data ORDER BY id"
       },
-      "source": "http://www.assembly.wales/",
+      "source": "https://senedd.wales/",
       "type": "person",
       "merge": {
         "incoming_field": "name",
         "existing_field": "name",
-        "reconciliation_file": "reconciliation/official-5.csv"
+        "reconciliation_file": "reconciliation/official-6.csv"
       }
     },
     {
       "file": "morph/wikidata.csv",
       "create": {
         "from": "morph",
-        "scraper": "tmtmtmtm/wales-AMs-wikidata",
+        "scraper": "mashedkeyboard/wales-AMs-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "source": "http://wikidata.org/",
@@ -39,6 +39,16 @@
         "incoming_field": "name",
         "existing_field": "name",
         "reconciliation_file": "reconciliation/wikidata.csv"
+      }
+    },
+    {
+      "file": "archive/official-5.csv",
+      "source": "http://www.assembly.wales/",
+      "type": "person",
+      "merge": {
+        "incoming_field": "name",
+        "existing_field": "name",
+        "reconciliation_file": "reconciliation/official-5.csv"
       }
     },
     {
@@ -63,7 +73,7 @@
       "file": "morph/terms.csv",
       "create": {
         "from": "morph",
-        "scraper": "everypolitician-scrapers/welsh-assembly-terms-wikidata",
+        "scraper": "mashedkeyboard/welsh-assembly-terms-wikidata",
         "query": "SELECT * FROM data ORDER BY id"
       },
       "type": "term"

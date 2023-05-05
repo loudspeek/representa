@@ -441,7 +441,6 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Plaid_cymru_logo.svg",
     "srgb": "3F8428"
   },
   "b2f6b2f1-281c-464f-abc4-4e91a245ee0e": {
@@ -1495,6 +1494,12 @@
       {
         "lang": "gv",
         "name": "politickeyr neuchrogheydagh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ab",
+        "name": "апартиа иалам",
         "note": "multilingual",
         "source": "wikidata-label"
       },
