@@ -549,6 +549,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "sq",
+        "name": "Partia Laburiste",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Labour",
         "note": "multilingual",
@@ -1498,6 +1504,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Conservative_Party_UK_Logo_2022.svg",
     "srgb": "0087DC"
   },
   "liberal-democrat": {
@@ -2078,6 +2085,12 @@
         "name": "Yn Partee Deynlagh Libraalagh",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "de",
+        "name": "LibDem",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -2542,8 +2555,20 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "hy",
+        "name": "Շոտլանդիայի ազգային կուսակցություն",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "SNP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "en",
+        "name": "Scottish National party (SNP)",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2981,6 +3006,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ka",
+        "name": "დემოკრატიული უნიონისტური პარტია",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "北愛民主統一黨",
         "note": "multilingual",
@@ -3037,12 +3068,6 @@
       {
         "lang": "nl",
         "name": "Demecratische Unionistische partij",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "pt",
-        "name": "Dup",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -3919,7 +3944,7 @@
       },
       {
         "lang": "sl",
-        "name": "neodvisni politik",
+        "name": "neodvisen politik",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -3997,7 +4022,7 @@
       },
       {
         "lang": "ku",
-        "name": "Siyasetmedarê serbixwe",
+        "name": "siyasetmedara/ê serbixwe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4046,6 +4071,24 @@
       {
         "lang": "gv",
         "name": "politickeyr neuchrogheydagh",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ab",
+        "name": "апартиа иалам",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ku-latn",
+        "name": "siyasetmedara/ê serbixwe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ckb",
+        "name": "سیاسەتوانێکی سەربەخۆ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4172,6 +4215,12 @@
       {
         "lang": "id",
         "name": "Politikus independen",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "Golongan Putih",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -4708,6 +4757,30 @@
         "name": "независим",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisni politik",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisni kandidat",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisna političarka",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisna kandidatka",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": "DDDDDD"
@@ -4747,7 +4820,7 @@
       },
       {
         "lang": "es",
-        "name": "Partido Unionista del Ulster",
+        "name": "Partido Unionista del Úlster",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -5168,6 +5241,12 @@
       {
         "lang": "id",
         "name": "Partai Kemerdekaan Wales",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kcg",
+        "name": "Sot Kwai-nfwuo-á̱niet Wali̱t",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -6080,7 +6159,8 @@
         "note": "website"
       }
     ],
-    "srgb": "6AB023"
+    "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/GPLogoStackGreenForWeb.jpg",
+    "srgb": "02A95B"
   },
   "respect": {
     "identifiers": [
@@ -6123,13 +6203,7 @@
       },
       {
         "lang": "he",
-        "name": "רספקט",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "it",
-        "name": "Partito del Rispetto",
+        "name": "מפלגת ריספקט",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -6216,6 +6290,66 @@
         "name": "Respect - The Unity Coalition",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "it",
+        "name": "Partito del Rispetto",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "מפלגת רספקט",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "רספקט",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "ריספקט",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "מפלגת הכבוד",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "מפלגת כבוד",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "הכבוד",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "כבוד",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "מיפלגת רספקט",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "he",
+        "name": "סיעת רספקט",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -6224,6 +6358,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Respect_Party_logo.png",
     "srgb": "46801C"
   },
   "ukup": {

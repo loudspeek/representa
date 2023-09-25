@@ -544,6 +544,140 @@
       "Charles Grey, 2nd Earl Grey"
     ]
   },
+  "Q119463311": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q119463311"
+      }
+    ],
+    "name": "2023 Uxbridge and South Ruislip by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2023 Uxbridge and South Ruislip by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023-07-20"
+    ],
+    "office": "member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Steve Tuckwell"
+    ]
+  },
+  "Q119463634": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q119463634"
+      }
+    ],
+    "name": "2023 Selby and Ainsty by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2023 Selby and Ainsty by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023-07-20"
+    ],
+    "office": "member of the 58th Parliament of the United Kingdom"
+  },
+  "Q119463834": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q119463834"
+      }
+    ],
+    "name": "2023 Mid Bedfordshire by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2023 Mid Bedfordshire by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023-10-19"
+    ],
+    "office": "member of the 58th Parliament of the United Kingdom"
+  },
+  "Q119840923": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q119840923"
+      }
+    ],
+    "name": "2023 Rutherglen and Hamilton West by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2023 Rutherglen and Hamilton West by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023-10-05"
+    ],
+    "office": "member of the 58th Parliament of the United Kingdom"
+  },
+  "Q119858229": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q119858229"
+      }
+    ],
+    "name": "2023 Somerton and Frome by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2023 Somerton and Frome by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023-07-20"
+    ],
+    "office": "member of the 58th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "Sarah Dyke"
+    ],
+    "eligible_voters": "87921",
+    "ballots_cast": "38885"
+  },
+  "Q122305573": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q122305573"
+      }
+    ],
+    "name": "2023 Tamworth by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "2023 Tamworth by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "2023-10-19"
+    ],
+    "office": "member of the 58th Parliament of the United Kingdom"
+  },
   "Q15615633": {
     "identifiers": [
       {
@@ -1862,6 +1996,12 @@
       {
         "lang": "hu",
         "name": "2010-es parlamenti választások az Egyesült Királyságban",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ckb",
+        "name": "ھەڵبژاردنی گشتیی شانشینی یەکگرتوو ساڵی ٢٠١٠",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -4878,6 +5018,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ta",
+        "name": "ஐக்கிய இராச்சியப் பொதுத் தேர்தல், 2019",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "2019年英國大選",
         "note": "multilingual",
@@ -5501,6 +5647,12 @@
       {
         "lang": "ja",
         "name": "1952年イギリス総選挙",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ja",
+        "name": "グレートブリテン及び北アイルランド連合王国議会総選挙",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -6359,6 +6511,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "1812年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "ro",
         "name": "Alegerile generale din Regatul Unit",
         "note": "multilingual",
@@ -6893,6 +7051,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh",
+        "name": "1818年英國大選",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "United Kingdom general election, 1818",
         "note": "multilingual",
@@ -7058,6 +7222,12 @@
       {
         "lang": "ca",
         "name": "eleccions al Parlament del Regne Unit de 1820",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1820年英國大選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -7631,6 +7801,12 @@
       {
         "lang": "ga",
         "name": "Olltoghchán na Ríochta Aontaithe 1802",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1802年英國大選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -8390,6 +8566,12 @@
       {
         "lang": "ga",
         "name": "Olltoghchán na Ríochta Aontaithe 1806",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "zh",
+        "name": "1806年英國大選",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -9276,6 +9458,30 @@
     "office": "Prime Minister of the United Kingdom",
     "successful_candidates": [
       "Tony Blair"
+    ]
+  },
+  "Q96359706": {
+    "identifiers": [
+      {
+        "scheme": "wikidata",
+        "identifier": "Q96359706"
+      }
+    ],
+    "name": "1866 Helston by-election",
+    "other_names": [
+      {
+        "lang": "en",
+        "name": "1866 Helston by-election",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      }
+    ],
+    "dates": [
+      "1866-05-01"
+    ],
+    "office": "member of the 19th Parliament of the United Kingdom",
+    "successful_candidates": [
+      "William Brett, 1st Viscount Esher"
     ]
   },
   "Q969827": {
