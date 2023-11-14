@@ -15,7 +15,7 @@
       "create": {
         "from": "morph",
         "scraper": "mashedkeyboard/uk-parliament-members",
-        "query": "SELECT id, name, sort_name, birth_date, death_date, gender, email, phone, fax, website, twitter, facebook, blog, youtube, flickr, identifier__dods, identifier__pims FROM data ORDER BY id"
+        "query": "SELECT id, name, sort_name, birth_date, death_date, gender, email, phone, fax, website, twitter, facebook, blog, youtube, flickr, identifier__dods, identifier__pims, id AS identifier__datadotparl FROM data ORDER BY id"
       },
       "type": "person",
       "source": "http://data.parliament.uk",
