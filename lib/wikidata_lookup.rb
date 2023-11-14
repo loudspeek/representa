@@ -157,7 +157,9 @@ class ElectionLookup < WikidataLookup
       successful_candidates: result.P991s,
       eligible_voters:       result.P1867,
       ballots_cast:          result.P1868,
-    }.reject { |_, v| v.nil? || [*v].empty? }
+    }.reject { |_, v| v.nil? || [*v].empty? }.map do |k, v|
+      [k, v.is_a?(Array) ? v.map{|i| i.value} : v.value]
+    end.to_h
   end
 
   private

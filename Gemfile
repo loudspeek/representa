@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-ruby '~> 2.4.0'
+ruby '3.2.0'
 
 git_source(:github) { |repo_name| "https://github.com/#{repo_name}.git" }
 
@@ -29,7 +29,7 @@ gem 'sass'
 gem 'slop', '~> 3.6.0' # tied to pry version
 gem 'twitter_username_extractor', github: 'everypolitician/twitter_username_extractor'
 gem 'unicode_utils'
-gem 'wikisnakker', github: 'everypolitician/wikisnakker'
+gem 'wikisnakker', github: 'mashedkeyboard/wikisnakker'
 gem 'yajl-ruby', require: 'yajl'
 
 group :test do
@@ -43,3 +43,5 @@ group :test do
 end
 
 gem "activesupport", "~> 5.2"
+
+gem "faraday-retry", "~> 2.2"

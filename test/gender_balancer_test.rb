@@ -10,7 +10,7 @@ describe 'Serbia' do
   subject do
     GenderBalancer.new(
       CSV.parse(
-        open('http://www.gender-balance.org/export/Serbia/National-Assembly').read,
+        URI.open('http://www.gender-balance.org/export/Serbia/National-Assembly').read,
         headers: true, header_converters: :symbol
       )
     )

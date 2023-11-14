@@ -56,7 +56,7 @@ class ParlparseToCSV
   private
 
   def self.json_load(file)
-    JSON.parse(open(file).read, symbolize_names: true)
+    JSON.parse(URI.open(file).read, symbolize_names: true)
   end
 
   def self.display_name(name)

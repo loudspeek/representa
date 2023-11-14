@@ -3,6 +3,7 @@
 require_relative './wikidata_lookup'
 require 'json'
 require 'csv'
+require 'active_support/json'
 
 class RemoteSource
   # Instantiate correct subclass based on instructions
@@ -36,7 +37,7 @@ class RemoteSource
   end
 
   def copy_url(url)
-    IO.copy_stream(open(url), i(:file))
+    IO.copy_stream(URI.open(url), i(:file))
   rescue => e
     abort "Failed to GET #{url}: #{e.message}"
   end
@@ -62,7 +63,7 @@ class RemoteSource::Morph < RemoteSource
     query = ERB::Util.url_encode(query.gsub(/\s+/, ' ').strip)
     url = "https://api.morph.io/#{src}/data.csv?key=#{key}&query=#{query}"
     begin
-      open(url).read
+      URI.open(url).read
     rescue => e
       abort "Failed to perform morph query #{query.inspect}: #{e.message}"
     end
