@@ -57,9 +57,9 @@ GIT
 
 GIT
   remote: https://github.com/mashedkeyboard/wikisnakker.git
-  revision: 72090a4707d5825da57d597e69dfad29fc26863b
+  revision: 964f2cb64c132a196bc830bb0b2446e77624148e
   specs:
-    wikisnakker (0.10.0)
+    wikisnakker (0.10.1)
       require_all
       yajl-ruby
 
