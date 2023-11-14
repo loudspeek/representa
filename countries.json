@@ -153,11 +153,11 @@
         "slug": "Commons",
         "sources_directory": "data/UK/Commons/sources",
         "popolo": "data/UK/Commons/ep-popolo-v1.0.json",
-        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/d26d9d8510b17e86e927fc22cadc2e973d34dbca/data/UK/Commons/ep-popolo-v1.0.json",
+        "popolo_url": "https://raw.githubusercontent.com/loudspeek/representa/a8da1e6ae24f55df6eaf5adf50b340f7efe069ac/data/UK/Commons/ep-popolo-v1.0.json",
         "names": "data/UK/Commons/names.csv",
-        "lastmod": "1699973972",
+        "lastmod": "1699974631",
         "person_count": 1598,
-        "sha": "d26d9d8510b17e86e927fc22cadc2e973d34dbca",
+        "sha": "a8da1e6ae24f55df6eaf5adf50b340f7efe069ac",
         "legislative_periods": [
           {
             "id": "term/58",
