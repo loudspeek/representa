@@ -1970,9 +1970,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10775,David Cairns,3823,,uk.org.publicwhip/person/10775,Inverclyde,uk.org.publicwhip/cons/699,Labour,labour,2010-05-06,general_election,2011-05-09,died,55
 10776,Patsy Calton,3824,,uk.org.publicwhip/person/10776,Cheadle,uk.org.publicwhip/cons/127,Liberal Democrat,liberal-democrat,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10776,Patsy Calton,3824,,uk.org.publicwhip/person/10776,Cheadle,uk.org.publicwhip/cons/127,Liberal Democrat,liberal-democrat,2005-05-05,general_election,2005-05-29,died,54
-10777,David Cameron,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10777,David Cameron,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10777,David Cameron,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
+10777,Lord Cameron of Chipping Norton,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10777,Lord Cameron of Chipping Norton,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10777,Lord Cameron of Chipping Norton,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2005-05-05,general_election,2010-04-12,general_election_standing,54
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2010-05-06,general_election,2015-03-30,general_election,55
@@ -3090,7 +3090,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11172,Mark Prisk,5559,1424,uk.org.publicwhip/person/11172,Hertford and Stortford,uk.org.publicwhip/cons/289,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24953,Heidi Alexander,,4038,uk.org.publicwhip/person/24953,Lewisham East,uk.org.publicwhip/cons/338,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 10882,Paul Farrelly,4187,1436,uk.org.publicwhip/person/10882,Newcastle-under-Lyme,uk.org.publicwhip/cons/397,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
-10777,David Cameron,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2015-05-08,general_election,2016-09-12,resigned,56
+10777,Lord Cameron of Chipping Norton,3827,1467,uk.org.publicwhip/person/10777,Witney,uk.org.publicwhip/cons/641,Conservative,conservative,2015-05-08,general_election,2016-09-12,resigned,56
 11095,Rob Marris,5238,1468,uk.org.publicwhip/person/11095,Wolverhampton South West,uk.org.publicwhip/cons/646,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 11455,Kerry McCarthy,,1491,uk.org.publicwhip/person/11455,Bristol East,uk.org.publicwhip/cons/90,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 10202,Caroline Flint,278,389,uk.org.publicwhip/person/10202,Don Valley,uk.org.publicwhip/cons/174,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -4399,7 +4399,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25658,Stephen Morgan,,4653,uk.org.publicwhip/person/25658,Portsmouth South,uk.org.publicwhip/cons/461,Labour,labour,2019-12-13,general_election,,,58
 25692,Rachel Maclean,,4668,uk.org.publicwhip/person/25692,Redditch,uk.org.publicwhip/cons/470,Conservative,conservative,2019-12-13,general_election,,,58
 11087,Khalid Mahmood,5156,1392,uk.org.publicwhip/person/11087,"Birmingham, Perry Barr",uk.org.publicwhip/cons/52,Labour,labour,2019-12-13,general_election,,,58
-10367,Tony Lloyd,440,450,uk.org.publicwhip/person/10367,Rochdale,uk.org.publicwhip/cons/477,Labour,labour,2019-12-13,general_election,,,58
+10367,Tony Lloyd,440,450,uk.org.publicwhip/person/10367,Rochdale,uk.org.publicwhip/cons/477,Labour,labour,2019-12-13,general_election,2024-01-17,died,58
 11973,Stewart Hosie,,1514,uk.org.publicwhip/person/11973,Dundee East,uk.org.publicwhip/cons/183,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25659,Alex Burghart,,4613,uk.org.publicwhip/person/25659,Brentwood and Ongar,uk.org.publicwhip/cons/84,Conservative,conservative,2019-12-13,general_election,,,58
 11640,James Brokenshire,,1530,uk.org.publicwhip/person/11640,Old Bexley and Sidcup,uk.org.publicwhip/cons/441,Conservative,conservative,2019-12-13,general_election,2021-10-07,died,58
@@ -4495,7 +4495,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25326,Neil Coyle,,4368,uk.org.publicwhip/person/25326,Bermondsey and Old Southwark,uk.org.publicwhip/cons/2171,Labour,labour,2019-12-13,general_election,,,58
 25307,Martyn Day,,4488,uk.org.publicwhip/person/25307,Linlithgow and East Falkirk,uk.org.publicwhip/cons/704,Scottish National Party,scottish-national-party,2019-12-13,general_election,,,58
 25673,Sarah Jones,,4631,uk.org.publicwhip/person/25673,Croydon Central,uk.org.publicwhip/cons/157,Labour,labour,2019-12-13,general_election,,,58
-24713,Chris Skidmore,,4021,uk.org.publicwhip/person/24713,Kingswood,uk.org.publicwhip/cons/321,Conservative,conservative,2019-12-13,general_election,,,58
+24713,Chris Skidmore,,4021,uk.org.publicwhip/person/24713,Kingswood,uk.org.publicwhip/cons/321,Conservative,conservative,2019-12-13,general_election,2024-01-08,resigned,58
 10707,Richard Bacon,3670,1451,uk.org.publicwhip/person/10707,South Norfolk,uk.org.publicwhip/cons/523,Conservative,conservative,2019-12-13,general_election,,,58
 10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2019-12-13,general_election,,,58
 25475,Jim McMahon,,4569,uk.org.publicwhip/person/25475,Oldham West and Royton,uk.org.publicwhip/cons/443,Labour/Co-operative,labourco-operative,2019-12-13,general_election,,,58
@@ -4771,6 +4771,8 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25676,Bambos Charalambous,,4610,uk.org.publicwhip/person/25676,"Enfield, Southgate",uk.org.publicwhip/cons/218,Independent,independent,2023-06-09,changed_party,,,58
 12004,Angus MacNeil,,1546,uk.org.publicwhip/person/12004,Na h-Eileanan an Iar,uk.org.publicwhip/cons/632,Independent,independent,2023-07-05,changed_party,,,58
 25276,Lisa Cameron,,4412,uk.org.publicwhip/person/25276,"East Kilbride, Strathaven and Lesmahagow",uk.org.publicwhip/cons/681,Conservative,conservative,2023-10-13,changed_party,,,58
-11915,Peter Bone,,1581,uk.org.publicwhip/person/11915,Wellingborough,uk.org.publicwhip/cons/615,Independent,independent,2023-10-17,changed_party,,,58
-26277,Sarah Edwards,,,uk.org.publicwhip/person/26277,Tamworth,uk.org.publicwhip/cons/571,Labour,labour,2023-10-20,by_election,,,58
-26278,Alistair Strathern,,,uk.org.publicwhip/person/26278,Mid Bedfordshire,uk.org.publicwhip/cons/371,Labour,labour,2023-10-20,by_election,,,58
+11915,Peter Bone,,1581,uk.org.publicwhip/person/11915,Wellingborough,uk.org.publicwhip/cons/615,Independent,independent,2023-10-17,changed_party,2023-12-19,recall_petition,58
+26277,Sarah Edwards,,5001,uk.org.publicwhip/person/26277,Tamworth,uk.org.publicwhip/cons/571,Labour,labour,2023-10-20,by_election,,,58
+26278,Alistair Strathern,,5000,uk.org.publicwhip/person/26278,Mid Bedfordshire,uk.org.publicwhip/cons/371,Labour,labour,2023-10-20,by_election,,,58
+26287,Damien Egan,,5010,uk.org.publicwhip/person/26287,Kingswood,uk.org.publicwhip/cons/321,Labour,labour,2024-02-16,by_election,,,58
+26288,Gen Kitchen,,5011,uk.org.publicwhip/person/26288,Wellingborough,uk.org.publicwhip/cons/615,Labour,labour,2024-02-16,by_election,,,58
