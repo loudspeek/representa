@@ -17,6 +17,10 @@
       "id": "0466dffe-1daa-404e-b17e-af90f8963ef8",
       "identifiers": [
         {
+          "identifier": "a47f3357-7a55-4beb-a3c4-bba26e8f2279",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8374",
           "scheme": "democracyclub"
         },
@@ -123,6 +127,10 @@
       "id": "04bc51aa-6851-4636-8706-d3b7090c4643",
       "identifiers": [
         {
+          "identifier": "793bdfd7-b34a-4e88-a102-f175db140d02",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "7861",
           "scheme": "democracyclub"
         },
@@ -195,6 +203,14 @@
       "id": "06c837dd-18e5-400d-9cd9-bec7b16076a3",
       "identifiers": [
         {
+          "identifier": "b50d4624-b99d-4d7d-994d-1b2423281803",
+          "scheme": "bbc_things"
+        },
+        {
+          "identifier": "8273",
+          "scheme": "democracyclub"
+        },
+        {
           "identifier": "582",
           "scheme": "everypolitician_legacy"
         },
@@ -207,7 +223,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "0000 0000 4915 890X",
+          "identifier": "000000004915890X",
           "scheme": "isni"
         },
         {
@@ -262,7 +278,14 @@
           "url": "http://www.leightonandrews.com"
         }
       ],
-      "name": "Leighton Andrews"
+      "name": "Leighton Andrews",
+      "other_names": [
+        {
+          "lang": "ja",
+          "name": "レイトン・アンドルーズ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1979-04-17",
@@ -287,6 +310,10 @@
       "id": "08254a5f-fd4a-4aa9-b404-5df06c854c71",
       "identifiers": [
         {
+          "identifier": "830e0c57-749f-40a1-a944-14a7c21d4f60",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "7872",
           "scheme": "democracyclub"
         },
@@ -309,7 +336,7 @@
           "url": "https://business.senedd.wales/UserData/2/1/1/Info00005112/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Hannah_Blythyn_AM_(27555185853).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/Hannah_Blythyn_official_portrait_(cropped).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/2/1/1/Info00005112/bigpic.jpg"
@@ -370,6 +397,10 @@
       "given_name": "Delyth",
       "id": "08305023-4afd-47b2-8fd8-b5a03c2a222e",
       "identifiers": [
+        {
+          "identifier": "4297",
+          "scheme": "democracyclub"
+        },
         {
           "identifier": "/m/02r39lg",
           "scheme": "freebase"
@@ -471,6 +502,10 @@
       "id": "0c9cf09f-a09c-47f9-a641-6d0dbb23110c",
       "identifiers": [
         {
+          "identifier": "7d9bf1d9-de5b-4ac9-8f1d-b1e142e37e99",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "2730",
           "scheme": "democracyclub"
         },
@@ -517,12 +552,20 @@
           "url": "https://en.wikipedia.org/wiki/Llyr_Gruffydd"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Llyr_Gruffydd"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/LlyrGruffydd"
         },
         {
           "note": "twitter",
           "url": "https://twitter.com/LlyrGruffydd"
+        },
+        {
+          "note": "website",
+          "url": "https://www.llyrgruffydd.cymru/"
         }
       ],
       "name": "Llyr Huws Gruffydd",
@@ -598,6 +641,10 @@
       "given_name": "Gwyn",
       "id": "0e8594ca-2cc5-4c5a-bb9c-7b282f9ec05a",
       "identifiers": [
+        {
+          "identifier": "b05e3f08-a28c-4d10-961f-2f2b1078158b",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "287",
           "scheme": "everypolitician_legacy"
@@ -864,6 +911,10 @@
       "id": "110f41fd-6ecd-4d37-8894-7d7451f823c7",
       "identifiers": [
         {
+          "identifier": "f2daf873-5082-4c45-a4f0-c758190dfcd7",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "138",
           "scheme": "everypolitician_legacy"
         },
@@ -1091,6 +1142,10 @@
       "id": "156c204a-9f5d-45dc-9d93-98eba05c5add",
       "identifiers": [
         {
+          "identifier": "88a41e4a-e6e1-48cb-83df-c5e8769da2d6",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9019",
           "scheme": "democracyclub"
         },
@@ -1125,7 +1180,7 @@
           "url": "https://business.senedd.wales/UserData/2/3/3/Info00000332/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Mike_Hedges_AM.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Members_of_the_Fifth_Senedd_(taken_May_11,_2011)_Members_of_the_Fifth_Senedd_Mike_Hedges_AS_MS_(28170821805).png"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/2/3/3/Info00000332/bigpic.jpg"
@@ -1188,6 +1243,10 @@
       "id": "15761ce7-71b3-4691-a080-d2727bd2966e",
       "identifiers": [
         {
+          "identifier": "d5ccd9b9-42ba-4ff8-869a-a4e1bf67dca3",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8042",
           "scheme": "democracyclub"
         },
@@ -1200,7 +1259,7 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "0000 0003 7862 262X",
+          "identifier": "000000037862262X",
           "scheme": "isni"
         },
         {
@@ -1294,7 +1353,11 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "0000 0001 2278 588X",
+          "identifier": "/g/113rj14yb",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "000000012278588X",
           "scheme": "isni"
         },
         {
@@ -1526,6 +1589,10 @@
       "id": "1a0973b2-e9e8-4b6c-91a7-82099578d606",
       "identifiers": [
         {
+          "identifier": "0b863dee-9ae3-4749-a606-a838821cc856",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8049",
           "scheme": "democracyclub"
         },
@@ -1661,6 +1728,10 @@
       "id": "1bf1a090-aa1f-4779-a667-d95b4981fc2d",
       "identifiers": [
         {
+          "identifier": "f817baf1-92f2-4b58-8a8d-14cffbedd0c7",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "793",
           "scheme": "democracyclub"
         },
@@ -1775,6 +1846,10 @@
       "given_name": "Julie",
       "id": "1d2c8e4c-6dd2-4991-99a9-6030ef37a879",
       "identifiers": [
+        {
+          "identifier": "5ed5918a-01ae-46e6-af28-0283436f0b62",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "7500",
           "scheme": "democracyclub"
@@ -1970,6 +2045,10 @@
       "id": "1ee666d1-225f-4561-92da-cfcb94b91a6d",
       "identifiers": [
         {
+          "identifier": "f2511fce-655c-4579-9e9c-645cc582fddb",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9362",
           "scheme": "democracyclub"
         },
@@ -1990,7 +2069,7 @@
           "scheme": "hansard"
         },
         {
-          "identifier": "0000 0000 4463 3548",
+          "identifier": "0000000044633548",
           "scheme": "isni"
         },
         {
@@ -2004,6 +2083,10 @@
         {
           "identifier": "8448",
           "scheme": "rush"
+        },
+        {
+          "identifier": "13234",
+          "scheme": "twfy"
         },
         {
           "identifier": "2vhLsJfq",
@@ -2122,6 +2205,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11py6q58py",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8733",
           "scheme": "welsh_assembly"
         },
@@ -2134,6 +2221,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/3/3/7/Info00008733/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Tom-giffard.jpg"
         }
       ],
       "links": [
@@ -2174,6 +2264,10 @@
         {
           "identifier": "31694",
           "scheme": "bbc_democracy_live"
+        },
+        {
+          "identifier": "8148f32c-614e-4c81-85ff-fcd42f507f0b",
+          "scheme": "bbc_things"
         },
         {
           "identifier": "4792",
@@ -2242,6 +2336,10 @@
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/David_Jones_(gwleidydd_Cymreig)"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/David_Jones_(Politiker,_1952)"
         },
         {
           "note": "Wikipedia (en)",
@@ -2348,6 +2446,10 @@
       "id": "22f2adad-3eca-4e5d-a946-7bea3174ef29",
       "identifiers": [
         {
+          "identifier": "a4f28826-62bf-4b1d-b420-c7d37743bf64",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8089",
           "scheme": "democracyclub"
         },
@@ -2382,7 +2484,7 @@
           "url": "https://business.senedd.wales/UserData/2/6/1/Info00000162/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Elin_Jones_AM_(27889497280).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Elin-jones.jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/2/6/1/Info00000162/bigpic.jpg"
@@ -2582,6 +2684,10 @@
           "url": "https://mg.wikipedia.org/wiki/Leanne_Wood"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Leanne_Wood"
+        },
+        {
           "note": "Wikipedia (pt)",
           "url": "https://pt.wikipedia.org/wiki/Leanne_Wood"
         },
@@ -2652,7 +2758,7 @@
         },
         {
           "lang": "ru",
-          "name": "Вуд, Лианн",
+          "name": "Лианн Вуд",
           "note": "multilingual"
         },
         {
@@ -2688,6 +2794,10 @@
         {
           "identifier": "27862",
           "scheme": "democracyclub"
+        },
+        {
+          "identifier": "/g/11rbq68jpg",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "8643",
@@ -2755,6 +2865,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11nh091szm",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8594",
           "scheme": "welsh_assembly"
         },
@@ -2784,6 +2898,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Sarah_Murphy_(politician)"
+        },
+        {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Sarah_Murphy"
         },
         {
           "note": "twitter",
@@ -2988,6 +3106,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11pxz_flsm",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8642",
           "scheme": "welsh_assembly"
         },
@@ -3044,6 +3166,10 @@
       "given_name": "Jocelyn",
       "id": "31adc697-9e5c-48f0-bee6-c7d3b8c1b8a0",
       "identifiers": [
+        {
+          "identifier": "c8421ce1-8e53-4dc3-94e6-1e19e7057279",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "144",
           "scheme": "everypolitician_legacy"
@@ -3116,6 +3242,10 @@
       "id": "3396369e-5e6b-4c2b-99ee-0c7f3cce0018",
       "identifiers": [
         {
+          "identifier": "aa5e814d-4b4a-4194-a021-60af6f8bffa3",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "7565",
           "scheme": "democracyclub"
         },
@@ -3142,7 +3272,7 @@
           "url": "https://business.senedd.wales/UserData/4/5/1/Info00000154/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Lesley_Griffiths.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Lesley_Griffiths_(cropped_official_portrait).JPG"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/4/5/1/Info00000154/bigpic.jpg"
@@ -3209,6 +3339,10 @@
       "given_name": "Lee",
       "id": "34594394-8bb7-47b9-9679-f4c984e76ec9",
       "identifiers": [
+        {
+          "identifier": "b2582579-184a-49ac-89cd-8bae0e763b16",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "7453",
           "scheme": "democracyclub"
@@ -3356,7 +3490,7 @@
           "url": "https://business.senedd.wales/UserData/9/4/2/Info00000249/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Vaughan_Gething.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Vaughan_Gething_(cropped_official_portrait).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/9/4/2/Info00000249/bigpic.jpg"
@@ -3384,6 +3518,42 @@
           "url": "https://en.wikipedia.org/wiki/Vaughan_Gething"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/وان_گتینگ"
+        },
+        {
+          "note": "Wikipedia (fi)",
+          "url": "https://fi.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
+          "note": "Wikipedia (kw)",
+          "url": "https://kw.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Гетинг,_Вон"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/vaughan.gethingassembly"
         },
@@ -3405,6 +3575,16 @@
         {
           "lang": "arz",
           "name": "ڤاوجان جيثينج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fa",
+          "name": "وان گتینگ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Вон Гетинг",
           "note": "multilingual"
         },
         {
@@ -3448,6 +3628,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Helen_Mary_Jones"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Helen_Mary_Jones"
@@ -3569,7 +3753,7 @@
           "scheme": "hansard"
         },
         {
-          "identifier": "0000 0000 3524 0718",
+          "identifier": "0000000035240718",
           "scheme": "isni"
         },
         {
@@ -3707,6 +3891,10 @@
       "id": "3a441cf2-fe19-442f-8b15-e544b8b8dc09",
       "identifiers": [
         {
+          "identifier": "90e28415-3c75-42dc-99a4-0173d23ee58b",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "4182",
           "scheme": "democracyclub"
         },
@@ -3792,6 +3980,10 @@
         {
           "identifier": "7289",
           "scheme": "rush"
+        },
+        {
+          "identifier": "20571",
+          "scheme": "twfy"
         },
         {
           "identifier": "mRDdv4j2",
@@ -3959,16 +4151,8 @@
       "id": "3e56dafe-012b-44cc-a187-bba29b13424f",
       "identifiers": [
         {
-          "identifier": "1436345",
-          "scheme": "fast"
-        },
-        {
           "identifier": "/m/05ypyx4",
           "scheme": "freebase"
-        },
-        {
-          "identifier": "n97021471",
-          "scheme": "nukat"
         },
         {
           "identifier": "4464",
@@ -4001,11 +4185,6 @@
           "note": "multilingual"
         },
         {
-          "lang": "cs",
-          "name": "G. E.(Gareth Elwyn) Jones",
-          "note": "multilingual"
-        },
-        {
           "lang": "ru",
           "name": "Гарет Джонс",
           "note": "multilingual"
@@ -4019,6 +4198,10 @@
       "given_name": "Janet",
       "id": "41b814c9-495d-49cc-9ae0-8a166382b1a3",
       "identifiers": [
+        {
+          "identifier": "2728",
+          "scheme": "democracyclub"
+        },
         {
           "identifier": "/m/02r3kpb",
           "scheme": "freebase"
@@ -4075,6 +4258,10 @@
           "scheme": "rush"
         },
         {
+          "identifier": "11426",
+          "scheme": "twfy"
+        },
+        {
           "identifier": "RlKKVBBa",
           "scheme": "ukparliamentid"
         },
@@ -4102,6 +4289,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Peter_Law"
+        },
         {
           "note": "Wikipedia (ar)",
           "url": "https://ar.wikipedia.org/wiki/بيتر_لو"
@@ -4164,6 +4355,10 @@
       "given_name": "Darren",
       "id": "42e772e8-3d01-4dea-b0bc-5fc5ba641079",
       "identifiers": [
+        {
+          "identifier": "177638c9-6e60-4fa6-9a17-ed73cdca9410",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8094",
           "scheme": "democracyclub"
@@ -4274,6 +4469,10 @@
       "id": "451236de-0f5e-448b-a11c-7923bd704fb8",
       "identifiers": [
         {
+          "identifier": "ce60fe20-6e4a-43c8-a0fe-a2e67df3ea0a",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "5574",
           "scheme": "democracyclub"
         },
@@ -4366,6 +4565,11 @@
           "lang": "cy",
           "name": "Nathan Lee Gill",
           "note": "multilingual"
+        },
+        {
+          "lang": "ko",
+          "name": "네이선 길",
+          "note": "multilingual"
         }
       ]
     },
@@ -4391,6 +4595,10 @@
       "given_name": "Jeremy",
       "id": "4656e912-817a-4814-91fa-d63cc963303a",
       "identifiers": [
+        {
+          "identifier": "e152ea4f-62fe-45cb-90a8-ec875a5ffc1e",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "9273",
           "scheme": "democracyclub"
@@ -4418,7 +4626,7 @@
           "url": "https://business.senedd.wales/UserData/1/2/0/Info00005021/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Jeremy_Miles_AM_(28170809995).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Jeremy_Miles_official_portrait_(cropped).png"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/1/2/0/Info00005021/bigpic.jpg"
@@ -4426,12 +4634,20 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jeremy_Miles"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Jeremy_Miles"
         },
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jeremy_Miles"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jeremy_Miles"
         },
         {
           "note": "Wikipedia (vi)",
@@ -4487,6 +4703,10 @@
       "given_name": "Joyce",
       "id": "4874f776-d3de-47e6-a7c6-310d6094ce1a",
       "identifiers": [
+        {
+          "identifier": "3c669b3d-f853-4029-8baf-cf26a839d4e2",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "16830",
           "scheme": "democracyclub"
@@ -4633,6 +4853,10 @@
           "scheme": "rush"
         },
         {
+          "identifier": "10414",
+          "scheme": "twfy"
+        },
+        {
           "identifier": "heYqJ0U6",
           "scheme": "ukparliamentid"
         },
@@ -4701,6 +4925,10 @@
       "given_name": "Jeffrey",
       "id": "4bb53c5a-0197-44ab-98ee-296b2bff3868",
       "identifiers": [
+        {
+          "identifier": "b61294c6-6b7d-4aed-8802-6900360e0e12",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "7802",
           "scheme": "democracyclub"
@@ -4785,6 +5013,10 @@
       "id": "4e31d446-8dd5-405a-a37f-bab74e27b406",
       "identifiers": [
         {
+          "identifier": "5317e889-f273-483a-b8a9-819f978a469d",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8125",
           "scheme": "democracyclub"
         },
@@ -4805,10 +5037,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/Andrew_R._T._Davies.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/Andrew_RT_Davies_2016.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Andrew_R._T._Davies.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Andrew_RT_Davies_2016.jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/3/4/1/Info00000143/bigpic.jpg"
@@ -4817,7 +5049,7 @@
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Andrew_R._T._Davies"
+          "url": "https://commons.wikimedia.org/wiki/Category:Andrew_RT_Davies"
         },
         {
           "note": "Wikipedia (ar)",
@@ -4853,22 +5085,114 @@
         },
         {
           "note": "website",
-          "url": "https://www.andrewrtdavies.co.uk/﻿"
+          "url": "https://andrewrtdavies.co.uk/"
         }
       ],
-      "name": "Andrew R. T. Davies",
+      "name": "Andrew RT Davies",
       "other_names": [
-        {
-          "name": "Andrew RT Davies",
-          "note": "alternate"
-        },
-        {
-          "name": "Andrew RT Davies",
-          "note": "alternate"
-        },
         {
           "lang": "ar",
           "name": "أندرو ديفيز",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ast",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ca",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cy",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "da",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "de",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "es",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fi",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "fr",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "gl",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hu",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "it",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nb",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "nl",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pl",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "pt-br",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sl",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sq",
+          "name": "Andrew R. T. Davies",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sv",
+          "name": "Andrew R. T. Davies",
           "note": "multilingual"
         },
         {
@@ -4891,6 +5215,10 @@
       "given_name": "Kirsty",
       "id": "4f3c08a4-e462-40cb-9a07-bb00017c38e8",
       "identifiers": [
+        {
+          "identifier": "c44c6df0-3530-4fe3-a735-0452dcfa3516",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8060",
           "scheme": "democracyclub"
@@ -4920,10 +5248,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kirsty_Williams_2011.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/53/Kirsty_Williams_AM_(28092338171).jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Kirsty_Williams_2011.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/Kirsty_Williams_AM_(28092338171).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/4/8/1/Info00000184/bigpic.jpg"
@@ -4985,6 +5313,10 @@
       "id": "52c8ed62-459c-4da6-874f-b527b3624e76",
       "identifiers": [
         {
+          "identifier": "34372614-b745-43b7-9c67-ab85c9b43652",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "155",
           "scheme": "everypolitician_legacy"
         },
@@ -5024,8 +5356,16 @@
           "url": "https://cy.wikipedia.org/wiki/Edwina_Hart"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Edwina_Hart"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Edwina_Hart"
+        },
+        {
+          "note": "Wikipedia (ig)",
+          "url": "https://ig.wikipedia.org/wiki/Edwina_Hart"
         }
       ],
       "name": "Edwina Hart"
@@ -5078,6 +5418,10 @@
         {
           "identifier": "395",
           "scheme": "rush"
+        },
+        {
+          "identifier": "10320",
+          "scheme": "twfy"
         },
         {
           "identifier": "piQcL1Zr",
@@ -5237,8 +5581,16 @@
       "id": "541a25f6-517f-464c-81b7-cc53742f4662",
       "identifiers": [
         {
+          "identifier": "03a8761c-f68f-4300-ad86-917f3619947c",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9354",
           "scheme": "democracyclub"
+        },
+        {
+          "identifier": "/g/11rbs4dxg5",
+          "scheme": "google_knowledge"
         },
         {
           "identifier": "8734",
@@ -5253,6 +5605,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/4/3/7/Info00008734/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Sam-rowlands.jpg"
         }
       ],
       "links": [
@@ -5304,6 +5659,10 @@
       "id": "54bf56c5-f61f-4827-9fe3-5d49650bbf59",
       "identifiers": [
         {
+          "identifier": "a4de82a8-2479-4102-af8a-c4e264ae3aae",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "7590",
           "scheme": "democracyclub"
         },
@@ -5346,6 +5705,10 @@
           "url": "https://cy.wikipedia.org/wiki/Ken_Skates"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Ken_Skates"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Ken_Skates"
         },
@@ -5359,7 +5722,7 @@
         },
         {
           "note": "website",
-          "url": "http://www.KenSkates.co.uk"
+          "url": "https://www.kenskates.co.uk"
         }
       ],
       "name": "Ken Skates",
@@ -5495,6 +5858,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11nh41r347",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8625",
           "scheme": "welsh_assembly"
         },
@@ -5513,6 +5880,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Rhys_ab_Owen"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Rhys_ab_Owen"
@@ -5596,6 +5967,10 @@
       "id": "627b2521-6923-48b8-b2d4-48a673d1b824",
       "identifiers": [
         {
+          "identifier": "ef9eadcc-2590-4c20-b28e-34be4727d3bf",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9311",
           "scheme": "democracyclub"
         },
@@ -5630,7 +6005,7 @@
           "url": "https://business.senedd.wales/UserData/5/4/1/Info00000145/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Paul_Davies_AM_2011.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/66/Paul-davies.jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/5/4/1/Info00000145/bigpic.jpg"
@@ -5639,7 +6014,7 @@
       "links": [
         {
           "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:Paul_Davies"
+          "url": "https://commons.wikimedia.org/wiki/Category:Paul_Davies_(politician)"
         },
         {
           "note": "Wikipedia (ar)",
@@ -5725,6 +6100,10 @@
       "id": "62bb8346-df8f-44b4-bac3-b0fc3ebe4b9c",
       "identifiers": [
         {
+          "identifier": "a9e5656f-cb39-449c-8d73-44c9066bfaf3",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8271",
           "scheme": "democracyclub"
         },
@@ -5758,6 +6137,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Julie_James"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Julie_James"
@@ -5818,6 +6201,10 @@
       "given_name": "John",
       "id": "6479d91e-a46e-48c8-8345-09864655f76f",
       "identifiers": [
+        {
+          "identifier": "ef73aefd-98bb-4835-94f1-0df5172e34a0",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8464",
           "scheme": "democracyclub"
@@ -5913,6 +6300,10 @@
       "given_name": "Carl",
       "id": "68d2723c-5d88-4c0a-9cfb-baffc7db528d",
       "identifiers": [
+        {
+          "identifier": "ae1d2775-0608-4244-a567-4a7bd7630ffd",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8053",
           "scheme": "democracyclub"
@@ -6029,6 +6420,10 @@
       "given_name": "Alun",
       "id": "6b1fa908-a30b-4e5a-ae0a-4934ac55df54",
       "identifiers": [
+        {
+          "identifier": "252f99fa-6897-4b4e-a0da-02cc5e375b9f",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "7859",
           "scheme": "democracyclub"
@@ -6150,7 +6545,7 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "0000 0000 4718 7467",
+          "identifier": "0000000047187467",
           "scheme": "isni"
         },
         {
@@ -6282,6 +6677,10 @@
       "id": "6f685ab7-551f-4512-a0d0-284cd6fac2ea",
       "identifiers": [
         {
+          "identifier": "b082e32c-b553-47c9-b07a-146beb643eb6",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9268",
           "scheme": "democracyclub"
         },
@@ -6385,6 +6784,10 @@
       "id": "704a4db1-134c-4aa1-aab4-6b54338b5d66",
       "identifiers": [
         {
+          "identifier": "7f543518-3138-4062-9632-e593fef1c22d",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "16831",
           "scheme": "democracyclub"
         },
@@ -6399,6 +6802,10 @@
         {
           "identifier": "no2015061545",
           "scheme": "lcauth"
+        },
+        {
+          "identifier": "25063",
+          "scheme": "twfy"
         },
         {
           "identifier": "5JmYbPLi",
@@ -6423,7 +6830,7 @@
           "url": "https://business.senedd.wales/UserData/0/7/9/Info00004970/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Eluned_Morgan_AM_(28136582086).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Eluned_Morgan_AM_(28136582086)_(cropped).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/0/7/9/Info00004970/bigpic.jpg"
@@ -6457,6 +6864,10 @@
         {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Eluned_Morgan,_baronessa_Morgan_di_Ely"
+        },
+        {
+          "note": "Wikipedia (ka)",
+          "url": "https://ka.wikipedia.org/wiki/ილუნდ_მორგანი"
         },
         {
           "note": "Wikipedia (pl)",
@@ -6508,6 +6919,11 @@
         {
           "lang": "gl",
           "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ka",
+          "name": "ილუნდ მორგანი",
           "note": "multilingual"
         },
         {
@@ -6588,6 +7004,10 @@
       "id": "7416afa6-81d8-40a7-b95e-249dae69997e",
       "identifiers": [
         {
+          "identifier": "1a3cc851-5aec-4c89-a703-9b8da097665e",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "6235",
           "scheme": "democracyclub"
         },
@@ -6664,6 +7084,10 @@
       "given_name": "Mohammad",
       "id": "752f3f2b-6d09-4128-9111-7bc26ce14e06",
       "identifiers": [
+        {
+          "identifier": "7c28adea-7fde-4750-b347-da4bc3c0b5e5",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8441",
           "scheme": "democracyclub"
@@ -6771,6 +7195,10 @@
       "id": "761c8a03-f1cc-42a7-ba72-e6f34a82888a",
       "identifiers": [
         {
+          "identifier": "c69e437c-699b-4b39-a0da-4e90544c8f2a",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9347",
           "scheme": "democracyclub"
         },
@@ -6797,13 +7225,17 @@
           "url": "https://business.senedd.wales/UserData/4/7/1/Info00000174/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Lynne_Neagle.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Lynne_Neagle_official_portrait_2021_(cropped).JPG"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/4/7/1/Info00000174/bigpic.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lynne_Neagle"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Lynne_Neagle"
@@ -6847,8 +7279,16 @@
       "id": "77cd0ece-0e26-4498-9a60-c6d2ea3973a3",
       "identifiers": [
         {
+          "identifier": "3fc07dd0-e966-4025-9b7f-3336133273c4",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "10012697",
           "scheme": "bibsys"
+        },
+        {
+          "identifier": "12627",
+          "scheme": "democracyclub"
         },
         {
           "identifier": "133",
@@ -6863,7 +7303,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "0000 0001 1440 6093",
+          "identifier": "0000000114406093",
           "scheme": "isni"
         },
         {
@@ -6966,6 +7406,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11j3sbp30w",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8634",
           "scheme": "welsh_assembly"
         },
@@ -6978,6 +7422,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/4/3/6/Info00008634/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Luke-fletcher.jpg"
         }
       ],
       "links": [
@@ -7076,6 +7523,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11ng_jrgcf",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "5143",
           "scheme": "welsh_assembly"
         },
@@ -7088,9 +7539,16 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/3/4/1/Info00005143/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Carolyn-thomas.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Carolyn_Thomas"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Carolyn_Thomas"
@@ -7163,7 +7621,7 @@
           "scheme": "gnd"
         },
         {
-          "identifier": "0000 0001 1574 2427",
+          "identifier": "0000000115742427",
           "scheme": "isni"
         },
         {
@@ -7251,6 +7709,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Mark_Drakeford"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Mark_Drakeford"
         },
         {
           "note": "Wikipedia (hu)",
@@ -7360,8 +7822,43 @@
           "note": "multilingual"
         },
         {
+          "lang": "zh-cn",
+          "name": "马克·德雷克福特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "马克·德雷克福特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "馬克·德雷克福特",
+          "note": "multilingual"
+        },
+        {
           "lang": "zh-hk",
           "name": "翟景輝",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-mo",
+          "name": "翟景輝",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-my",
+          "name": "马克·德雷克福特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-sg",
+          "name": "马克·德雷克福特",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-tw",
+          "name": "馬克·德雷克福特",
           "note": "multilingual"
         }
       ]
@@ -7434,6 +7931,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11nh419ryt",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8579",
           "scheme": "welsh_assembly"
         },
@@ -7446,6 +7947,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/9/7/5/Info00008579/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Peredur-owen-griffiths.jpg"
         }
       ],
       "links": [
@@ -7571,6 +8075,10 @@
       "id": "84ccdb94-326a-4676-8a42-7139065fb80e",
       "identifiers": [
         {
+          "identifier": "16891",
+          "scheme": "democracyclub"
+        },
+        {
           "identifier": "4087",
           "scheme": "everypolitician_legacy"
         },
@@ -7597,6 +8105,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Janet_Haworth"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Janet_Haworth"
@@ -7646,7 +8158,7 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "0000 0000 6357 4061",
+          "identifier": "0000000063574061",
           "scheme": "isni"
         },
         {
@@ -7660,6 +8172,10 @@
         {
           "identifier": "n99012855",
           "scheme": "nukat"
+        },
+        {
+          "identifier": "25192",
+          "scheme": "twfy"
         },
         {
           "identifier": "bEIsPDd1",
@@ -7763,6 +8279,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11gm_454sm",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "nb2020010482",
           "scheme": "lcauth"
         },
@@ -7814,6 +8334,18 @@
           "url": "https://eu.wikipedia.org/wiki/Natasha_Asghar"
         },
         {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Natasha_Asghar"
+        },
+        {
+          "note": "Wikipedia (tr)",
+          "url": "https://tr.wikipedia.org/wiki/Natasha_Asghar"
+        },
+        {
+          "note": "Wikipedia (ur)",
+          "url": "https://ur.wikipedia.org/wiki/نتاشا_اصغر"
+        },
+        {
           "note": "instagram",
           "url": "natashaasghar"
         },
@@ -7831,6 +8363,11 @@
         {
           "lang": "ja",
           "name": "ナターシャ・アスガル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ur",
+          "name": "نتاشا اصغر",
           "note": "multilingual"
         }
       ]
@@ -7853,6 +8390,10 @@
       "given_name": "Heledd",
       "id": "8a48ab6c-131d-4147-99fb-c2126cff6dcc",
       "identifiers": [
+        {
+          "identifier": "c9155d34-30e7-4d1a-8ecb-1ee88d4bc370",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "2749",
           "scheme": "democracyclub"
@@ -7880,6 +8421,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Heledd_Fychan"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Heledd_Fychan"
@@ -7948,6 +8493,10 @@
           "scheme": "lcauth"
         },
         {
+          "identifier": "rhodri-morgan",
+          "scheme": "ne_se"
+        },
+        {
           "identifier": "mp94068",
           "scheme": "npg"
         },
@@ -7958,6 +8507,10 @@
         {
           "identifier": "516",
           "scheme": "rush"
+        },
+        {
+          "identifier": "10443",
+          "scheme": "twfy"
         },
         {
           "identifier": "Z3mFtgim",
@@ -8109,7 +8662,7 @@
         },
         {
           "note": "Wikipedia (zh_yue)",
-          "url": "https://zh_yue.wikipedia.org/wiki/洛蒂摩根"
+          "url": "https://zh_yue.wikipedia.org/wiki/Rhodri_Morgan"
         },
         {
           "note": "Wikiquote (cy)",
@@ -8148,7 +8701,7 @@
         },
         {
           "lang": "ru",
-          "name": "Морган, Родри",
+          "name": "Родри Морган",
           "note": "multilingual"
         },
         {
@@ -8219,6 +8772,10 @@
         {
           "identifier": "25508",
           "scheme": "bbc_democracy_live"
+        },
+        {
+          "identifier": "93fa821e-813a-462b-bdd4-4dda7c058911",
+          "scheme": "bbc_things"
         },
         {
           "identifier": "1894",
@@ -8323,6 +8880,10 @@
         {
           "note": "Wikipedia (hu)",
           "url": "https://hu.wikipedia.org/wiki/Alun_Michael"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Alun_Michael"
         },
         {
           "note": "Wikipedia (la)",
@@ -8430,6 +8991,10 @@
       "id": "92600914-3867-4f97-9b79-efe99292e882",
       "identifiers": [
         {
+          "identifier": "fbef100d-9928-44ba-8f65-1c323ffc26d2",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "166",
           "scheme": "everypolitician_legacy"
         },
@@ -8512,6 +9077,10 @@
         {
           "identifier": "33463",
           "scheme": "bbc_democracy_live"
+        },
+        {
+          "identifier": "eb083c04-d1c1-49e3-97ff-cd8506bf2e7c",
+          "scheme": "bbc_things"
         },
         {
           "identifier": "2422",
@@ -8661,7 +9230,7 @@
         },
         {
           "lang": "ru",
-          "name": "Кэрнс, Алан",
+          "name": "Алан Кэрнс",
           "note": "multilingual"
         },
         {
@@ -8694,6 +9263,10 @@
       "given_name": "Rhodri",
       "id": "9420a457-ab04-4761-937d-94fbd4db07ad",
       "identifiers": [
+        {
+          "identifier": "b272b227-8b1c-424a-8562-a83ba5041e76",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "181",
           "scheme": "everypolitician_legacy"
@@ -8759,6 +9332,10 @@
       "given_name": "Angela",
       "id": "9567b3cb-2a07-4857-bdb6-3a98cfacf8c6",
       "identifiers": [
+        {
+          "identifier": "291ee4a1-0b43-418c-b6f8-7f3ba2333a07",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8083",
           "scheme": "democracyclub"
@@ -8873,7 +9450,7 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "0000 0003 7821 4669",
+          "identifier": "0000000378214669",
           "scheme": "isni"
         },
         {
@@ -9048,7 +9625,7 @@
         },
         {
           "lang": "ru",
-          "name": "Джонс, Каруин",
+          "name": "Каруин Джонс",
           "note": "multilingual"
         },
         {
@@ -9096,6 +9673,10 @@
       "id": "99995d63-b32c-48e6-9863-cdc42879e399",
       "identifiers": [
         {
+          "identifier": "b27fc347-f850-4a40-b91e-9fb0e29b68ed",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8128",
           "scheme": "democracyclub"
         },
@@ -9125,6 +9706,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Delyth_Jewell"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Delyth_Jewell"
@@ -9250,6 +9835,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11rbjfn3y9",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8571",
           "scheme": "welsh_assembly"
         },
@@ -9316,6 +9905,10 @@
       "id": "9f3b8097-9c07-4039-a798-92e370f7398e",
       "identifiers": [
         {
+          "identifier": "b087785e-d763-4aa6-b8fc-909ec87b0d6a",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8361",
           "scheme": "democracyclub"
         },
@@ -9350,7 +9943,7 @@
           "url": "https://business.senedd.wales/UserData/7/1/7/Info00002717/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/5/53/RhunApIorwerth_Nov2014.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Rhun_ap_Iorwerth_official_portrait_(cropped).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/7/1/7/Info00002717/bigpic.jpg"
@@ -9376,6 +9969,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Rhun_ap_Iorwerth"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Rhun_ap_Iorwerth"
         },
         {
           "note": "Wikipedia (ga)",
@@ -9408,6 +10005,11 @@
           "lang": "arz",
           "name": "رون اپ ايورويرث",
           "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "拉恩·艾沃斯",
+          "note": "multilingual"
         }
       ]
     },
@@ -9433,6 +10035,10 @@
       "given_name": "Hefin",
       "id": "a042c8cb-a212-4615-ba9f-eccb9eedc4d4",
       "identifiers": [
+        {
+          "identifier": "cf9f56a1-fc5c-4ec8-8af0-f84ded70c23b",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8066",
           "scheme": "democracyclub"
@@ -9515,6 +10121,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Christine_Gwyther"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Christine_Gwyther"
@@ -9607,6 +10217,10 @@
       "id": "aa8593bb-b92c-44ab-9c01-3cf894c00624",
       "identifiers": [
         {
+          "identifier": "f7d311f7-2ff3-4cf2-a1c0-f432184c4552",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "7866",
           "scheme": "democracyclub"
         },
@@ -9651,6 +10265,10 @@
         {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/Siân_Gwenllian"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Siân_Gwenllian"
         },
         {
           "note": "facebook",
@@ -9739,11 +10357,6 @@
         },
         {
           "lang": "en-ca",
-          "name": "Sian Gwenllian",
-          "note": "multilingual"
-        },
-        {
-          "lang": "en-gb",
           "name": "Sian Gwenllian",
           "note": "multilingual"
         },
@@ -10156,6 +10769,10 @@
       "id": "adc63ba5-18f1-4b28-b8ef-5a7fb7a6b406",
       "identifiers": [
         {
+          "identifier": "ec59e720-43d8-452d-94eb-89458e9fdded",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "152",
           "scheme": "everypolitician_legacy"
         },
@@ -10218,6 +10835,10 @@
       "id": "add634e1-5bf2-4d5f-9b5a-d539644f2354",
       "identifiers": [
         {
+          "identifier": "8e55cad5-2880-4e12-a8a4-69af6c30cc22",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "7758",
           "scheme": "democracyclub"
         },
@@ -10234,7 +10855,7 @@
           "scheme": "hansard"
         },
         {
-          "identifier": "0000 0003 8284 0718",
+          "identifier": "0000000382840718",
           "scheme": "isni"
         },
         {
@@ -10248,6 +10869,10 @@
         {
           "identifier": "w6pm4szt",
           "scheme": "snac"
+        },
+        {
+          "identifier": "16433",
+          "scheme": "twfy"
         },
         {
           "identifier": "4ERy4j8i",
@@ -10540,6 +11165,10 @@
       "id": "b475e63b-2dc7-4faf-902d-fa73bd1ae693",
       "identifiers": [
         {
+          "identifier": "0ed76321-0b4c-46d4-9e26-a1704cc1425d",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "3245",
           "scheme": "democracyclub"
         },
@@ -10653,6 +11282,14 @@
       "id": "b55563e0-21f5-4eed-9547-8795a4a59e92",
       "identifiers": [
         {
+          "identifier": "29815a22-4e7d-42ac-846d-a706cf5f3b40",
+          "scheme": "bbc_things"
+        },
+        {
+          "identifier": "10502",
+          "scheme": "democracyclub"
+        },
+        {
           "identifier": "421",
           "scheme": "everypolitician_legacy"
         },
@@ -10743,6 +11380,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "25053",
+          "scheme": "twfy"
+        },
+        {
           "identifier": "WfMpdObA",
           "scheme": "ukparliamentid"
         },
@@ -10755,10 +11396,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jenny_Randerson.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Baroness_Randerson_crop_2,_2023.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Jenny_Randerson.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Baroness_Randerson_crop_2,_2023.jpg"
         }
       ],
       "links": [
@@ -10872,6 +11513,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11clsxtdsm",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "no2014042473",
           "scheme": "lcauth"
         },
@@ -10946,6 +11591,10 @@
       "id": "bb5b9df3-9e91-4a73-87be-22788ebe01cb",
       "identifiers": [
         {
+          "identifier": "6c3615de-ce11-474a-bd05-bb5d5270b6e1",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9295",
           "scheme": "democracyclub"
         },
@@ -10972,7 +11621,7 @@
           "url": "https://business.senedd.wales/UserData/1/2/3/Info00000321/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Mick_Antoniw_2011.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/06/Mick_Antoniw_official_portrait_(cropped).JPG"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/1/2/3/Info00000321/bigpic.jpg"
@@ -11034,6 +11683,14 @@
       "given_name": "William",
       "id": "bc7485cd-50bc-4d86-ba9f-c1edd6718907",
       "identifiers": [
+        {
+          "identifier": "bf9564ea-f9c7-4201-8316-a7e74e77c433",
+          "scheme": "bbc_things"
+        },
+        {
+          "identifier": "8444",
+          "scheme": "democracyclub"
+        },
         {
           "identifier": "151",
           "scheme": "everypolitician_legacy"
@@ -11114,6 +11771,10 @@
       "given_name": "Rosemary",
       "id": "be9c1984-6f08-4a97-8ea6-e82af4daf909",
       "identifiers": [
+        {
+          "identifier": "00e8ef1c-8cf6-43f4-b369-4ed2fcaecda0",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "136",
           "scheme": "everypolitician_legacy"
@@ -11209,6 +11870,10 @@
         {
           "identifier": "33513",
           "scheme": "bbc_democracy_live"
+        },
+        {
+          "identifier": "f25b821a-de25-418b-abfb-bb12717f7b2c",
+          "scheme": "bbc_things"
         },
         {
           "identifier": "13",
@@ -11395,6 +12060,10 @@
       "id": "c51e3561-cacc-4d04-ac0b-49b4037e4969",
       "identifiers": [
         {
+          "identifier": "4987e161-41cb-4843-8902-1bf1869916fb",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9360",
           "scheme": "democracyclub"
         },
@@ -11421,7 +12090,7 @@
           "url": "https://business.senedd.wales/UserData/6/5/1/Info00000156/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jane_Hutt.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Jane_Hutt_official_portrait_(cropped).JPG"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/6/5/1/Info00000156/bigpic.jpg"
@@ -11437,8 +12106,16 @@
           "url": "https://cy.wikipedia.org/wiki/Jane_Hutt"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jane_Hutt"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jane_Hutt"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Jane_Hutt"
         },
         {
           "note": "facebook",
@@ -11484,6 +12161,10 @@
       "id": "c5f3e87c-b887-4915-866f-9766395faeb2",
       "identifiers": [
         {
+          "identifier": "1fff7f5f-d4d5-49cb-9393-7e66abeeecf3",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8084",
           "scheme": "democracyclub"
         },
@@ -11506,6 +12187,10 @@
         {
           "identifier": "68",
           "scheme": "rush"
+        },
+        {
+          "identifier": "10675",
+          "scheme": "twfy"
         },
         {
           "identifier": "eFPKL3qI",
@@ -11600,6 +12285,10 @@
       "id": "c5fb67d9-dde7-40ae-8edc-3a107360adca",
       "identifiers": [
         {
+          "identifier": "6a4c7471-a61e-457c-855c-03cb79b6e021",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "160",
           "scheme": "everypolitician_legacy"
         },
@@ -11608,7 +12297,7 @@
           "scheme": "freebase"
         },
         {
-          "identifier": "0000 0000 5798 6895",
+          "identifier": "0000000057986895",
           "scheme": "isni"
         },
         {
@@ -11812,7 +12501,7 @@
           "scheme": "hansard"
         },
         {
-          "identifier": "0000 0000 4867 5737",
+          "identifier": "0000000048675737",
           "scheme": "isni"
         },
         {
@@ -11822,6 +12511,10 @@
         {
           "identifier": "80",
           "scheme": "rush"
+        },
+        {
+          "identifier": "10151",
+          "scheme": "twfy"
         },
         {
           "identifier": "MdNjXuKr",
@@ -11878,7 +12571,7 @@
       ]
     },
     {
-      "birth_date": "1970-06-26",
+      "birth_date": "1970-07-27",
       "contact_details": [
         {
           "type": "twitter",
@@ -11893,6 +12586,10 @@
         {
           "identifier": "33522",
           "scheme": "bbc_democracy_live"
+        },
+        {
+          "identifier": "80443266-5c34-4131-be40-7ecdf1662322",
+          "scheme": "bbc_things"
         },
         {
           "identifier": "95812",
@@ -11964,7 +12661,7 @@
         },
         {
           "note": "Wikipedia (cy)",
-          "url": "https://cy.wikipedia.org/wiki/David_TC_Davies"
+          "url": "https://cy.wikipedia.org/wiki/David_T._C._Davies"
         },
         {
           "note": "Wikipedia (en)",
@@ -12107,6 +12804,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11py09hqmk",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8585",
           "scheme": "welsh_assembly"
         },
@@ -12164,6 +12865,10 @@
       "given_name": "Gwenda",
       "id": "d0439238-3e70-4428-a352-e3b17ce929fa",
       "identifiers": [
+        {
+          "identifier": "a4ec8855-124f-46e4-9257-cad6f6772d4c",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "180",
           "scheme": "everypolitician_legacy"
@@ -12247,6 +12952,10 @@
       "given_name": "Jack",
       "id": "d102ca51-5d5a-47dd-b12f-9c2a3005076e",
       "identifiers": [
+        {
+          "identifier": "c36b2074-a1c7-43fb-97be-8ef12a50586a",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "35526",
           "scheme": "democracyclub"
@@ -12355,7 +13064,7 @@
           "url": "https://business.senedd.wales/UserData/8/8/9/Info00004988/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Dawn_Bowden_AM_(28066510182).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Dawn_Bowden_official_portrait_(cropped).JPG"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/8/8/9/Info00004988/bigpic.jpg"
@@ -12371,8 +13080,16 @@
           "url": "https://cy.wikipedia.org/wiki/Dawn_Bowden"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Dawn_Bowden"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Dawn_Bowden"
+        },
+        {
+          "note": "Wikipedia (ig)",
+          "url": "https://ig.wikipedia.org/wiki/Dawn_Bowden"
         },
         {
           "note": "facebook",
@@ -12475,6 +13192,10 @@
       "given_name": "Nick",
       "id": "d42eb5d3-caae-437e-ac53-a33eb6a11ee6",
       "identifiers": [
+        {
+          "identifier": "71f710d7-fc59-4c17-808d-5f81c9cf19f2",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "9435",
           "scheme": "democracyclub"
@@ -12602,6 +13323,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jayne_Bryant"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Jayne_Bryant"
         },
@@ -12645,6 +13370,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11py0b860q",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8695",
           "scheme": "welsh_assembly"
         },
@@ -12663,6 +13392,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Buffy_Williams"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Buffy_Williams"
@@ -12731,6 +13464,10 @@
       "id": "d8d0d9d8-622e-43b7-b6bd-ab3fa2b69240",
       "identifiers": [
         {
+          "identifier": "445f8c14-3838-4840-8040-305fe592a52f",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "9202",
           "scheme": "democracyclub"
         },
@@ -12757,7 +13494,7 @@
           "url": "https://business.senedd.wales/UserData/5/7/3/Info00000375/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Rebecca_Evans_-_National_Assembly_for_Wales.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Rebecca_Evans_AM_(27555062324)_(cropped).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/5/7/3/Info00000375/bigpic.jpg"
@@ -12884,6 +13621,10 @@
       "id": "dc84cd46-de2c-4b1f-aad0-4f89e9697cb0",
       "identifiers": [
         {
+          "identifier": "12657",
+          "scheme": "democracyclub"
+        },
+        {
           "identifier": "/m/02r3cd6",
           "scheme": "freebase"
         },
@@ -13001,6 +13742,10 @@
           "scheme": "bbc_democracy_live"
         },
         {
+          "identifier": "bd78f2ed-f092-45ec-add3-51ec9e1a2e4b",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "1124",
           "scheme": "current_hansard"
         },
@@ -13047,7 +13792,7 @@
           "url": "https://business.senedd.wales/UserData/3/5/0/Info00005053/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/Huw_Irranca_Davies.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Huw-irranca-davies.jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/3/5/0/Info00005053/bigpic.jpg"
@@ -13122,6 +13867,10 @@
       "given_name": "Lindsay",
       "id": "e3002276-fb13-441c-94c4-c7b3b1f1c9f8",
       "identifiers": [
+        {
+          "identifier": "87a8fb87-3135-4775-9757-ea39cd945fea",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "59",
           "scheme": "democracyclub"
@@ -13225,7 +13974,7 @@
           "url": "https://business.senedd.wales/UserData/3/8/9/Info00004983/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Jane_Dodds,_Brecon_(2019)_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Jane-dodds_(cropped).jpg"
         }
       ],
       "links": [
@@ -13301,6 +14050,10 @@
       "id": "e3c7ea13-5a78-4ae5-9011-00665ad5f287",
       "identifiers": [
         {
+          "identifier": "125ae6ee-c430-4de4-bb1c-e4920cd37b0d",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "170",
           "scheme": "everypolitician_legacy"
         },
@@ -13369,6 +14122,10 @@
       "id": "e5da3a6e-7fe7-4325-b936-325a44babca8",
       "identifiers": [
         {
+          "identifier": "66aed74c-b960-4d37-88d5-7dbe2c51fd59",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8081",
           "scheme": "democracyclub"
         },
@@ -13381,7 +14138,7 @@
           "scheme": "hansard"
         },
         {
-          "identifier": "0000 0004 3077 2191",
+          "identifier": "0000000430772191",
           "scheme": "isni"
         },
         {
@@ -13391,6 +14148,10 @@
         {
           "identifier": "5503",
           "scheme": "rush"
+        },
+        {
+          "identifier": "11170",
+          "scheme": "twfy"
         },
         {
           "identifier": "ScBow7Ps",
@@ -13415,7 +14176,7 @@
           "url": "https://business.senedd.wales/UserData/0/3/0/Info00005030/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/13/Adam_Price_2016_(cropped).jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Adam-price_(cropped).jpg"
         },
         {
           "url": "http://senedd.assembly.wales/UserData/0/3/0/Info00005030/bigpic.jpg"
@@ -13573,6 +14334,10 @@
       "id": "e6403b1e-20a2-4638-9682-26672a08ba3c",
       "identifiers": [
         {
+          "identifier": "cf9742f7-afdb-406b-9f25-c60b7235cb95",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "1473",
           "scheme": "democracyclub"
         },
@@ -13670,6 +14435,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Eleanor_Burnham"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Eleanor_Burnham"
         },
@@ -13727,13 +14496,17 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Official_portrait_of_Lord_German_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lord_German.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Official_portrait_of_Lord_German_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Lord_German.jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Mike_German"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Mike_German"
@@ -13876,6 +14649,10 @@
       "id": "ebf1159e-c448-451a-b0da-0e7795c2dde8",
       "identifiers": [
         {
+          "identifier": "29a20bfb-396e-492a-b7d4-ad05958b8d37",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8078",
           "scheme": "democracyclub"
         },
@@ -13968,6 +14745,10 @@
         {
           "identifier": "240",
           "scheme": "rush"
+        },
+        {
+          "identifier": "10161",
+          "scheme": "twfy"
         },
         {
           "identifier": "QIGFyWWM",
@@ -14083,6 +14864,10 @@
       "id": "f22fbc6f-893e-4810-8fdb-bdc80d0e38c0",
       "identifiers": [
         {
+          "identifier": "94ba75a2-e3a2-4b85-aeb0-11ec575cb802",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "292",
           "scheme": "everypolitician_legacy"
         },
@@ -14172,6 +14957,10 @@
       ],
       "links": [
         {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Tom_Middlehurst"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Tom_Middlehurst"
         },
@@ -14199,6 +14988,10 @@
       "given_name": "Eluned",
       "id": "f6720095-134b-4d29-b8d4-8495e08dddc2",
       "identifiers": [
+        {
+          "identifier": "88e46869-7a47-4ee9-8b6b-8c00ae56ba7a",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "2764",
           "scheme": "democracyclub"
@@ -14274,6 +15067,10 @@
       "given_name": "Antoinette",
       "id": "f85127cc-8e79-458c-a144-162203107a8a",
       "identifiers": [
+        {
+          "identifier": "e7851c74-13aa-4af5-9a75-e108cb01d6bc",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "100734",
           "scheme": "cspan"
@@ -14390,6 +15187,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "25202",
+          "scheme": "twfy"
+        },
+        {
           "identifier": "cwIVQKOc",
           "scheme": "ukparliamentid"
         },
@@ -14458,6 +15259,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11nh23l2cp",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8670",
           "scheme": "welsh_assembly"
         },
@@ -14470,6 +15275,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/0/7/6/Info00008670/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Sioned-williams.jpg"
         }
       ],
       "links": [
@@ -14512,6 +15320,10 @@
       "id": "fa4e847b-3132-4e59-adce-f470b7db238c",
       "identifiers": [
         {
+          "identifier": "c0bcc8aa-d079-46b2-9328-b24c0daacdb1",
+          "scheme": "bbc_things"
+        },
+        {
           "identifier": "8126",
           "scheme": "democracyclub"
         },
@@ -14528,7 +15340,7 @@
           "scheme": "goodreads"
         },
         {
-          "identifier": "0000 0000 4905 3286",
+          "identifier": "0000000049053286",
           "scheme": "isni"
         },
         {
@@ -14611,6 +15423,10 @@
           "scheme": "democracyclub"
         },
         {
+          "identifier": "/g/11py6pr8v6",
+          "scheme": "google_knowledge"
+        },
+        {
           "identifier": "8687",
           "scheme": "welsh_assembly"
         },
@@ -14623,6 +15439,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/7/8/6/Info00008687/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Joel-james.jpg"
         }
       ],
       "links": [
@@ -14669,6 +15488,10 @@
       "given_name": "Jenny",
       "id": "fd29b7cf-ca3b-4960-80f1-91c7ad2809df",
       "identifiers": [
+        {
+          "identifier": "d2a75e1b-7136-4f0d-add1-8581d24e76c1",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "827",
           "scheme": "democracyclub"
@@ -14757,6 +15580,10 @@
       "given_name": "David",
       "id": "fd4c0700-b9fe-4b1e-91a7-46b67fe3b9df",
       "identifiers": [
+        {
+          "identifier": "d2003102-6486-4cba-8ec9-f3ba81bdc8a8",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "8131",
           "scheme": "democracyclub"
@@ -15051,6 +15878,10 @@
           "url": "https://cy.wikipedia.org/wiki/Jane_Davidson"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Jane_Davidson"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Jane_Davidson"
         },
@@ -15113,7 +15944,35 @@
           "source": "wikidata-label"
         }
       ],
-      "srgb": "177245"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "177245"
+            },
+            "hash": "ee7825a28692a935152128ee57236f8304cc2d4a",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q4923798$d9f72aed-49c0-3731-abd3-f467a5380b08",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "177245"
+            },
+            "hash": "ee7825a28692a935152128ee57236f8304cc2d4a",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "party",
@@ -15128,37 +15987,37 @@
       "other_names": [
         {
           "lang": "zh-hans",
-          "name": "无党籍政治人物",
+          "name": "无党籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh-hant",
-          "name": "無黨籍政治人物",
+          "name": "無黨籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh-hk",
-          "name": "無黨籍政治人物",
+          "name": "無黨籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh-cn",
-          "name": "无党籍政治人物",
+          "name": "无党籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh-sg",
-          "name": "无党籍政治人物",
+          "name": "无党籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh-tw",
-          "name": "無黨籍政治人物",
+          "name": "無黨籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15194,7 +16053,7 @@
         },
         {
           "lang": "id",
-          "name": "Independen",
+          "name": "politikus independen",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15302,7 +16161,7 @@
         },
         {
           "lang": "zh",
-          "name": "無黨籍政治人物",
+          "name": "無黨籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15464,13 +16323,13 @@
         },
         {
           "lang": "zh-mo",
-          "name": "無黨籍政治人物",
+          "name": "無黨籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "zh-my",
-          "name": "无党籍政治人物",
+          "name": "无党籍",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15560,7 +16419,7 @@
         },
         {
           "lang": "lv",
-          "name": "neatkarīgs politiķis",
+          "name": "neatkarīgais politiķis",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15596,7 +16455,7 @@
         },
         {
           "lang": "hr",
-          "name": "Nezavisni",
+          "name": "nezavisni",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15662,7 +16521,7 @@
         },
         {
           "lang": "ku",
-          "name": "Siyasetmedarê serbixwe",
+          "name": "Siyasetmedara/ê serbixwe",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15717,6 +16576,24 @@
         {
           "lang": "ab",
           "name": "апартиа иалам",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ku-latn",
+          "name": "siyasetmedara/ê serbixwe",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ckb",
+          "name": "سیاسەتوانێکی سەربەخۆ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "pa",
+          "name": "ਆਜ਼ਾਦ ਰਾਜਨੇਤਾ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -15837,12 +16714,6 @@
         {
           "lang": "de",
           "name": "parteilose Abgeordnete",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
-          "lang": "id",
-          "name": "Politikus independen",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -16081,6 +16952,12 @@
           "source": "wikidata-alias"
         },
         {
+          "lang": "ru",
+          "name": "беспартийная",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
           "lang": "tt",
           "name": "фиркасез",
           "note": "multilingual",
@@ -16160,13 +17037,13 @@
         },
         {
           "lang": "zh-tw",
-          "name": "無黨籍",
+          "name": "無黨派",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "zh-tw",
-          "name": "無黨派",
+          "name": "無黨籍政治人物",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -16190,31 +17067,31 @@
         },
         {
           "lang": "hr",
-          "name": "Nezavisni političar",
+          "name": "nezavisni političar",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "hr",
-          "name": "Nesvrstani",
+          "name": "nesvrstani",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "hr",
-          "name": "Nesvrstani političar",
+          "name": "nesvrstani političar",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "hr",
-          "name": "Nezavisni političari",
+          "name": "nezavisni političari",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
         {
           "lang": "hr",
-          "name": "Nesvrstani političari",
+          "name": "nesvrstani političari",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -16379,9 +17256,85 @@
           "name": "независим",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "sl",
+          "name": "neodvisen politik",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sl",
+          "name": "neodvisni kandidat",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sl",
+          "name": "neodvisna političarka",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "sl",
+          "name": "neodvisna kandidatka",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "無黨籍政治人物",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lv",
+          "name": "neatkarīgs politiķis",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lv",
+          "name": "bezpartejisks politiķis",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "lv",
+          "name": "politiķis bez partijas",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
-      "srgb": "DDDDDD"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "DDDDDD"
+            },
+            "hash": "2aad0ac0061f47a503dda929c0eb7dd86e8c7769",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q327591$d56e0a2d-408c-dbd4-1c04-246c8114ca12",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "DDDDDD"
+            },
+            "hash": "2aad0ac0061f47a503dda929c0eb7dd86e8c7769",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "party",
@@ -16407,7 +17360,35 @@
           "source": "wikidata-label"
         }
       ],
-      "srgb": "FFFFFF"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "FFFFFF"
+            },
+            "hash": "e1ed8cc1af5b647f4d8b5f7d1f77b6a55ae6ce85",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q6246716$baeac74f-4e5e-8801-0350-4e13bd28ec01",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "FFFFFF"
+            },
+            "hash": "e1ed8cc1af5b647f4d8b5f7d1f77b6a55ae6ce85",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "legislature",
@@ -16575,9 +17556,98 @@
           "name": "Partai Kemerdekaan Wales",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "kcg",
+          "name": "Sot Kwai-nfwuo-á̱niet Wali̱t",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
-      "srgb": "3F8428"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "3F8428"
+            },
+            "hash": "e032ec1025f6115643ce13a16fb833ee8b35c6cf",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q10691$5feea315-4540-b2bb-5ceb-50d06b449ff6",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "3F8428"
+            },
+            "hash": "e032ec1025f6115643ce13a16fb833ee8b35c6cf",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "references": [
+            {
+              "hash": "09715ea9ff6e3aba66e595a1ac62eaed5483d4e2",
+              "snaks": {
+                "P1065": [
+                  {
+                    "datatype": "url",
+                    "datavalue": {
+                      "type": "string",
+                      "value": "https://web.archive.org/web/20210514233424/http://www.blog.richardallen.co.uk/uk-political-party-web-colours/"
+                    },
+                    "hash": "0de6c031129a2e0d21f45c10ec3f35f94d74ee93",
+                    "property": "P1065",
+                    "snaktype": "value"
+                  }
+                ],
+                "P2960": [
+                  {
+                    "datatype": "time",
+                    "datavalue": {
+                      "type": "time",
+                      "value": {
+                        "after": 0,
+                        "before": 0,
+                        "calendarmodel": "http://www.wikidata.org/entity/Q1985727",
+                        "precision": 11,
+                        "time": "+2021-05-14T00:00:00Z",
+                        "timezone": 0
+                      }
+                    },
+                    "hash": "6272fbeef3091ddce628333f5cd84cf4450e5c72",
+                    "property": "P2960",
+                    "snaktype": "value"
+                  }
+                ],
+                "P854": [
+                  {
+                    "datatype": "url",
+                    "datavalue": {
+                      "type": "string",
+                      "value": "http://blog.richardallen.co.uk/uk-political-party-web-colours/"
+                    },
+                    "hash": "237fd4ad90023f15f21426c8fd608b55c4831d04",
+                    "property": "P854",
+                    "snaktype": "value"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854",
+                "P1065",
+                "P2960"
+              ]
+            }
+          ],
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "party",
@@ -16617,7 +17687,7 @@
         },
         {
           "lang": "cs",
-          "name": "Strana nezávislosti Spojeného království (UKIP)",
+          "name": "Strana nezávislosti Spojeného království",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16904,6 +17974,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "id",
+          "name": "Partai Kebebasan Inggris",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -16934,19 +18010,41 @@
           "source": "wikidata-alias"
         },
         {
-          "lang": "cs",
-          "name": "Strana nezávislosti Spojeného království",
-          "note": "multilingual",
-          "source": "wikidata-alias"
-        },
-        {
           "lang": "zh",
           "name": "青年獨立",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
       ],
-      "srgb": "70147A"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "70147A"
+            },
+            "hash": "ed28b9fbf1e9bdfdd7f8f9644a6c9a94e50dc79b",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q10647$1e96c872-43f6-b62b-30d7-5a63090dfecf",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "70147A"
+            },
+            "hash": "ed28b9fbf1e9bdfdd7f8f9644a6c9a94e50dc79b",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "party",
@@ -17044,6 +18142,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ga",
+          "name": "Coimeádaithe na Breataine Bige",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Conservador Galés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "Welsh Conservatives",
           "note": "multilingual",
@@ -17062,7 +18172,35 @@
           "source": "wikidata-alias"
         }
       ],
-      "srgb": "0087DC"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "0087DC"
+            },
+            "hash": "cc34a2cc35f245af3d3df6cc102d73bda3dabe68",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q7981882$792b3c34-4b84-1625-8b5d-38be50beab7a",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "0087DC"
+            },
+            "hash": "cc34a2cc35f245af3d3df6cc102d73bda3dabe68",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "party",
@@ -17196,6 +18334,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ga",
+          "name": "Páirtí Lucht Oibre na Breataine Bige",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Laborista Galés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "it",
           "name": "Wales Labour Party",
           "note": "multilingual",
@@ -17244,7 +18394,35 @@
           "source": "wikidata-alias"
         }
       ],
-      "srgb": "DC241F"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "DC241F"
+            },
+            "hash": "1143ab469e7849fc58d6d8e3ab2a97f29a5af68c",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q832685$3fe0d115-49bb-af9e-1297-4e5fe72bfbd2",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "DC241F"
+            },
+            "hash": "1143ab469e7849fc58d6d8e3ab2a97f29a5af68c",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "type": "statement"
+        }
+      }
     },
     {
       "classification": "party",
@@ -17330,13 +18508,69 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "gl",
+          "name": "Liberal Demócratas Galeses",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "zh",
           "name": "威尔士自由民主党",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
       ],
-      "srgb": "FAA61A"
+      "srgb": {
+        "_mainsnak": {
+          "snak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "FAA61A"
+            },
+            "hash": "c9d58c588bd9528626791b4b823ccc94720debed",
+            "property": "P465",
+            "snaktype": "value"
+          }
+        },
+        "data": {
+          "id": "Q7981939$fd95b1d5-4964-de1e-51d3-77edeb78043d",
+          "mainsnak": {
+            "datatype": "string",
+            "datavalue": {
+              "type": "string",
+              "value": "FAA61A"
+            },
+            "hash": "c9d58c588bd9528626791b4b823ccc94720debed",
+            "property": "P465",
+            "snaktype": "value"
+          },
+          "rank": "normal",
+          "references": [
+            {
+              "hash": "70da76db29e571c9d72c9ca0f28e4ccf930b36b7",
+              "snaks": {
+                "P854": [
+                  {
+                    "datatype": "url",
+                    "datavalue": {
+                      "type": "string",
+                      "value": "https://www.libdems.org.uk/styleguide"
+                    },
+                    "hash": "53834035c75be7ee33faf282026181ceafa610be",
+                    "property": "P854",
+                    "snaktype": "value"
+                  }
+                ]
+              },
+              "snaks-order": [
+                "P854"
+              ]
+            }
+          ],
+          "type": "statement"
+        }
+      }
     }
   ],
   "meta": {
@@ -20813,7 +22047,7 @@
     },
     {
       "classification": "legislative period",
-      "end_date": "2021-05-06",
+      "end_date": "2021-05-05",
       "id": "term/5",
       "identifiers": [
         {

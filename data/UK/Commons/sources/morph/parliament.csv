@@ -4,7 +4,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 111,Nick Gibb,"Gibb, Nick","","",male,gibbn@parliament.uk,020 7219 6374,"",https://www.nickgibb.org.uk/,https://twitter.com/nickgibbuk,https://www.facebook.com/nickgibbofficial,"","","",25544,3420,111
 114,Tim Loughton,"Loughton, Tim","","",male,loughtont@parliament.uk ; office@eastworthingandshoreham.org.uk,020 7219 4471,020 7219 0461,http://www.timloughton.com,https://twitter.com/timloughton,"","","","",25471,1558,114
 117,Sir Peter Bottomley,"Bottomley, Sir Peter","","",male,bottomleyp@parliament.uk ; worthing.west@parliament.uk,020 7219 5060,"",http://www.sirpeterbottomley.com/,"",https://www.facebook.com/Sir-Peter-Bottomley-MP-293136030810246/,"","","",25739,4087,117
-1171,Liam Byrne,"Byrne, Liam","","",male,byrnel@parliament.uk,020 7219 6953,020 7219 1431,http://www.liambyrne.co.uk/,https://twitter.com/LiamByrneMP,"","","","",30771,2410,1171
+1171,Liam Byrne,"Byrne, Liam","","",male,liam.byrne.mp@parliament.uk,020 7219 6953,"",http://www.liambyrne.co.uk/,https://twitter.com/LiamByrneMP,"","","","",30771,2410,1171
 1198,Sir David Evennett,"Evennett, Sir David","","",male,david.evennett.mp@parliament.uk,020 7219 8403,020 7219 2163,http://davidevennett.com/,https://twitter.com/DavidEvennett,"","","","",31706,3153,1198
 1200,Sir Greg Knight,"Knight, Sir Greg","","",male,sothcottt@parliament.uk,020 7219 4077,"",http://www.gregknight.com,https://twitter.com/GregKnight,"","","","",25553,1343,1200
 1211,Mr Andrew Mitchell,"Mitchell, Mr Andrew","","",male,andrew.mitchell.mp@parliament.uk,020 7219 8516,020 7219 1981,http://www.andrew-mitchell-mp.co.uk,"",https://www.facebook.com/andrewmitchellmp/,"","","",25190,1926,1211
@@ -14,7 +14,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 1396,Mr Ian Liddell-Grainger,"Liddell-Grainger, Mr Ian","","",male,ianlg@parliament.uk,020 7219 8149,"",http://www.liddellgrainger.org.uk,"","","","","",25472,1495,1396
 1397,Hywel Williams,"Williams, Hywel","","",male,hywel.williams.mp@parliament.uk,020 7219 8150,"","",https://twitter.com/hywelplaidcymru,https://www.facebook.com/HywelWilliamsASMP,"","","",25221,4619,1397
 1398,Wayne David,"David, Wayne","","",male,davidw@parliament.uk,020 7219 8152,"",https://www.waynedavid.co.uk,https://twitter.com/WayneDavid_MP,"","","","",25696,2854,1398
-14,John Redwood,"Redwood, John","","",male,john.redwood.mp@parliament.uk,020 7219 4205,"",http://www.johnredwoodsdiary.com,https://twitter.com/johnredwood,"","","","",25340,329,14
+14,Sir John Redwood,"Redwood, Sir John","","",male,john.redwood.mp@parliament.uk,020 7219 4205,"",http://www.johnredwoodsdiary.com,https://twitter.com/johnredwood,"","","","",25340,329,14
 140,Dame Margaret Hodge,"Hodge, Dame Margaret","","",female,hodgem@parliament.uk ; margarethodge@hotmail.co.uk,020 7219 6666,"",https://www.margarethodgemp.com/,https://twitter.com/margarethodge,"","","","",25573,981,140
 1400,Kevin Brennan,"Brennan, Kevin","","",male,brennank@parliament.uk,020 7219 8156,"",http://www.kevinbrennan.co.uk,https://twitter.com/KevinBrennanMP,"","","","",25777,2281,1400
 1406,Jon Cruddas,"Cruddas, Jon","","",male,cruddasj@parliament.uk ; mullanem@parliament.uk,020 7219 8161,020 7219 1756,http://www.joncruddas.org.uk/,https://twitter.com/JonCruddas_1,"","","","",25577,2786,1406
@@ -70,7 +70,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 1559,Sir James Duddridge,"Duddridge, Sir James","","",male,james@jamesduddridge.com,01702 616135,"",http://www.jamesduddridge.com,https://twitter.com/JamesDuddridge,https://www.facebook.com/jamespduddridge/,"","","",31686,4769,1559
 1560,Sir Jeremy Wright,"Wright, Sir Jeremy","","",male,Jeremy.wright.mp@parliament.uk ; jeremy@jeremywright.org.uk,020 7219 2008,"",http://www.jeremywright.org.uk/,"",https://www.facebook.com/JeremyWrightMP/,"","","",35436,4847,1560
 1562,Sir Robert Goodwill,"Goodwill, Sir Robert","","",male,robert.goodwill.mp@parliament.uk,020 7219 8268,020 7219 8108,http://www.robertgoodwill.co.uk,"","","","","",28181,3497,1562
-1565,Philip Davies,"Davies, Philip","","",male,daviesp@parliament.uk ; deborah.davies@parliament.uk,020 7219 0667,"",http://www.philip-davies.org.uk/,https://twitter.com/philipdaviesuk,"","","","",35440,4767,1565
+1565,Sir Philip Davies,"Davies, Sir Philip","","",male,daviesp@parliament.uk ; deborah.davies@parliament.uk,020 7219 0667,"",http://www.philip-davies.org.uk/,https://twitter.com/philipdaviesuk,"","","","",35440,4767,1565
 1566,Daniel Kawczynski,"Kawczynski, Daniel","","",male,daniel.kawczynski.mp@parliament.uk,020 7219 6249,"",http://www.daniel4shrewsbury.co.uk,https://twitter.com/DKShrewsbury,"","","","",31584,4793,1566
 1571,Michael Gove,"Gove, Michael","","",male,michael.gove.mp@parliament.uk ; office@shca.org.uk,020 7219 6804,"",http://www.michaelgove.com/,"","","","","",35482,4782,1571
 1572,Jeremy Hunt,"Hunt, Jeremy","","",male,huntj@parliament.uk,020 7219 6813,"",http://www.jeremyhunt.org/,https://twitter.com/Jeremy_Hunt,"","","","",35446,4799,1572
@@ -139,7 +139,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 3944,Simon Hart,"Hart, Simon","","",male,simon.hart.mp@parliament.uk,020 7219 3000,"",http://www.simon-hart.com/,https://twitter.com/Simonhartmp,"","","","",53927,5549,3944
 3945,Sir Sajid Javid,"Javid, Sir Sajid","","",male,sajid.javid.mp@parliament.uk,020 7219 7027,020 7219 0930,http://www.sajidjavid.com,https://twitter.com/sajidjavid,https://www.facebook.com/sajidjavidbromsgrove/,"","","",84360,5595,3945
 3948,Rebecca Harris,"Harris, Rebecca","","",female,rebecca.harris.mp@parliament.uk,020 7219 7206,"","","","","","","",73064,5546,3948
-3950,Tracey Crouch,"Crouch, Tracey","","",female,tracey.crouch.mp@parliament.uk,020 7219 7203,"",https://www.traceycrouch.org.uk/ ; https://www.gov.uk/government/organisations/department-for-culture-media-sport,https://twitter.com/tracey_crouch,https://www.facebook.com/TraceyCrouchMp,"","","",54004,5551,3950
+3950,Dame Tracey Crouch,"Crouch, Dame Tracey","","",female,tracey.crouch.mp@parliament.uk,020 7219 7203,"",https://www.traceycrouch.org.uk/ ; https://www.gov.uk/government/organisations/department-for-culture-media-sport,https://twitter.com/tracey_crouch,https://www.facebook.com/TraceyCrouchMp,"","","",54004,5551,3950
 3952,Mr Toby Perkins,"Perkins, Mr Toby","","",male,toby.perkins.mp@parliament.uk,020 7219 2320,"",http://www.tobyperkins.org.uk,https://twitter.com/tobyperkinsmp,"","","","",64625,5518,3952
 3953,Jason McCartney,"McCartney, Jason","","",male,jason.mccartney.mp@parliament.uk,020 7219 4403,"",http://jasonmccartney.com,https://twitter.com/JasonMcCartney,"","","","",62727,5697,3953
 3957,Martin Vickers,"Vickers, Martin","","",male,martin.vickers.mp@parliament.uk ; mvickersmp@parliament.uk,020 7219 7212,"",http://www.martinvickers.org.uk/,https://twitter.com/martinvickers,"","","","",40371,5540,3957
@@ -192,7 +192,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4051,John Glen,"Glen, John","","",male,john.glen.mp@parliament.uk,020 7219 2675,"",http://www.johnglen.org.uk/,https://twitter.com/JohnGlenUK,https://www.facebook.com/johnglenmp,"","","",43043,5557,4051
 4052,Mark Pawsey,"Pawsey, Mark","","",male,mark.pawsey.mp@parliament.uk,020 7219 7136,"",http://www.markpawsey.org.uk,https://twitter.com/MarkPawsey,"","","","",35411,5620,4052
 4053,Mrs Heather Wheeler,"Wheeler, Mrs Heather","","",female,heather.wheeler.mp@parliament.uk,"","",http://www.heatherwheeler.org.uk,https://twitter.com/HeatherWheeler,"","","","",35319,5659,4053
-4055,Mark Spencer,"Spencer, Mark","","",male,mark.spencer.mp@parliament.uk,020 7219 7143,"",https://www.markspencer.org.uk/,https://twitter.com/Mark_Spencer,https://www.facebook.com/MarkSpencerSherwood,"","","",72306,5644,4055
+4055,Sir Mark Spencer,"Spencer, Sir Mark","","",male,mark.spencer.mp@parliament.uk,020 7219 7143,"",https://www.markspencer.org.uk/,https://twitter.com/Mark_Spencer,https://www.facebook.com/MarkSpencerSherwood,"","","",72306,5644,4055
 4058,Paul Blomfield,"Blomfield, Paul","","",male,paul.blomfield.mp@parliament.uk,020 7219 7142,"",http://www.paulblomfield.co.uk/,https://twitter.com/PaulBlomfieldMP,"","","","",72247,5587,4058
 4060,Sir Jake Berry,"Berry, Sir Jake","","",male,jake.berry.mp@parliament.uk,020 7219 7214,"",http://jakeberry.org/,https://twitter.com/jakeberry,"","","","",62817,5576,4060
 4061,Bill Esterson,"Esterson, Bill","","",male,bill.esterson.mp@parliament.uk,020 7219 0463,"",https://www.billesterson.com/,https://twitter.com/Bill_Esterson,"","","","",83727,5716,4061
@@ -222,7 +222,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4100,Mrs Sheryll Murray,"Murray, Mrs Sheryll","","",female,sheryll.murray.mp@parliament.uk ; sheryll@sheryllmurray.com,020 7219 3000,"",http://sheryllmurray.com,https://twitter.com/sheryllmurray,"","","","",62747,5731,4100
 4105,Justin Tomlinson,"Tomlinson, Justin","","",male,justin.tomlinson.mp@parliament.uk,020 7219 7167,"",http://www.justintomlinson.com/,https://twitter.com/JTomlinsonMP,"","","","",35402,5650,4105
 4106,Sir Robert Buckland,"Buckland, Sir Robert","","",male,robert.buckland.mp@parliament.uk,020 7219 7168,020 7219 4849,http://www.robertbuckland.co.uk/,https://twitter.com/RobertBuckland,"","","","",35445,5596,4106
-4107,Harriett Baldwin,"Baldwin, Harriett","","",female,harriett.baldwin.mp@parliament.uk,020 7219 3000,020 7219 5151,http://www.harriettbaldwin.com/,https://twitter.com/hbaldwin,"","","","",40489,5572,4107
+4107,Dame Harriett Baldwin,"Baldwin, Dame Harriett","","",female,harriett.baldwin.mp@parliament.uk,020 7219 3000,020 7219 5151,http://www.harriettbaldwin.com/,https://twitter.com/hbaldwin,"","","","",40489,5572,4107
 4108,Sir Gavin Williamson,"Williamson, Sir Gavin","","",male,gavin.williamson.mp@parliament.uk,020 7219 7245,"",http://www.gavinwilliamson.org,https://twitter.com/GWilliamsonMP,"","","","",35247,5661,4108
 411,Mr Barry Sheerman,"Sheerman, Mr Barry","","",male,sheermanb@parliament.uk ; barry.sheerman.mp@parliament.uk,020 7219 5037,020 7219 2404,http://www.barrysheerman.co.uk/,https://twitter.com/BarrySheerman,"","","","",25297,663,411
 4110,Dame Karen Bradley,"Bradley, Dame Karen","","",female,karen.bradley.mp@parliament.uk,020 7219 7215,020 7219 6222,http://www.karenbradley.co.uk/,"","","","","",41311,5591,4110
@@ -364,7 +364,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4482,Owen Thompson,"Thompson, Owen","","",male,owen.thompson.mp@parliament.uk,020 7219 3000,"",http://owenthompson.scot/,https://twitter.com/OwenThompson,"","","","",121847,6169,4482
 4483,Rishi Sunak,"Sunak, Rishi","","",male,rishi.sunak.mp@parliament.uk,020 7219 5437,"",http://www.rishisunak.com/,"",https://www.facebook.com/rishisunak,"","","",136507,6165,4483
 4484,Alan Mak,"Mak, Alan","","",male,alan.mak.mp@parliament.uk,020 7219 6266,"",http://www.alanmak.org.uk/,https://twitter.com/AlanMakMP,https://www.facebook.com/AlanMakHavant,"","","",136491,6108,4484
-4485,Johnny Mercer,"Mercer, Johnny","","",male,johnny.mercer.mp@parliament.uk ; johnny@johnnyforplymouth.co.uk,"","",http://www.johnnyforplymouth.co.uk/,https://twitter.com/JohnnyMercerUK,https://www.facebook.com/JohnnyForPlymouth,"","","",107853,6121,4485
+4485,Johnny Mercer,"Mercer, Johnny","","",male,johnny.mercer.mp@parliament.uk ; johnny@johnnyforplymouth.co.uk,"","",https://johnnymercer.co.uk/,https://twitter.com/JohnnyMercerUK,https://www.facebook.com/JohnnyForPlymouth,"","","",107853,6121,4485
 4486,Hannah Bardell,"Bardell, Hannah","","",female,hannah.bardell.mp@parliament.uk,020 7219 5907,"","",https://twitter.com/hannahb4livimp,"","","","",137601,6018,4486
 4487,Kelly Tolhurst,"Tolhurst, Kelly","","",female,kelly.tolhurst.mp@parliament.uk,020 7219 5387,"",http://www.kelly4rochesterandstrood.com/,https://twitter.com/kellytolhurst,"","","","",128367,6172,4487
 4488,Martyn Day,"Day, Martyn","","",male,martyn.day.mp@parliament.uk,020 7219 5930,"",http://www.martynday.scot,https://twitter.com/MartynDaySNP,https://www.facebook.com/MartynDaySNP,"",https://www.youtube.com/c/MartynDaySNP,"",121869,6049,4488
@@ -378,7 +378,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4496,Scott Mann,"Mann, Scott","","",male,scott.mann.mp@parliament.uk ; scott@scottmann.org.uk,"","",http://www.scottmann.org.uk/,https://twitter.com/ScottMann4NC,https://www.facebook.com/TherightMANNforNorthCornwall,"","","",106116,6110,4496
 4497,Michael Tomlinson,"Tomlinson, Michael","","",male,michael.tomlinson.mp@parliament.uk,020 7219 5844,"",http://www.michaeltomlinson.org.uk/,https://twitter.com/michael4mdnp,"","","","",106247,6173,4497
 4498,Mr Ranil Jayawardena,"Jayawardena, Mr Ranil","","",male,email@ranil.uk,020 7219 3637,"",https://www.ranil.uk/,https://twitter.com/ranil,https://www.facebook.com/ranil.uk,"","","",92009,6091,4498
-4500,Clive Lewis,"Lewis, Clive","","",male,clive.lewis.mp@parliament.uk,020 7219 5593,"",http://www.clivelewis.org/,https://twitter.com/labourlewis,"","","","",106025,6102,4500
+4500,Clive Lewis,"Lewis, Clive","","",male,clive.lewis.mp@parliament.uk,0207 219 2700,"",http://www.clivelewis.org/,https://twitter.com/labourlewis,"","","","",106025,6102,4500
 4501,Gerald Jones,"Jones, Gerald","","",male,gerald.jones.mp@parliament.uk,020 7219 5874,"",http://www.geraldjones.co.uk/,https://twitter.com/geraldjoneslab,https://www.facebook.com/GeraldJonesLabour/,"","","",35103,6093,4501
 4503,Chris Philp,"Philp, Chris","","",male,chris.philp.mp@parliament.uk,020 7219 3000,"",http://www.chrisphilp.com/,https://twitter.com/CPhilpOfficial,"","","","",62759,6137,4503
 4504,Wes Streeting,"Streeting, Wes","","",male,wes.streeting.mp@parliament.uk,020 7219 6132,"",http://www.wesstreeting.org/,https://twitter.com/wesstreeting,"","","","",108876,6164,4504
@@ -426,7 +426,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4612,Jamie Stone,"Stone, Jamie","","",male,jamie.stone.mp@parliament.uk,0207 219 1654,"",https://www.jamiestone.org.uk/,https://twitter.com/Jamie4North,https://www.facebook.com/Jamie4North,"","","",121354,4153,4612
 4613,Alex Burghart,"Burghart, Alex","","",male,alex.burghart.mp@parliament.uk,0207 219 1613,"","",https://twitter.com/alexburghart,"","","","",137715,6203,4613
 4615,Lloyd Russell-Moyle,"Russell-Moyle, Lloyd","","",male,lloyd.russellmoyle.mp@parliament.uk ; lloyd@russell-moyle.co.uk,0207 219 2280,"",http://russell-moyle.co.uk,https://twitter.com/lloyd_rm,https://www.facebook.com/LloydRussellMP,"","","",110173,6265,4615
-4616,Rosie Duffield,"Duffield, Rosie","","",female,rosie.duffield.mp@parliament.uk,0207 219 1183,"",http://www.rosieduffieldmp.co.uk/,https://twitter.com/RosieDuffield1,"","","","",147928,6213,4616
+4616,Rosie Duffield,"Duffield, Rosie","","",female,rosie.duffield.mp@parliament.uk ; enquiries@rosieduffieldmp.co.uk,0207 219 1183,"",http://www.rosieduffieldmp.co.uk/,https://twitter.com/RosieDuffield1,"","","","",147928,6213,4616
 4617,Matt Western,"Western, Matt","","",male,matt.western.mp@parliament.uk,0207 219 2051,"",http://www.mattwestern.org/,https://twitter.com/mattwestern_,https://www.facebook.com/MattWesternMP/,"","","",117292,6275,4617
 4618,Liz Twist,"Twist, Liz","","",female,liz.twist.mp@parliament.uk,0207 219 2221,"",https://www.liztwist.co.uk,"","","","","",113394,6272,4618
 4619,Mr Alister Jack,"Jack, Mr Alister","","",male,alister.jack.mp@parliament.uk ; enquiries@ukgovscotland.gov.uk,0207 219 2994,"",https://www.alisterjack.co.uk/,"","","","","",148300,6228,4619
@@ -444,11 +444,11 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4638,Mr Tanmanjeet Singh Dhesi,"Dhesi, Mr Tanmanjeet Singh","","",male,tan.dhesi.mp@parliament.uk,0207 219 1946,"",http://www.tsdhesi.com/,https://twitter.com/TanDhesi,https://www.facebook.com/tandhesi/,"","","",106432,6209,4638
 4639,Bim Afolami,"Afolami, Bim","","",male,bim.afolami.mp@parliament.uk,"","","",https://twitter.com/BimAfolami,"","","","",133811,6196,4639
 4640,David Linden,"Linden, David","","",male,david.linden.mp@parliament.uk,0207 219 1801,"",http://www.davidlinden.scot/,https://twitter.com/DavidLinden,https://www.facebook.com/DavidLindenMP,"","","",148035,6241,4640
-4641,Alex Norris,"Norris, Alex","","",male,alex.norris.mp@parliament.uk,0207 219 3899,"","",https://twitter.com/alexnorrisnn,"","","","",113121,6251,4641
+4641,Alex Norris,"Norris, Alex","","",male,alex.norris.mp@parliament.uk,0207 219 3899,"","",https://twitter.com/AlexJJNorris,https://www.facebook.com/AlexforNottmNorthandKimberley,"","","",113121,6251,4641
 4643,Jack Brereton,"Brereton, Jack","","",male,jack.brereton.mp@parliament.uk,0207 219 4460,"",http://www.jackbrereton.co.uk/,"",https://www.facebook.com/jackbreretonforstoke/,"","","",131166,6202,4643
 4645,Emma Hardy,"Hardy, Emma","","",female,emma.hardy.mp@parliament.uk,"","","",https://twitter.com/EmmaHardyMP,"","","","",148271,6223,4645
 4647,Julia Lopez,"Lopez, Julia","","",female,julia.lopez.mp@parliament.uk,0207 219 2631,"","",https://twitter.com/JuliaLopezMP,"","","","",132474,6211,4647
-4651,Dan Carden,"Carden, Dan","","",male,dan.carden.mp@parliament.uk,0207 219 6236,"",http://www.66prioryroad.co.uk/,https://twitter.com/DanCardenMP,https://www.facebook.com/DanCardenMP/,"",https://www.youtube.com/@dancardenmp,"",148167,6204,4651
+4651,Dan Carden,"Carden, Dan","","",male,dan.carden.mp@parliament.uk,0207 219 6236,"",www.dancardenmp.co.uk,https://twitter.com/DanCardenMP,https://www.facebook.com/DanCardenMP/,"",https://www.youtube.com/@dancardenmp,"",148167,6204,4651
 4652,Lee Rowley,"Rowley, Lee","","",male,lee.rowley.mp@parliament.uk,0207 219 4197,"","",https://twitter.com/Lee4NED,"","","","",83604,6264,4652
 4653,Stephen Morgan,"Morgan, Stephen","","",male,stephen.morgan.mp@parliament.uk,0207 219 3906,"",http://www.stephenmorgan.org.uk/,https://twitter.com/stephenmorganmp,https://www.facebook.com/StephenMorganMP,"","","",72523,6250,4653
 4654,Matt Rodda,"Rodda, Matt","","",male,matt.rodda.mp@parliament.uk ; mattroddampcasework@parliament.uk,0207 219 3980,"","","","","","","",72490,6261,4654
@@ -462,7 +462,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4668,Rachel Maclean,"Maclean, Rachel","","",female,rachel.maclean.mp@parliament.uk,0207 219 1848,"",https://www.rachelmaclean.uk/,https://twitter.com/redditchrachel,https://www.facebook.com/RedditchRachel/,"","","",106028,6243,4668
 4669,Damien Moore,"Moore, Damien","","",male,damien.moore.mp@parliament.uk,01704 500577,"",http://www.damienmooremp.com/,https://twitter.com/damienmooremp,https://en-gb.facebook.com/damienmooremp/,"","","",127282,6248,4669
 467,Sir Lindsay Hoyle,"Hoyle, Sir Lindsay","","",male,speakersoffice@parliament.uk ; Lindsay.hoyle.mp@parliament.uk,020 7219 3000,"","",https://twitter.com/LindsayHoyle_MP,"","","","",25512,1050,467
-4671,Afzal Khan,"Khan, Afzal","","",male,afzal.khan.mp@parliament.uk,020 7219 3570,"",http://www.afzalkhan.org.uk/,https://twitter.com/Afzal4Gorton,"","","","",107134,6234,4671
+4671,Afzal Khan,"Khan, Afzal","","",male,afzal.khan.mp@parliament.uk,020 7219 3570,"",http://www.afzalkhan.org.uk/,https://twitter.com/AfzalKhanMCR,"","","","",107134,6234,4671
 4674,Vicky Ford,"Ford, Vicky","","",female,vicky.ford.mp@parliament.uk,0207 219 0138,"",https://www.vickyford.uk/,https://twitter.com/vickyford,https://www.facebook.com/Vicky4Chelmsford/,"","","",37672,6195,4674
 4676,Marsha De Cordova,"De Cordova, Marsha","","",female,marsha.decordova.mp@parliament.uk,0207 219 0209,"",http://marshadecordova.co.uk/,https://twitter.com/Marshadecordova,"","","","",118780,6208,4676
 4677,Giles Watling,"Watling, Giles","","",male,giles.watling.mp@parliament.uk,"","",https://www.gileswatling.co.uk/ ,https://twitter.com/GilesWatling,https://www.facebook.com/gileswatlingmp/,"","","",125322,6274,4677
@@ -497,7 +497,7 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4754,Peter Gibson,"Gibson, Peter","","",male,peter.gibson.mp@parliament.uk,0207 219 3000,"",https://www.petergibson.org/,https://twitter.com/gibbo4darlo,https://www.facebook.com/gibbo4darlo,"","","",127108,6343,4754
 4755,Mick Whitley,"Whitley, Mick","","",male,mick.whitley.mp@parliament.uk,0207 219 3000,"","","","","","","",156994,6415,4755
 4756,Brendan Clarke-Smith,"Clarke-Smith, Brendan","","",male,brendan.clarkesmith.mp@parliament.uk,0207 219 3000,"",https://www.brendanclarkesmith.com/,https://twitter.com/Bren4Bassetlaw,https://www.facebook.com/brendan4bassetlaw,"","","",107205,6315,4756
-4757,Shaun Bailey,"Bailey, Shaun","","",male,shaun.bailey.mp@parliament.uk,0121 389 4419,"",https://www.shaunbailey.org.uk/,https://twitter.com/shaun4wbw,https://www.facebook.com/ShaunBaileyMP,"","","",157204,6292,4757
+4757,Shaun Bailey,"Bailey, Shaun","","",male,shaun.bailey.mp@parliament.uk,0207 219 3982,"",https://www.shaunbailey.org.uk/,https://twitter.com/shaun4wbw,https://www.facebook.com/ShaunBaileyMP,"","","",157204,6292,4757
 4758,Cherilyn Mackrory,"Mackrory, Cherilyn","","",female,cherilyn.mackrory.mp@parliament.uk,020 7219 2608,"",https://www.cherilynmackrory.org.uk/,https://twitter.com/thisischerilyn,https://www.facebook.com/thisischerilyn,"","","",157190,6373,4758
 4759,Joy Morrissey,"Morrissey, Joy","","",female,joy.morrissey.mp@parliament.uk,0207 219 3000,"","","","","","","",148366,6381,4759
 4760,Gary Sambrook,"Sambrook, Gary","","",male,gary.sambrook.mp@parliament.uk,0207 219 3000,"","","","","","","",132119,6397,4760
@@ -533,7 +533,6 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4790,Apsana Begum,"Begum, Apsana","","",female,apsana.begum.mp@parliament.uk,0207 219 6826,"","","","","","","",157055,6297,4790
 4791,Andy Carter,"Carter, Andy","","",male,andy.carter.mp@parliament.uk,0207 219 3000,"","","","","","","",157199,6310,4791
 4792,Paul Bristow,"Bristow, Paul","","",male,paul.bristow.mp@parliament.uk,020 7219 3690,"",https://www.paulbristow.org.uk/,https://twitter.com/paulbristow79,https://www.facebook.com/proudofpeterborough/,"","","",77366,6303,4792
-4793,Scott Benton,"Benton, Scott","","",male,scott.benton.mp@parliament.uk,0207 219 3000,"",https://www.scottbenton.org.uk/,https://twitter.com/ScottBentonMP,https://www.facebook.com/ScottBenton4BlackpoolSouth,"","","",131749,6299,4793
 4794,Darren Henry,"Henry, Darren","","",male,darren.henry.mp@parliament.uk,0207 219 3000,"","","","","","","",137081,6351,4794
 4795,Mrs Natalie Elphicke,"Elphicke, Mrs Natalie","","",female,natalie.elphicke.mp@parliament.uk,0207 219 7052,"","","","","","","",157102,6331,4795
 4796,Richard Thomson,"Thomson, Richard","","",male,richard.thomson.mp@parliament.uk,020 3545 2236,"",https://www.richardthomsonmp.com/,https://twitter.com/rthomsonmp,https://www.facebook.com/RichardThomsonMP/,"","","",42845,6408,4796
@@ -635,13 +634,14 @@ id,name,sort_name,birth_date,death_date,gender,email,phone,fax,website,twitter,f
 4995,Sarah Dyke,"Dyke, Sarah","","",female,sarah.dyke.mp@parliament.uk,020 3545 2414,"","","","","","","",170108,6436,4995
 4998,Michael Shanks,"Shanks, Michael","","",male,michael.shanks.mp@parliament.uk,"","","",https://twitter.com/mgshanks,"","","","","",6438,4998
 5000,Alistair Strathern,"Strathern, Alistair","","",male,alistair.strathern.mp@parliament.uk,020 7219 6004,"","","","","","","",118734,6440,5000
-5001,Sarah Edwards,"Edwards, Sarah","","",female,sarah.edwards.mp@parliament.uk,"","","","","","","","",170681,6439,5001
-5010,Damien Egan,"Egan, Damien","","",male,"","","","","","","","","",36029,6441,5010
+5001,Sarah Edwards,"Edwards, Sarah","","",female,sarah.edwards.mp@parliament.uk,01827 794 475,"","","","","","","",170681,6439,5001
+5010,Damien Egan,"Egan, Damien","","",male,damien.egan.mp@parliament.uk,"","","","","","","","",36029,6441,5010
 5011,Gen Kitchen,"Kitchen, Gen","","",female,"","","","","","","","","",158066,6442,5011
 523,Mr Nicholas Brown,"Brown, Mr Nicholas","","",male,nickbrownmp@parliament.uk,020 7219 6814,020 7219 5941,http://www.nickbrownmp.com,"","","","","",25744,2330,523
 529,Sir Alan Campbell,"Campbell, Sir Alan","","",male,alan.campbell.mp@parliament.uk,020 7219 6619,"",http://www.alancampbellmp.co.uk,https://twitter.com/alancampbellmp,"","","","",25786,2445,529
 54,Sir Julian Lewis,"Lewis, Sir Julian","","",male,"",020 7219 4179,"",http://www.julianlewis.net,"","","","","",25560,1486,54
 55,Sir Desmond Swayne,"Swayne, Sir Desmond","","",male,swayned@parliament.uk,020 7219 4886,020 7219 0901,http://www.desmondswaynemp.com,https://twitter.com/DesmondSwayne,"","","","",25258,4185,55
+609,George Galloway,"Galloway, George","","",male,george.galloway.mp@parliament.uk,0207 219 4122,"","",https://twitter.com/georgegalloway,https://facebook.com/georgegallowayofficial,"","","",25649,3367,609
 62,Dr Alan Whitehead,"Whitehead, Dr Alan","","",male,whiteheada@parliament.uk,020 7219 5517,020 7219 0918,http://www.alan-whitehead.org.uk,https://twitter.com/alanwhiteheadmp,"","","","",25238,4585,62
 650,Sir Jeffrey M Donaldson,"Donaldson, Sir Jeffrey M","","",male,jeffrey.donaldson.mp@parliament.uk ; jeffreydonaldsonmp@laganvalley.net,020 7219 3407,020 7219 0696,"",https://twitter.com/J_Donaldson_MP,"","","","",25697,2989,650
 69,Sir Oliver Heald,"Heald, Sir Oliver","","",male,Oliver.heald.mp@parliament.uk,"","",http://www.oliverhealdmp.com,https://twitter.com/OliverHealdUK,"","","","",25566,907,69

@@ -123,6 +123,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "Páirtí Lucht Oibre na Breataine Bige",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Laborista Galés",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "it",
         "name": "Wales Labour Party",
         "note": "multilingual",
@@ -177,7 +189,7 @@
         "note": "website"
       }
     ],
-    "srgb": "DC241F"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"1143ab469e7849fc58d6d8e3ab2a97f29a5af68c","datavalue":{"value":"DC241F","type":"string"},"datatype":"string"},"type":"statement","id":"Q832685$3fe0d115-49bb-af9e-1297-4e5fe72bfbd2","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"1143ab469e7849fc58d6d8e3ab2a97f29a5af68c","datavalue":{"value":"DC241F","type":"string"},"datatype":"string"}}}
   },
   "89e51135-5b4f-480a-a931-654928c345bb": {
     "identifiers": [
@@ -267,6 +279,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ga",
+        "name": "Coimeádaithe na Breataine Bige",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "gl",
+        "name": "Partido Conservador Galés",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Welsh Conservatives",
         "note": "multilingual",
@@ -291,7 +315,7 @@
         "note": "website"
       }
     ],
-    "srgb": "0087DC"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"cc34a2cc35f245af3d3df6cc102d73bda3dabe68","datavalue":{"value":"0087DC","type":"string"},"datatype":"string"},"type":"statement","id":"Q7981882$792b3c34-4b84-1625-8b5d-38be50beab7a","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"cc34a2cc35f245af3d3df6cc102d73bda3dabe68","datavalue":{"value":"0087DC","type":"string"},"datatype":"string"}}}
   },
   "e07e997c-9ee8-48f8-b278-c7a372026296": {
     "identifiers": [
@@ -433,6 +457,12 @@
         "name": "Partai Kemerdekaan Wales",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kcg",
+        "name": "Sot Kwai-nfwuo-á̱niet Wali̱t",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -441,7 +471,7 @@
         "note": "website"
       }
     ],
-    "srgb": "3F8428"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"e032ec1025f6115643ce13a16fb833ee8b35c6cf","datavalue":{"value":"3F8428","type":"string"},"datatype":"string"},"type":"statement","id":"Q10691$5feea315-4540-b2bb-5ceb-50d06b449ff6","rank":"normal","references":[{"hash":"09715ea9ff6e3aba66e595a1ac62eaed5483d4e2","snaks":{"P854":[{"snaktype":"value","property":"P854","hash":"237fd4ad90023f15f21426c8fd608b55c4831d04","datavalue":{"value":"http://blog.richardallen.co.uk/uk-political-party-web-colours/","type":"string"},"datatype":"url"}],"P1065":[{"snaktype":"value","property":"P1065","hash":"0de6c031129a2e0d21f45c10ec3f35f94d74ee93","datavalue":{"value":"https://web.archive.org/web/20210514233424/http://www.blog.richardallen.co.uk/uk-political-party-web-colours/","type":"string"},"datatype":"url"}],"P2960":[{"snaktype":"value","property":"P2960","hash":"6272fbeef3091ddce628333f5cd84cf4450e5c72","datavalue":{"value":{"time":"+2021-05-14T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}]},"snaks-order":["P854","P1065","P2960"]}]},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"e032ec1025f6115643ce13a16fb833ee8b35c6cf","datavalue":{"value":"3F8428","type":"string"},"datatype":"string"}}}
   },
   "b2f6b2f1-281c-464f-abc4-4e91a245ee0e": {
     "identifiers": [
@@ -519,6 +549,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "gl",
+        "name": "Liberal Demócratas Galeses",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "zh",
         "name": "威尔士自由民主党",
         "note": "multilingual",
@@ -531,7 +567,7 @@
         "note": "website"
       }
     ],
-    "srgb": "FAA61A"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"c9d58c588bd9528626791b4b823ccc94720debed","datavalue":{"value":"FAA61A","type":"string"},"datatype":"string"},"type":"statement","id":"Q7981939$fd95b1d5-4964-de1e-51d3-77edeb78043d","rank":"normal","references":[{"hash":"70da76db29e571c9d72c9ca0f28e4ccf930b36b7","snaks":{"P854":[{"snaktype":"value","property":"P854","hash":"53834035c75be7ee33faf282026181ceafa610be","datavalue":{"value":"https://www.libdems.org.uk/styleguide","type":"string"},"datatype":"url"}]},"snaks-order":["P854"]}]},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"c9d58c588bd9528626791b4b823ccc94720debed","datavalue":{"value":"FAA61A","type":"string"},"datatype":"string"}}}
   },
   "bc54bc3a-44e3-4611-927c-61f25f4c101a": {
     "identifiers": [
@@ -562,7 +598,7 @@
       },
       {
         "lang": "cs",
-        "name": "Strana nezávislosti Spojeného království (UKIP)",
+        "name": "Strana nezávislosti Spojeného království",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -849,6 +885,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "id",
+        "name": "Partai Kebebasan Inggris",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -879,12 +921,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "cs",
-        "name": "Strana nezávislosti Spojeného království",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "zh",
         "name": "青年獨立",
         "note": "multilingual",
@@ -898,7 +934,7 @@
       }
     ],
     "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/British_party_UKIP.svg",
-    "srgb": "70147A"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"ed28b9fbf1e9bdfdd7f8f9644a6c9a94e50dc79b","datavalue":{"value":"70147A","type":"string"},"datatype":"string"},"type":"statement","id":"Q10647$1e96c872-43f6-b62b-30d7-5a63090dfecf","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"ed28b9fbf1e9bdfdd7f8f9644a6c9a94e50dc79b","datavalue":{"value":"70147A","type":"string"},"datatype":"string"}}}
   },
   "50539eb9-5cb3-4018-92d6-3210f1c09c62": {
     "identifiers": [
@@ -911,37 +947,37 @@
     "other_names": [
       {
         "lang": "zh-hans",
-        "name": "无党籍政治人物",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh-hant",
-        "name": "無黨籍政治人物",
+        "name": "無黨籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh-hk",
-        "name": "無黨籍政治人物",
+        "name": "無黨籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh-cn",
-        "name": "无党籍政治人物",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh-sg",
-        "name": "无党籍政治人物",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh-tw",
-        "name": "無黨籍政治人物",
+        "name": "無黨籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -977,7 +1013,7 @@
       },
       {
         "lang": "id",
-        "name": "Independen",
+        "name": "politikus independen",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1085,7 +1121,7 @@
       },
       {
         "lang": "zh",
-        "name": "無黨籍政治人物",
+        "name": "無黨籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1247,13 +1283,13 @@
       },
       {
         "lang": "zh-mo",
-        "name": "無黨籍政治人物",
+        "name": "無黨籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
       {
         "lang": "zh-my",
-        "name": "无党籍政治人物",
+        "name": "无党籍",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1343,7 +1379,7 @@
       },
       {
         "lang": "lv",
-        "name": "neatkarīgs politiķis",
+        "name": "neatkarīgais politiķis",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1379,7 +1415,7 @@
       },
       {
         "lang": "hr",
-        "name": "Nezavisni",
+        "name": "nezavisni",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1445,7 +1481,7 @@
       },
       {
         "lang": "ku",
-        "name": "Siyasetmedarê serbixwe",
+        "name": "Siyasetmedara/ê serbixwe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1500,6 +1536,24 @@
       {
         "lang": "ab",
         "name": "апартиа иалам",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ku-latn",
+        "name": "siyasetmedara/ê serbixwe",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ckb",
+        "name": "سیاسەتوانێکی سەربەخۆ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "pa",
+        "name": "ਆਜ਼ਾਦ ਰਾਜਨੇਤਾ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1620,12 +1674,6 @@
       {
         "lang": "de",
         "name": "parteilose Abgeordnete",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "id",
-        "name": "Politikus independen",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1864,6 +1912,12 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "ru",
+        "name": "беспартийная",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "tt",
         "name": "фиркасез",
         "note": "multilingual",
@@ -1943,13 +1997,13 @@
       },
       {
         "lang": "zh-tw",
-        "name": "無黨籍",
+        "name": "無黨派",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "zh-tw",
-        "name": "無黨派",
+        "name": "無黨籍政治人物",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -1973,31 +2027,31 @@
       },
       {
         "lang": "hr",
-        "name": "Nezavisni političar",
+        "name": "nezavisni političar",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "hr",
-        "name": "Nesvrstani",
+        "name": "nesvrstani",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "hr",
-        "name": "Nesvrstani političar",
+        "name": "nesvrstani političar",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "hr",
-        "name": "Nezavisni političari",
+        "name": "nezavisni političari",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
         "lang": "hr",
-        "name": "Nesvrstani političari",
+        "name": "nesvrstani političari",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2162,9 +2216,57 @@
         "name": "независим",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisen politik",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisni kandidat",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisna političarka",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "sl",
+        "name": "neodvisna kandidatka",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "zh-hant",
+        "name": "無黨籍政治人物",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "neatkarīgs politiķis",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "bezpartejisks politiķis",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lv",
+        "name": "politiķis bez partijas",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
-    "srgb": "DDDDDD"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"2aad0ac0061f47a503dda929c0eb7dd86e8c7769","datavalue":{"value":"DDDDDD","type":"string"},"datatype":"string"},"type":"statement","id":"Q327591$d56e0a2d-408c-dbd4-1c04-246c8114ca12","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"2aad0ac0061f47a503dda929c0eb7dd86e8c7769","datavalue":{"value":"DDDDDD","type":"string"},"datatype":"string"}}}
   },
   "d52a2d10-7fb7-46c9-8de0-42fed8646e7f": {
     "identifiers": [
@@ -2194,7 +2296,7 @@
         "note": "website"
       }
     ],
-    "srgb": "177245"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"ee7825a28692a935152128ee57236f8304cc2d4a","datavalue":{"value":"177245","type":"string"},"datatype":"string"},"type":"statement","id":"Q4923798$d9f72aed-49c0-3731-abd3-f467a5380b08","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"ee7825a28692a935152128ee57236f8304cc2d4a","datavalue":{"value":"177245","type":"string"},"datatype":"string"}}}
   },
   "843e5795-31b3-4b3a-b4e9-3054ea1cc926": {
     "identifiers": [
@@ -2218,6 +2320,6 @@
         "source": "wikidata-label"
       }
     ],
-    "srgb": "FFFFFF"
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"e1ed8cc1af5b647f4d8b5f7d1f77b6a55ae6ce85","datavalue":{"value":"FFFFFF","type":"string"},"datatype":"string"},"type":"statement","id":"Q6246716$baeac74f-4e5e-8801-0350-4e13bd28ec01","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"e1ed8cc1af5b647f4d8b5f7d1f77b6a55ae6ce85","datavalue":{"value":"FFFFFF","type":"string"},"datatype":"string"}}}
   }
 }

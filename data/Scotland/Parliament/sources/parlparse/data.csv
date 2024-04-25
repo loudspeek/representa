@@ -708,7 +708,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25987,Ariane Burgess,,,uk.org.publicwhip/person/25987,Highlands and Islands,uk.org.publicwhip/cons/10718,Green,green,2021-05-08,regional_election,,,5
 25495,Alexander Burnett,,,uk.org.publicwhip/person/25495,Aberdeenshire West,uk.org.publicwhip/cons/10800,Conservative,conservative,2021-05-08,regional_election,,,5
 25988,Stephanie Callaghan,,,uk.org.publicwhip/person/25988,Uddingston and Bellshill,uk.org.publicwhip/cons/10835,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
-25496,Donald Cameron,,,uk.org.publicwhip/person/25496,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2021-05-08,regional_election,,,5
+25496,Donald Cameron,,,uk.org.publicwhip/person/25496,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2021-05-08,regional_election,2024-02-12,resigned,5
 13967,Jackson Carlaw,,,uk.org.publicwhip/person/13967,Eastwood,uk.org.publicwhip/cons/10749,Conservative,conservative,2021-05-08,regional_election,,,5
 25497,Finlay Carson,,,uk.org.publicwhip/person/25497,Galloway and West Dumfries,uk.org.publicwhip/cons/10818,Conservative,conservative,2021-05-08,regional_election,,,5
 25989,Maggie Chapman,,,uk.org.publicwhip/person/25989,North East Scotland,uk.org.publicwhip/cons/10721,Green,green,2021-05-08,regional_election,,,5
@@ -821,3 +821,4 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25775,Beatrice Wishart,,,uk.org.publicwhip/person/25775,Shetland Islands,uk.org.publicwhip/cons/10790,Liberal Democrat,liberal-democrat,2021-05-08,regional_election,,,5
 25119,Humza Yousaf,,,uk.org.publicwhip/person/25119,Glasgow Pollok,uk.org.publicwhip/cons/10765,Scottish National Party,scottish-national-party,2021-05-08,regional_election,,,5
 26091,Roz McCall,,,uk.org.publicwhip/person/26091,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Conservative,conservative,2022-09-05,appointed,,,5
+26290,Tim Eagle,,,uk.org.publicwhip/person/26290,Highlands and Islands,uk.org.publicwhip/cons/10718,Conservative,conservative,2024-02-20,appointed,,,5
