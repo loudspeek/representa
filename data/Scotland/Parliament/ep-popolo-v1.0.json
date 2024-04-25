@@ -8524,11 +8524,28 @@
       "name": "Paul McLennan"
     },
     {
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "Tim.Eagle.msp@parliament.scot"
+        }
+      ],
+      "email": "Tim.Eagle.msp@parliament.scot",
       "id": "827d02e1-2146-4d9f-bf5b-9c42e1ef351f",
       "identifiers": [
         {
           "identifier": "uk.org.publicwhip/person/26290",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "17689",
+          "scheme": "scotparl"
+        }
+      ],
+      "image": "http://scottishparliament.thirdlight.com/file/84910260837",
+      "images": [
+        {
+          "url": "http://scottishparliament.thirdlight.com/file/84910260837"
         }
       ],
       "name": "Tim Eagle"
