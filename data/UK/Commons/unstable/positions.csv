@@ -1,37 +1,26 @@
 id,name,position,start_date,end_date,type
-a12f2b4a-1c75-4b3c-9671-814baef37f78,Ed Miliband,Secretary of State for Energy and Climate Change,2008-10-03,2010-05-11,cabinet
+2052c5d9-af0a-443e-ac35-98eb0cf40f80,Boris Johnson,Secretary of State for Foreign and Commonwealth Affairs,2016-07-13,2018-07-09,cabinet
 44fea536-808d-4c6a-9996-c4c8b765f7c2,Margaret Beckett,Secretary of State for Foreign and Commonwealth Affairs,2006-05-05,2007-06-27,cabinet
 44fea536-808d-4c6a-9996-c4c8b765f7c2,Margaret Beckett,"Secretary of State for Environment, Food and Rural Affairs",2001-06-08,2006-05-05,cabinet
 44fea536-808d-4c6a-9996-c4c8b765f7c2,Margaret Beckett,"Secretary of State for Business, Energy and Industrial Strategy",1997-05-02,1998-07-27,cabinet
-9a325a73-0f25-4be0-8bfa-e0c495b6f2c5,Caroline Flint,Secretary of State for Communities and Local Government,2010-10-08,2011-10-07,cabinet
-74679ab9-0d96-43cc-b84f-bbd825e93da0,Lord Young of Cookham,Secretary of State for Transport,1995-07-05,1997-05-02,cabinet
-423db8e2-7be0-47ee-b698-2a0957d27a9d,Dominic Raab,Secretary of State for Exiting the European Union,2018-07-09,2018-11-15,cabinet
-ef58aaca-2272-44aa-8f09-a11628254a76,David Miliband,Secretary of State for Foreign and Commonwealth Affairs,2007-06-28,2010-05-11,cabinet
-ef58aaca-2272-44aa-8f09-a11628254a76,David Miliband,"Secretary of State for Environment, Food and Rural Affairs",2006-05-05,2007-06-27,cabinet
-b5e7da2e-eb53-4136-8a42-68626ea1ed11,Stephen Crabb,Secretary of State for Wales,2014-07-15,2016-03-19,cabinet
-b5e7da2e-eb53-4136-8a42-68626ea1ed11,Stephen Crabb,Secretary of State for Work and Pensions,2016-03-19,2016-07-14,cabinet
-03c9e793-ddb9-4694-8e2b-96e1440cb5d2,Michael Fallon,Secretary of State for Defence,2014-07-15,2017-11-01,cabinet
+54decb4f-7363-42bf-8653-34847b88c9d0,Shaun Woodward,Secretary of State for Northern Ireland,2007-06-28,2010-05-11,cabinet
+0d5db2c5-773d-4d63-88c4-6a0e9c888873,Lord Blunkett,Secretary of State for the Home Department,2001-06-08,2004-12-15,cabinet
+0d5db2c5-773d-4d63-88c4-6a0e9c888873,Lord Blunkett,Secretary of State for Education,1994-10-20,1997-05-02,cabinet
+0d5db2c5-773d-4d63-88c4-6a0e9c888873,Lord Blunkett,Secretary of State for Education,1997-05-02,2001-06-08,cabinet
+0d5db2c5-773d-4d63-88c4-6a0e9c888873,Lord Blunkett,Secretary of State for Work and Pensions,2005-05-06,2005-11-02,cabinet
+62c0a115-5ef9-4e10-9827-554027f7d915,Karen Bradley,Secretary of State for Northern Ireland,2018-01-08,,cabinet
+62c0a115-5ef9-4e10-9827-554027f7d915,Karen Bradley,"Secretary of State for Culture, Media and Sport",2016-07-14,2018-01-08,cabinet
+509c288f-d211-422b-8874-0256e18cad2c,Theresa Villiers,Secretary of State for Northern Ireland,2012-09-04,2016-07-14,cabinet
+65debd30-e099-4df8-9320-ae6abd48ea16,Alistair Carmichael,Secretary of State for Scotland,2013-10-07,2015-05-08,cabinet
+b9a5891f-6bf2-4410-b37c-f2151bb26ac3,Sarah Teather,Secretary of State for Education,2006-03-03,2007-07-04,cabinet
+03ba2cd5-25fc-4798-b506-85de02e6b3dc,Frank Dobson,Secretary of State for Health and Social Care,1997-05-02,1999-10-11,cabinet
+b08de286-5158-4c6d-98a9-7395257803e9,Lord Mandelson,Secretary of State for Northern Ireland,1999-10-11,2001-01-24,cabinet
+b08de286-5158-4c6d-98a9-7395257803e9,Lord Mandelson,First Secretary of State,2009-06-05,2010-05-11,cabinet
+b08de286-5158-4c6d-98a9-7395257803e9,Lord Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",1998-07-27,1998-12-23,cabinet
+b08de286-5158-4c6d-98a9-7395257803e9,Lord Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",2008-10-03,2009-06-05,cabinet
+b08de286-5158-4c6d-98a9-7395257803e9,Lord Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",2008-10-03,2010-05-11,cabinet
+b08de286-5158-4c6d-98a9-7395257803e9,Lord Mandelson,"Secretary of State for Business, Energy and Industrial Strategy",2009-06-05,2010-05-11,cabinet
 008ca7b1-fd32-420f-b710-d49fe8e34b05,George Osborne,First Secretary of State,2015-05-08,2016-07-13,cabinet
 008ca7b1-fd32-420f-b710-d49fe8e34b05,George Osborne,Chancellor of the Exchequer,2010-05-11,2016-07-13,cabinet
-77c9d15f-98c7-45b4-89a8-6f21ab07157d,Lord Hammond of Runnymede,Secretary of State for Foreign and Commonwealth Affairs,2014-07-15,2016-07-13,cabinet
-77c9d15f-98c7-45b4-89a8-6f21ab07157d,Lord Hammond of Runnymede,Secretary of State for Defence,2011-10-14,2014-07-15,cabinet
-77c9d15f-98c7-45b4-89a8-6f21ab07157d,Lord Hammond of Runnymede,Secretary of State for Transport,2010-05-11,2011-10-14,cabinet
-77c9d15f-98c7-45b4-89a8-6f21ab07157d,Lord Hammond of Runnymede,Chancellor of the Exchequer,2016-07-13,,cabinet
-767250a1-8dda-4c7c-b17c-8e0de6c731f2,Justine Greening,Secretary of State for Education,2016-07-14,2018-01-08,cabinet
-767250a1-8dda-4c7c-b17c-8e0de6c731f2,Justine Greening,Secretary of State for International Development,2012-09-04,2016-07-14,cabinet
-d2d5bbf5-70a1-43d9-aa5a-b03299ed6f87,Baroness Shephard of Northwold,Secretary of State for Education,1994-07-20,1995-07-05,cabinet
-d2d5bbf5-70a1-43d9-aa5a-b03299ed6f87,Baroness Shephard of Northwold,Secretary of State for Education,1995-07-05,1997-05-02,cabinet
-d2d5bbf5-70a1-43d9-aa5a-b03299ed6f87,Baroness Shephard of Northwold,Secretary of State for Employment,1992-04-10,1993-05-27,cabinet
-69c59144-6edd-4d3e-abb3-ad3c40eb0a18,Lord Lansley,Secretary of State for Health and Social Care,2010-05-12,2012-09-04,cabinet
-0e9df3c0-8a92-4a06-bf83-72ada7e8c812,Baroness Morris of Yardley,Secretary of State for Education,2001-06-08,2002-10-24,cabinet
-10036639-4201-4ef3-aefe-1ac2f3534c92,Lord Mawhinney,Secretary of State for Transport,1994-07-20,1995-07-05,cabinet
-10036639-4201-4ef3-aefe-1ac2f3534c92,Lord Mawhinney,Secretary of State for Health and Social Care,1992-04-14,1994-07-20,cabinet
-9f14568d-9dc2-4492-a30e-9e049c143295,James Purnell,"Secretary of State for Culture, Media and Sport",2007-06-28,2008-01-24,cabinet
-9f14568d-9dc2-4492-a30e-9e049c143295,James Purnell,Secretary of State for Work and Pensions,2008-01-24,2009-06-04,cabinet
-78d92074-f26d-42de-8ea7-a36b12a244af,Jim Murphy,Secretary of State for Scotland,2008-10-03,2010-05-11,cabinet
-cd4c9341-4471-4125-a78e-13f8ffba4d72,Lord Murphy of Torfaen,Secretary of State for Northern Ireland,2002-10-24,2005-05-06,cabinet
-cd4c9341-4471-4125-a78e-13f8ffba4d72,Lord Murphy of Torfaen,Secretary of State for Wales,2008-01-24,2009-06-05,cabinet
-0cb313bb-1c86-4054-adb9-d8527f652601,John Redwood,Secretary of State for Wales,1993-05-27,1995-06-26,cabinet
-0cb313bb-1c86-4054-adb9-d8527f652601,John Redwood,Secretary of State for the Environment,1992-04-15,1993-05-27,cabinet
-7f7dcec5-8695-4b06-809f-ff51d98877d8,Michael Meacher,"Secretary of State for the Environment, Transport and the Regions",1997-05-02,2003-06-13,cabinet
-b7ab8e13-da59-40c6-a47e-79dcf209a54d,Bernard Jenkin,Secretary of State for Communities and Local Government,2003-11-11,2005-05-06,cabinet
+c027fa2c-8ab8-4b87-aeb1-76969931e27e,Clare Short,Secretary of State for International Development,1997-05-02,2003-05-12,cabinet
+4e12bfed-3f6e-4233-9110-548f3d8138a1,Baroness Liddell of Coatdyke,Secretary of State for Scotland,2001-01-24,2003-06-12,cabinet
