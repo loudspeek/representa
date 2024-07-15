@@ -135,6 +135,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "ru",
+        "name": "Лейбористская партия Уэльса",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "it",
         "name": "Wales Labour Party",
         "note": "multilingual",
@@ -1109,7 +1115,7 @@
       },
       {
         "lang": "az",
-        "name": "partiyasız",
+        "name": "bitərəf",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1554,6 +1560,12 @@
       {
         "lang": "pa",
         "name": "ਆਜ਼ਾਦ ਰਾਜਨੇਤਾ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "kus",
+        "name": "Independent candidates",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2189,7 +2201,13 @@
       },
       {
         "lang": "az",
-        "name": "bitərəf",
+        "name": "partiyasız",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "az",
+        "name": "partiyasız siyasətçi",
         "note": "multilingual",
         "source": "wikidata-alias"
       },

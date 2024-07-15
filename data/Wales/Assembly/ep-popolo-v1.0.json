@@ -89,6 +89,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "cs",
+          "name": "Ann Jonesová",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "آن جونز",
           "note": "multilingual"
@@ -96,6 +101,11 @@
         {
           "lang": "ru",
           "name": "Энн Джонс",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Ann Jonesová",
           "note": "multilingual"
         },
         {
@@ -1652,6 +1662,16 @@
         {
           "name": "Janet Finch-Saunders MS",
           "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Janet Finchová-Saundersová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Janet Finchová-Saundersová",
+          "note": "multilingual"
         }
       ]
     },
@@ -1954,8 +1974,18 @@
           "note": "multilingual"
         },
         {
+          "lang": "cs",
+          "name": "Julie Morganová",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "جولی مورگان",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Julie Morganová",
           "note": "multilingual"
         }
       ]
@@ -2332,6 +2362,10 @@
         {
           "note": "Wikipedia (arz)",
           "url": "https://arz.wikipedia.org/wiki/دايفيد_جونز_(مدون_من_المملكه_المتحده)"
+        },
+        {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ডেভিড_জোন্স_(ক্লউইড_পশ্চিমের_সংসদ_সদস্য)"
         },
         {
           "note": "Wikipedia (cy)",
@@ -2742,6 +2776,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "cs",
+          "name": "Leanne Woodová",
+          "note": "multilingual"
+        },
+        {
           "lang": "fa",
           "name": "لیان وود",
           "note": "multilingual"
@@ -2759,6 +2798,11 @@
         {
           "lang": "ru",
           "name": "Лианн Вуд",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Leanne Woodová",
           "note": "multilingual"
         },
         {
@@ -2883,7 +2927,7 @@
           "url": "https://business.senedd.wales/UserData/4/9/5/Info00008594/bigpic.jpg"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Sarah_Murphy_elected_Bridgend_MS.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Sarah-murphy_(cropped).jpg"
         }
       ],
       "links": [
@@ -2917,6 +2961,16 @@
         {
           "lang": "bn",
           "name": "সারাহ মার্ফি",
+          "note": "multilingual"
+        },
+        {
+          "lang": "cs",
+          "name": "Sarah Murphyová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Sarah Murphyová",
           "note": "multilingual"
         }
       ]
@@ -3288,6 +3342,10 @@
           "url": "https://cy.wikipedia.org/wiki/Lesley_Griffiths"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Lesley_Griffiths"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Lesley_Griffiths"
         },
@@ -3546,8 +3604,16 @@
           "url": "https://kw.wikipedia.org/wiki/Vaughan_Gething"
         },
         {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/Vaughan_Gething"
+        },
+        {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Гетинг,_Вон"
+        },
+        {
+          "note": "Wikipedia (szl)",
+          "url": "https://szl.wikipedia.org/wiki/Vaughan_Gething"
         },
         {
           "note": "Wikipedia (tr)",
@@ -5364,11 +5430,22 @@
           "url": "https://en.wikipedia.org/wiki/Edwina_Hart"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Էդվինա_Հարթ"
+        },
+        {
           "note": "Wikipedia (ig)",
           "url": "https://ig.wikipedia.org/wiki/Edwina_Hart"
         }
       ],
-      "name": "Edwina Hart"
+      "name": "Edwina Hart",
+      "other_names": [
+        {
+          "lang": "hy",
+          "name": "Էդվինա Հարթ",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "birth_date": "1949-05-22",
@@ -5515,7 +5592,8 @@
       ]
     },
     {
-      "birth_date": "1939",
+      "birth_date": "1939-10-03",
+      "death_date": "2024-05-14",
       "family_name": "Thomas",
       "gender": "male",
       "given_name": "Owen",
@@ -5543,7 +5621,7 @@
       "links": [
         {
           "note": "Wikipedia (ar)",
-          "url": "https://ar.wikipedia.org/wiki/أوين_جون_توماس"
+          "url": "https://ar.wikipedia.org/wiki/أوين_جون_طوماس"
         },
         {
           "note": "Wikipedia (cy)",
@@ -5558,7 +5636,7 @@
       "other_names": [
         {
           "lang": "ar",
-          "name": "أوين جون توماس",
+          "name": "أوين جون طوماس",
           "note": "multilingual"
         }
       ]
@@ -5925,6 +6003,12 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/45/Irene_James.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Irene_James.jpg"
+        }
+      ],
       "links": [
         {
           "note": "Wikipedia (cy)",
@@ -6026,7 +6110,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Paul_Davies_(politician)"
+          "url": "https://en.wikipedia.org/wiki/Paul_Davies_(Conservative_politician)"
         },
         {
           "note": "Wikipedia (fr)",
@@ -8363,6 +8447,11 @@
         {
           "lang": "ja",
           "name": "ナターシャ・アスガル",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Наташа Асгар",
           "note": "multilingual"
         },
         {
@@ -10711,6 +10800,9 @@
       "images": [
         {
           "url": "https://business.senedd.wales/UserData/3/4/1/Info00000143/bigpic.jpg"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/92/Andrew_Davies_(cropped).jpg"
         }
       ],
       "links": [
@@ -12118,6 +12210,10 @@
           "url": "https://fr.wikipedia.org/wiki/Jane_Hutt"
         },
         {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ջեյն_Էլիզաբեթ_Հաթ"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/Jane.Hutt714"
         },
@@ -12139,6 +12235,21 @@
         {
           "name": "Jane Hutt MS",
           "note": "alternate"
+        },
+        {
+          "lang": "cs",
+          "name": "Jane Huttová",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ջեյն Էլիզաբեթ Հաթ",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Jane Huttová",
+          "note": "multilingual"
         },
         {
           "lang": "zh",
@@ -13425,6 +13536,11 @@
           "note": "multilingual"
         },
         {
+          "lang": "cs",
+          "name": "Buffy Williamsová",
+          "note": "multilingual"
+        },
+        {
           "lang": "cy",
           "name": "Elizabeth (Buffy) Williams",
           "note": "multilingual"
@@ -13432,6 +13548,11 @@
         {
           "lang": "nl",
           "name": "Elizabeth Buffy Williams",
+          "note": "multilingual"
+        },
+        {
+          "lang": "sk",
+          "name": "Buffy Williamsová",
           "note": "multilingual"
         },
         {
@@ -13480,6 +13601,14 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "no2011166760",
+          "scheme": "lcauth"
+        },
+        {
+          "identifier": "187000852",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "375",
           "scheme": "welsh_assembly"
         },
@@ -13514,8 +13643,16 @@
           "url": "https://cy.wikipedia.org/wiki/Rebecca_Evans_(gwleidydd)"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Rebecca_Evans"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Rebecca_Evans_(politician)"
+        },
+        {
+          "note": "Wikipedia (hy)",
+          "url": "https://hy.wikipedia.org/wiki/Ռեբեկա_Էվանս"
         },
         {
           "note": "Wikipedia (it)",
@@ -13548,6 +13685,11 @@
         {
           "lang": "bn",
           "name": "রেবেকা ইভান্স",
+          "note": "multilingual"
+        },
+        {
+          "lang": "hy",
+          "name": "Ռեբեկա Էվանս",
           "note": "multilingual"
         },
         {
@@ -14653,7 +14795,7 @@
           "scheme": "bbc_things"
         },
         {
-          "identifier": "8078",
+          "identifier": "755",
           "scheme": "democracyclub"
         },
         {
@@ -16149,7 +16291,7 @@
         },
         {
           "lang": "az",
-          "name": "partiyasız",
+          "name": "bitərəf",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16594,6 +16736,12 @@
         {
           "lang": "pa",
           "name": "ਆਜ਼ਾਦ ਰਾਜਨੇਤਾ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kus",
+          "name": "Independent candidates",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -17229,7 +17377,13 @@
         },
         {
           "lang": "az",
-          "name": "bitərəf",
+          "name": "partiyasız",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "az",
+          "name": "partiyasız siyasətçi",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -18342,6 +18496,12 @@
         {
           "lang": "gl",
           "name": "Partido Laborista Galés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ru",
+          "name": "Лейбористская партия Уэльса",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -22031,6 +22191,19 @@
       "name": "4th Welsh Assembly",
       "organization_id": "6d1dfea8-f6a3-4873-a8e1-d906ca8ab578",
       "start_date": "2011-09-15"
+    },
+    {
+      "classification": "general election",
+      "end_date": "2013-02-28",
+      "id": "Q14425599",
+      "identifiers": [
+        {
+          "identifier": "Q14425599",
+          "scheme": "wikidata"
+        }
+      ],
+      "name": "2013 Ynys Môn by-election",
+      "start_date": "2013-02-28"
     },
     {
       "classification": "general election",
