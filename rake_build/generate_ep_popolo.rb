@@ -175,7 +175,11 @@ namespace :transform do
   GENDER_MAP = {
     'male'   => %w[m male homme],
     'female' => ['f', 'female', 'femme', 'transgender female'],
-    'other'  => %w[o other],
+    # The single word "transgender" appears as a gender identifier in Wikidata in at least one case for a British
+    # politician; whilst obviously not all transgender people identify as a gender other than male or female - trans
+    # men are men and trans women are women - where no other information is specified other than "transgender" as a
+    # gender label, we'll map that to 'gender other than male or female'.
+    'other'  => %w[o other transgender agender non-binary],
   }.freeze
 
   task remap_gender: :load do
