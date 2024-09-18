@@ -141,6 +141,18 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "zh-hk",
+        "name": "威爾斯工黨",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "ওয়েলশ শ্রমিক দল",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "it",
         "name": "Wales Labour Party",
         "note": "multilingual",
@@ -297,6 +309,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "bn",
+        "name": "ওয়েলশ রক্ষণশীল",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Welsh Conservatives",
         "note": "multilingual",
@@ -441,6 +459,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "bn",
+        "name": "প্লেইড কামরি",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "Plaid",
         "note": "multilingual",
@@ -557,6 +581,12 @@
       {
         "lang": "gl",
         "name": "Liberal Demócratas Galeses",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "bn",
+        "name": "ওয়েলশ উদার গণতন্ত্রী",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -897,6 +927,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "bn",
+        "name": "যুক্তরাজ্য স্বাধীনতা দল",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "en",
         "name": "UKIP",
         "note": "multilingual",
@@ -1092,6 +1128,12 @@
       {
         "lang": "ro",
         "name": "politician independent",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ca",
+        "name": "Candidat independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1553,7 +1595,7 @@
       },
       {
         "lang": "ckb",
-        "name": "سیاسەتوانێکی سەربەخۆ",
+        "name": "سیاسەتوانی سەربەخۆ",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1566,6 +1608,12 @@
       {
         "lang": "kus",
         "name": "Independent candidates",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "kk",
+        "name": "партиясыз",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -2282,6 +2330,18 @@
         "name": "politiķis bez partijas",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "kk",
+        "name": "тәуелсіз саясаткер",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kk",
+        "name": "партиясыз",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"2aad0ac0061f47a503dda929c0eb7dd86e8c7769","datavalue":{"value":"DDDDDD","type":"string"},"datatype":"string"},"type":"statement","id":"Q327591$d56e0a2d-408c-dbd4-1c04-246c8114ca12","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"2aad0ac0061f47a503dda929c0eb7dd86e8c7769","datavalue":{"value":"DDDDDD","type":"string"},"datatype":"string"}}}
@@ -2314,6 +2374,7 @@
         "note": "website"
       }
     ],
+    "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Blaenau_Gwent_People's_Voice_Group_logo.svg",
     "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"ee7825a28692a935152128ee57236f8304cc2d4a","datavalue":{"value":"177245","type":"string"},"datatype":"string"},"type":"statement","id":"Q4923798$d9f72aed-49c0-3731-abd3-f467a5380b08","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"ee7825a28692a935152128ee57236f8304cc2d4a","datavalue":{"value":"177245","type":"string"},"datatype":"string"}}}
   },
   "843e5795-31b3-4b3a-b4e9-3054ea1cc926": {

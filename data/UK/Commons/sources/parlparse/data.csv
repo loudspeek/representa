@@ -85,10 +85,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10029,Hugh Bayley,109,385,uk.org.publicwhip/person/10029,York Central,uk.org.publicwhip/cons/2248,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10030,Nigel Beard,110,,uk.org.publicwhip/person/10030,Bexleyheath and Crayford,uk.org.publicwhip/cons/43,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10030,Nigel Beard,110,,uk.org.publicwhip/person/10030,Bexleyheath and Crayford,uk.org.publicwhip/cons/43,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10032,Anne Begg,112,572,uk.org.publicwhip/person/10032,Aberdeen South,uk.org.publicwhip/cons/4,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10032,Anne Begg,112,572,uk.org.publicwhip/person/10032,Aberdeen South,uk.org.publicwhip/cons/4,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10032,Anne Begg,112,572,uk.org.publicwhip/person/10032,Aberdeen South,uk.org.publicwhip/cons/4,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -175,10 +175,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10061,Ben Bradshaw,142,230,uk.org.publicwhip/person/10061,Exeter,uk.org.publicwhip/cons/224,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10061,Ben Bradshaw,142,230,uk.org.publicwhip/person/10061,Exeter,uk.org.publicwhip/cons/224,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
 10061,Ben Bradshaw,142,230,uk.org.publicwhip/person/10061,Exeter,uk.org.publicwhip/cons/224,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 10063,Tom Brake,144,151,uk.org.publicwhip/person/10063,Carshalton and Wallington,uk.org.publicwhip/cons/120,Liberal Democrat,liberal-democrat,1997-05-01,general_election,2001-05-14,general_election,52
 10063,Tom Brake,144,151,uk.org.publicwhip/person/10063,Carshalton and Wallington,uk.org.publicwhip/cons/120,Liberal Democrat,liberal-democrat,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10063,Tom Brake,144,151,uk.org.publicwhip/person/10063,Carshalton and Wallington,uk.org.publicwhip/cons/120,Liberal Democrat,liberal-democrat,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -402,9 +402,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10142,Ann Cryer,221,,uk.org.publicwhip/person/10142,Keighley,uk.org.publicwhip/cons/313,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10142,Ann Cryer,221,,uk.org.publicwhip/person/10142,Keighley,uk.org.publicwhip/cons/313,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10142,Ann Cryer,221,,uk.org.publicwhip/person/10142,Keighley,uk.org.publicwhip/cons/313,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
-10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Hornchurch,uk.org.publicwhip/cons/296,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Hornchurch,uk.org.publicwhip/cons/296,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10143,Lord Cryer,222,181,uk.org.publicwhip/person/10143,Hornchurch,uk.org.publicwhip/cons/296,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10143,Lord Cryer,222,181,uk.org.publicwhip/person/10143,Hornchurch,uk.org.publicwhip/cons/296,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10143,Lord Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10144,John Cummings,223,,uk.org.publicwhip/person/10144,Easington,uk.org.publicwhip/cons/191,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10144,John Cummings,223,,uk.org.publicwhip/person/10144,Easington,uk.org.publicwhip/cons/191,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10144,John Cummings,223,,uk.org.publicwhip/person/10144,Easington,uk.org.publicwhip/cons/191,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
@@ -733,14 +733,14 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10258,Mike Hancock,331,59,uk.org.publicwhip/person/10258,Portsmouth South,uk.org.publicwhip/cons/461,Liberal Democrat,liberal-democrat,2005-05-05,general_election,2010-04-12,general_election_standing,54
 10258,Mike Hancock,331,59,uk.org.publicwhip/person/10258,Portsmouth South,uk.org.publicwhip/cons/461,Liberal Democrat,liberal-democrat,2010-05-06,general_election,2013-06-02,changed_party,55
 10258,Mike Hancock,331,59,uk.org.publicwhip/person/10258,Portsmouth South,uk.org.publicwhip/cons/461,Independent,independent,2013-06-03,changed_party,2015-03-30,general_election,55
-10259,David Hanson,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10259,David Hanson,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10259,David Hanson,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10259,David Hanson,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10259,Lord Hanson of Flint,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10259,Lord Hanson of Flint,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10259,Lord Hanson of Flint,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10259,Lord Hanson of Flint,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10261,Evan Harris,334,,uk.org.publicwhip/person/10261,Oxford West and Abingdon,uk.org.publicwhip/cons/447,Liberal Democrat,liberal-democrat,1997-05-01,general_election,2001-05-14,general_election,52
 10261,Evan Harris,334,,uk.org.publicwhip/person/10261,Oxford West and Abingdon,uk.org.publicwhip/cons/447,Liberal Democrat,liberal-democrat,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10261,Evan Harris,334,,uk.org.publicwhip/person/10261,Oxford West and Abingdon,uk.org.publicwhip/cons/447,Liberal Democrat,liberal-democrat,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -804,10 +804,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10279,Keith Hill,352,,uk.org.publicwhip/person/10279,Streatham,uk.org.publicwhip/cons/560,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
 10280,David Hinchliffe,353,,uk.org.publicwhip/person/10280,Wakefield,uk.org.publicwhip/cons/599,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10280,David Hinchliffe,353,,uk.org.publicwhip/person/10280,Wakefield,uk.org.publicwhip/cons/599,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_not_standing,53
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10282,Baroness Hoey,355,210,uk.org.publicwhip/person/10282,Vauxhall,uk.org.publicwhip/cons/598,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10282,Baroness Hoey,355,210,uk.org.publicwhip/person/10282,Vauxhall,uk.org.publicwhip/cons/598,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10282,Baroness Hoey,355,210,uk.org.publicwhip/person/10282,Vauxhall,uk.org.publicwhip/cons/598,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -996,10 +996,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10347,Stephen Ladyman,420,,uk.org.publicwhip/person/10347,South Thanet,uk.org.publicwhip/cons/529,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10347,Stephen Ladyman,420,,uk.org.publicwhip/person/10347,South Thanet,uk.org.publicwhip/cons/529,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10347,Stephen Ladyman,420,,uk.org.publicwhip/person/10347,South Thanet,uk.org.publicwhip/cons/529,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 10349,Lord Lansley,422,123,uk.org.publicwhip/person/10349,South Cambridgeshire,uk.org.publicwhip/cons/516,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
 10349,Lord Lansley,422,123,uk.org.publicwhip/person/10349,South Cambridgeshire,uk.org.publicwhip/cons/516,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10349,Lord Lansley,422,123,uk.org.publicwhip/person/10349,South Cambridgeshire,uk.org.publicwhip/cons/516,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -1215,10 +1215,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10424,Lord Mawhinney,475,121,uk.org.publicwhip/person/10424,North West Cambridgeshire,uk.org.publicwhip/cons/424,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
 10424,Lord Mawhinney,475,121,uk.org.publicwhip/person/10424,North West Cambridgeshire,uk.org.publicwhip/cons/424,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_not_standing,53
 10425,Lord Maxton,476,607,uk.org.publicwhip/person/10425,Glasgow Cathcart,uk.org.publicwhip/cons/244,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 10427,Michael Meacher,499,454,uk.org.publicwhip/person/10427,Oldham West and Royton,uk.org.publicwhip/cons/443,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10427,Michael Meacher,499,454,uk.org.publicwhip/person/10427,Oldham West and Royton,uk.org.publicwhip/cons/443,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10427,Michael Meacher,499,454,uk.org.publicwhip/person/10427,Oldham West and Royton,uk.org.publicwhip/cons/443,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -1554,9 +1554,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10548,Geraldine Smith,616,,uk.org.publicwhip/person/10548,Morecambe and Lunesdale,uk.org.publicwhip/cons/386,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10548,Geraldine Smith,616,,uk.org.publicwhip/person/10548,Morecambe and Lunesdale,uk.org.publicwhip/cons/386,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10548,Geraldine Smith,616,,uk.org.publicwhip/person/10548,Morecambe and Lunesdale,uk.org.publicwhip/cons/386,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10549,Jacqui Smith,617,,uk.org.publicwhip/person/10549,Redditch,uk.org.publicwhip/cons/470,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10549,Jacqui Smith,617,,uk.org.publicwhip/person/10549,Redditch,uk.org.publicwhip/cons/470,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10549,Jacqui Smith,617,,uk.org.publicwhip/person/10549,Redditch,uk.org.publicwhip/cons/470,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10549,Baroness Smith of Malvern,617,269,uk.org.publicwhip/person/10549,Redditch,uk.org.publicwhip/cons/470,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10549,Baroness Smith of Malvern,617,269,uk.org.publicwhip/person/10549,Redditch,uk.org.publicwhip/cons/470,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10549,Baroness Smith of Malvern,617,269,uk.org.publicwhip/person/10549,Redditch,uk.org.publicwhip/cons/470,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
 10550,John Smith,618,,uk.org.publicwhip/person/10550,Vale of Glamorgan,uk.org.publicwhip/cons/596,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10550,John Smith,618,,uk.org.publicwhip/person/10550,Vale of Glamorgan,uk.org.publicwhip/cons/596,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10550,John Smith,618,,uk.org.publicwhip/person/10550,Vale of Glamorgan,uk.org.publicwhip/cons/596,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
@@ -1580,10 +1580,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10557,Helen Southworth,625,,uk.org.publicwhip/person/10557,Warrington South,uk.org.publicwhip/cons/609,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10557,Helen Southworth,625,,uk.org.publicwhip/person/10557,Warrington South,uk.org.publicwhip/cons/609,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10557,Helen Southworth,625,,uk.org.publicwhip/person/10557,Warrington South,uk.org.publicwhip/cons/609,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10559,Caroline Spelman,627,312,uk.org.publicwhip/person/10559,Meriden,uk.org.publicwhip/cons/369,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
 10559,Caroline Spelman,627,312,uk.org.publicwhip/person/10559,Meriden,uk.org.publicwhip/cons/369,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10559,Caroline Spelman,627,312,uk.org.publicwhip/person/10559,Meriden,uk.org.publicwhip/cons/369,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -1838,10 +1838,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10647,Nicholas Winterton,714,,uk.org.publicwhip/person/10647,Macclesfield,uk.org.publicwhip/cons/357,Conservative,conservative,1997-05-01,general_election,2001-05-14,general_election,52
 10647,Nicholas Winterton,714,,uk.org.publicwhip/person/10647,Macclesfield,uk.org.publicwhip/cons/357,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10647,Nicholas Winterton,714,,uk.org.publicwhip/person/10647,Macclesfield,uk.org.publicwhip/cons/357,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 10649,Audrey Wise,4,,uk.org.publicwhip/person/10649,Preston,uk.org.publicwhip/cons/463,Labour,labour,1997-05-01,general_election,2000-09-02,died,52
 10650,Mike Wood,716,401,uk.org.publicwhip/person/10650,Batley and Spen,uk.org.publicwhip/cons/30,Labour,labour,1997-05-01,general_election,2001-05-14,general_election,52
 10650,Mike Wood,716,401,uk.org.publicwhip/person/10650,Batley and Spen,uk.org.publicwhip/cons/30,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
@@ -2026,9 +2026,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10913,Michelle Gildernew,4566,1416,uk.org.publicwhip/person/10913,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231,Sinn Féin,sinn-fein,2010-05-06,general_election,2015-03-30,general_election,55
 10918,Paul Goodman,4493,,uk.org.publicwhip/person/10918,Wycombe,uk.org.publicwhip/cons/654,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10918,Paul Goodman,4493,,uk.org.publicwhip/person/10918,Wycombe,uk.org.publicwhip/cons/654,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_not_standing,54
-10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
-10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
-10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
+10920,Lord Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
+10920,Lord Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
+10920,Lord Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 10922,Matthew Green,4526,,uk.org.publicwhip/person/10922,Ludlow,uk.org.publicwhip/cons/354,Liberal Democrat,liberal-democrat,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10934,David Hamilton,4603,1432,uk.org.publicwhip/person/10934,Midlothian,uk.org.publicwhip/cons/379,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10934,David Hamilton,4603,1432,uk.org.publicwhip/person/10934,Midlothian,uk.org.publicwhip/cons/379,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -2055,9 +2055,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10968,Paul Holmes,4695,,uk.org.publicwhip/person/10968,Chesterfield,uk.org.publicwhip/cons/131,Liberal Democrat,liberal-democrat,2005-05-05,general_election,2010-04-12,general_election_standing,54
 10999,Boris Johnson,4820,1423,uk.org.publicwhip/person/10999,Henley,uk.org.publicwhip/cons/287,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
 10999,Boris Johnson,4820,1423,uk.org.publicwhip/person/10999,Henley,uk.org.publicwhip/cons/287,Conservative,conservative,2005-05-05,general_election,2008-06-04,resigned,54
-11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
-11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+11003,Lord Beamish,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2001-06-07,general_election,2005-04-11,general_election_standing,53
+11003,Lord Beamish,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+11003,Lord Beamish,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 11026,Greg Knight,9352,1200,uk.org.publicwhip/person/11026,East Yorkshire,uk.org.publicwhip/cons/201,Conservative,conservative,2001-06-07,general_election,2005-04-11,general_election_standing,53
 11026,Greg Knight,9352,1200,uk.org.publicwhip/person/11026,East Yorkshire,uk.org.publicwhip/cons/201,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
 11026,Greg Knight,9352,1200,uk.org.publicwhip/person/11026,East Yorkshire,uk.org.publicwhip/cons/201,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
@@ -2422,8 +2422,8 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11929,Adam Afriyie,,1586,uk.org.publicwhip/person/11929,Windsor,uk.org.publicwhip/cons/638,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 11936,Pat McFadden,,1587,uk.org.publicwhip/person/11936,Wolverhampton South East,uk.org.publicwhip/cons/645,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
 11936,Pat McFadden,,1587,uk.org.publicwhip/person/11936,Wolverhampton South East,uk.org.publicwhip/cons/645,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
-11943,Barbara Keeley,,1588,uk.org.publicwhip/person/11943,Worsley,uk.org.publicwhip/cons/650,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
-11943,Barbara Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
+11943,Baroness Keeley,,1588,uk.org.publicwhip/person/11943,Worsley,uk.org.publicwhip/cons/650,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
+11943,Baroness Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
 11946,Mark Pritchard,,1576,uk.org.publicwhip/person/11946,The Wrekin,uk.org.publicwhip/cons/652,Conservative,conservative,2005-05-05,general_election,2010-04-12,general_election_standing,54
 11946,Mark Pritchard,,1576,uk.org.publicwhip/person/11946,The Wrekin,uk.org.publicwhip/cons/652,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 11963,Baroness Clark of Kilwinning,,1590,uk.org.publicwhip/person/11963,North Ayrshire and Arran,uk.org.publicwhip/cons/668,Labour,labour,2005-05-05,general_election,2010-04-12,general_election_standing,54
@@ -2638,7 +2638,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24899,Mark Reckless,,4049,uk.org.publicwhip/person/24899,Rochester and Strood,uk.org.publicwhip/cons/2220,UKIP,ukip,2014-11-21,by_election,2015-03-30,general_election,55
 24900,Simon Kirby,,3929,uk.org.publicwhip/person/24900,"Brighton, Kemptown",uk.org.publicwhip/cons/88,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 24901,Steve Brine,,4067,uk.org.publicwhip/person/24901,Winchester,uk.org.publicwhip/cons/637,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
-24902,Alok Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
+24902,Lord Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 24903,Richard Drax,,4132,uk.org.publicwhip/person/24903,South Dorset,uk.org.publicwhip/cons/518,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 24904,Peter Aldous,,4069,uk.org.publicwhip/person/24904,Waveney,uk.org.publicwhip/cons/612,Conservative,conservative,2010-05-06,general_election,2015-03-30,general_election,55
 24905,Bill Esterson,,4061,uk.org.publicwhip/person/24905,Sefton Central,uk.org.publicwhip/cons/2225,Labour,labour,2010-05-06,general_election,2015-03-30,general_election,55
@@ -2786,7 +2786,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10766,Andy Burnham,3774,1427,uk.org.publicwhip/person/10766,Leigh,uk.org.publicwhip/cons/335,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25289,Gerald Jones,,4501,uk.org.publicwhip/person/25289,Merthyr Tydfil and Rhymney,uk.org.publicwhip/cons/370,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 10203,Paul Flynn,279,545,uk.org.publicwhip/person/10203,Newport West,uk.org.publicwhip/cons/399,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
-11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+11003,Lord Beamish,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25290,Craig Tracey,,4509,uk.org.publicwhip/person/25290,North Warwickshire,uk.org.publicwhip/cons/423,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25291,Gavin Newlands,,4420,uk.org.publicwhip/person/25291,Paisley and Renfrewshire North,uk.org.publicwhip/cons/710,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
 25292,James Davies,,4476,uk.org.publicwhip/person/25292,Vale of Clwyd,uk.org.publicwhip/cons/595,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -2846,7 +2846,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11333,Pete Wishart,6518,1440,uk.org.publicwhip/person/11333,Perth and North Perthshire,uk.org.publicwhip/cons/712,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
 24797,Owen Smith,,4042,uk.org.publicwhip/person/24797,Pontypridd,uk.org.publicwhip/cons/457,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25313,Anna Turley,,4449,uk.org.publicwhip/person/25313,Redcar,uk.org.publicwhip/cons/469,Labour/Co-operative,labourco-operative,2015-05-08,general_election,2017-05-03,dissolution,56
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25314,Kirsty Blackman,,4357,uk.org.publicwhip/person/25314,Aberdeen North,uk.org.publicwhip/cons/3,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
 11267,Mark Tami,6038,1383,uk.org.publicwhip/person/11267,Alyn and Deeside,uk.org.publicwhip/cons/9,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24907,Bob Stewart,,3919,uk.org.publicwhip/person/24907,Beckenham,uk.org.publicwhip/cons/33,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -2862,7 +2862,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11421,Helen Goodman,,1484,uk.org.publicwhip/person/11421,Bishop Auckland,uk.org.publicwhip/cons/56,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25316,Michelle Donelan,,4530,uk.org.publicwhip/person/25316,Chippenham,uk.org.publicwhip/cons/2182,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24802,Henry Smith,,3960,uk.org.publicwhip/person/24802,Crawley,uk.org.publicwhip/cons/154,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-10259,David Hanson,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10259,Lord Hanson of Flint,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 11573,David Burrowes,,1518,uk.org.publicwhip/person/11573,"Enfield, Southgate",uk.org.publicwhip/cons/218,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 14146,Anne McLaughlin,,4437,uk.org.publicwhip/person/14146,Glasgow North East,uk.org.publicwhip/cons/693,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
 25317,Melanie Onn,,4464,uk.org.publicwhip/person/25317,Great Grimsby,uk.org.publicwhip/cons/258,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -2932,7 +2932,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10220,Barry Gardiner,295,146,uk.org.publicwhip/person/10220,Brent North,uk.org.publicwhip/cons/81,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25335,Caroline Ansell,,4512,uk.org.publicwhip/person/25335,Eastbourne,uk.org.publicwhip/cons/202,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25336,Deidre Brock,,4417,uk.org.publicwhip/person/25336,Edinburgh North and Leith,uk.org.publicwhip/cons/209,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10001,Diane Abbott,7,172,uk.org.publicwhip/person/10001,Hackney North and Stoke Newington,uk.org.publicwhip/cons/263,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24795,Amber Rudd,,3983,uk.org.publicwhip/person/24795,Hastings and Rye,uk.org.publicwhip/cons/280,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 11174,John Pugh,5583,1454,uk.org.publicwhip/person/11174,Southport,uk.org.publicwhip/cons/538,Liberal Democrat,liberal-democrat,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -2940,7 +2940,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25338,Kevin Foster,,4451,uk.org.publicwhip/person/25338,Torbay,uk.org.publicwhip/cons/581,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 11427,David Anderson,,1486,uk.org.publicwhip/person/11427,Blaydon,uk.org.publicwhip/cons/62,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25339,Paul Monaghan,,4383,uk.org.publicwhip/person/25339,"Caithness, Sutherland and Easter Ross",uk.org.publicwhip/cons/106,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25340,Alex Chalk,,4481,uk.org.publicwhip/person/25340,Cheltenham,uk.org.publicwhip/cons/128,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24845,Toby Perkins,,3952,uk.org.publicwhip/person/24845,Chesterfield,uk.org.publicwhip/cons/131,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 10523,Joan Ryan,592,166,uk.org.publicwhip/person/10523,Enfield North,uk.org.publicwhip/cons/217,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3020,7 +3020,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24822,Nadhim Zahawi,,4113,uk.org.publicwhip/person/24822,Stratford-on-Avon,uk.org.publicwhip/cons/558,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24868,Emma Reynolds,,4077,uk.org.publicwhip/person/24868,Wolverhampton North East,uk.org.publicwhip/cons/644,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25358,Baroness Hayman of Ullock,,4395,uk.org.publicwhip/person/25358,Workington,uk.org.publicwhip/cons/649,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
-11943,Barbara Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+11943,Baroness Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 11668,Ben Wallace,,1539,uk.org.publicwhip/person/11668,Wyre and Preston North,uk.org.publicwhip/cons/2247,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10241,Damian Green,314,76,uk.org.publicwhip/person/10241,Ashford,uk.org.publicwhip/cons/15,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25359,Chris Green,,4398,uk.org.publicwhip/person/25359,Bolton West,uk.org.publicwhip/cons/68,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3037,7 +3037,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11545,Ed Miliband,,1510,uk.org.publicwhip/person/11545,Doncaster North,uk.org.publicwhip/cons/176,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25362,Mike Wood,,4384,uk.org.publicwhip/person/25362,Dudley South,uk.org.publicwhip/cons/179,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25363,Antoinette Sandbach,,4506,uk.org.publicwhip/person/25363,Eddisbury,uk.org.publicwhip/cons/206,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-13781,Tom Elliott,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231,UUP,uup,2015-05-08,general_election,2017-05-03,dissolution,56
+13781,Lord Elliott of Ballinamallard,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231,UUP,uup,2015-05-08,general_election,2017-05-03,dissolution,56
 24935,Steve Rotheram,,4035,uk.org.publicwhip/person/24935,"Liverpool, Walton",uk.org.publicwhip/cons/347,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 11804,Robert Goodwill,,1562,uk.org.publicwhip/person/11804,Scarborough and Whitby,uk.org.publicwhip/cons/495,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10045,Clive Betts,126,394,uk.org.publicwhip/person/10045,Sheffield South East,uk.org.publicwhip/cons/2227,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3061,7 +3061,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24740,Alun Cairns,,4086,uk.org.publicwhip/person/24740,Vale of Glamorgan,uk.org.publicwhip/cons/596,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24884,Jonathan Lord,,4090,uk.org.publicwhip/person/24884,Woking,uk.org.publicwhip/cons/642,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 11936,Pat McFadden,,1587,uk.org.publicwhip/person/11936,Wolverhampton South East,uk.org.publicwhip/cons/645,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25370,Brendan O'Hara,,4371,uk.org.publicwhip/person/25370,Argyll and Bute,uk.org.publicwhip/cons/12,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
 24958,Rushanara Ali,,4138,uk.org.publicwhip/person/24958,Bethnal Green and Bow,uk.org.publicwhip/cons/40,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24764,Paul Maynard,,3926,uk.org.publicwhip/person/24764,Blackpool North and Cleveleys,uk.org.publicwhip/cons/2173,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3082,7 +3082,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25376,James Cleverly,,4366,uk.org.publicwhip/person/25376,Braintree,uk.org.publicwhip/cons/78,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10103,Christopher Chope,185,242,uk.org.publicwhip/person/10103,Christchurch,uk.org.publicwhip/cons/136,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25377,Chris Philp,,4503,uk.org.publicwhip/person/25377,Croydon South,uk.org.publicwhip/cons/159,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25378,Justin Madders,,4418,uk.org.publicwhip/person/25378,Ellesmere Port and Neston,uk.org.publicwhip/cons/214,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25379,Matthew Pennycook,,4520,uk.org.publicwhip/person/25379,Greenwich and Woolwich,uk.org.publicwhip/cons/261,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24945,Bob Blackman,,4005,uk.org.publicwhip/person/24945,Harrow East,uk.org.publicwhip/cons/276,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3118,7 +3118,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24782,Damian Hinds,,3969,uk.org.publicwhip/person/24782,East Hampshire,uk.org.publicwhip/cons/195,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10312,Bernard Jenkin,385,40,uk.org.publicwhip/person/10312,Harwich and North Essex,uk.org.publicwhip/cons/2194,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25120,Jon Ashworth,,4244,uk.org.publicwhip/person/25120,Leicester South,uk.org.publicwhip/cons/333,Labour/Co-operative,labourco-operative,2015-05-08,general_election,2017-05-03,dissolution,56
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24796,Helen Grant,,4018,uk.org.publicwhip/person/24796,Maidstone and The Weald,uk.org.publicwhip/cons/359,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 11814,Angela Smith,,1564,uk.org.publicwhip/person/11814,Penistone and Stocksbridge,uk.org.publicwhip/cons/2215,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24856,Karen Lumley,,4023,uk.org.publicwhip/person/24856,Redditch,uk.org.publicwhip/cons/470,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3159,12 +3159,12 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10228,Cheryl Gillan,303,18,uk.org.publicwhip/person/10228,Chesham and Amersham,uk.org.publicwhip/cons/129,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24816,Liz Kendall,,4026,uk.org.publicwhip/person/24816,Leicester West,uk.org.publicwhip/cons/334,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 25397,Maria Caulfield,,4492,uk.org.publicwhip/person/25397,Lewes,uk.org.publicwhip/cons/337,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10143,Lord Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24947,Iain Stewart,,4015,uk.org.publicwhip/person/24947,Milton Keynes South,uk.org.publicwhip/cons/2207,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24863,Lord Barwell,,3955,uk.org.publicwhip/person/24863,Croydon Central,uk.org.publicwhip/cons/157,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24803,Gareth Johnson,,3970,uk.org.publicwhip/person/24803,Dartford,uk.org.publicwhip/cons/166,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10397,Lord McLoughlin,494,333,uk.org.publicwhip/person/10397,Derbyshire Dales,uk.org.publicwhip/cons/2185,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
+10920,Lord Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25398,Helen Whately,,4527,uk.org.publicwhip/person/25398,Faversham and Mid Kent,uk.org.publicwhip/cons/229,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24879,Brandon Lewis,,4009,uk.org.publicwhip/person/24879,Great Yarmouth,uk.org.publicwhip/cons/259,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24851,Rachel Reeves,,4031,uk.org.publicwhip/person/24851,Leeds West,uk.org.publicwhip/cons/331,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3179,7 +3179,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10293,Gerald Howarth,366,47,uk.org.publicwhip/person/10293,Aldershot,uk.org.publicwhip/cons/6,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25401,Corri Wilson,,4448,uk.org.publicwhip/person/25401,"Ayr, Carrick and Cumnock",uk.org.publicwhip/cons/666,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
 24812,Eilidh Whiteford,,3911,uk.org.publicwhip/person/24812,Banff and Buchan,uk.org.publicwhip/cons/20,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 10613,Lord Tyrie,680,112,uk.org.publicwhip/person/10613,Chichester,uk.org.publicwhip/cons/132,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24893,Alec Shelbrooke,,3997,uk.org.publicwhip/person/24893,Elmet and Rothwell,uk.org.publicwhip/cons/2187,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24766,Nicholas Boles,,3995,uk.org.publicwhip/person/24766,Grantham and Stamford,uk.org.publicwhip/cons/256,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3214,7 +3214,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24824,Mark Garnier,,4074,uk.org.publicwhip/person/24824,Wyre Forest,uk.org.publicwhip/cons/655,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25403,Will Quince,,4423,uk.org.publicwhip/person/25403,Colchester,uk.org.publicwhip/cons/144,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10828,Jon Cruddas,3939,1406,uk.org.publicwhip/person/10828,Dagenham and Rainham,uk.org.publicwhip/cons/2184,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
 24915,Claire Perry,,3974,uk.org.publicwhip/person/24915,Devizes,uk.org.publicwhip/cons/172,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2015-05-08,general_election,2017-05-03,dissolution,56
 25404,Joanna Cherry,,4419,uk.org.publicwhip/person/25404,Edinburgh South West,uk.org.publicwhip/cons/686,Scottish National Party,scottish-national-party,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3265,7 +3265,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25419,Ranil Jayawardena,,4498,uk.org.publicwhip/person/25419,North East Hampshire,uk.org.publicwhip/cons/412,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24895,Lord Johnson of Marylebone,,4039,uk.org.publicwhip/person/24895,Orpington,uk.org.publicwhip/cons/445,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 11768,Stephen Crabb,,1554,uk.org.publicwhip/person/11768,Preseli Pembrokeshire,uk.org.publicwhip/cons/462,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-24902,Alok Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
+24902,Lord Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10051,Crispin Blunt,132,104,uk.org.publicwhip/person/10051,Reigate,uk.org.publicwhip/cons/472,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25420,Victoria Prentis,,4401,uk.org.publicwhip/person/25420,Banbury,uk.org.publicwhip/cons/19,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25421,Paula Sherriff,,4426,uk.org.publicwhip/person/25421,Dewsbury,uk.org.publicwhip/cons/173,Labour,labour,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3347,7 +3347,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10770,Alistair Burt,9338,1201,uk.org.publicwhip/person/10770,North East Bedfordshire,uk.org.publicwhip/cons/408,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10221,Lord Garnier,296,337,uk.org.publicwhip/person/10221,Harborough,uk.org.publicwhip/cons/273,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 10217,Roger Gale,292,87,uk.org.publicwhip/person/10217,North Thanet,uk.org.publicwhip/cons/421,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
-25437,Craig Mackinlay,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
+25437,Lord Mackinlay of Richborough,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 11541,Geoffrey Cox,,1508,uk.org.publicwhip/person/11541,Torridge and West Devon,uk.org.publicwhip/cons/583,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 25438,James Heappey,,4528,uk.org.publicwhip/person/25438,Wells,uk.org.publicwhip/cons/616,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
 24914,Mel Stride,,3935,uk.org.publicwhip/person/24914,Central Devon,uk.org.publicwhip/cons/2179,Conservative,conservative,2015-05-08,general_election,2017-05-03,dissolution,56
@@ -3425,7 +3425,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24822,Nadhim Zahawi,,4113,uk.org.publicwhip/person/24822,Stratford-on-Avon,uk.org.publicwhip/cons/558,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10086,Alan Campbell,168,529,uk.org.publicwhip/person/10086,Tynemouth,uk.org.publicwhip/cons/591,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 10518,Chris Ruane,587,534,uk.org.publicwhip/person/10518,Vale of Clwyd,uk.org.publicwhip/cons/595,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25275,Martin Docherty,,4374,uk.org.publicwhip/person/25275,West Dunbartonshire,uk.org.publicwhip/cons/677,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 25616,Kirstene Hair,,4675,uk.org.publicwhip/person/25616,Angus,uk.org.publicwhip/cons/11,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10182,Angela Eagle,259,491,uk.org.publicwhip/person/10182,Wallasey,uk.org.publicwhip/cons/600,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3462,7 +3462,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24826,Andrew Griffiths,,3936,uk.org.publicwhip/person/24826,Burton,uk.org.publicwhip/cons/100,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25622,James Frith,,4637,uk.org.publicwhip/person/25622,Bury North,uk.org.publicwhip/cons/101,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 10842,Wayne David,3976,1398,uk.org.publicwhip/person/10842,Caerphilly,uk.org.publicwhip/cons/105,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-10259,David Hanson,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10259,Lord Hanson of Flint,332,533,uk.org.publicwhip/person/10259,Delyn,uk.org.publicwhip/cons/168,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25270,Chris Law,,4403,uk.org.publicwhip/person/25270,Dundee West,uk.org.publicwhip/cons/184,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 25276,Lisa Cameron,,4412,uk.org.publicwhip/person/25276,"East Kilbride, Strathaven and Lesmahagow",uk.org.publicwhip/cons/681,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3476,7 +3476,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24740,Alun Cairns,,4086,uk.org.publicwhip/person/24740,Vale of Glamorgan,uk.org.publicwhip/cons/596,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25349,Margaret Greenwood,,4400,uk.org.publicwhip/person/25349,Wirral West,uk.org.publicwhip/cons/640,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25623,Liz Twist,,4618,uk.org.publicwhip/person/25623,Blaydon,uk.org.publicwhip/cons/62,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 11172,Mark Prisk,5559,1424,uk.org.publicwhip/person/11172,Hertford and Stortford,uk.org.publicwhip/cons/289,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25230,Liz McInnes,,4342,uk.org.publicwhip/person/25230,Heywood and Middleton,uk.org.publicwhip/cons/292,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 12004,Angus MacNeil,,1546,uk.org.publicwhip/person/12004,Na h-Eileanan an Iar,uk.org.publicwhip/cons/632,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3520,7 +3520,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25628,Leo Docherty,,4600,uk.org.publicwhip/person/25628,Aldershot,uk.org.publicwhip/cons/6,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10295,Lindsay Hoyle,368,467,uk.org.publicwhip/person/10295,Chorley,uk.org.publicwhip/cons/135,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 10120,Ann Clwyd,200,553,uk.org.publicwhip/person/10120,Cynon Valley,uk.org.publicwhip/cons/163,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 24924,Luciana Berger,,4036,uk.org.publicwhip/person/24924,"Liverpool, Wavertree",uk.org.publicwhip/cons/348,Labour/Co-operative,labourco-operative,2017-06-09,general_election,2019-02-17,changed_party,57
 24739,Glyn Davies,,4041,uk.org.publicwhip/person/24739,Montgomeryshire,uk.org.publicwhip/cons/384,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25629,Paul Girvan,,4633,uk.org.publicwhip/person/25629,South Antrim,uk.org.publicwhip/cons/515,DUP,dup,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3534,7 +3534,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25304,Jo Stevens,,4425,uk.org.publicwhip/person/25304,Cardiff Central,uk.org.publicwhip/cons/112,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 24767,Karl Turner,,4030,uk.org.publicwhip/person/24767,Kingston upon Hull East,uk.org.publicwhip/cons/318,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25332,Christina Rees,,4525,uk.org.publicwhip/person/25332,Neath,uk.org.publicwhip/cons/389,Labour/Co-operative,labourco-operative,2017-06-09,general_election,2019-11-06,dissolution,57
-11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+11003,Lord Beamish,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25357,Louise Haigh,,4473,uk.org.publicwhip/person/25357,"Sheffield, Heeley",uk.org.publicwhip/cons/504,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25348,Heidi Allen,,4516,uk.org.publicwhip/person/25348,South Cambridgeshire,uk.org.publicwhip/cons/516,Conservative,conservative,2017-06-09,general_election,2019-02-19,changed_party,57
 10159,Geraint Davies,237,155,uk.org.publicwhip/person/10159,Swansea West,uk.org.publicwhip/cons/570,Labour/Co-operative,labourco-operative,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3584,7 +3584,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25354,Nusrat Ghani,,4460,uk.org.publicwhip/person/25354,Wealden,uk.org.publicwhip/cons/613,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24773,Matthew Hancock,,4070,uk.org.publicwhip/person/24773,West Suffolk,uk.org.publicwhip/cons/628,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10499,John Redwood,569,14,uk.org.publicwhip/person/10499,Wokingham,uk.org.publicwhip/cons/643,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
-11943,Barbara Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+11943,Baroness Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25280,Gavin Robinson,,4360,uk.org.publicwhip/person/25280,Belfast East,uk.org.publicwhip/cons/35,DUP,dup,2017-06-09,general_election,2019-11-06,dissolution,57
 10076,Richard Burden,158,301,uk.org.publicwhip/person/10076,"Birmingham, Northfield",uk.org.publicwhip/cons/51,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25364,Jess Phillips,,4370,uk.org.publicwhip/person/25364,"Birmingham, Yardley",uk.org.publicwhip/cons/55,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3655,7 +3655,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25382,Drew Hendry,,4467,uk.org.publicwhip/person/25382,"Inverness, Nairn, Badenoch and Strathspey",uk.org.publicwhip/cons/700,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 10133,Jeremy Corbyn,212,185,uk.org.publicwhip/person/10133,Islington North,uk.org.publicwhip/cons/309,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25397,Maria Caulfield,,4492,uk.org.publicwhip/person/25397,Lewes,uk.org.publicwhip/cons/337,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
-10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10143,Lord Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 11333,Pete Wishart,6518,1440,uk.org.publicwhip/person/11333,Perth and North Perthshire,uk.org.publicwhip/cons/712,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 24938,Penny Mordaunt,,4017,uk.org.publicwhip/person/24938,Portsmouth North,uk.org.publicwhip/cons/460,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 13933,Phil Wilson,,1603,uk.org.publicwhip/person/13933,Sedgefield,uk.org.publicwhip/cons/497,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3690,7 +3690,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 10051,Crispin Blunt,132,104,uk.org.publicwhip/person/10051,Reigate,uk.org.publicwhip/cons/472,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24828,Gordon Henderson,,4050,uk.org.publicwhip/person/24828,Sittingbourne and Sheppey,uk.org.publicwhip/cons/509,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10678,David Lammy,69,206,uk.org.publicwhip/person/10678,Tottenham,uk.org.publicwhip/cons/585,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25452,Emma Little-Pengelly,,4611,uk.org.publicwhip/person/25452,Belfast South,uk.org.publicwhip/cons/37,DUP,dup,2017-06-09,general_election,2019-11-06,dissolution,57
 24782,Damian Hinds,,3969,uk.org.publicwhip/person/24782,East Hampshire,uk.org.publicwhip/cons/195,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25341,Tommy Sheppard,,4453,uk.org.publicwhip/person/25341,Edinburgh East,uk.org.publicwhip/cons/683,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3711,7 +3711,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25306,Chris Stephens,,4463,uk.org.publicwhip/person/25306,Glasgow South West,uk.org.publicwhip/cons/696,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 10001,Diane Abbott,7,172,uk.org.publicwhip/person/10001,Hackney North and Stoke Newington,uk.org.publicwhip/cons/263,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25424,Victoria Atkins,,4399,uk.org.publicwhip/person/25424,Louth and Horncastle,uk.org.publicwhip/cons/353,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25657,Simon Clarke,,4655,uk.org.publicwhip/person/25657,Middlesbrough South and East Cleveland,uk.org.publicwhip/cons/378,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10041,Paul Beresford,122,103,uk.org.publicwhip/person/10041,Mole Valley,uk.org.publicwhip/cons/382,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 11032,Norman Lamb,4898,1439,uk.org.publicwhip/person/11032,North Norfolk,uk.org.publicwhip/cons/416,Liberal Democrat,liberal-democrat,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3736,7 +3736,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25331,Paul Scully,,4414,uk.org.publicwhip/person/25331,Sutton and Cheam,uk.org.publicwhip/cons/567,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 11929,Adam Afriyie,,1586,uk.org.publicwhip/person/11929,Windsor,uk.org.publicwhip/cons/638,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25539,Ross Thomson,,4599,uk.org.publicwhip/person/25539,Aberdeen South,uk.org.publicwhip/cons/4,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25370,Brendan O'Hara,,4371,uk.org.publicwhip/person/25370,Argyll and Bute,uk.org.publicwhip/cons/12,Scottish National Party,scottish-national-party,2017-06-09,general_election,2019-11-06,dissolution,57
 11377,Lord Herbert of South Downs,,1479,uk.org.publicwhip/person/11377,Arundel and South Downs,uk.org.publicwhip/cons/13,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24811,Gloria De Piero,,3915,uk.org.publicwhip/person/24811,Ashfield,uk.org.publicwhip/cons/14,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3783,7 +3783,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25408,Jo Churchill,,4380,uk.org.publicwhip/person/25408,Bury St Edmunds,uk.org.publicwhip/cons/103,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25668,Jamie Stone,,4612,uk.org.publicwhip/person/25668,"Caithness, Sutherland and Easter Ross",uk.org.publicwhip/cons/106,Liberal Democrat,liberal-democrat,2017-06-09,general_election,2019-11-06,dissolution,57
 24944,Craig Whittaker,,3940,uk.org.publicwhip/person/24944,Calder Valley,uk.org.publicwhip/cons/107,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 24933,George Eustice,,3934,uk.org.publicwhip/person/24933,Camborne and Redruth,uk.org.publicwhip/cons/2178,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10753,Kevin Brennan,3717,1400,uk.org.publicwhip/person/10753,Cardiff West,uk.org.publicwhip/cons/115,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 24813,Simon Hart,,3944,uk.org.publicwhip/person/24813,Carmarthen West and South Pembrokeshire,uk.org.publicwhip/cons/118,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3813,7 +3813,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24841,Chris Heaton-Harris,,3977,uk.org.publicwhip/person/24841,Daventry,uk.org.publicwhip/cons/167,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 11531,Andrew Gwynne,,1506,uk.org.publicwhip/person/11531,Denton and Reddish,uk.org.publicwhip/cons/169,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 24830,Chris Williamson,,3976,uk.org.publicwhip/person/24830,Derby North,uk.org.publicwhip/cons/170,Labour,labour,2017-06-09,general_election,2019-02-26,changed_party,57
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 10397,Lord McLoughlin,494,333,uk.org.publicwhip/person/10397,Derbyshire Dales,uk.org.publicwhip/cons/2185,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24915,Claire Perry,,3974,uk.org.publicwhip/person/24915,Devizes,uk.org.publicwhip/cons/172,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25421,Paula Sherriff,,4426,uk.org.publicwhip/person/25421,Dewsbury,uk.org.publicwhip/cons/173,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3838,7 +3838,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24893,Alec Shelbrooke,,3997,uk.org.publicwhip/person/24893,Elmet and Rothwell,uk.org.publicwhip/cons/2187,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10523,Joan Ryan,592,166,uk.org.publicwhip/person/10523,Enfield North,uk.org.publicwhip/cons/217,Labour,labour,2017-06-09,general_election,2019-02-18,changed_party,57
 25676,Bambos Charalambous,,4610,uk.org.publicwhip/person/25676,"Enfield, Southgate",uk.org.publicwhip/cons/218,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
+10920,Lord Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24956,Teresa Pearce,,4003,uk.org.publicwhip/person/24956,Erith and Thamesmead,uk.org.publicwhip/cons/222,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 10061,Ben Bradshaw,142,230,uk.org.publicwhip/person/10061,Exeter,uk.org.publicwhip/cons/224,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
 25398,Helen Whately,,4527,uk.org.publicwhip/person/25398,Faversham and Mid Kent,uk.org.publicwhip/cons/229,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3935,7 +3935,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11768,Stephen Crabb,,1554,uk.org.publicwhip/person/11768,Preseli Pembrokeshire,uk.org.publicwhip/cons/462,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24864,Stuart Andrew,,4032,uk.org.publicwhip/person/24864,Pudsey,uk.org.publicwhip/cons/464,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25691,Matt Rodda,,4654,uk.org.publicwhip/person/25691,Reading East,uk.org.publicwhip/cons/467,Labour,labour,2017-06-09,general_election,2019-11-06,dissolution,57
-24902,Alok Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
+24902,Lord Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25692,Rachel Maclean,,4668,uk.org.publicwhip/person/25692,Redditch,uk.org.publicwhip/cons/470,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25428,Rishi Sunak,,4483,uk.org.publicwhip/person/25428,Richmond (Yorks),uk.org.publicwhip/cons/475,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24911,Lord Goldsmith of Richmond Park,,4062,uk.org.publicwhip/person/24911,Richmond Park,uk.org.publicwhip/cons/476,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
@@ -3964,7 +3964,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25389,Seema Kennedy,,4455,uk.org.publicwhip/person/25389,South Ribble,uk.org.publicwhip/cons/524,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 24729,Gavin Williamson,,4108,uk.org.publicwhip/person/24729,South Staffordshire,uk.org.publicwhip/cons/526,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 25414,James Cartlidge,,4519,uk.org.publicwhip/person/25414,South Suffolk,uk.org.publicwhip/cons/527,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
-25437,Craig Mackinlay,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
+25437,Lord Mackinlay of Richborough,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 11216,Andrew Selous,5848,1453,uk.org.publicwhip/person/11216,South West Bedfordshire,uk.org.publicwhip/cons/530,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 10575,Gary Streeter,642,234,uk.org.publicwhip/person/10575,South West Devon,uk.org.publicwhip/cons/531,Conservative,conservative,2017-06-09,general_election,2019-11-06,dissolution,57
 11633,David Gauke,,1529,uk.org.publicwhip/person/11633,South West Hertfordshire,uk.org.publicwhip/cons/532,Conservative,conservative,2017-06-09,general_election,2019-09-03,changed_party,57
@@ -4115,14 +4115,14 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11626,Mike Penning,,1528,uk.org.publicwhip/person/11626,Hemel Hempstead,uk.org.publicwhip/cons/284,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25797,Claudia Webbe,,4848,uk.org.publicwhip/person/25797,Leicester East,uk.org.publicwhip/cons/332,Labour,labour,2019-12-13,general_election,2020-09-27,changed_party,58
 25798,Mick Whitley,,4755,uk.org.publicwhip/person/25798,Birkenhead,uk.org.publicwhip/cons/45,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
-10143,John Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+10143,Lord Cryer,222,181,uk.org.publicwhip/person/10143,Leyton and Wanstead,uk.org.publicwhip/cons/341,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 24784,Robert Halfon,,3985,uk.org.publicwhip/person/24784,Harlow,uk.org.publicwhip/cons/274,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25272,Suella Braverman,,4475,uk.org.publicwhip/person/25272,Fareham,uk.org.publicwhip/cons/228,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 10159,Geraint Davies,237,155,uk.org.publicwhip/person/10159,Swansea West,uk.org.publicwhip/cons/570,Labour,labour,2019-12-13,general_election,2023-05-31,changed_party,58
 25619,Mike Hill,,4644,uk.org.publicwhip/person/25619,Hartlepool,uk.org.publicwhip/cons/278,Labour,labour,2019-12-13,general_election,2021-03-16,resigned,58
 25388,Julian Knight,,4410,uk.org.publicwhip/person/25388,Solihull,uk.org.publicwhip/cons/513,Conservative,conservative,2019-12-13,general_election,2022-12-06,changed_party,58
 10086,Alan Campbell,168,529,uk.org.publicwhip/person/10086,Tynemouth,uk.org.publicwhip/cons/591,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
-10348,Eleanor Laing,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
+10348,Baroness Laing of Elderslie,421,36,uk.org.publicwhip/person/10348,Epping Forest,uk.org.publicwhip/cons/219,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24721,Chris Evans,,4040,uk.org.publicwhip/person/24721,Islwyn,uk.org.publicwhip/cons/311,Labour/Co-operative,labourco-operative,2019-12-13,general_election,2024-05-30,dissolution,58
 24799,John Stevenson,,3942,uk.org.publicwhip/person/24799,Carlisle,uk.org.publicwhip/cons/116,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24880,Mark Pawsey,,4052,uk.org.publicwhip/person/24880,Rugby,uk.org.publicwhip/cons/2222,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4244,7 +4244,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11199,Andrew Rosindell,5737,1447,uk.org.publicwhip/person/11199,Romford,uk.org.publicwhip/cons/479,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24749,Stephen Metcalfe,,4092,uk.org.publicwhip/person/24749,South Basildon and East Thurrock,uk.org.publicwhip/cons/2229,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 10780,Gregory Campbell,3907,1409,uk.org.publicwhip/person/10780,East Londonderry,uk.org.publicwhip/cons/197,DUP,dup,2019-12-13,general_election,2024-05-30,dissolution,58
-10558,John Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+10558,Lord Spellar,626,318,uk.org.publicwhip/person/10558,Warley,uk.org.publicwhip/cons/607,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 24743,Jonathan Edwards,,3943,uk.org.publicwhip/person/24743,Carmarthen East and Dinefwr,uk.org.publicwhip/cons/117,Plaid Cymru,plaid-cymru,2019-12-13,general_election,2020-05-22,changed_party,58
 25294,Kirsten Oswald,,4413,uk.org.publicwhip/person/25294,East Renfrewshire,uk.org.publicwhip/cons/204,Scottish National Party,scottish-national-party,2019-12-13,general_election,2024-05-30,dissolution,58
 25827,Angela Richardson,,4840,uk.org.publicwhip/person/25827,Guildford,uk.org.publicwhip/cons/262,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4332,7 +4332,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25855,Paul Howell,,4830,uk.org.publicwhip/person/25855,Sedgefield,uk.org.publicwhip/cons/497,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25342,Wendy Morton,,4358,uk.org.publicwhip/person/25342,Aldridge-Brownhills,uk.org.publicwhip/cons/7,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 11455,Kerry McCarthy,,1491,uk.org.publicwhip/person/11455,Bristol East,uk.org.publicwhip/cons/90,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
-10648,Rosie Winterton,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+10648,Baroness Winterton of Doncaster,715,390,uk.org.publicwhip/person/10648,Doncaster Central,uk.org.publicwhip/cons/175,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25402,Thangam Debbonaire,,4433,uk.org.publicwhip/person/25402,Bristol West,uk.org.publicwhip/cons/93,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 12004,Angus MacNeil,,1546,uk.org.publicwhip/person/12004,Na h-Eileanan an Iar,uk.org.publicwhip/cons/632,Scottish National Party,scottish-national-party,2019-12-13,general_election,2023-07-04,changed_party,58
 24758,Andrew Jones,,3996,uk.org.publicwhip/person/24758,Harrogate and Knaresborough,uk.org.publicwhip/cons/275,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4377,7 +4377,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25863,Amy Callaghan,,4770,uk.org.publicwhip/person/25863,East Dunbartonshire,uk.org.publicwhip/cons/676,Scottish National Party,scottish-national-party,2019-12-13,general_election,2024-05-30,dissolution,58
 25447,Claire Hanna,,4827,uk.org.publicwhip/person/25447,Belfast South,uk.org.publicwhip/cons/37,Social Democratic and Labour Party,social-democratic-and-labour-party,2019-12-13,general_election,2024-05-30,dissolution,58
 25686,Andrew Lewer,,4659,uk.org.publicwhip/person/25686,Northampton South,uk.org.publicwhip/cons/431,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-10920,Chris Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
+10920,Lord Grayling,4513,1413,uk.org.publicwhip/person/10920,Epsom and Ewell,uk.org.publicwhip/cons/220,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25864,Alexander Stafford,,4866,uk.org.publicwhip/person/25864,Rother Valley,uk.org.publicwhip/cons/483,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24790,Karl McCartney,,4028,uk.org.publicwhip/person/24790,Lincoln,uk.org.publicwhip/cons/343,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25865,Lia Nici,,4851,uk.org.publicwhip/person/25865,Great Grimsby,uk.org.publicwhip/cons/258,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4414,7 +4414,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25685,Lee Rowley,,4652,uk.org.publicwhip/person/25685,North East Derbyshire,uk.org.publicwhip/cons/410,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24825,Jack Dromey,,3913,uk.org.publicwhip/person/24825,"Birmingham, Erdington",uk.org.publicwhip/cons/47,Labour,labour,2019-12-13,general_election,2022-01-07,died,58
 11360,Liam Byrne,9451,1171,uk.org.publicwhip/person/11360,"Birmingham, Hodge Hill",uk.org.publicwhip/cons/49,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
-11003,Kevan Jones,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+11003,Lord Beamish,4854,1438,uk.org.publicwhip/person/11003,North Durham,uk.org.publicwhip/cons/407,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25872,Wendy Chamberlain,,4765,uk.org.publicwhip/person/25872,North East Fife,uk.org.publicwhip/cons/411,Liberal Democrat,liberal-democrat,2019-12-13,general_election,2024-05-30,dissolution,58
 25873,Neale Hanvey,,4782,uk.org.publicwhip/person/25873,Kirkcaldy and Cowdenbeath,uk.org.publicwhip/cons/702,Independent,independent,2019-12-13,general_election,2020-05-28,changed_party,58
 25874,Christian Wakeford,,4871,uk.org.publicwhip/person/25874,Bury South,uk.org.publicwhip/cons/102,Conservative,conservative,2019-12-13,general_election,2022-01-18,changed_party,58
@@ -4444,7 +4444,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25674,Alister Jack,,4619,uk.org.publicwhip/person/25674,Dumfries and Galloway,uk.org.publicwhip/cons/674,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 11026,Greg Knight,9352,1200,uk.org.publicwhip/person/11026,East Yorkshire,uk.org.publicwhip/cons/201,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25271,John McNally,,4424,uk.org.publicwhip/person/25271,Falkirk,uk.org.publicwhip/cons/688,Scottish National Party,scottish-national-party,2019-12-13,general_election,2024-05-30,dissolution,58
-10426,Theresa May,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
+10426,Baroness May of Maidenhead,477,8,uk.org.publicwhip/person/10426,Maidenhead,uk.org.publicwhip/cons/358,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 11531,Andrew Gwynne,,1506,uk.org.publicwhip/person/11531,Denton and Reddish,uk.org.publicwhip/cons/169,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25391,Richard Burgon,,4493,uk.org.publicwhip/person/25391,Leeds East,uk.org.publicwhip/cons/328,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25669,Ben Lake,,4630,uk.org.publicwhip/person/25669,Ceredigion,uk.org.publicwhip/cons/124,Plaid Cymru,plaid-cymru,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4497,7 +4497,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25673,Sarah Jones,,4631,uk.org.publicwhip/person/25673,Croydon Central,uk.org.publicwhip/cons/157,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 24713,Chris Skidmore,,4021,uk.org.publicwhip/person/24713,Kingswood,uk.org.publicwhip/cons/321,Conservative,conservative,2019-12-13,general_election,2024-01-08,resigned,58
 10707,Richard Bacon,3670,1451,uk.org.publicwhip/person/10707,South Norfolk,uk.org.publicwhip/cons/523,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-10281,Margaret Hodge,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+10281,Baroness Hodge of Barking,354,140,uk.org.publicwhip/person/10281,Barking,uk.org.publicwhip/cons/21,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25475,Jim McMahon,,4569,uk.org.publicwhip/person/25475,Oldham West and Royton,uk.org.publicwhip/cons/443,Labour/Co-operative,labourco-operative,2019-12-13,general_election,2024-05-30,dissolution,58
 25034,Debbie Abrahams,,4212,uk.org.publicwhip/person/25034,Oldham East and Saddleworth,uk.org.publicwhip/cons/442,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25750,Gareth Bacon,,4798,uk.org.publicwhip/person/25750,Orpington,uk.org.publicwhip/cons/445,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4523,7 +4523,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25330,Mims Davies,,4513,uk.org.publicwhip/person/25330,Mid Sussex,uk.org.publicwhip/cons/374,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25165,Lucy Powell,,4263,uk.org.publicwhip/person/25165,Manchester Central,uk.org.publicwhip/cons/362,Labour/Co-operative,labourco-operative,2019-12-13,general_election,2024-05-30,dissolution,58
 25893,Richard Holden,,4813,uk.org.publicwhip/person/25893,North West Durham,uk.org.publicwhip/cons/425,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-11943,Barbara Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+11943,Baroness Keeley,,1588,uk.org.publicwhip/person/11943,Worsley and Eccles South,uk.org.publicwhip/cons/2246,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25413,Alberto Costa,,4439,uk.org.publicwhip/person/25413,South Leicestershire,uk.org.publicwhip/cons/2230,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24893,Alec Shelbrooke,,3997,uk.org.publicwhip/person/24893,Elmet and Rothwell,uk.org.publicwhip/cons/2187,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24828,Gordon Henderson,,4050,uk.org.publicwhip/person/24828,Sittingbourne and Sheppey,uk.org.publicwhip/cons/509,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4555,10 +4555,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25328,Catherine West,,4523,uk.org.publicwhip/person/25328,Hornsey and Wood Green,uk.org.publicwhip/cons/297,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25439,Anne-Marie Trevelyan,,4531,uk.org.publicwhip/person/25439,Berwick-upon-Tweed,uk.org.publicwhip/cons/39,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25679,Neil O'Brien,,4679,uk.org.publicwhip/person/25679,Harborough,uk.org.publicwhip/cons/273,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-10031,Margaret Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+10031,Baroness Beckett,111,328,uk.org.publicwhip/person/10031,Derby South,uk.org.publicwhip/cons/171,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 10576,Graham Stringer,643,449,uk.org.publicwhip/person/10576,Blackley and Broughton,uk.org.publicwhip/cons/2172,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 24961,Julian Smith,,4118,uk.org.publicwhip/person/24961,Skipton and Ripon,uk.org.publicwhip/cons/510,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-10260,Harriet Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
+10260,Baroness Harman,333,150,uk.org.publicwhip/person/10260,Camberwell and Peckham,uk.org.publicwhip/cons/108,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25701,Matt Western,,4617,uk.org.publicwhip/person/25701,Warwick and Leamington,uk.org.publicwhip/cons/610,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 24832,Andrew Percy,,3939,uk.org.publicwhip/person/24832,Brigg and Goole,uk.org.publicwhip/cons/87,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25661,Bim Afolami,,4639,uk.org.publicwhip/person/25661,Hitchin and Harpenden,uk.org.publicwhip/cons/294,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4593,7 +4593,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 24943,Paul Blomfield,,4058,uk.org.publicwhip/person/24943,Sheffield Central,uk.org.publicwhip/cons/500,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 10041,Paul Beresford,122,103,uk.org.publicwhip/person/10041,Mole Valley,uk.org.publicwhip/cons/382,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25130,Colum Eastwood,,4846,uk.org.publicwhip/person/25130,Foyle,uk.org.publicwhip/cons/235,Social Democratic and Labour Party,social-democratic-and-labour-party,2019-12-13,general_election,2024-05-30,dissolution,58
-24902,Alok Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
+24902,Lord Sharma,,4014,uk.org.publicwhip/person/24902,Reading West,uk.org.publicwhip/cons/468,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 10172,Jeffrey M. Donaldson,250,650,uk.org.publicwhip/person/10172,Lagan Valley,uk.org.publicwhip/cons/325,DUP,dup,2019-12-13,general_election,2024-05-30,dissolution,58
 25664,David Duguid,,4606,uk.org.publicwhip/person/25664,Banff and Buchan,uk.org.publicwhip/cons/20,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25346,Kit Malthouse,,4495,uk.org.publicwhip/person/25346,North West Hampshire,uk.org.publicwhip/cons/426,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4631,7 +4631,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 11816,Philip Davies,,1565,uk.org.publicwhip/person/11816,Shipley,uk.org.publicwhip/cons/507,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 10632,John Whittingdale,699,39,uk.org.publicwhip/person/10632,Maldon,uk.org.publicwhip/cons/2203,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25407,Rebecca Pow,,4522,uk.org.publicwhip/person/25407,Taunton Deane,uk.org.publicwhip/cons/2236,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-10062,Graham Brady,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
+10062,Lord Brady of Altrincham,143,435,uk.org.publicwhip/person/10062,Altrincham and Sale West,uk.org.publicwhip/cons/8,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 25906,Alicia Kearns,,4805,uk.org.publicwhip/person/25906,Rutland and Melton,uk.org.publicwhip/cons/490,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 11924,John Penrose,,1584,uk.org.publicwhip/person/11924,Weston-Super-Mare,uk.org.publicwhip/cons/634,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 24934,Mike Freer,,4004,uk.org.publicwhip/person/24934,Finchley and Golders Green,uk.org.publicwhip/cons/232,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
@@ -4670,7 +4670,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25915,Taiwo Owatemi,,4779,uk.org.publicwhip/person/25915,Coventry North West,uk.org.publicwhip/cons/152,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25916,Aaron Bell,,4837,uk.org.publicwhip/person/25916,Newcastle-under-Lyme,uk.org.publicwhip/cons/397,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 11917,Grant Shapps,,1582,uk.org.publicwhip/person/11917,Welwyn Hatfield,uk.org.publicwhip/cons/617,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
-25437,Craig Mackinlay,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
+25437,Lord Mackinlay of Richborough,,4529,uk.org.publicwhip/person/25437,South Thanet,uk.org.publicwhip/cons/529,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 10828,Jon Cruddas,3939,1406,uk.org.publicwhip/person/10828,Dagenham and Rainham,uk.org.publicwhip/cons/2184,Labour,labour,2019-12-13,general_election,2024-05-30,dissolution,58
 25436,Amanda Solloway,,4372,uk.org.publicwhip/person/25436,Derby North,uk.org.publicwhip/cons/170,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58
 10213,Liam Fox,288,223,uk.org.publicwhip/person/10213,North Somerset,uk.org.publicwhip/cons/2214,Conservative,conservative,2019-12-13,general_election,2024-05-30,dissolution,58

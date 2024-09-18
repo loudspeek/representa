@@ -112,9 +112,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13755,Dominic Bradley,,,uk.org.publicwhip/person/13755,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2011-05-06,election,2016-03-24,regional_election,4
 13756,Mary Bradley,,,uk.org.publicwhip/person/13756,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2003-11-26,general_election,2007-01-30,dissolution,2
 13756,Mary Bradley,,,uk.org.publicwhip/person/13756,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2007-03-09,election,2011-03-24,dissolution,3
-13758,Thomas Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
-13758,Thomas Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2007-03-09,election,2011-03-24,dissolution,3
-13758,Thomas Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
+13758,Tom Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
+13758,Tom Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2007-03-09,election,2011-03-24,dissolution,3
+13758,Tom Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
 13759,Thomas Burns,,,uk.org.publicwhip/person/13759,South Antrim,uk.org.publicwhip/cons/515-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2003-11-26,general_election,2007-01-30,dissolution,2
 13759,Thomas Burns,,,uk.org.publicwhip/person/13759,South Antrim,uk.org.publicwhip/cons/515-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2007-03-09,election,2011-03-24,dissolution,3
 13760,Joe Byrne,,,uk.org.publicwhip/person/13760,West Tyrone,uk.org.publicwhip/cons/629-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,1998-06-25,general_election,2003-04-28,general_election,1
@@ -157,12 +157,12 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13778,Geraldine Dougan,,,uk.org.publicwhip/person/13778,Mid Ulster,uk.org.publicwhip/cons/375-NI,Independent,independent,2007-01-15,changed_party,2007-01-30,dissolution,2
 13779,Boyd Douglas,,,uk.org.publicwhip/person/13779,East Londonderry,uk.org.publicwhip/cons/197-NI,Independent,independent,1998-06-25,general_election,1998-09-21,changed_party,1
 13779,Boyd Douglas,,,uk.org.publicwhip/person/13779,East Londonderry,uk.org.publicwhip/cons/197-NI,UUAP,uuap,1998-09-21,changed_party,2003-04-28,general_election,1
-13780,Alex Easton,,,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
-13780,Alex Easton,,,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2007-03-09,election,2011-03-24,dissolution,3
-13780,Alex Easton,,,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
-13781,Tom Elliott,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2003-11-26,general_election,2007-01-30,dissolution,2
-13781,Tom Elliott,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2007-03-09,election,2011-03-24,dissolution,3
-13781,Tom Elliott,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2011-05-06,election,2015-06-29,resigned,4
+13780,Alex Easton,,5262,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2003-11-26,general_election,2007-01-30,dissolution,2
+13780,Alex Easton,,5262,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2007-03-09,election,2011-03-24,dissolution,3
+13780,Alex Easton,,5262,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
+13781,Lord Elliott of Ballinamallard,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2003-11-26,general_election,2007-01-30,dissolution,2
+13781,Lord Elliott of Ballinamallard,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2007-03-09,election,2011-03-24,dissolution,3
+13781,Lord Elliott of Ballinamallard,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2011-05-06,election,2015-06-29,resigned,4
 13782,Reg Empey,,,uk.org.publicwhip/person/13782,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,1998-06-25,general_election,2003-04-28,general_election,1
 13782,Reg Empey,,,uk.org.publicwhip/person/13782,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2003-11-26,general_election,2007-01-30,dissolution,2
 13782,Reg Empey,,,uk.org.publicwhip/person/13782,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2007-03-09,election,2011-03-24,dissolution,3
@@ -463,7 +463,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25020,Pat Sheehan,,,uk.org.publicwhip/person/25020,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2010-12-07,appointed,2011-03-24,dissolution,3
 25020,Pat Sheehan,,,uk.org.publicwhip/person/25020,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2011-05-06,election,2016-03-24,regional_election,4
 25121,Steven Agnew,,,uk.org.publicwhip/person/25121,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2011-05-06,election,2016-03-24,regional_election,4
-25122,Jim Allister,,,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2011-05-06,election,2016-03-24,regional_election,4
+25122,Jim Allister,,5356,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2011-05-06,election,2016-03-24,regional_election,4
 25123,Michaela Boyle,,,uk.org.publicwhip/person/25123,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2011-05-06,election,2016-03-24,regional_election,4
 25124,Paula Bradley,,,uk.org.publicwhip/person/25124,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
 25125,Judith Cochrane,,,uk.org.publicwhip/person/25125,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2011-05-06,election,2016-03-24,regional_election,4
@@ -482,7 +482,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25138,Oliver McMullan,,,uk.org.publicwhip/person/25138,East Antrim,uk.org.publicwhip/cons/192-NI,Sinn Féin,sinn-fein,2011-05-06,election,2016-03-24,regional_election,4
 25139,Mike Nesbitt,,,uk.org.publicwhip/person/25139,Strangford,uk.org.publicwhip/cons/557-NI,UUP,uup,2011-05-06,election,2016-03-24,regional_election,4
 25140,Sandra Overend,,,uk.org.publicwhip/person/25140,Mid Ulster,uk.org.publicwhip/cons/375-NI,UUP,uup,2011-05-06,election,2016-03-24,regional_election,4
-25141,Robin Swann,,,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2011-05-06,election,2016-03-24,regional_election,4
+25141,Robin Swann,,5319,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2011-05-06,election,2016-03-24,regional_election,4
 25142,Cathal Ó hOisín,,,uk.org.publicwhip/person/25142,East Londonderry,uk.org.publicwhip/cons/197-NI,Sinn Féin,sinn-fein,2011-05-06,election,2016-03-24,regional_election,4
 25143,Mark Durkan,,,uk.org.publicwhip/person/25143,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2011-05-06,election,2016-03-24,regional_election,4
 25153,Seán Rogers,,,uk.org.publicwhip/person/25153,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2012-04-02,appointed,2016-03-24,regional_election,4
@@ -501,7 +501,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25449,Adrian Cochrane-Watson,,,uk.org.publicwhip/person/25449,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2015-06-24,election,2016-03-24,regional_election,4
 25450,Gordon Lyons,,,uk.org.publicwhip/person/25450,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2011-05-06,election,2016-03-24,regional_election,4
 25451,Andy Allen,,,uk.org.publicwhip/person/25451,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2015-09-22,appointed,2016-03-24,regional_election,4
-25452,Emma Little Pengelly,,4611,uk.org.publicwhip/person/25452,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2015-09-28,appointed,2016-03-24,regional_election,4
+25452,Emma Little-Pengelly,,4611,uk.org.publicwhip/person/25452,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2015-09-28,appointed,2016-03-24,regional_election,4
 13907,Basil McCrea,,,uk.org.publicwhip/person/13907,Lagan Valley,uk.org.publicwhip/cons/325-NI,NI21,ni21,2013-06-06,changed_party,2016-03-24,regional_election,4
 13907,Basil McCrea,,,uk.org.publicwhip/person/13907,Lagan Valley,uk.org.publicwhip/cons/325-NI,Independent,independent,2013-03-04,changed_party,2013-06-05,changed_party,4
 13834,David McNarry,,,uk.org.publicwhip/person/13834,Strangford,uk.org.publicwhip/cons/557-NI,UKIP,ukip,2012-10-05,changed_party,2016-03-24,regional_election,4
@@ -512,7 +512,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25121,Steven Agnew,,,uk.org.publicwhip/person/25121,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2016-05-07,regional_election,2017-01-26,dissolution,5
 25545,Steve Aiken,,,uk.org.publicwhip/person/25545,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25451,Andy Allen,,,uk.org.publicwhip/person/25451,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
-25122,Jim Allister,,,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2016-05-07,regional_election,2017-01-26,dissolution,5
+25122,Jim Allister,,5356,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2016-05-07,regional_election,2017-01-26,dissolution,5
 24993,Sydney Anderson,,,uk.org.publicwhip/person/24993,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25546,Caoimhe Archibald,,,uk.org.publicwhip/person/25546,East Londonderry,uk.org.publicwhip/cons/197-NI,Sinn Féin,sinn-fein,2016-05-07,regional_election,2017-01-26,dissolution,5
 25547,Kellie Armstrong,,,uk.org.publicwhip/person/25547,Strangford,uk.org.publicwhip/cons/557-NI,Alliance,alliance,2016-05-07,regional_election,2017-01-26,dissolution,5
@@ -529,7 +529,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25552,Sinéad Bradley,,,uk.org.publicwhip/person/25552,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2016-05-07,regional_election,2017-01-26,dissolution,5
 25553,Paula Bradshaw,,,uk.org.publicwhip/person/25553,Belfast South,uk.org.publicwhip/cons/37-NI,Alliance,alliance,2016-05-07,regional_election,2017-01-26,dissolution,5
 25554,Keith Buchanan,,,uk.org.publicwhip/person/25554,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
-13758,Thomas Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
+13758,Tom Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25555,Joanne Bunting,,,uk.org.publicwhip/person/25555,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25556,Robbie Butler,,,uk.org.publicwhip/person/25556,Lagan Valley,uk.org.publicwhip/cons/325-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25134,Pam Cameron,,,uk.org.publicwhip/person/25134,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
@@ -542,7 +542,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25128,Sammy Douglas,,,uk.org.publicwhip/person/25128,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25129,Gordon Dunne,,,uk.org.publicwhip/person/25129,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25143,Mark Durkan,,,uk.org.publicwhip/person/25143,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2016-05-07,regional_election,2017-01-26,dissolution,5
-13780,Alex Easton,,,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
+13780,Alex Easton,,5262,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25130,Colum Eastwood,,4846,uk.org.publicwhip/person/25130,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2016-05-07,regional_election,2017-01-26,dissolution,5
 13899,Stephen Farry,,4856,uk.org.publicwhip/person/13899,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2016-05-07,regional_election,2017-01-26,dissolution,5
 25160,Megan Fearon,,,uk.org.publicwhip/person/25160,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2016-05-07,regional_election,2017-01-26,dissolution,5
@@ -606,7 +606,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13915,Michelle O'Neill,,,uk.org.publicwhip/person/13915,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2016-05-07,regional_election,2017-01-26,dissolution,5
 25140,Sandra Overend,,,uk.org.publicwhip/person/25140,Mid Ulster,uk.org.publicwhip/cons/375-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25574,Jennifer Palmer,,,uk.org.publicwhip/person/25574,Lagan Valley,uk.org.publicwhip/cons/325-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
-25452,Emma Little Pengelly,,4611,uk.org.publicwhip/person/25452,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
+25452,Emma Little-Pengelly,,4611,uk.org.publicwhip/person/25452,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13853,Edwin Poots,,,uk.org.publicwhip/person/13853,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13858,George Robinson,,,uk.org.publicwhip/person/13858,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13927,Alastair Ross,,,uk.org.publicwhip/person/13927,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
@@ -618,119 +618,224 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25577,Christopher Stalford,,,uk.org.publicwhip/person/25577,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13867,Mervyn Storey,,,uk.org.publicwhip/person/13867,North Antrim,uk.org.publicwhip/cons/402-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 25226,Claire Sugden,,,uk.org.publicwhip/person/25226,East Londonderry,uk.org.publicwhip/cons/197-NI,Independent,independent,2016-05-07,regional_election,2017-01-26,dissolution,5
-25141,Robin Swann,,,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
+25141,Robin Swann,,5319,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13870,Peter Weir,,,uk.org.publicwhip/person/13870,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13871,Jim Wells,,,uk.org.publicwhip/person/13871,South Down,uk.org.publicwhip/cons/519-NI,DUP,dup,2016-05-07,regional_election,2017-01-26,dissolution,5
 13829,Philip McGuigan,,,uk.org.publicwhip/person/13829,North Antrim,uk.org.publicwhip/cons/402-NI,Sinn Féin,sinn-fein,2016-08-30,appointed,2017-01-26,dissolution,5
 25598,Órlaithí Flynn,,,uk.org.publicwhip/person/25598,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2016-12-02,appointed,2017-01-26,dissolution,5
 13814,Naomi Long,,3920,uk.org.publicwhip/person/13814,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2017-03-03,regional_election,2019-07-01,resigned,6
-25555,Joanne Bunting,,,uk.org.publicwhip/person/25555,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2017-03-03,regional_election,,,6
-25451,Andy Allen,,,uk.org.publicwhip/person/25451,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2017-03-03,regional_election,,,6
-24994,Chris Lyttle,,,uk.org.publicwhip/person/24994,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2017-03-03,regional_election,,,6
-13845,Robin Newton,,,uk.org.publicwhip/person/13845,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2017-03-03,regional_election,,,6
-13809,Gerry Kelly,,,uk.org.publicwhip/person/13809,Belfast North,uk.org.publicwhip/cons/36-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-13913,Carál Ní Chuilín,,,uk.org.publicwhip/person/13913,Belfast North,uk.org.publicwhip/cons/36-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25571,Nichola Mallon,,,uk.org.publicwhip/person/25571,Belfast North,uk.org.publicwhip/cons/36-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-25124,Paula Bradley,,,uk.org.publicwhip/person/25124,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2017-03-03,regional_election,,,6
-25011,William Humphrey,,,uk.org.publicwhip/person/25011,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2017-03-03,regional_election,,,6
+25555,Joanne Bunting,,,uk.org.publicwhip/person/25555,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25451,Andy Allen,,,uk.org.publicwhip/person/25451,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+24994,Chris Lyttle,,,uk.org.publicwhip/person/24994,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2017-03-03,regional_election,2022-03-27,dissolution,6
+13845,Robin Newton,,,uk.org.publicwhip/person/13845,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13809,Gerry Kelly,,,uk.org.publicwhip/person/13809,Belfast North,uk.org.publicwhip/cons/36-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+13913,Carál Ní Chuilín,,,uk.org.publicwhip/person/13913,Belfast North,uk.org.publicwhip/cons/36-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25571,Nichola Mallon,,,uk.org.publicwhip/person/25571,Belfast North,uk.org.publicwhip/cons/36-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+25124,Paula Bradley,,,uk.org.publicwhip/person/25124,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25011,William Humphrey,,,uk.org.publicwhip/person/25011,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
 25256,Máirtín Ó Muilleoir,,,uk.org.publicwhip/person/25256,Belfast South,uk.org.publicwhip/cons/37-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2020-01-07,resigned,6
 25447,Claire Hanna,,4827,uk.org.publicwhip/person/25447,Belfast South,uk.org.publicwhip/cons/37-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2019-12-12,resigned,6
-25553,Paula Bradshaw,,,uk.org.publicwhip/person/25553,Belfast South,uk.org.publicwhip/cons/37-NI,Alliance,alliance,2017-03-03,regional_election,,,6
-25577,Christopher Stalford,,,uk.org.publicwhip/person/25577,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2017-03-03,regional_election,,,6
-25548,Clare Bailey,,,uk.org.publicwhip/person/25548,Belfast South,uk.org.publicwhip/cons/37-NI,Green,green,2017-03-03,regional_election,,,6
-25598,Órlaithí Flynn,,,uk.org.publicwhip/person/25598,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-13816,Alex Maskey,,,uk.org.publicwhip/person/13816,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-13818,Fra McCann,,,uk.org.publicwhip/person/13818,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25020,Pat Sheehan,,,uk.org.publicwhip/person/25020,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25557,Gerry Carroll,,,uk.org.publicwhip/person/25557,Belfast West,uk.org.publicwhip/cons/38-NI,People Before Profit Alliance,people-before-profit-alliance,2017-03-03,regional_election,,,6
-13801,David Hilditch,,,uk.org.publicwhip/person/13801,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2017-03-03,regional_election,,,6
-13887,Roy Beggs,,,uk.org.publicwhip/person/13887,East Antrim,uk.org.publicwhip/cons/192-NI,UUP,uup,2017-03-03,regional_election,,,6
-25126,Stewart Dickson,,,uk.org.publicwhip/person/25126,East Antrim,uk.org.publicwhip/cons/192-NI,Alliance,alliance,2017-03-03,regional_election,,,6
-25450,Gordon Lyons,,,uk.org.publicwhip/person/25450,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2017-03-03,regional_election,,,6
-25602,John Stewart,,,uk.org.publicwhip/person/25602,East Antrim,uk.org.publicwhip/cons/192-NI,UUP,uup,2017-03-03,regional_election,,,6
-25546,Caoimhe Archibald,,,uk.org.publicwhip/person/25546,East Londonderry,uk.org.publicwhip/cons/197-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25551,Maurice Bradley,,,uk.org.publicwhip/person/25551,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2017-03-03,regional_election,,,6
-25226,Claire Sugden,,,uk.org.publicwhip/person/25226,East Londonderry,uk.org.publicwhip/cons/197-NI,Independent,independent,2017-03-03,regional_election,,,6
-13858,George Robinson,,,uk.org.publicwhip/person/13858,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2017-03-03,regional_election,,,6
+25553,Paula Bradshaw,,,uk.org.publicwhip/person/25553,Belfast South,uk.org.publicwhip/cons/37-NI,Alliance,alliance,2017-03-03,regional_election,2022-03-27,dissolution,6
+25577,Christopher Stalford,,,uk.org.publicwhip/person/25577,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2017-03-03,regional_election,2022-02-19,died,6
+25548,Clare Bailey,,,uk.org.publicwhip/person/25548,Belfast South,uk.org.publicwhip/cons/37-NI,Green,green,2017-03-03,regional_election,2022-03-27,dissolution,6
+25598,Órlaithí Flynn,,,uk.org.publicwhip/person/25598,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+13816,Alex Maskey,,,uk.org.publicwhip/person/13816,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+13818,Fra McCann,,,uk.org.publicwhip/person/13818,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2021-10-19,resigned,6
+25020,Pat Sheehan,,,uk.org.publicwhip/person/25020,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25557,Gerry Carroll,,,uk.org.publicwhip/person/25557,Belfast West,uk.org.publicwhip/cons/38-NI,People Before Profit Alliance,people-before-profit-alliance,2017-03-03,regional_election,2022-03-27,dissolution,6
+13801,David Hilditch,,,uk.org.publicwhip/person/13801,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13887,Roy Beggs,,,uk.org.publicwhip/person/13887,East Antrim,uk.org.publicwhip/cons/192-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25126,Stewart Dickson,,,uk.org.publicwhip/person/25126,East Antrim,uk.org.publicwhip/cons/192-NI,Alliance,alliance,2017-03-03,regional_election,2022-03-27,dissolution,6
+25450,Gordon Lyons,,,uk.org.publicwhip/person/25450,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25602,John Stewart,,,uk.org.publicwhip/person/25602,East Antrim,uk.org.publicwhip/cons/192-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25546,Caoimhe Archibald,,,uk.org.publicwhip/person/25546,East Londonderry,uk.org.publicwhip/cons/197-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25551,Maurice Bradley,,,uk.org.publicwhip/person/25551,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25226,Claire Sugden,,,uk.org.publicwhip/person/25226,East Londonderry,uk.org.publicwhip/cons/197-NI,Independent,independent,2017-03-03,regional_election,2022-03-27,dissolution,6
+13858,George Robinson,,,uk.org.publicwhip/person/13858,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
 13772,John Dallat,,,uk.org.publicwhip/person/13772,East Londonderry,uk.org.publicwhip/cons/197-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2020-05-05,died,6
-13790,Arlene Foster,,,uk.org.publicwhip/person/13790,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,DUP,dup,2017-03-03,regional_election,,,6
+13790,Arlene Foster,,,uk.org.publicwhip/person/13790,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,DUP,dup,2017-03-03,regional_election,2021-10-06,resigned,6
 10913,Michelle Gildernew,4566,1416,uk.org.publicwhip/person/10913,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2017-06-09,resigned,6
-25603,Jemma Dolan,,,uk.org.publicwhip/person/25603,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25135,Sean Lynch,,,uk.org.publicwhip/person/25135,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25549,Rosemary Barton,,,uk.org.publicwhip/person/25549,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2017-03-03,regional_election,,,6
+25603,Jemma Dolan,,,uk.org.publicwhip/person/25603,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25135,Sean Lynch,,,uk.org.publicwhip/person/25135,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2021-07-05,resigned,6
+25549,Rosemary Barton,,,uk.org.publicwhip/person/25549,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
 25604,Elisha McCallion,,4624,uk.org.publicwhip/person/25604,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2017-06-09,resigned,6
 25130,Colum Eastwood,,4846,uk.org.publicwhip/person/25130,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2019-12-12,resigned,6
 13821,Raymond McCartney,,,uk.org.publicwhip/person/13821,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2020-02-03,resigned,6
-25143,Mark Durkan,,,uk.org.publicwhip/person/25143,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-25267,Gary Middleton,,,uk.org.publicwhip/person/25267,Foyle,uk.org.publicwhip/cons/235-NI,DUP,dup,2017-03-03,regional_election,,,6
-24972,Paul Givan,,,uk.org.publicwhip/person/24972,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2017-03-03,regional_election,,,6
-25556,Robbie Butler,,,uk.org.publicwhip/person/25556,Lagan Valley,uk.org.publicwhip/cons/325-NI,UUP,uup,2017-03-03,regional_election,,,6
-13903,Trevor Lunn,,,uk.org.publicwhip/person/13903,Lagan Valley,uk.org.publicwhip/cons/325-NI,Alliance,alliance,2017-03-03,regional_election,,,6
-13853,Edwin Poots,,,uk.org.publicwhip/person/13853,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2017-03-03,regional_election,,,6
-25605,Pat Catney,,,uk.org.publicwhip/person/25605,Lagan Valley,uk.org.publicwhip/cons/325-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-13915,Michelle O'Neill,,,uk.org.publicwhip/person/13915,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25554,Keith Buchanan,,,uk.org.publicwhip/person/25554,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,2017-03-03,regional_election,,,6
+25143,Mark Durkan,,,uk.org.publicwhip/person/25143,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+25267,Gary Middleton,,,uk.org.publicwhip/person/25267,Foyle,uk.org.publicwhip/cons/235-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+24972,Paul Givan,,,uk.org.publicwhip/person/24972,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25556,Robbie Butler,,,uk.org.publicwhip/person/25556,Lagan Valley,uk.org.publicwhip/cons/325-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13903,Trevor Lunn,,,uk.org.publicwhip/person/13903,Lagan Valley,uk.org.publicwhip/cons/325-NI,Alliance,alliance,2017-03-03,regional_election,2022-03-27,dissolution,6
+13853,Edwin Poots,,,uk.org.publicwhip/person/13853,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2017-03-03,regional_election,2022-03-06,resigned,6
+25605,Pat Catney,,,uk.org.publicwhip/person/25605,Lagan Valley,uk.org.publicwhip/cons/325-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+13915,Michelle O'Neill,,,uk.org.publicwhip/person/13915,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25554,Keith Buchanan,,,uk.org.publicwhip/person/25554,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
 25180,Ian Milne,,,uk.org.publicwhip/person/25180,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2018-12-01,resigned,6
-25559,Linda Dillon,,,uk.org.publicwhip/person/25559,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-13828,Patsy McGlone,,,uk.org.publicwhip/person/13828,Mid Ulster,uk.org.publicwhip/cons/375-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-13901,William Irwin,,,uk.org.publicwhip/person/13901,Newry and Armagh,uk.org.publicwhip/cons/400-NI,DUP,dup,2017-03-03,regional_election,,,6
-13892,Cathal Boylan,,,uk.org.publicwhip/person/13892,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25568,Justin McNulty,,,uk.org.publicwhip/person/25568,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
+25559,Linda Dillon,,,uk.org.publicwhip/person/25559,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+13828,Patsy McGlone,,,uk.org.publicwhip/person/13828,Mid Ulster,uk.org.publicwhip/cons/375-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+13901,William Irwin,,,uk.org.publicwhip/person/13901,Newry and Armagh,uk.org.publicwhip/cons/400-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13892,Cathal Boylan,,,uk.org.publicwhip/person/13892,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25568,Justin McNulty,,,uk.org.publicwhip/person/25568,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
 25160,Megan Fearon,,,uk.org.publicwhip/person/25160,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2020-01-06,resigned,6
-11734,Conor Murphy,,1595,uk.org.publicwhip/person/11734,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-13829,Philip McGuigan,,,uk.org.publicwhip/person/13829,North Antrim,uk.org.publicwhip/cons/402-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-24981,Paul Frew,,,uk.org.publicwhip/person/24981,North Antrim,uk.org.publicwhip/cons/402-NI,DUP,dup,2017-03-03,regional_election,,,6
-13867,Mervyn Storey,,,uk.org.publicwhip/person/13867,North Antrim,uk.org.publicwhip/cons/402-NI,DUP,dup,2017-03-03,regional_election,,,6
-25122,Jim Allister,,,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2017-03-03,regional_election,,,6
-25141,Robin Swann,,,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2017-03-03,regional_election,,,6
-13780,Alex Easton,,,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2017-03-03,regional_election,,,6
-25558,Alan Chambers,,,uk.org.publicwhip/person/25558,North Down,uk.org.publicwhip/cons/406-NI,UUP,uup,2017-03-03,regional_election,,,6
+11734,Conor Murphy,,1595,uk.org.publicwhip/person/11734,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+13829,Philip McGuigan,,,uk.org.publicwhip/person/13829,North Antrim,uk.org.publicwhip/cons/402-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+24981,Paul Frew,,,uk.org.publicwhip/person/24981,North Antrim,uk.org.publicwhip/cons/402-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13867,Mervyn Storey,,,uk.org.publicwhip/person/13867,North Antrim,uk.org.publicwhip/cons/402-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25122,Jim Allister,,5356,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2017-03-03,regional_election,2022-03-27,dissolution,6
+25141,Robin Swann,,5319,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13780,Alex Easton,,5262,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25558,Alan Chambers,,,uk.org.publicwhip/person/25558,North Down,uk.org.publicwhip/cons/406-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
 13899,Stephen Farry,,4856,uk.org.publicwhip/person/13899,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2017-03-03,regional_election,2019-12-12,resigned,6
-25129,Gordon Dunne,,,uk.org.publicwhip/person/25129,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2017-03-03,regional_election,,,6
+25129,Gordon Dunne,,,uk.org.publicwhip/person/25129,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2017-03-03,regional_election,2021-06-18,resigned,6
 25121,Steven Agnew,,,uk.org.publicwhip/person/25121,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2017-03-03,regional_election,2019-09-30,resigned,6
-25561,Declan Kearney,,,uk.org.publicwhip/person/25561,South Antrim,uk.org.publicwhip/cons/515-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25545,Steve Aiken,,,uk.org.publicwhip/person/25545,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2017-03-03,regional_election,,,6
+25561,Declan Kearney,,,uk.org.publicwhip/person/25561,South Antrim,uk.org.publicwhip/cons/515-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25545,Steve Aiken,,,uk.org.publicwhip/person/25545,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
 13788,David Ford,,,uk.org.publicwhip/person/13788,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2017-03-03,regional_election,2018-06-25,resigned,6
 13794,Paul Girvan,,,uk.org.publicwhip/person/13794,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2017-03-03,regional_election,2017-06-09,resigned,6
-25134,Pam Cameron,,,uk.org.publicwhip/person/25134,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2017-03-03,regional_election,,,6
-25606,Sinéad Ennis,,,uk.org.publicwhip/person/25606,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
+25134,Pam Cameron,,,uk.org.publicwhip/person/25134,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25606,Sinéad Ennis,,,uk.org.publicwhip/person/25606,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
 25154,Christopher Hazzard,,4636,uk.org.publicwhip/person/25154,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2017-06-09,resigned,6
-13871,Jim Wells,,,uk.org.publicwhip/person/13871,South Down,uk.org.publicwhip/cons/519-NI,DUP,dup,2017-03-03,regional_election,,,6
-25552,Sinéad Bradley,,,uk.org.publicwhip/person/25552,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-25566,Colin McGrath,,,uk.org.publicwhip/person/25566,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
+13871,Jim Wells,,,uk.org.publicwhip/person/13871,South Down,uk.org.publicwhip/cons/519-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25552,Sinéad Bradley,,,uk.org.publicwhip/person/25552,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+25566,Colin McGrath,,,uk.org.publicwhip/person/25566,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
 13900,Simon Hamilton,,,uk.org.publicwhip/person/13900,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,2019-09-02,resigned,6
-25547,Kellie Armstrong,,,uk.org.publicwhip/person/25547,Strangford,uk.org.publicwhip/cons/557-NI,Alliance,alliance,2017-03-03,regional_election,,,6
-13910,Michelle McIlveen,,,uk.org.publicwhip/person/13910,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,,,6
-25139,Mike Nesbitt,,,uk.org.publicwhip/person/25139,Strangford,uk.org.publicwhip/cons/557-NI,UUP,uup,2017-03-03,regional_election,,,6
-13870,Peter Weir,,,uk.org.publicwhip/person/13870,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,,,6
+25547,Kellie Armstrong,,,uk.org.publicwhip/person/25547,Strangford,uk.org.publicwhip/cons/557-NI,Alliance,alliance,2017-03-03,regional_election,2022-03-27,dissolution,6
+13910,Michelle McIlveen,,,uk.org.publicwhip/person/13910,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25139,Mike Nesbitt,,,uk.org.publicwhip/person/25139,Strangford,uk.org.publicwhip/cons/557-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13870,Peter Weir,,,uk.org.publicwhip/person/13870,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
 25562,Carla Lockhart,,4857,uk.org.publicwhip/person/25562,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2017-03-03,regional_election,2019-12-12,resigned,6
-13847,John O'Dowd,,,uk.org.publicwhip/person/13847,Upper Bann,uk.org.publicwhip/cons/593-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25607,Jonathan Buckley,,,uk.org.publicwhip/person/25607,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2017-03-03,regional_election,,,6
-25550,Doug Beattie,,,uk.org.publicwhip/person/25550,Upper Bann,uk.org.publicwhip/cons/593-NI,UUP,uup,2017-03-03,regional_election,,,6
-13810,Dolores Kelly,,,uk.org.publicwhip/person/13810,Upper Bann,uk.org.publicwhip/cons/593-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-13758,Thomas Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2017-03-03,regional_election,,,6
+13847,John O'Dowd,,,uk.org.publicwhip/person/13847,Upper Bann,uk.org.publicwhip/cons/593-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25607,Jonathan Buckley,,,uk.org.publicwhip/person/25607,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
+25550,Doug Beattie,,,uk.org.publicwhip/person/25550,Upper Bann,uk.org.publicwhip/cons/593-NI,UUP,uup,2017-03-03,regional_election,2022-03-27,dissolution,6
+13810,Dolores Kelly,,,uk.org.publicwhip/person/13810,Upper Bann,uk.org.publicwhip/cons/593-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+13758,Tom Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2017-03-03,regional_election,2022-03-27,dissolution,6
 25123,Michaela Boyle,,,uk.org.publicwhip/person/25123,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2019-05-02,resigned,6
 13825,Barry McElduff,,4646,uk.org.publicwhip/person/13825,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2017-06-09,resigned,6
-25483,Daniel McCrossan,,,uk.org.publicwhip/person/25483,West Tyrone,uk.org.publicwhip/cons/629-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,,,6
-25159,Declan McAleer,,,uk.org.publicwhip/person/25159,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,,,6
-25709,Colm Gildernew,,,uk.org.publicwhip/person/25709,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-06-15,appointed,,,6
-25710,Karen Mullan,,,uk.org.publicwhip/person/25710,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2017-06-12,appointed,,,6
+25483,Daniel McCrossan,,,uk.org.publicwhip/person/25483,West Tyrone,uk.org.publicwhip/cons/629-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2017-03-03,regional_election,2022-03-27,dissolution,6
+25159,Declan McAleer,,,uk.org.publicwhip/person/25159,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-03-03,regional_election,2022-03-27,dissolution,6
+25709,Colm Gildernew,,,uk.org.publicwhip/person/25709,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2017-06-15,appointed,2022-03-27,dissolution,6
+25710,Karen Mullan,,,uk.org.publicwhip/person/25710,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2017-06-12,appointed,2021-09-13,resigned,6
 25711,Catherine Kelly,,,uk.org.publicwhip/person/25711,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2017-06-12,appointed,2020-10-31,resigned,6
-13897,Trevor Clarke,,,uk.org.publicwhip/person/13897,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2017-06-28,appointed,,,6
-25716,Emma Rogan,,,uk.org.publicwhip/person/25716,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-06-20,appointed,,,6
-25741,John Blair,,,uk.org.publicwhip/person/25741,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2018-06-27,appointed,,,6
-25747,Emma Sheerin,,,uk.org.publicwhip/person/25747,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2018-12-04,appointed,,,6
-25773,Maolíosa McHugh,,,uk.org.publicwhip/person/25773,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2019-05-28,appointed,,,6
-25784,Harry Harvey,,,uk.org.publicwhip/person/25784,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2019-09-12,appointed,,,6
-25785,Rachel Woods,,,uk.org.publicwhip/person/25785,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2019-10-07,appointed,,,6
+13897,Trevor Clarke,,,uk.org.publicwhip/person/13897,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2017-06-28,appointed,2022-03-27,dissolution,6
+25716,Emma Rogan,,,uk.org.publicwhip/person/25716,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2017-06-20,appointed,2022-03-27,dissolution,6
+25741,John Blair,,,uk.org.publicwhip/person/25741,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2018-06-27,appointed,2022-03-27,dissolution,6
+25747,Emma Sheerin,,,uk.org.publicwhip/person/25747,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2018-12-04,appointed,2022-03-27,dissolution,6
+25773,Maolíosa McHugh,,,uk.org.publicwhip/person/25773,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2019-05-28,appointed,2022-03-27,dissolution,6
+25784,Harry Harvey,,,uk.org.publicwhip/person/25784,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2019-09-12,appointed,2022-03-27,dissolution,6
+25785,Rachel Woods,,,uk.org.publicwhip/person/25785,North Down,uk.org.publicwhip/cons/406-NI,Green,green,2019-10-07,appointed,2022-03-27,dissolution,6
 25930,Máire Hendron,,,uk.org.publicwhip/person/25930,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2019-07-01,appointed,2020-01-08,resigned,6
-25931,Andrew Muir,,,uk.org.publicwhip/person/25931,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2019-12-16,appointed,,,6
-25933,Sinead McLaughlin,,,uk.org.publicwhip/person/25933,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-01-10,appointed,,,6
-25934,Liz Kimmins,,,uk.org.publicwhip/person/25934,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2020-01-09,appointed,,,6
-25935,Matthew O'Toole,,,uk.org.publicwhip/person/25935,Belfast South,uk.org.publicwhip/cons/37-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-01-11,appointed,,,6
-25936,Deirdre Hargey,,,uk.org.publicwhip/person/25936,Belfast South,uk.org.publicwhip/cons/37-NI,Sinn Féin,sinn-fein,2020-01-11,appointed,,,6
-13776,Diane Dodds,,,uk.org.publicwhip/person/13776,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2020-01-11,appointed,,,6
-13814,Naomi Long,,3920,uk.org.publicwhip/person/13814,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2020-01-09,appointed,,,6
-13891,Martina Anderson,,,uk.org.publicwhip/person/13891,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2020-02-10,appointed,,,6
-25940,Cara Hunter,,,uk.org.publicwhip/person/25940,East Londonderry,uk.org.publicwhip/cons/197-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-05-19,appointed,,,6
-25968,Nicola Brogan,,,uk.org.publicwhip/person/25968,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2020-11-23,appointed,,,6
+25931,Andrew Muir,,,uk.org.publicwhip/person/25931,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2019-12-16,appointed,2022-03-27,dissolution,6
+25933,Sinéad McLaughlin,,,uk.org.publicwhip/person/25933,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-01-10,appointed,2022-03-27,dissolution,6
+25934,Liz Kimmins,,,uk.org.publicwhip/person/25934,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2020-01-09,appointed,2022-03-27,dissolution,6
+25935,Matthew O'Toole,,,uk.org.publicwhip/person/25935,Belfast South,uk.org.publicwhip/cons/37-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-01-11,appointed,2022-03-27,dissolution,6
+25936,Deirdre Hargey,,,uk.org.publicwhip/person/25936,Belfast South,uk.org.publicwhip/cons/37-NI,Sinn Féin,sinn-fein,2020-01-11,appointed,2022-03-27,dissolution,6
+13776,Diane Dodds,,,uk.org.publicwhip/person/13776,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2020-01-11,appointed,2022-03-27,dissolution,6
+13814,Naomi Long,,3920,uk.org.publicwhip/person/13814,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2020-01-09,appointed,2022-03-27,dissolution,6
+13891,Martina Anderson,,,uk.org.publicwhip/person/13891,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2020-02-10,appointed,2021-09-13,resigned,6
+25940,Cara Hunter,,,uk.org.publicwhip/person/25940,East Londonderry,uk.org.publicwhip/cons/197-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2020-05-19,appointed,2022-03-27,dissolution,6
+25968,Nicola Brogan,,,uk.org.publicwhip/person/25968,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2020-11-23,appointed,2022-03-27,dissolution,6
+26041,Stephen Dunne,,,uk.org.publicwhip/person/26041,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2021-06-28,appointed,2022-03-27,dissolution,6
+26042,Áine Murphy,,,uk.org.publicwhip/person/26042,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2021-07-05,appointed,2022-03-27,dissolution,6
+26049,Ciara Ferguson,,,uk.org.publicwhip/person/26049,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2021-09-13,appointed,2022-03-27,dissolution,6
+26050,Pádraig Delargy,,,uk.org.publicwhip/person/26050,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2021-09-13,appointed,2022-03-27,dissolution,6
+26051,Deborah Erskine,,,uk.org.publicwhip/person/26051,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,DUP,dup,2021-10-11,appointed,2022-03-27,dissolution,6
+26053,Aisling Reilly,,,uk.org.publicwhip/person/26053,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2021-10-19,appointed,2022-03-27,dissolution,6
+13853,Edwin Poots,,,uk.org.publicwhip/person/13853,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2022-03-07,appointed,2022-03-27,dissolution,6
+26064,Paul Rankin,,,uk.org.publicwhip/person/26064,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2022-03-14,appointed,2022-03-27,dissolution,6
+25545,Steve Aiken,,,uk.org.publicwhip/person/25545,South Antrim,uk.org.publicwhip/cons/515-NI,UUP,uup,2022-05-05,regional_election,,,6
+25451,Andy Allen,,,uk.org.publicwhip/person/25451,Belfast East,uk.org.publicwhip/cons/35-NI,UUP,uup,2022-05-05,regional_election,,,6
+25122,Jim Allister,,5356,uk.org.publicwhip/person/25122,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2022-05-05,regional_election,2024-07-05,resigned,6
+25546,Caoimhe Archibald,,,uk.org.publicwhip/person/25546,East Londonderry,uk.org.publicwhip/cons/197-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25547,Kellie Armstrong,,,uk.org.publicwhip/person/25547,Strangford,uk.org.publicwhip/cons/557-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+26066,Danny Baker,,,uk.org.publicwhip/person/26066,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25550,Doug Beattie,,,uk.org.publicwhip/person/25550,Upper Bann,uk.org.publicwhip/cons/593-NI,UUP,uup,2022-05-05,regional_election,,,6
+25741,John Blair,,,uk.org.publicwhip/person/25741,South Antrim,uk.org.publicwhip/cons/515-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+13892,Cathal Boylan,,,uk.org.publicwhip/person/13892,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25551,Maurice Bradley,,,uk.org.publicwhip/person/25551,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2022-05-05,regional_election,,,6
+25553,Paula Bradshaw,,,uk.org.publicwhip/person/25553,Belfast South,uk.org.publicwhip/cons/37-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+26067,Phillip Brett,,,uk.org.publicwhip/person/26067,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2022-05-05,regional_election,,,6
+25968,Nicola Brogan,,,uk.org.publicwhip/person/25968,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26068,David Brooks,,,uk.org.publicwhip/person/26068,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2022-05-05,regional_election,,,6
+26069,Patrick Brown,,,uk.org.publicwhip/person/26069,South Down,uk.org.publicwhip/cons/519-NI,Alliance,alliance,2022-05-05,regional_election,2024-04-23,resigned,6
+25554,Keith Buchanan,,,uk.org.publicwhip/person/25554,Mid Ulster,uk.org.publicwhip/cons/375-NI,DUP,dup,2022-05-05,regional_election,,,6
+13758,Tom Buchanan,,,uk.org.publicwhip/person/13758,West Tyrone,uk.org.publicwhip/cons/629-NI,DUP,dup,2022-05-05,regional_election,,,6
+25607,Jonathan Buckley,,,uk.org.publicwhip/person/25607,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2022-05-05,regional_election,,,6
+25555,Joanne Bunting,,,uk.org.publicwhip/person/25555,Belfast East,uk.org.publicwhip/cons/35-NI,DUP,dup,2022-05-05,regional_election,,,6
+25556,Robbie Butler,,,uk.org.publicwhip/person/25556,Lagan Valley,uk.org.publicwhip/cons/325-NI,UUP,uup,2022-05-05,regional_election,,,6
+25134,Pam Cameron,,,uk.org.publicwhip/person/25134,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2022-05-05,regional_election,,,6
+25557,Gerry Carroll,,,uk.org.publicwhip/person/25557,Belfast West,uk.org.publicwhip/cons/38-NI,People Before Profit Alliance,people-before-profit-alliance,2022-05-05,regional_election,,,6
+25558,Alan Chambers,,,uk.org.publicwhip/person/25558,North Down,uk.org.publicwhip/cons/406-NI,UUP,uup,2022-05-05,regional_election,,,6
+13897,Trevor Clarke,,,uk.org.publicwhip/person/13897,South Antrim,uk.org.publicwhip/cons/515-NI,DUP,dup,2022-05-05,regional_election,,,6
+26050,Pádraig Delargy,,,uk.org.publicwhip/person/26050,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25126,Stewart Dickson,,,uk.org.publicwhip/person/25126,East Antrim,uk.org.publicwhip/cons/192-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+25559,Linda Dillon,,,uk.org.publicwhip/person/25559,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+13776,Diane Dodds,,,uk.org.publicwhip/person/13776,Upper Bann,uk.org.publicwhip/cons/593-NI,DUP,dup,2022-05-05,regional_election,,,6
+25603,Jemma Dolan,,,uk.org.publicwhip/person/25603,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26070,Danny Donnelly,,,uk.org.publicwhip/person/26070,East Antrim,uk.org.publicwhip/cons/192-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+26041,Stephen Dunne,,,uk.org.publicwhip/person/26041,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2022-05-05,regional_election,,,6
+25143,Mark Durkan,,,uk.org.publicwhip/person/25143,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+13780,Alex Easton,,5262,uk.org.publicwhip/person/13780,North Down,uk.org.publicwhip/cons/406-NI,Independent,independent,2022-05-05,regional_election,2024-07-05,resigned,6
+26071,Sorcha Eastwood,,5125,uk.org.publicwhip/person/26071,Lagan Valley,uk.org.publicwhip/cons/325-NI,Alliance,alliance,2022-05-05,regional_election,2024-07-05,resigned,6
+26072,Connie Egan,,,uk.org.publicwhip/person/26072,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+13781,Lord Elliott of Ballinamallard,,4367,uk.org.publicwhip/person/13781,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,UUP,uup,2022-05-05,regional_election,,,6
+25606,Sinéad Ennis,,,uk.org.publicwhip/person/25606,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26051,Deborah Erskine,,,uk.org.publicwhip/person/26051,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,DUP,dup,2022-05-05,regional_election,,,6
+26049,Ciara Ferguson,,,uk.org.publicwhip/person/26049,Foyle,uk.org.publicwhip/cons/235-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25598,Órlaithí Flynn,,,uk.org.publicwhip/person/25598,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26073,Diane Forsythe,,,uk.org.publicwhip/person/26073,South Down,uk.org.publicwhip/cons/519-NI,DUP,dup,2022-05-05,regional_election,,,6
+24981,Paul Frew,,,uk.org.publicwhip/person/24981,North Antrim,uk.org.publicwhip/cons/402-NI,DUP,dup,2022-05-05,regional_election,,,6
+25709,Colm Gildernew,,,uk.org.publicwhip/person/25709,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+24972,Paul Givan,,,uk.org.publicwhip/person/24972,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2022-05-05,regional_election,,,6
+25936,Deirdre Hargey,,,uk.org.publicwhip/person/25936,Belfast South,uk.org.publicwhip/cons/37-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25784,Harry Harvey,,,uk.org.publicwhip/person/25784,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2022-05-05,regional_election,,,6
+13801,David Hilditch,,,uk.org.publicwhip/person/13801,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2022-05-05,regional_election,2023-09-15,resigned,6
+26074,David Honeyford,,,uk.org.publicwhip/person/26074,Lagan Valley,uk.org.publicwhip/cons/325-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+25940,Cara Hunter,,,uk.org.publicwhip/person/25940,East Londonderry,uk.org.publicwhip/cons/197-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+13901,William Irwin,,,uk.org.publicwhip/person/13901,Newry and Armagh,uk.org.publicwhip/cons/400-NI,DUP,dup,2022-05-05,regional_election,,,6
+25561,Declan Kearney,,,uk.org.publicwhip/person/25561,South Antrim,uk.org.publicwhip/cons/515-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+13809,Gerry Kelly,,,uk.org.publicwhip/person/13809,Belfast North,uk.org.publicwhip/cons/36-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25934,Liz Kimmins,,,uk.org.publicwhip/person/25934,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26075,Brian Kingston,,,uk.org.publicwhip/person/26075,Belfast North,uk.org.publicwhip/cons/36-NI,DUP,dup,2022-05-05,regional_election,,,6
+25452,Emma Little-Pengelly,,4611,uk.org.publicwhip/person/25452,Lagan Valley,uk.org.publicwhip/cons/325-NI,DUP,dup,2022-05-05,regional_election,,,6
+13814,Naomi Long,,3920,uk.org.publicwhip/person/13814,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+25450,Gordon Lyons,,,uk.org.publicwhip/person/25450,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2022-05-05,regional_election,,,6
+25159,Declan McAleer,,,uk.org.publicwhip/person/25159,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26076,Nuala McAllister,,,uk.org.publicwhip/person/26076,Belfast North,uk.org.publicwhip/cons/36-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+25483,Daniel McCrossan,,,uk.org.publicwhip/person/25483,West Tyrone,uk.org.publicwhip/cons/629-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+13828,Patsy McGlone,,,uk.org.publicwhip/person/13828,Mid Ulster,uk.org.publicwhip/cons/375-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+25566,Colin McGrath,,,uk.org.publicwhip/person/25566,South Down,uk.org.publicwhip/cons/519-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+13829,Philip McGuigan,,,uk.org.publicwhip/person/13829,North Antrim,uk.org.publicwhip/cons/402-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25773,Maolíosa McHugh,,,uk.org.publicwhip/person/25773,West Tyrone,uk.org.publicwhip/cons/629-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+13910,Michelle McIlveen,,,uk.org.publicwhip/person/13910,Strangford,uk.org.publicwhip/cons/557-NI,DUP,dup,2022-05-05,regional_election,,,6
+25933,Sinéad McLaughlin,,,uk.org.publicwhip/person/25933,Foyle,uk.org.publicwhip/cons/235-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+25568,Justin McNulty,,,uk.org.publicwhip/person/25568,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+26077,Peter McReynolds,,,uk.org.publicwhip/person/26077,Belfast East,uk.org.publicwhip/cons/35-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+26078,Cathy Mason,,,uk.org.publicwhip/person/26078,South Down,uk.org.publicwhip/cons/519-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26079,Nick Mathison,,,uk.org.publicwhip/person/26079,Strangford,uk.org.publicwhip/cons/557-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+25267,Gary Middleton,,,uk.org.publicwhip/person/25267,Foyle,uk.org.publicwhip/cons/235-NI,DUP,dup,2022-05-05,regional_election,,,6
+25931,Andrew Muir,,,uk.org.publicwhip/person/25931,North Down,uk.org.publicwhip/cons/406-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+26042,Áine Murphy,,,uk.org.publicwhip/person/26042,Fermanagh and South Tyrone,uk.org.publicwhip/cons/231-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+11734,Conor Murphy,,1595,uk.org.publicwhip/person/11734,Newry and Armagh,uk.org.publicwhip/cons/400-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25139,Mike Nesbitt,,,uk.org.publicwhip/person/25139,Strangford,uk.org.publicwhip/cons/557-NI,UUP,uup,2022-05-05,regional_election,,,6
+13913,Carál Ní Chuilín,,,uk.org.publicwhip/person/13913,Belfast North,uk.org.publicwhip/cons/36-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26080,Kate Nicholl,,,uk.org.publicwhip/person/26080,Belfast South,uk.org.publicwhip/cons/37-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+13847,John O'Dowd,,,uk.org.publicwhip/person/13847,Upper Bann,uk.org.publicwhip/cons/593-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26081,Patricia O'Lynn,,,uk.org.publicwhip/person/26081,North Antrim,uk.org.publicwhip/cons/402-NI,Alliance,alliance,2022-05-05,regional_election,2023-03-31,resigned,6
+13915,Michelle O'Neill,,,uk.org.publicwhip/person/13915,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25935,Matthew O'Toole,,,uk.org.publicwhip/person/25935,Belfast South,uk.org.publicwhip/cons/37-NI,Social Democratic and Labour Party,social-democratic-and-labour-party,2022-05-05,regional_election,,,6
+13853,Edwin Poots,,,uk.org.publicwhip/person/13853,Belfast South,uk.org.publicwhip/cons/37-NI,DUP,dup,2022-05-05,regional_election,,,6
+26053,Aisling Reilly,,,uk.org.publicwhip/person/26053,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+26082,Alan Robinson,,,uk.org.publicwhip/person/26082,East Londonderry,uk.org.publicwhip/cons/197-NI,DUP,dup,2022-05-05,regional_election,,,6
+25020,Pat Sheehan,,,uk.org.publicwhip/person/25020,Belfast West,uk.org.publicwhip/cons/38-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25747,Emma Sheerin,,,uk.org.publicwhip/person/25747,Mid Ulster,uk.org.publicwhip/cons/375-NI,Sinn Féin,sinn-fein,2022-05-05,regional_election,,,6
+25602,John Stewart,,,uk.org.publicwhip/person/25602,East Antrim,uk.org.publicwhip/cons/192-NI,UUP,uup,2022-05-05,regional_election,,,6
+25226,Claire Sugden,,,uk.org.publicwhip/person/25226,East Londonderry,uk.org.publicwhip/cons/197-NI,Independent,independent,2022-05-05,regional_election,,,6
+25141,Robin Swann,,5319,uk.org.publicwhip/person/25141,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2022-05-05,regional_election,2024-07-05,resigned,6
+26083,Eóin Tennyson,,,uk.org.publicwhip/person/26083,Upper Bann,uk.org.publicwhip/cons/593-NI,Alliance,alliance,2022-05-05,regional_election,,,6
+26257,Sian Mulholland,,,uk.org.publicwhip/person/26257,North Antrim,uk.org.publicwhip/cons/402-NI,Alliance,alliance,2023-04-06,appointed,,,6
+26272,Cheryl Brownlee,,,uk.org.publicwhip/person/26272,East Antrim,uk.org.publicwhip/cons/192-NI,DUP,dup,2023-09-15,appointed,,,6
+26306,Andrew McMurray,,,uk.org.publicwhip/person/26306,South Down,uk.org.publicwhip/cons/519-NI,Alliance,alliance,2024-04-30,appointed,,,6
+26638,Michelle Guy,,,uk.org.publicwhip/person/26638,Lagan Valley,uk.org.publicwhip/cons/325-NI,Alliance,alliance,2024-07-09,appointed,,,6
+26639,Colin Crawford,,,uk.org.publicwhip/person/26639,North Antrim,uk.org.publicwhip/cons/402-NI,UUP,uup,2024-07-09,appointed,,,6
+26640,Peter Martin,,,uk.org.publicwhip/person/26640,North Down,uk.org.publicwhip/cons/406-NI,DUP,dup,2024-07-10,appointed,,,6
+26644,Timothy Gaston,,,uk.org.publicwhip/person/26644,North Antrim,uk.org.publicwhip/cons/402-NI,Traditional Unionist Voice,traditional-unionist-voice,2024-07-16,,,,6

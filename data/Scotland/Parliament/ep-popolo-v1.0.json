@@ -400,6 +400,10 @@
           "url": "https://en.wikipedia.org/wiki/David_Steel"
         },
         {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/David_Steel"
+        },
+        {
           "note": "Wikipedia (fi)",
           "url": "https://fi.wikipedia.org/wiki/David_Steel"
         },
@@ -2476,6 +2480,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "1328645657",
+          "scheme": "gnd"
+        },
+        {
           "identifier": "mr-john-swinney",
           "scheme": "hansard"
         },
@@ -2508,6 +2516,10 @@
           "scheme": "ukparliamentid"
         },
         {
+          "identifier": "5662171732618009080007",
+          "scheme": "viaf"
+        },
+        {
           "identifier": "Q333811",
           "scheme": "wikidata"
         }
@@ -2518,14 +2530,10 @@
           "url": "http://scottishparliament.thirdlight.com/file/35943496226"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Official_Portrait_of_John_Swinney.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ea/John_Swinney_-_First_Minister_(53720492021)_(cropped).jpg"
         }
       ],
       "links": [
-        {
-          "note": "Wikimedia Commons",
-          "url": "https://commons.wikimedia.org/wiki/Category:John_Swinney"
-        },
         {
           "note": "Wikipedia (arz)",
           "url": "https://arz.wikipedia.org/wiki/جون_سوينى"
@@ -2551,24 +2559,80 @@
           "url": "https://en.wikipedia.org/wiki/John_Swinney"
         },
         {
+          "note": "Wikipedia (eo)",
+          "url": "https://eo.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (es)",
+          "url": "https://es.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/John_Swinney"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/John_Swinney"
         },
         {
           "note": "Wikipedia (gd)",
           "url": "https://gd.wikipedia.org/wiki/Iain_MacShuibhne"
         },
         {
+          "note": "Wikipedia (hu)",
+          "url": "https://hu.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (ie)",
+          "url": "https://ie.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (it)",
+          "url": "https://it.wikipedia.org/wiki/John_Swinney"
+        },
+        {
           "note": "Wikipedia (kw)",
           "url": "https://kw.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (nl)",
+          "url": "https://nl.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (pl)",
+          "url": "https://pl.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Суинни,_Джон"
         },
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/John_Swinney"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/John_Swinney"
+        },
+        {
           "note": "Wikipedia (tr)",
           "url": "https://tr.wikipedia.org/wiki/John_Swinney"
+        },
+        {
+          "note": "Wikipedia (tt)",
+          "url": "https://tt.wikipedia.org/wiki/Джон_Суинни"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/施榮禮"
         },
         {
           "note": "twitter",
@@ -2604,6 +2668,16 @@
         {
           "lang": "ko",
           "name": "존 스위니",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Джон Суинни",
+          "note": "multilingual"
+        },
+        {
+          "lang": "tt",
+          "name": "Джон Суинни",
           "note": "multilingual"
         },
         {
@@ -2685,10 +2759,14 @@
           "url": "http://scottishparliament.thirdlight.com/file/35800892126"
         },
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/MurdoFraserMSP20110510.JPG"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Official_portrait_of_Murdo_Fraser_MSP_(cropped).jpg"
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Murdo_Fraser"
+        },
         {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Murdo_Fraser"
@@ -3362,6 +3440,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "Jamie_Stone",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "9844",
           "scheme": "rush"
         },
@@ -3382,10 +3464,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Official_portrait_of_Jamie_Stone_MP_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/42/Official_portrait_of_Jamie_Stone_MP_crop_2,_2024.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Official_portrait_of_Jamie_Stone_MP_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Official_portrait_of_Jamie_Stone_MP_crop_2,_2024.jpg"
         }
       ],
       "links": [
@@ -3410,8 +3492,16 @@
           "url": "https://fr.wikipedia.org/wiki/Jamie_Stone"
         },
         {
+          "note": "Wikipedia (gd)",
+          "url": "https://gd.wikipedia.org/wiki/Jamie_Stone"
+        },
+        {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Jamie_Stone_(Scots_politeecian)"
+        },
+        {
+          "note": "Wikipedia (zh)",
+          "url": "https://zh.wikipedia.org/wiki/傑米·史東"
         },
         {
           "note": "twitter",
@@ -3585,10 +3675,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_portrait_of_Baroness_Goldie_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/89/Official_portrait_of_Baroness_Goldie_crop_2,_2024.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Official_portrait_of_Baroness_Goldie_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/89/Official_portrait_of_Baroness_Goldie_crop_2,_2024.jpg"
         }
       ],
       "links": [
@@ -4335,6 +4425,10 @@
     {
       "id": "3f57b23b-91a1-45cf-833c-97d930b55cd7",
       "identifiers": [
+        {
+          "identifier": "5253",
+          "scheme": "datadotparl"
+        },
         {
           "identifier": "13952",
           "scheme": "everypolitician_legacy"
@@ -5616,7 +5710,6 @@
       "birth_date": "1946-12-03",
       "family_name": "Jackson",
       "gender": "female",
-      "given_name": "Sylvia",
       "id": "59997089-122f-476f-b475-5379bf87960d",
       "identifiers": [
         {
@@ -5667,6 +5760,7 @@
       "family_name": "Mundell",
       "gender": "male",
       "given_name": "David",
+      "honorific_prefix": "The Right Honourable",
       "id": "5a56dbd7-ce56-4a2f-9af6-7457e3bd17d0",
       "identifiers": [
         {
@@ -5726,10 +5820,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/97/Official_portrait_of_David_Mundell_MP_crop_2,_2024.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Official_portrait_of_Rt_Hon_David_Mundell_MP_crop_2.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Official_portrait_of_David_Mundell_MP_crop_2,_2024.jpg"
         }
       ],
       "links": [
@@ -5796,6 +5890,10 @@
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Девід_Манделл"
+        },
+        {
+          "note": "Wikipedia (uz)",
+          "url": "https://uz.wikipedia.org/wiki/David_Mundell"
         },
         {
           "note": "Wikipedia (vi)",
@@ -6158,6 +6256,10 @@
           "url": "https://ru.wikipedia.org/wiki/Уоллес,_Джим"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Jim_Wallace,_Baron_Wallace_of_Tankerness"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Jim_Wallace"
         },
@@ -6171,6 +6273,11 @@
         {
           "lang": "en",
           "name": "Jim Wallace, Baron Wallace of Tankerness",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Seumas Uallas",
           "note": "multilingual"
         },
         {
@@ -6228,6 +6335,10 @@
           "scheme": "bbc_things"
         },
         {
+          "identifier": "5190",
+          "scheme": "datadotparl"
+        },
+        {
           "identifier": "8356",
           "scheme": "democracyclub"
         },
@@ -6244,6 +6355,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "Patricia_Ferguson",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "1853",
           "scheme": "scotparl"
         },
@@ -6252,14 +6367,18 @@
           "scheme": "twfy"
         },
         {
+          "identifier": "YWiWoTIM",
+          "scheme": "ukparliamentid"
+        },
+        {
           "identifier": "Q2057182",
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PatriciaFergusonMSPPortrait.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Official_portrait_of_Patricia_Ferguson_MP_crop_2.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/PatriciaFergusonMSPPortrait.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/88/Official_portrait_of_Patricia_Ferguson_MP_crop_2.jpg"
         }
       ],
       "links": [
@@ -6274,6 +6393,10 @@
         {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Patricia_Ferguson"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Patricia_Ferguson"
         },
         {
           "note": "twitter",
@@ -6592,6 +6715,12 @@
         {
           "identifier": "Q912776",
           "scheme": "wikidata"
+        }
+      ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Brian_Monteith_MEP.jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Brian_Monteith_MEP.jpg"
         }
       ],
       "links": [
@@ -8659,7 +8788,6 @@
       "email": "sarah.boyack.msp@parliament.scot",
       "family_name": "Boyack",
       "gender": "female",
-      "given_name": "Sarah",
       "id": "83683f4d-46c5-469e-8d7a-3f57d6f6efb0",
       "identifiers": [
         {
@@ -9035,7 +9163,14 @@
           "url": "https://en.wikipedia.org/wiki/Karen_Whitefield"
         }
       ],
-      "name": "Karen Whitefield"
+      "name": "Karen Whitefield",
+      "other_names": [
+        {
+          "lang": "ko",
+          "name": "캐런 화이트필드",
+          "note": "multilingual"
+        }
+      ]
     },
     {
       "id": "87a0e641-8cbd-47de-a898-ceb3372bbfc4",
@@ -9264,6 +9399,10 @@
           "url": "https://arz.wikipedia.org/wiki/مارجاريت_اوينج"
         },
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/মার্গারেট_ইউইং"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Margaret_Ewing"
         },
@@ -9301,6 +9440,11 @@
         {
           "lang": "arz",
           "name": "مارجاريت اوينج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "মার্গারেট ইউইং",
           "note": "multilingual"
         },
         {
@@ -9360,7 +9504,6 @@
     },
     {
       "birth_date": "1948-02-13",
-      "family_name": "McAllion",
       "gender": "male",
       "given_name": "John",
       "id": "8d60a104-8b06-49d0-8c5b-fb7411d98d5f",
@@ -9462,7 +9605,6 @@
       "email": "Pauline.McNeill.msp@parliament.scot",
       "family_name": "McNeill",
       "gender": "female",
-      "given_name": "Pauline",
       "id": "8dae0cec-740f-4b69-a79f-9484151407ce",
       "identifiers": [
         {
@@ -10438,6 +10580,10 @@
         {
           "note": "Wikipedia (ru)",
           "url": "https://ru.wikipedia.org/wiki/Маклиш,_Генри"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Henry_McLeish"
         }
       ],
       "name": "Henry McLeish",
@@ -10688,10 +10834,10 @@
       "contact_details": [
         {
           "type": "email",
-          "value": "Natalie.Don.msp@parliament.scot"
+          "value": "natalie.don-innes.msp@parliament.scot"
         }
       ],
-      "email": "Natalie.Don.msp@parliament.scot",
+      "email": "natalie.don-innes.msp@parliament.scot",
       "id": "9f2158da-e4ad-4d1b-a03d-161e618e6758",
       "identifiers": [
         {
@@ -10709,7 +10855,13 @@
           "url": "http://scottishparliament.thirdlight.com/file/77896377628"
         }
       ],
-      "name": "Natalie Don"
+      "name": "Natalie Don",
+      "other_names": [
+        {
+          "name": "Natalie Don-Innes",
+          "note": "alternate"
+        }
+      ]
     },
     {
       "contact_details": [
@@ -11135,6 +11287,10 @@
           "url": "https://ar.wikipedia.org/wiki/ميخائيل_راسيل"
         },
         {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Michael_Russell"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Michael_Russell_(Politiker)"
         },
@@ -11408,7 +11564,6 @@
       "birth_date": "1947-03-07",
       "death_date": "2013-11-09",
       "gender": "female",
-      "given_name": "Helen",
       "id": "a482893d-84ff-4c4e-8a29-dd4a0b6d6012",
       "identifiers": [
         {
@@ -11777,7 +11932,6 @@
           "value": "KennyMacAskill"
         }
       ],
-      "family_name": "MacAskill",
       "gender": "male",
       "given_name": "Kenny",
       "id": "abbee5a4-f4e6-44f1-93f7-2d93d64623da",
@@ -11813,6 +11967,10 @@
         {
           "identifier": "uk.org.publicwhip/person/14031",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "Kenny_MacAskill",
+          "scheme": "publicwhip"
         },
         {
           "identifier": "10244",
@@ -11999,6 +12157,10 @@
           "url": "https://arz.wikipedia.org/wiki/فيرجوس_ايوينج"
         },
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/ফার্গাস_ইউইং"
+        },
+        {
           "note": "Wikipedia (de)",
           "url": "https://de.wikipedia.org/wiki/Fergus_Ewing"
         },
@@ -12033,6 +12195,11 @@
         {
           "lang": "arz",
           "name": "فيرجوس ايوينج",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "ফার্গাস ইউইং",
           "note": "multilingual"
         },
         {
@@ -12710,12 +12877,20 @@
           "url": "https://sco.wikipedia.org/wiki/Jack_McConnell"
         },
         {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Jack_McConnell"
+        },
+        {
           "note": "Wikipedia (sv)",
           "url": "https://sv.wikipedia.org/wiki/Jack_McConnell"
         },
         {
           "note": "Wikipedia (uk)",
           "url": "https://uk.wikipedia.org/wiki/Джек_Макконнелл"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/jackwmcconnell"
         }
       ],
       "name": "Lord McConnell of Glenscorrodale",
@@ -12887,6 +13062,10 @@
           "scheme": "parlparse"
         },
         {
+          "identifier": "Alex_Salmond",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "Alex-Salmond",
           "scheme": "quora"
         },
@@ -13032,7 +13211,7 @@
         },
         {
           "note": "Wikipedia (ga)",
-          "url": "https://ga.wikipedia.org/wiki/Alex_Salmond"
+          "url": "https://ga.wikipedia.org/wiki/Ailig_Salmond"
         },
         {
           "note": "Wikipedia (gd)",
@@ -13219,6 +13398,11 @@
         {
           "lang": "fa",
           "name": "الکس ساموند",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ga",
+          "name": "Ailig Salmond",
           "note": "multilingual"
         },
         {
@@ -13866,7 +14050,6 @@
       "email": "dundee@shona.robison.scot",
       "family_name": "Robison",
       "gender": "female",
-      "given_name": "Shona",
       "id": "c232b21b-b6a6-48c0-a9fb-422334a40f57",
       "identifiers": [
         {
@@ -13947,6 +14130,10 @@
         {
           "note": "Wikipedia (sco)",
           "url": "https://sco.wikipedia.org/wiki/Shona_Robison"
+        },
+        {
+          "note": "Wikiquote (en)",
+          "url": "https://en.wikiquote.org/wiki/Shona_Robison"
         },
         {
           "note": "twitter",
@@ -15459,6 +15646,10 @@
           "url": "https://bg.wikipedia.org/wiki/Никола_Стърджън"
         },
         {
+          "note": "Wikipedia (bn)",
+          "url": "https://bn.wikipedia.org/wiki/নিকোলা_স্টারজন"
+        },
+        {
           "note": "Wikipedia (br)",
           "url": "https://br.wikipedia.org/wiki/Nicola_Sturgeon"
         },
@@ -15748,6 +15939,11 @@
         {
           "lang": "bg",
           "name": "Никола Стърджън",
+          "note": "multilingual"
+        },
+        {
+          "lang": "bn",
+          "name": "নিকোলা স্টারজন",
           "note": "multilingual"
         },
         {
@@ -16232,7 +16428,6 @@
     {
       "birth_date": "1952-09-30",
       "gender": "female",
-      "given_name": "Marilyn",
       "id": "d16eb0e2-3691-48e8-8dd3-760759bb6a2b",
       "identifiers": [
         {
@@ -17837,6 +18032,10 @@
           "url": "https://et.wikipedia.org/wiki/Donald_Dewar"
         },
         {
+          "note": "Wikipedia (eu)",
+          "url": "https://eu.wikipedia.org/wiki/Donald_Dewar"
+        },
+        {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Donald_Dewar"
         },
@@ -17891,6 +18090,10 @@
         {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Donald_Dewar"
+        },
+        {
+          "note": "Wikipedia (pt)",
+          "url": "https://pt.wikipedia.org/wiki/Donald_Dewar"
         },
         {
           "note": "Wikipedia (qu)",
@@ -18764,7 +18967,6 @@
     },
     {
       "birth_date": "1952",
-      "family_name": "McGugan",
       "gender": "female",
       "given_name": "Irene",
       "id": "f9559295-5bb1-45a0-b96d-93803290b8df",
@@ -19290,6 +19492,24 @@
         {
           "lang": "ar",
           "name": "الاسكتلنديون المحافظون",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "Шатляндзкая кансэрватыўная партыя",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Conservador Escocés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্কটিশ রক্ষণশীল",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -20103,6 +20323,12 @@
                               "value": "Wikipédia anglófona"
                             }
                           ],
+                          "rn": [
+                            {
+                              "language": "rn",
+                              "value": "Wikipedia y'icongereza"
+                            }
+                          ],
                           "ro": [
                             {
                               "language": "ro",
@@ -24285,7 +24511,7 @@
                           },
                           "el": {
                             "language": "el",
-                            "value": "η έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
+                            "value": "έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
                           },
                           "en": {
                             "language": "en",
@@ -24361,7 +24587,7 @@
                           },
                           "id": {
                             "language": "id",
-                            "value": "Wikipedia edisi bahasa Inggris, ensiklopedia bebas yang dapat disunting siapa saja"
+                            "value": "edisi Wikipedia dalam bahasa Inggris"
                           },
                           "io": {
                             "language": "io",
@@ -24475,6 +24701,10 @@
                             "language": "pt-br",
                             "value": "versão em língua inglesa da Wikipédia, a enciclopédia livre"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Ururimi rw'icongereza rwandikwa  kuri Wikipedia"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "versiunea în limba engleză a enciclopediei online Wikipedia"
@@ -24550,6 +24780,10 @@
                           "uk": {
                             "language": "uk",
                             "value": "розділ Вікіпедії англійською мовою"
+                          },
+                          "vec": {
+                            "language": "vec",
+                            "value": "edision in lengua inglese de Wikipedia"
                           },
                           "vi": {
                             "language": "vi",
@@ -24633,6 +24867,10 @@
                           "be-tarask": {
                             "language": "be-tarask",
                             "value": "ангельская Вікіпэдыя"
+                          },
+                          "bew": {
+                            "language": "bew",
+                            "value": "Wikipédi basa Inggris"
                           },
                           "bg": {
                             "language": "bg",
@@ -25034,6 +25272,10 @@
                             "language": "pt-br",
                             "value": "Wikipédia em inglês"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Wikipedia y'icingereza"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "Wikipedia în engleză"
@@ -25188,7 +25430,7 @@
                           },
                           "vec": {
                             "language": "vec",
-                            "value": "Wikipedia in inglezo"
+                            "value": "Wikipedia in inglese"
                           },
                           "vep": {
                             "language": "vep",
@@ -25259,8 +25501,8 @@
                             "value": "I-Wikipedia yesiNgisi"
                           }
                         },
-                        "lastrevid": 2116744932,
-                        "modified": "2024-04-01T17:46:03Z",
+                        "lastrevid": 2232887522,
+                        "modified": "2024-08-21T11:37:20Z",
                         "ns": 0,
                         "pageid": 521,
                         "sitelinks": {
@@ -25361,6 +25603,13 @@
                             ],
                             "site": "bewiki",
                             "title": "Англійская Вікіпедыя"
+                          },
+                          "bewwiki": {
+                            "badges": [
+
+                            ],
+                            "site": "bewwiki",
+                            "title": "Wikipédi basa Inggris"
                           },
                           "bgwiki": {
                             "badges": [
@@ -25934,7 +26183,7 @@
 
                             ],
                             "site": "scwiki",
-                            "title": "Bichipedia in inglesa"
+                            "title": "Wikipedia in inglesu"
                           },
                           "sdwiki": {
                             "badges": [
@@ -25948,7 +26197,7 @@
 
                             ],
                             "site": "shwiki",
-                            "title": "Engleska Wikipedija"
+                            "title": "Wikipedija na engleskom jeziku"
                           },
                           "simplewiki": {
                             "badges": [
@@ -26271,6 +26520,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "nl",
+          "name": "Schots Groene Partij",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "scn",
           "name": "Partitu Virdi Scozzisi",
           "note": "multilingual",
@@ -26339,6 +26594,18 @@
         {
           "lang": "be",
           "name": "Шатландская партыя зялёных",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "Partido Verde Escocés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্কটিশ সবুজ দল",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -27146,6 +27413,12 @@
                               "value": "Wikipédia anglófona"
                             }
                           ],
+                          "rn": [
+                            {
+                              "language": "rn",
+                              "value": "Wikipedia y'icongereza"
+                            }
+                          ],
                           "ro": [
                             {
                               "language": "ro",
@@ -31328,7 +31601,7 @@
                           },
                           "el": {
                             "language": "el",
-                            "value": "η έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
+                            "value": "έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
                           },
                           "en": {
                             "language": "en",
@@ -31404,7 +31677,7 @@
                           },
                           "id": {
                             "language": "id",
-                            "value": "Wikipedia edisi bahasa Inggris, ensiklopedia bebas yang dapat disunting siapa saja"
+                            "value": "edisi Wikipedia dalam bahasa Inggris"
                           },
                           "io": {
                             "language": "io",
@@ -31518,6 +31791,10 @@
                             "language": "pt-br",
                             "value": "versão em língua inglesa da Wikipédia, a enciclopédia livre"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Ururimi rw'icongereza rwandikwa  kuri Wikipedia"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "versiunea în limba engleză a enciclopediei online Wikipedia"
@@ -31593,6 +31870,10 @@
                           "uk": {
                             "language": "uk",
                             "value": "розділ Вікіпедії англійською мовою"
+                          },
+                          "vec": {
+                            "language": "vec",
+                            "value": "edision in lengua inglese de Wikipedia"
                           },
                           "vi": {
                             "language": "vi",
@@ -31676,6 +31957,10 @@
                           "be-tarask": {
                             "language": "be-tarask",
                             "value": "ангельская Вікіпэдыя"
+                          },
+                          "bew": {
+                            "language": "bew",
+                            "value": "Wikipédi basa Inggris"
                           },
                           "bg": {
                             "language": "bg",
@@ -32077,6 +32362,10 @@
                             "language": "pt-br",
                             "value": "Wikipédia em inglês"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Wikipedia y'icingereza"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "Wikipedia în engleză"
@@ -32231,7 +32520,7 @@
                           },
                           "vec": {
                             "language": "vec",
-                            "value": "Wikipedia in inglezo"
+                            "value": "Wikipedia in inglese"
                           },
                           "vep": {
                             "language": "vep",
@@ -32302,8 +32591,8 @@
                             "value": "I-Wikipedia yesiNgisi"
                           }
                         },
-                        "lastrevid": 2116744932,
-                        "modified": "2024-04-01T17:46:03Z",
+                        "lastrevid": 2232887522,
+                        "modified": "2024-08-21T11:37:20Z",
                         "ns": 0,
                         "pageid": 521,
                         "sitelinks": {
@@ -32404,6 +32693,13 @@
                             ],
                             "site": "bewiki",
                             "title": "Англійская Вікіпедыя"
+                          },
+                          "bewwiki": {
+                            "badges": [
+
+                            ],
+                            "site": "bewwiki",
+                            "title": "Wikipédi basa Inggris"
                           },
                           "bgwiki": {
                             "badges": [
@@ -32977,7 +33273,7 @@
 
                             ],
                             "site": "scwiki",
-                            "title": "Bichipedia in inglesa"
+                            "title": "Wikipedia in inglesu"
                           },
                           "sdwiki": {
                             "badges": [
@@ -32991,7 +33287,7 @@
 
                             ],
                             "site": "shwiki",
-                            "title": "Engleska Wikipedija"
+                            "title": "Wikipedija na engleskom jeziku"
                           },
                           "simplewiki": {
                             "badges": [
@@ -33379,6 +33675,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "ca",
+          "name": "Candidat independent",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "fi",
           "name": "sitoutumaton",
           "note": "multilingual",
@@ -33398,7 +33700,7 @@
         },
         {
           "lang": "az",
-          "name": "partiyasız",
+          "name": "bitərəf",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -33836,13 +34138,25 @@
         },
         {
           "lang": "ckb",
-          "name": "سیاسەتوانێکی سەربەخۆ",
+          "name": "سیاسەتوانی سەربەخۆ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
         {
           "lang": "pa",
           "name": "ਆਜ਼ਾਦ ਰਾਜਨੇਤਾ",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kus",
+          "name": "Independent candidates",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kk",
+          "name": "партиясыз",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -34478,7 +34792,13 @@
         },
         {
           "lang": "az",
-          "name": "bitərəf",
+          "name": "partiyasız",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "az",
+          "name": "partiyasız siyasətçi",
           "note": "multilingual",
           "source": "wikidata-alias"
         },
@@ -34551,6 +34871,18 @@
         {
           "lang": "lv",
           "name": "politiķis bez partijas",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "kk",
+          "name": "тәуелсіз саясаткер",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "kk",
+          "name": "партиясыз",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -34652,7 +34984,7 @@
         },
         {
           "lang": "ru",
-          "name": "Шотландская лейбористская партия",
+          "name": "Лейбористская партия (Шотландия)",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -34765,6 +35097,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "gl",
+          "name": "Partido Laborista Escocés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্কটিশ শ্রমিক দল",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "gd",
           "name": "Pàrtaidh Làbrach na h-Alba",
           "note": "multilingual",
@@ -34809,6 +35153,30 @@
         {
           "lang": "smn",
           "name": "Pargeipiäládâh",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Лейбористская партия Шотландии",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Шотландская Лейбористская партия",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Шотландская лейбористская партия",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "ru",
+          "name": "Шотландские лейбористы",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -35580,6 +35948,12 @@
                               "value": "Wikipédia anglófona"
                             }
                           ],
+                          "rn": [
+                            {
+                              "language": "rn",
+                              "value": "Wikipedia y'icongereza"
+                            }
+                          ],
                           "ro": [
                             {
                               "language": "ro",
@@ -39762,7 +40136,7 @@
                           },
                           "el": {
                             "language": "el",
-                            "value": "η έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
+                            "value": "έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
                           },
                           "en": {
                             "language": "en",
@@ -39838,7 +40212,7 @@
                           },
                           "id": {
                             "language": "id",
-                            "value": "Wikipedia edisi bahasa Inggris, ensiklopedia bebas yang dapat disunting siapa saja"
+                            "value": "edisi Wikipedia dalam bahasa Inggris"
                           },
                           "io": {
                             "language": "io",
@@ -39952,6 +40326,10 @@
                             "language": "pt-br",
                             "value": "versão em língua inglesa da Wikipédia, a enciclopédia livre"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Ururimi rw'icongereza rwandikwa  kuri Wikipedia"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "versiunea în limba engleză a enciclopediei online Wikipedia"
@@ -40027,6 +40405,10 @@
                           "uk": {
                             "language": "uk",
                             "value": "розділ Вікіпедії англійською мовою"
+                          },
+                          "vec": {
+                            "language": "vec",
+                            "value": "edision in lengua inglese de Wikipedia"
                           },
                           "vi": {
                             "language": "vi",
@@ -40110,6 +40492,10 @@
                           "be-tarask": {
                             "language": "be-tarask",
                             "value": "ангельская Вікіпэдыя"
+                          },
+                          "bew": {
+                            "language": "bew",
+                            "value": "Wikipédi basa Inggris"
                           },
                           "bg": {
                             "language": "bg",
@@ -40511,6 +40897,10 @@
                             "language": "pt-br",
                             "value": "Wikipédia em inglês"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Wikipedia y'icingereza"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "Wikipedia în engleză"
@@ -40665,7 +41055,7 @@
                           },
                           "vec": {
                             "language": "vec",
-                            "value": "Wikipedia in inglezo"
+                            "value": "Wikipedia in inglese"
                           },
                           "vep": {
                             "language": "vep",
@@ -40736,8 +41126,8 @@
                             "value": "I-Wikipedia yesiNgisi"
                           }
                         },
-                        "lastrevid": 2116744932,
-                        "modified": "2024-04-01T17:46:03Z",
+                        "lastrevid": 2232887522,
+                        "modified": "2024-08-21T11:37:20Z",
                         "ns": 0,
                         "pageid": 521,
                         "sitelinks": {
@@ -40838,6 +41228,13 @@
                             ],
                             "site": "bewiki",
                             "title": "Англійская Вікіпедыя"
+                          },
+                          "bewwiki": {
+                            "badges": [
+
+                            ],
+                            "site": "bewwiki",
+                            "title": "Wikipédi basa Inggris"
                           },
                           "bgwiki": {
                             "badges": [
@@ -41411,7 +41808,7 @@
 
                             ],
                             "site": "scwiki",
-                            "title": "Bichipedia in inglesa"
+                            "title": "Wikipedia in inglesu"
                           },
                           "sdwiki": {
                             "badges": [
@@ -41425,7 +41822,7 @@
 
                             ],
                             "site": "shwiki",
-                            "title": "Engleska Wikipedija"
+                            "title": "Wikipedija na engleskom jeziku"
                           },
                           "simplewiki": {
                             "badges": [
@@ -41785,6 +42182,18 @@
         {
           "lang": "ga",
           "name": "Daonlathaithe Liobrálacha na hAlban",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "gl",
+          "name": "Liberales-Demócratas Escoceses",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্কটিশ উদার গণতন্ত্রী দল",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -42338,6 +42747,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "mn",
+          "name": "Шотландын үндэсний нам",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্কটিশ ন্যাশনাল পার্টি",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "SNP",
           "note": "multilingual",
@@ -42418,6 +42839,12 @@
         {
           "lang": "kw",
           "name": "PKA",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "be-tarask",
+          "name": "ШНП",
           "note": "multilingual",
           "source": "wikidata-alias"
         }
@@ -42818,6 +43245,12 @@
         {
           "lang": "vec",
           "name": "Partio Sociałista Scosezo",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "স্কটিশ সমাজতান্ত্রিক দল",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -43619,6 +44052,12 @@
                               "value": "Wikipédia anglófona"
                             }
                           ],
+                          "rn": [
+                            {
+                              "language": "rn",
+                              "value": "Wikipedia y'icongereza"
+                            }
+                          ],
                           "ro": [
                             {
                               "language": "ro",
@@ -47801,7 +48240,7 @@
                           },
                           "el": {
                             "language": "el",
-                            "value": "η έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
+                            "value": "έκδοση της Βικιπαίδειας στην αγγλική γλώσσα"
                           },
                           "en": {
                             "language": "en",
@@ -47877,7 +48316,7 @@
                           },
                           "id": {
                             "language": "id",
-                            "value": "Wikipedia edisi bahasa Inggris, ensiklopedia bebas yang dapat disunting siapa saja"
+                            "value": "edisi Wikipedia dalam bahasa Inggris"
                           },
                           "io": {
                             "language": "io",
@@ -47991,6 +48430,10 @@
                             "language": "pt-br",
                             "value": "versão em língua inglesa da Wikipédia, a enciclopédia livre"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Ururimi rw'icongereza rwandikwa  kuri Wikipedia"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "versiunea în limba engleză a enciclopediei online Wikipedia"
@@ -48066,6 +48509,10 @@
                           "uk": {
                             "language": "uk",
                             "value": "розділ Вікіпедії англійською мовою"
+                          },
+                          "vec": {
+                            "language": "vec",
+                            "value": "edision in lengua inglese de Wikipedia"
                           },
                           "vi": {
                             "language": "vi",
@@ -48149,6 +48596,10 @@
                           "be-tarask": {
                             "language": "be-tarask",
                             "value": "ангельская Вікіпэдыя"
+                          },
+                          "bew": {
+                            "language": "bew",
+                            "value": "Wikipédi basa Inggris"
                           },
                           "bg": {
                             "language": "bg",
@@ -48550,6 +49001,10 @@
                             "language": "pt-br",
                             "value": "Wikipédia em inglês"
                           },
+                          "rn": {
+                            "language": "rn",
+                            "value": "Wikipedia y'icingereza"
+                          },
                           "ro": {
                             "language": "ro",
                             "value": "Wikipedia în engleză"
@@ -48704,7 +49159,7 @@
                           },
                           "vec": {
                             "language": "vec",
-                            "value": "Wikipedia in inglezo"
+                            "value": "Wikipedia in inglese"
                           },
                           "vep": {
                             "language": "vep",
@@ -48775,8 +49230,8 @@
                             "value": "I-Wikipedia yesiNgisi"
                           }
                         },
-                        "lastrevid": 2116744932,
-                        "modified": "2024-04-01T17:46:03Z",
+                        "lastrevid": 2232887522,
+                        "modified": "2024-08-21T11:37:20Z",
                         "ns": 0,
                         "pageid": 521,
                         "sitelinks": {
@@ -48877,6 +49332,13 @@
                             ],
                             "site": "bewiki",
                             "title": "Англійская Вікіпедыя"
+                          },
+                          "bewwiki": {
+                            "badges": [
+
+                            ],
+                            "site": "bewwiki",
+                            "title": "Wikipédi basa Inggris"
                           },
                           "bgwiki": {
                             "badges": [
@@ -49450,7 +49912,7 @@
 
                             ],
                             "site": "scwiki",
-                            "title": "Bichipedia in inglesa"
+                            "title": "Wikipedia in inglesu"
                           },
                           "sdwiki": {
                             "badges": [
@@ -49464,7 +49926,7 @@
 
                             ],
                             "site": "shwiki",
-                            "title": "Engleska Wikipedija"
+                            "title": "Wikipedija na engleskom jeziku"
                           },
                           "simplewiki": {
                             "badges": [
@@ -57084,7 +57546,7 @@
           "scheme": "wikidata"
         }
       ],
-      "name": "Glasgow Anniesland Scottish Parliament by-election, 2000",
+      "name": "2000 Glasgow Anniesland Scottish Parliament by-election",
       "start_date": "2000-11-23"
     },
     {

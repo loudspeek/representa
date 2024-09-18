@@ -62,9 +62,9 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13950,Shiona Baird,,,uk.org.publicwhip/person/13950,North East Scotland,uk.org.publicwhip/cons/10721,Green,green,2003-05-01,regional_election,2007-04-02,regional_election,2
 13951,Claire Baker,,,uk.org.publicwhip/person/13951,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
 13951,Claire Baker,,,uk.org.publicwhip/person/13951,Mid Scotland and Fife,uk.org.publicwhip/cons/10720,Labour,labour,2011-05-06,regional_election,2016-03-23,regional_election,4
-13952,Richard Baker,,,uk.org.publicwhip/person/13952,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
-13952,Richard Baker,,,uk.org.publicwhip/person/13952,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
-13952,Richard Baker,,,uk.org.publicwhip/person/13952,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2011-05-06,regional_election,2016-01-11,resigned,4
+13952,Richard Baker,,5253,uk.org.publicwhip/person/13952,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
+13952,Richard Baker,,5253,uk.org.publicwhip/person/13952,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
+13952,Richard Baker,,5253,uk.org.publicwhip/person/13952,North East Scotland,uk.org.publicwhip/cons/10721,Labour,labour,2011-05-06,regional_election,2016-01-11,resigned,4
 13953,Chris Ballance,,,uk.org.publicwhip/person/13953,South of Scotland,uk.org.publicwhip/cons/10722,Green,green,2003-05-01,regional_election,2007-04-02,regional_election,2
 13954,Mark Ballard,,,uk.org.publicwhip/person/13954,Lothians,uk.org.publicwhip/cons/10719,Green,green,2003-05-01,regional_election,2007-04-02,regional_election,2
 13955,Scott Barrie,,,uk.org.publicwhip/person/13955,Dunfermline West,uk.org.publicwhip/cons/10746,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
@@ -138,10 +138,10 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 13983,John Farquhar Munro,,,uk.org.publicwhip/person/13983,"Ross, Skye and Inverness West",uk.org.publicwhip/cons/10788,Liberal Democrat,liberal-democrat,1999-05-06,regional_election,2003-03-31,regional_election,1
 13983,John Farquhar Munro,,,uk.org.publicwhip/person/13983,"Ross, Skye and Inverness West",uk.org.publicwhip/cons/10788,Liberal Democrat,liberal-democrat,2003-05-01,regional_election,2007-04-02,regional_election,2
 13983,John Farquhar Munro,,,uk.org.publicwhip/person/13983,"Ross, Skye and Inverness West",uk.org.publicwhip/cons/10788,Liberal Democrat,liberal-democrat,2007-05-03,regional_election,2011-03-23,regional_election,3
-13984,Patricia Ferguson,,,uk.org.publicwhip/person/13984,Glasgow Maryhill,uk.org.publicwhip/cons/10764,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
-13984,Patricia Ferguson,,,uk.org.publicwhip/person/13984,Glasgow Maryhill,uk.org.publicwhip/cons/10764,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
-13984,Patricia Ferguson,,,uk.org.publicwhip/person/13984,Glasgow Maryhill,uk.org.publicwhip/cons/10764,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
-13984,Patricia Ferguson,,,uk.org.publicwhip/person/13984,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Labour,labour,2011-05-06,regional_election,2016-03-23,regional_election,4
+13984,Patricia Ferguson,,5190,uk.org.publicwhip/person/13984,Glasgow Maryhill,uk.org.publicwhip/cons/10764,Labour,labour,1999-05-06,regional_election,2003-03-31,regional_election,1
+13984,Patricia Ferguson,,5190,uk.org.publicwhip/person/13984,Glasgow Maryhill,uk.org.publicwhip/cons/10764,Labour,labour,2003-05-01,regional_election,2007-04-02,regional_election,2
+13984,Patricia Ferguson,,5190,uk.org.publicwhip/person/13984,Glasgow Maryhill,uk.org.publicwhip/cons/10764,Labour,labour,2007-05-03,regional_election,2011-03-23,regional_election,3
+13984,Patricia Ferguson,,5190,uk.org.publicwhip/person/13984,Glasgow Maryhill and Springburn,uk.org.publicwhip/cons/10819,Labour,labour,2011-05-06,regional_election,2016-03-23,regional_election,4
 13985,Alex Fergusson,,,uk.org.publicwhip/person/13985,South of Scotland,uk.org.publicwhip/cons/10722,Conservative,conservative,1999-05-06,regional_election,2003-03-31,regional_election,1
 13985,Alex Fergusson,,,uk.org.publicwhip/person/13985,Galloway and Upper Nithsdale,uk.org.publicwhip/cons/10758,Conservative,conservative,2003-05-01,regional_election,2007-04-02,regional_election,2
 13985,Alex Fergusson,,,uk.org.publicwhip/person/13985,Galloway and Upper Nithsdale,uk.org.publicwhip/cons/10758,None,none,2007-05-03,regional_election,2007-05-13,became_presiding_officer,3

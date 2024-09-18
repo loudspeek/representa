@@ -11,7 +11,6 @@
           "value": "Ann_JonesAM"
         }
       ],
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Ann",
       "id": "0466dffe-1daa-404e-b17e-af90f8963ef8",
@@ -688,7 +687,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Gwyn_R_Price"
+          "url": "https://en.wikipedia.org/wiki/Gwyn_R._Price"
         },
         {
           "note": "twitter",
@@ -1074,6 +1073,10 @@
         {
           "identifier": "/g/11cn6c475_",
           "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "no2019092864",
+          "scheme": "lcauth"
         },
         {
           "identifier": "6602156223628705400008",
@@ -2286,7 +2289,6 @@
           "value": "voteDavidJones"
         }
       ],
-      "family_name": "Jones",
       "gender": "male",
       "given_name": "David",
       "id": "225e3eb0-2fbc-412c-84e9-8fd43ff3bf15",
@@ -2474,7 +2476,6 @@
         }
       ],
       "email": "Elin.Jones@senedd.wales",
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Elin",
       "id": "22f2adad-3eca-4e5d-a946-7bea3174ef29",
@@ -2556,6 +2557,10 @@
         {
           "note": "Wikipedia (fr)",
           "url": "https://fr.wikipedia.org/wiki/Elin_Jones"
+        },
+        {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Elin_Jones"
         },
         {
           "note": "blog",
@@ -3191,6 +3196,10 @@
           "url": "https://en.wikipedia.org/wiki/Samuel_Kurtz"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Samuel_Kurtz"
+        },
+        {
           "note": "facebook",
           "url": "https://facebook.com/SKurtzCWSP"
         },
@@ -3251,6 +3260,10 @@
         }
       ],
       "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Jocelyn_Davies"
+        },
         {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Jocelyn_Davies"
@@ -3496,7 +3509,7 @@
       ]
     },
     {
-      "birth_date": "1974-03-15",
+      "birth_date": "1974",
       "contact_details": [
         {
           "type": "email",
@@ -3596,6 +3609,10 @@
           "url": "https://ga.wikipedia.org/wiki/Vaughan_Gething"
         },
         {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/וון_גטינג"
+        },
+        {
           "note": "Wikipedia (it)",
           "url": "https://it.wikipedia.org/wiki/Vaughan_Gething"
         },
@@ -3649,20 +3666,34 @@
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "וון גטינג",
+          "note": "multilingual"
+        },
+        {
           "lang": "ru",
           "name": "Вон Гетинг",
           "note": "multilingual"
         },
         {
           "lang": "zh",
-          "name": "禾根·基興",
+          "name": "沃恩·格辛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "沃恩·格辛",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "沃恩·格辛",
           "note": "multilingual"
         }
       ]
     },
     {
       "birth_date": "1960-06-29",
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Helen",
       "id": "37d64651-0bbe-4c31-8ad6-4252191c4e73",
@@ -4141,7 +4172,6 @@
           "value": "carolineUKIP"
         }
       ],
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Caroline",
       "id": "3d912847-69b6-4f42-821c-0ef2edc78aed",
@@ -4211,7 +4241,6 @@
     },
     {
       "birth_date": "1939-05-14",
-      "family_name": "Jones",
       "gender": "male",
       "given_name": "Gareth",
       "id": "3e56dafe-012b-44cc-a187-bba29b13424f",
@@ -4656,7 +4685,6 @@
         }
       ],
       "email": "Jeremy.Miles@senedd.wales",
-      "family_name": "Miles",
       "gender": "male",
       "given_name": "Jeremy",
       "id": "4656e912-817a-4814-91fa-d63cc963303a",
@@ -5455,7 +5483,6 @@
           "value": "Rhosmeirch"
         }
       ],
-      "family_name": "Jones",
       "gender": "male",
       "given_name": "Ieuan",
       "id": "52d4caab-a7c7-418a-856a-8b4caa349a96",
@@ -6206,6 +6233,10 @@
         {
           "identifier": "Q6308284",
           "scheme": "wikidata"
+        },
+        {
+          "identifier": "UCkMQCRj43DeFLbRng27NkXA",
+          "scheme": "youtube"
         }
       ],
       "image": "https://business.senedd.wales/UserData/4/8/5/Info00000584/bigpic.jpg",
@@ -6240,6 +6271,10 @@
         {
           "note": "facebook",
           "url": "https://facebook.com/Julie-James-for-Swansea-West-142880979097055"
+        },
+        {
+          "note": "instagram",
+          "url": "juliejamesmsas"
         },
         {
           "note": "twitter",
@@ -6926,6 +6961,10 @@
           "url": "https://commons.wikimedia.org/wiki/Category:Eluned_Morgan"
         },
         {
+          "note": "Wikipedia (br)",
+          "url": "https://br.wikipedia.org/wiki/Eluned_Morgan"
+        },
+        {
           "note": "Wikipedia (cy)",
           "url": "https://cy.wikipedia.org/wiki/Eluned_Morgan_(gwleidydd)"
         },
@@ -6935,15 +6974,23 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Eluned_Morgan,_Baroness_Morgan_of_Ely"
+          "url": "https://en.wikipedia.org/wiki/Eluned_Morgan"
         },
         {
           "note": "Wikipedia (fr)",
-          "url": "https://fr.wikipedia.org/wiki/Eluned_Morgan_(baronne_Morgan_d'Ely)"
+          "url": "https://fr.wikipedia.org/wiki/Eluned_Morgan"
+        },
+        {
+          "note": "Wikipedia (ga)",
+          "url": "https://ga.wikipedia.org/wiki/Eluned_Morgan_(polaiteoir)"
         },
         {
           "note": "Wikipedia (gl)",
           "url": "https://gl.wikipedia.org/wiki/Eluned_Morgan"
+        },
+        {
+          "note": "Wikipedia (he)",
+          "url": "https://he.wikipedia.org/wiki/אלינד_מורגן"
         },
         {
           "note": "Wikipedia (it)",
@@ -6954,12 +7001,20 @@
           "url": "https://ka.wikipedia.org/wiki/ილუნდ_მორგანი"
         },
         {
+          "note": "Wikipedia (no)",
+          "url": "https://no.wikipedia.org/wiki/Eluned_Morgan"
+        },
+        {
           "note": "Wikipedia (pl)",
           "url": "https://pl.wikipedia.org/wiki/Eluned_Morgan"
         },
         {
           "note": "Wikipedia (ro)",
           "url": "https://ro.wikipedia.org/wiki/Eluned_Morgan"
+        },
+        {
+          "note": "Wikipedia (ru)",
+          "url": "https://ru.wikipedia.org/wiki/Морган,_Элюнед"
         },
         {
           "note": "twitter",
@@ -7001,13 +7056,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "ga",
+          "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
           "lang": "gl",
           "name": "Eluned Morgan",
           "note": "multilingual"
         },
         {
+          "lang": "he",
+          "name": "אלינד מורגן",
+          "note": "multilingual"
+        },
+        {
           "lang": "ka",
           "name": "ილუნდ მორგანი",
+          "note": "multilingual"
+        },
+        {
+          "lang": "mul",
+          "name": "Eluned Morgan",
           "note": "multilingual"
         },
         {
@@ -7031,8 +7101,28 @@
           "note": "multilingual"
         },
         {
+          "lang": "ru",
+          "name": "Элюнед Морган",
+          "note": "multilingual"
+        },
+        {
           "lang": "sl",
           "name": "Eluned Morgan",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "埃卢妮德·摩根",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-cn",
+          "name": "埃卢妮德·摩根",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hans",
+          "name": "埃卢妮德·摩根",
           "note": "multilingual"
         }
       ]
@@ -7082,7 +7172,6 @@
           "value": "MandyJonesAM"
         }
       ],
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Mandy",
       "id": "7416afa6-81d8-40a7-b95e-249dae69997e",
@@ -8278,10 +8367,10 @@
           "scheme": "wikidata"
         }
       ],
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/39/Official_portrait_Lord_Bourne_of_Aberystwyth_crop_2,_2022.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Official_portrait_of_Lord_Bourne_of_Aberystwyth_crop_2,_2022.jpg",
       "images": [
         {
-          "url": "https://upload.wikimedia.org/wikipedia/commons/3/39/Official_portrait_Lord_Bourne_of_Aberystwyth_crop_2,_2022.jpg"
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Official_portrait_of_Lord_Bourne_of_Aberystwyth_crop_2,_2022.jpg"
         }
       ],
       "links": [
@@ -9473,6 +9562,10 @@
           "url": "https://fa.wikipedia.org/wiki/آنجلا_برنز"
         },
         {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Angela_Burns"
+        },
+        {
           "note": "twitter",
           "url": "https://twitter.com/AngelaBurnsAM"
         },
@@ -9513,7 +9606,6 @@
           "value": "AMCarwyn"
         }
       ],
-      "family_name": "Jones",
       "gender": "male",
       "given_name": "Carwyn",
       "id": "97bdfa57-6798-4098-a8f4-77e823837313",
@@ -10176,6 +10268,31 @@
         {
           "name": "Hefin David MS",
           "note": "alternate"
+        },
+        {
+          "lang": "ja",
+          "name": "ヘフィン・デイヴィッド",
+          "note": "multilingual"
+        },
+        {
+          "lang": "ru",
+          "name": "Хефин Дэвид",
+          "note": "multilingual"
+        },
+        {
+          "lang": "th",
+          "name": "เฮฟิน เดวิด",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh",
+          "name": "赫芬·戴维",
+          "note": "multilingual"
+        },
+        {
+          "lang": "zh-hant",
+          "name": "赫芬·大衛",
+          "note": "multilingual"
         }
       ]
     },
@@ -10857,7 +10974,6 @@
       ],
       "family_name": "Gregory",
       "gender": "female",
-      "given_name": "Janice",
       "id": "adc63ba5-18f1-4b28-b8ef-5a7fb7a6b406",
       "identifiers": [
         {
@@ -11156,7 +11272,6 @@
       "birth_date": "1945-08-29",
       "family_name": "Essex",
       "gender": "female",
-      "given_name": "Sue",
       "id": "b06091db-f667-41a7-900f-b182a75b378e",
       "identifiers": [
         {
@@ -11269,6 +11384,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "Byron_Davies",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "9770",
           "scheme": "rush"
         },
@@ -11317,7 +11436,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/Byron_Davies"
+          "url": "https://en.wikipedia.org/wiki/Byron_Davies,_Baron_Davies_of_Gower"
         },
         {
           "note": "Wikipedia (fr)",
@@ -12390,7 +12509,6 @@
           "value": "AlunFfredPlaid"
         }
       ],
-      "family_name": "Jones",
       "gender": "male",
       "given_name": "Alun",
       "id": "c5fb67d9-dde7-40ae-8edc-3a107360adca",
@@ -12521,7 +12639,6 @@
         }
       ],
       "email": "Laura.Jones@senedd.wales",
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Laura",
       "id": "c8b1b17a-0683-4b54-8548-6c99e529f4c5",
@@ -12776,7 +12893,7 @@
         },
         {
           "note": "Wikipedia (en)",
-          "url": "https://en.wikipedia.org/wiki/David_TC_Davies"
+          "url": "https://en.wikipedia.org/wiki/David_T._C._Davies"
         },
         {
           "note": "Wikipedia (fr)",
@@ -13707,7 +13824,6 @@
     {
       "birth_date": "1950-12-07",
       "death_date": "2020-07-24",
-      "family_name": "Jones",
       "gender": "female",
       "given_name": "Denise",
       "id": "da6ef261-921b-477d-9e7c-84a0b06a4b69",
@@ -13908,6 +14024,10 @@
           "scheme": "journalisted"
         },
         {
+          "identifier": "Huw_Irranca-Davies",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "9406",
           "scheme": "rush"
         },
@@ -13954,8 +14074,16 @@
           "url": "https://cy.wikipedia.org/wiki/Huw_Irranca-Davies"
         },
         {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Huw_Irranca-Davies"
+        },
+        {
           "note": "Wikipedia (en)",
           "url": "https://en.wikipedia.org/wiki/Huw_Irranca-Davies"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Huw_Irranca-Davies"
         },
         {
           "note": "Wikipedia (simple)",
@@ -14088,6 +14216,10 @@
         {
           "identifier": "/g/11f24wxk69",
           "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "Jane_Dodds",
+          "scheme": "publicwhip"
         },
         {
           "identifier": "10151",
@@ -15226,6 +15358,10 @@
           "scheme": "freebase"
         },
         {
+          "identifier": "Antoinette_Sandbach",
+          "scheme": "publicwhip"
+        },
+        {
           "identifier": "9812",
           "scheme": "rush"
         },
@@ -16065,6 +16201,7 @@
           "scheme": "wikidata"
         }
       ],
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Blaenau_Gwent_People's_Voice_Group_logo.svg",
       "links": [
         {
           "note": "website",
@@ -16268,6 +16405,12 @@
         {
           "lang": "ro",
           "name": "politician independent",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "ca",
+          "name": "Candidat independent",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16729,7 +16872,7 @@
         },
         {
           "lang": "ckb",
-          "name": "سیاسەتوانێکی سەربەخۆ",
+          "name": "سیاسەتوانی سەربەخۆ",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -16742,6 +16885,12 @@
         {
           "lang": "kus",
           "name": "Independent candidates",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "kk",
+          "name": "партиясыз",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -17458,6 +17607,18 @@
           "name": "politiķis bez partijas",
           "note": "multilingual",
           "source": "wikidata-alias"
+        },
+        {
+          "lang": "kk",
+          "name": "тәуелсіз саясаткер",
+          "note": "multilingual",
+          "source": "wikidata-alias"
+        },
+        {
+          "lang": "kk",
+          "name": "партиясыз",
+          "note": "multilingual",
+          "source": "wikidata-alias"
         }
       ],
       "srgb": {
@@ -17684,6 +17845,12 @@
         {
           "lang": "be-tarask",
           "name": "Партыя Ўэйлза",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "প্লেইড কামরি",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18134,6 +18301,12 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "bn",
+          "name": "যুক্তরাজ্য স্বাধীনতা দল",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "en",
           "name": "UKIP",
           "note": "multilingual",
@@ -18304,6 +18477,12 @@
         {
           "lang": "gl",
           "name": "Partido Conservador Galés",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "ওয়েলশ রক্ষণশীল",
           "note": "multilingual",
           "source": "wikidata-label"
         },
@@ -18506,6 +18685,18 @@
           "source": "wikidata-label"
         },
         {
+          "lang": "zh-hk",
+          "name": "威爾斯工黨",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "ওয়েলশ শ্রমিক দল",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
           "lang": "it",
           "name": "Wales Labour Party",
           "note": "multilingual",
@@ -18670,6 +18861,12 @@
         {
           "lang": "gl",
           "name": "Liberal Demócratas Galeses",
+          "note": "multilingual",
+          "source": "wikidata-label"
+        },
+        {
+          "lang": "bn",
+          "name": "ওয়েলশ উদার গণতন্ত্রী",
           "note": "multilingual",
           "source": "wikidata-label"
         },
