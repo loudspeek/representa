@@ -174,7 +174,7 @@ namespace :transform do
   task write: :remap_gender
   GENDER_MAP = {
     'male'   => %w[m male homme],
-    'female' => ['f', 'female', 'femme', 'transgender female'],
+    'female' => ['f', 'female', 'femme', 'transgender female', 'trans woman'],
     # The single word "transgender" appears as a gender identifier in Wikidata in at least one case for a British
     # politician; whilst obviously not all transgender people identify as a gender other than male or female - trans
     # men are men and trans women are women - where no other information is specified other than "transgender" as a
