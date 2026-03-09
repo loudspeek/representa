@@ -5012,7 +5012,7 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25833,Mary Foy,,4753,uk.org.publicwhip/person/25833,City of Durham,uk.org.publicwhip/cons/2391,Labour,labour,2024-07-05,general_election,,,58
 25673,Sarah Jones,,4631,uk.org.publicwhip/person/25673,Croydon West,uk.org.publicwhip/cons/2410,Labour,labour,2024-07-05,general_election,,,58
 25270,Chris Law,,4403,uk.org.publicwhip/person/25270,Dundee Central,uk.org.publicwhip/cons/2431,Scottish National Party,scottish-national-party,2024-07-05,general_election,,,58
-26418,Joani Reid,,5079,uk.org.publicwhip/person/26418,East Kilbride and Strathaven,uk.org.publicwhip/cons/2445,Labour,labour,2024-07-05,general_election,,,58
+26418,Joani Reid,,5079,uk.org.publicwhip/person/26418,East Kilbride and Strathaven,uk.org.publicwhip/cons/2445,Labour,labour,2024-07-05,general_election,2026-03-05,whip_removed,58
 25150,Seema Malhotra,,4253,uk.org.publicwhip/person/25150,Feltham and Heston,uk.org.publicwhip/cons/2474,Labour/Co-operative,labourco-operative,2024-07-05,general_election,,,58
 25317,Melanie Onn,,4464,uk.org.publicwhip/person/25317,Great Grimsby and Cleethorpes,uk.org.publicwhip/cons/2504,Labour,labour,2024-07-05,general_election,,,58
 25681,Ellie Reeves,,4620,uk.org.publicwhip/person/25681,Lewisham West and East Dulwich,uk.org.publicwhip/cons/2587,Labour,labour,2024-07-05,general_election,,,58
@@ -5471,3 +5471,5 @@ id,name,identifier__historichansard,identifier__datadotparl,identifier__parlpars
 25227,Robert Jenrick,,4320,uk.org.publicwhip/person/25227,Newark,uk.org.publicwhip/cons/2641,Reform UK,reform,2026-01-16,changed_party,,,58
 11199,Andrew Rosindell,5737,1447,uk.org.publicwhip/person/11199,Romford,uk.org.publicwhip/cons/2729,Reform UK,reform,2026-01-19,changed_party,,,58
 25272,Suella Braverman,,4475,uk.org.publicwhip/person/25272,Fareham and Waterlooville,uk.org.publicwhip/cons/2471,Reform UK,reform,2026-01-27,changed_party,,,58
+26729,Hannah Spencer,,5447,uk.org.publicwhip/person/26729,Gorton and Denton,uk.org.publicwhip/cons/2499,Green,green,2026-02-27,by_election,,,58
+26418,Joani Reid,,5079,uk.org.publicwhip/person/26418,East Kilbride and Strathaven,uk.org.publicwhip/cons/2445,Independent,independent,2026-03-06,whip_removed,,,58
