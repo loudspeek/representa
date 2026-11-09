@@ -1580,18 +1580,109 @@
       ]
     },
     {
+      "birth_date": "1971-08",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "douglas.lumsden.mp@parliament.uk"
+        },
+        {
+          "type": "twitter",
+          "value": "dlumsden"
+        }
+      ],
+      "email": "douglas.lumsden.mp@parliament.uk",
+      "family_name": "Lumsden",
+      "gender": "male",
+      "given_name": "Douglas",
       "id": "01694fa2-61fe-4a10-ae2b-8f0a002abd5d",
       "identifiers": [
+        {
+          "identifier": "ee2a847c-16a7-4318-935a-87bc8980b316",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "5450",
           "scheme": "datadotparl"
         },
         {
+          "identifier": "19874",
+          "scheme": "democracyclub"
+        },
+        {
+          "identifier": "149498",
+          "scheme": "dods"
+        },
+        {
+          "identifier": "5450",
+          "scheme": "parliamentdotuk"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/26001",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "6782",
+          "scheme": "pims"
+        },
+        {
+          "identifier": "Douglas_Lumsden",
+          "scheme": "publicwhip"
+        },
+        {
+          "identifier": "10835",
+          "scheme": "rush"
+        },
+        {
+          "identifier": "26001",
+          "scheme": "twfy"
+        },
+        {
+          "identifier": "Q76364069",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Douglas Lumsden"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/32/Official_portrait_of_Douglas_Lumsden_MP_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/32/Official_portrait_of_Douglas_Lumsden_MP_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Douglas_Lumsden"
+        },
+        {
+          "note": "Wikipedia (ar)",
+          "url": "https://ar.wikipedia.org/wiki/دوغلاس_لومسدن"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Douglas_Lumsden"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/DouglasForNEScotland"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/dlumsden"
+        },
+        {
+          "note": "website",
+          "url": "https://www.douglaslumsden.org.uk/"
+        }
+      ],
+      "name": "Douglas Lumsden",
+      "other_names": [
+        {
+          "lang": "ar",
+          "name": "دوغلاس لومسدن",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Lumsden, Douglas"
     },
     {
       "birth_date": "1937-09-28",
@@ -77413,6 +77504,10 @@
       "birth_date": "1970-01-07",
       "contact_details": [
         {
+          "type": "email",
+          "value": "andy.burnham.mp@parliament.uk"
+        },
+        {
           "type": "twitter",
           "value": "AndyBurnhamGM"
         },
@@ -77421,6 +77516,7 @@
           "value": "andyburnham"
         }
       ],
+      "email": "andy.burnham.mp@parliament.uk",
       "family_name": "Burnham",
       "gender": "male",
       "given_name": "Andrew",
@@ -77454,6 +77550,10 @@
         {
           "identifier": "1290",
           "scheme": "democracyclub"
+        },
+        {
+          "identifier": "25787",
+          "scheme": "dods"
         },
         {
           "identifier": "10766",
@@ -77498,6 +77598,10 @@
         {
           "identifier": "uk.org.publicwhip/person/10766",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "2376",
+          "scheme": "pims"
         },
         {
           "identifier": "Andy_Burnham",
@@ -78153,7 +78257,8 @@
           "name": "貝安德",
           "note": "multilingual"
         }
-      ]
+      ],
+      "sort_name": "Burnham, Andy"
     },
     {
       "birth_date": "1937-08-21",
@@ -142788,18 +142893,113 @@
       ]
     },
     {
+      "birth_date": "1998",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "lara.bird.mp@parliament.uk"
+        }
+      ],
+      "email": "lara.bird.mp@parliament.uk",
+      "family_name": "Bird",
+      "gender": "female",
+      "given_name": "Lara",
       "id": "73a4279f-0c87-440d-8a46-87de2e03d640",
       "identifiers": [
+        {
+          "identifier": "bb3660cd-10e7-42a8-b688-70b5ca2c011e",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "5449",
           "scheme": "datadotparl"
         },
         {
+          "identifier": "139189",
+          "scheme": "democracyclub"
+        },
+        {
+          "identifier": "178650",
+          "scheme": "dods"
+        },
+        {
+          "identifier": "5449",
+          "scheme": "parliamentdotuk"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/26853",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "6781",
+          "scheme": "pims"
+        },
+        {
+          "identifier": "Lara_Bird",
+          "scheme": "publicwhip"
+        },
+        {
+          "identifier": "10868",
+          "scheme": "rush"
+        },
+        {
+          "identifier": "26853",
+          "scheme": "twfy"
+        },
+        {
+          "identifier": "Q139986288",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Lara Bird"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/27/Official_portrait_of_Lara_Bird_MP_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Official_portrait_of_Lara_Bird_MP_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikimedia Commons",
+          "url": "https://commons.wikimedia.org/wiki/Category:Lara_Bird"
+        },
+        {
+          "note": "Wikipedia (de)",
+          "url": "https://de.wikipedia.org/wiki/Lara_Bird"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Lara_Bird"
+        },
+        {
+          "note": "Wikipedia (fa)",
+          "url": "https://fa.wikipedia.org/wiki/لارا_برد"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Lara_Bird"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Lara_Bird"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/larabirdsnp"
+        },
+        {
+          "note": "instagram",
+          "url": "larabirdsnp"
+        }
+      ],
+      "name": "Lara Bird",
+      "other_names": [
+        {
+          "lang": "fa",
+          "name": "لارا برد",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Bird, Lara"
     },
     {
       "birth_date": "1971-01-12",
@@ -267158,18 +267358,128 @@
       ]
     },
     {
+      "birth_date": "1984-06",
+      "contact_details": [
+        {
+          "type": "email",
+          "value": "sagal.abdiwali.mp@parliament.uk"
+        },
+        {
+          "type": "email",
+          "value": "sagal.constituency@parliament.uk"
+        },
+        {
+          "type": "twitter",
+          "value": "Sagal_AW"
+        }
+      ],
+      "email": "sagal.abdiwali.mp@parliament.uk",
+      "gender": "female",
+      "given_name": "Sagal",
       "id": "d7d2ba2a-ee9b-4934-b773-6f714eb14fdb",
       "identifiers": [
+        {
+          "identifier": "693b75cc-e5b5-408e-82b9-54b248dd5b77",
+          "scheme": "bbc_things"
+        },
         {
           "identifier": "5484",
           "scheme": "datadotparl"
         },
         {
+          "identifier": "84249",
+          "scheme": "democracyclub"
+        },
+        {
+          "identifier": "178790",
+          "scheme": "dods"
+        },
+        {
+          "identifier": "/g/11fns2dpkq",
+          "scheme": "google_knowledge"
+        },
+        {
+          "identifier": "5484",
+          "scheme": "parliamentdotuk"
+        },
+        {
           "identifier": "uk.org.publicwhip/person/26887",
           "scheme": "parlparse"
+        },
+        {
+          "identifier": "6783",
+          "scheme": "pims"
+        },
+        {
+          "identifier": "Sagal_Abdi-Wali",
+          "scheme": "publicwhip"
+        },
+        {
+          "identifier": "10901",
+          "scheme": "rush"
+        },
+        {
+          "identifier": "26887",
+          "scheme": "twfy"
+        },
+        {
+          "identifier": "Q141406301",
+          "scheme": "wikidata"
         }
       ],
-      "name": "Sagal Abdi-Wali"
+      "image": "https://upload.wikimedia.org/wikipedia/commons/6/67/Official_portrait_of_Sagal_Abdi-Wali_MP_crop_2_(cropped).jpg",
+      "images": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Official_portrait_of_Sagal_Abdi-Wali_MP_crop_2_(cropped).jpg"
+        }
+      ],
+      "links": [
+        {
+          "note": "Wikipedia (cy)",
+          "url": "https://cy.wikipedia.org/wiki/Sagal_Abdi-Wali"
+        },
+        {
+          "note": "Wikipedia (en)",
+          "url": "https://en.wikipedia.org/wiki/Sagal_Abdi-Wali"
+        },
+        {
+          "note": "Wikipedia (fr)",
+          "url": "https://fr.wikipedia.org/wiki/Sagal_Abdi-Wali"
+        },
+        {
+          "note": "Wikipedia (id)",
+          "url": "https://id.wikipedia.org/wiki/Sagal_Abdi-Wali"
+        },
+        {
+          "note": "Wikipedia (simple)",
+          "url": "https://simple.wikipedia.org/wiki/Sagal_Abdi-Wali"
+        },
+        {
+          "note": "Wikipedia (so)",
+          "url": "https://so.wikipedia.org/wiki/Sagal_Cabdi-Wali"
+        },
+        {
+          "note": "facebook",
+          "url": "https://facebook.com/Sagal4HSP"
+        },
+        {
+          "note": "instagram",
+          "url": "sagalcamden"
+        },
+        {
+          "note": "twitter",
+          "url": "https://twitter.com/Sagal_AW"
+        }
+      ],
+      "name": "Sagal Abdi-Wali",
+      "other_names": [
+        {
+          "lang": "so",
+          "name": "Sagal Cabdi-Wali",
+          "note": "multilingual"
+        }
+      ],
+      "sort_name": "Abdi-Wali, Sagal"
     },
     {
       "birth_date": "1985-01-06",
