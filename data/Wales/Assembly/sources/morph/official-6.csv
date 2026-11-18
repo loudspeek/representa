@@ -1,61 +1,97 @@
 id,name,party,email,image
-143,Andrew RT Davies MS,Welsh Conservative Party,AndrewRT.Davies@senedd.wales,https://business.senedd.wales/UserData/3/4/1/Info00000143/bigpic.jpg
-145,Paul Davies MS,Welsh Conservative Party,Paul.Davies@senedd.wales,https://business.senedd.wales/UserData/5/4/1/Info00000145/bigpic.jpg
-153,John Griffiths MS,Welsh Labour,John.Griffiths@senedd.wales,https://business.senedd.wales/UserData/3/5/1/Info00000153/bigpic.jpg
-154,Lesley Griffiths MS,Welsh Labour,Lesley.Griffiths@senedd.wales,https://business.senedd.wales/UserData/4/5/1/Info00000154/bigpic.jpg
-156,Jane Hutt MS,Welsh Labour,Jane.Hutt@senedd.wales,https://business.senedd.wales/UserData/6/5/1/Info00000156/bigpic.jpg
-157,Mark Isherwood MS,Welsh Conservative Party,Mark.Isherwood@senedd.wales,https://business.senedd.wales/UserData/7/5/1/Info00000157/bigpic.jpg
-162,Rt. Hon. Elin Jones MS,Plaid Cymru,Elin.Jones@senedd.wales,https://business.senedd.wales/UserData/2/6/1/Info00000162/bigpic.jpg
-171,Darren Millar MS,Welsh Conservative Party,Darren.Millar@senedd.wales,https://business.senedd.wales/UserData/1/7/1/Info00000171/bigpic.jpg
-174,Lynne Neagle MS,Welsh Labour,Lynne.Neagle@senedd.wales,https://business.senedd.wales/UserData/4/7/1/Info00000174/bigpic.jpg
-182,Joyce Watson MS,Welsh Labour,Joyce.Watson@senedd.wales,https://business.senedd.wales/UserData/2/8/1/Info00000182/bigpic.jpg
-205,David Rees MS,Welsh Labour,David.Rees@senedd.wales,https://business.senedd.wales/UserData/5/0/2/Info00000205/bigpic.jpg
-212,Janet Finch-Saunders MS,Welsh Conservative Party,Janet.Finch-Saunders@senedd.wales,https://business.senedd.wales/UserData/2/1/2/Info00000212/bigpic.jpg
-225,Alun Davies MS,Welsh Labour,Alun.Davies@senedd.wales,https://business.senedd.wales/UserData/5/2/2/Info00000225/bigpic.jpg
-241,Jenny Rathbone MS,Welsh Labour,Jenny.Rathbone@senedd.wales,https://business.senedd.wales/UserData/1/4/2/Info00000241/bigpic.jpg
-245,Julie Morgan MS,Welsh Labour,Julie.Morgan@senedd.wales,https://business.senedd.wales/UserData/5/4/2/Info00000245/bigpic.jpg
-249,Vaughan Gething MS,Welsh Labour and Co-operative Party,Vaughan.Gething@senedd.wales,https://business.senedd.wales/UserData/9/4/2/Info00000249/bigpic.jpg
-253,Mark Drakeford MS,Welsh Labour,Mark.Drakeford@senedd.wales,https://business.senedd.wales/UserData/3/5/2/Info00000253/bigpic.jpg
-267,Ken Skates MS,Welsh Labour,Ken.Skates@senedd.wales,https://business.senedd.wales/UserData/7/6/2/Info00000267/bigpic.jpg
-269,Mabon ap Gwynfor MS,Plaid Cymru,Mabon.ap.Gwynfor@senedd.wales,https://business.senedd.wales/UserData/9/6/2/Info00000269/bigpic.jpg
-2717,Rhun ap Iorwerth MS,Plaid Cymru,rhun.apiorwerth@senedd.wales,https://business.senedd.wales/UserData/7/1/7/Info00002717/bigpic.jpg
-303,Russell George MS,Welsh Conservative Party,Russell.George@senedd.wales,https://business.senedd.wales/UserData/3/0/3/Info00000303/bigpic.jpg
-321,Mick Antoniw MS,Welsh Labour,Mick.Antoniw@senedd.wales,https://business.senedd.wales/UserData/1/2/3/Info00000321/bigpic.jpg
-332,Mike Hedges MS,Welsh Labour and Co-operative Party,Mike.Hedges@senedd.wales,https://business.senedd.wales/UserData/2/3/3/Info00000332/bigpic.jpg
-336,Natasha Asghar MS,Welsh Conservative Party,Natasha.Asghar@senedd.wales,https://business.senedd.wales/UserData/6/3/3/Info00000336/bigpic.jpg
-375,Rebecca Evans MS,Welsh Labour,Rebecca.Evans@senedd.wales,https://business.senedd.wales/UserData/5/7/3/Info00000375/bigpic.jpg
-425,Llyr Gruffydd MS,Plaid Cymru,Llyr.Gruffydd@senedd.wales,https://business.senedd.wales/UserData/5/2/4/Info00000425/bigpic.jpg
-426,Heledd Fychan MS,Plaid Cymru,Heledd.Fychan@senedd.wales,https://business.senedd.wales/UserData/6/2/4/Info00000426/bigpic.jpg
-4562,Laura Anne Jones MS,Welsh Conservative Party,Laura.Jones@senedd.wales,https://business.senedd.wales/UserData/2/6/5/Info00004562/bigpic.jpg
-4651,Rhianon Passmore MS,Welsh Labour and Co-operative Party,Rhianon.Passmore@senedd.wales,https://business.senedd.wales/UserData/1/5/6/Info00004651/bigpic.jpg
-4787,Peter Fox MS,Welsh Conservative Party,Peter.Fox@senedd.wales,https://business.senedd.wales/UserData/7/8/7/Info00004787/bigpic.jpg
-4970,Eluned Morgan MS,Welsh Labour,Eluned.Morgan@senedd.wales,https://business.senedd.wales/UserData/0/7/9/Info00004970/bigpic.jpg
-4978,Lee Waters MS,Welsh Labour,Lee.Waters@senedd.wales,https://business.senedd.wales/UserData/8/7/9/Info00004978/bigpic.jpg
-4981,Siân Gwenllian MS,Plaid Cymru,Sian.Gwenllian@senedd.wales,https://business.senedd.wales/UserData/1/8/9/Info00004981/bigpic.jpg
-4983,Jane Dodds MS,Welsh Liberal Democrats,Jane.Dodds@senedd.wales,https://business.senedd.wales/UserData/3/8/9/Info00004983/bigpic.jpg
-4988,Dawn Bowden MS,Welsh Labour,Dawn.Bowden@senedd.wales,https://business.senedd.wales/UserData/8/8/9/Info00004988/bigpic.jpg
-5021,Jeremy Miles MS,Welsh Labour and Co-operative Party,Jeremy.Miles@senedd.wales,https://business.senedd.wales/UserData/1/2/0/Info00005021/bigpic.jpg
-5030,Adam Price MS,Plaid Cymru,Adam.Price@senedd.wales,https://business.senedd.wales/UserData/0/3/0/Info00005030/bigpic.jpg
-5038,Jayne Bryant MS,Welsh Labour,Jayne.Bryant@senedd.wales,https://business.senedd.wales/UserData/8/3/0/Info00005038/bigpic.jpg
-5053,Huw Irranca-Davies MS,Welsh Labour and Co-operative Party,huw.Irranca-Davies@senedd.wales,https://business.senedd.wales/UserData/3/5/0/Info00005053/bigpic.jpg
-5107,Vikki Howells MS,Welsh Labour,Vikki.Howells@senedd.wales,https://business.senedd.wales/UserData/7/0/1/Info00005107/bigpic.jpg
-5112,Hannah Blythyn MS,Welsh Labour,Hannah.Blythyn@senedd.wales,https://business.senedd.wales/UserData/2/1/1/Info00005112/bigpic.jpg
-513,Hefin David MS,Welsh Labour,Hefin.David@senedd.wales,https://business.senedd.wales/UserData/3/1/5/Info00000513/bigpic.jpg
-5143,Carolyn Thomas MS,Welsh Labour,Carolyn.Thomas@Senedd.Wales,https://business.senedd.wales/UserData/3/4/1/Info00005143/bigpic.jpg
-5207,Delyth Jewell MS,Plaid Cymru,Delyth.Jewell@senedd.wales,https://business.senedd.wales/UserData/7/0/2/Info00005207/bigpic.jpg
-543,Altaf Hussain MS,Welsh Conservative Party,Altaf.Hussain@senedd.wales,https://business.senedd.wales/UserData/3/4/5/Info00000543/bigpic.jpg
-584,Julie James MS,Welsh Labour,Julie.James@senedd.wales,https://business.senedd.wales/UserData/4/8/5/Info00000584/bigpic.jpg
-6571,Jack Sargeant MS,Welsh Labour,Jack.Sargeant@senedd.wales,https://business.senedd.wales/UserData/1/7/5/Info00006571/bigpic.jpg
-8571,Gareth Davies MS,Welsh Conservative Party,Gareth.L.Davies@senedd.wales,https://business.senedd.wales/UserData/1/7/5/Info00008571/bigpic.jpg
-8579,Peredur Owen Griffiths MS,Plaid Cymru,Peredur.OwenGriffiths@senedd.wales,https://business.senedd.wales/UserData/9/7/5/Info00008579/bigpic.jpg
-8585,James Evans MS,Welsh Conservative Party,James.Evans@senedd.wales,https://business.senedd.wales/UserData/5/8/5/Info00008585/bigpic.jpg
-8594,Sarah Murphy MS,Welsh Labour,Sarah.Murphy@Senedd.Wales,https://business.senedd.wales/UserData/4/9/5/Info00008594/bigpic.jpg
-8625,Rhys ab Owen MS,Independent Member,Rhys.abOwen@senedd.wales,https://business.senedd.wales/UserData/5/2/6/Info00008625/bigpic.jpg
-8634,Luke Fletcher MS,Plaid Cymru,Luke.Fletcher@senedd.wales,https://business.senedd.wales/UserData/4/3/6/Info00008634/bigpic.jpg
-8642,Samuel Kurtz MS,Welsh Conservative Party,Samuel.Kurtz@senedd.wales,https://business.senedd.wales/UserData/2/4/6/Info00008642/bigpic.jpg
-8643,Cefin Campbell MS,Plaid Cymru,Cefin.Campbell@Senedd.Wales,https://business.senedd.wales/UserData/3/4/6/Info00008643/bigpic.jpg
-8670,Sioned Williams MS,Plaid Cymru,Sioned.Williams@Senedd.Wales,https://business.senedd.wales/UserData/0/7/6/Info00008670/bigpic.jpg
-8687,Joel James MS,Welsh Conservative Party,Joel.James@senedd.wales,https://business.senedd.wales/UserData/7/8/6/Info00008687/bigpic.jpg
-8695,Buffy Williams MS,Welsh Labour,Buffy.Williams@senedd.wales,https://business.senedd.wales/UserData/5/9/6/Info00008695/bigpic.jpg
-8733,Tom Giffard MS,Welsh Conservative Party,Tom.Giffard@Senedd.Wales,https://business.senedd.wales/UserData/3/3/7/Info00008733/bigpic.jpg
-8734,Sam Rowlands MS,Welsh Conservative Party,Sam.Rowlands@senedd.wales,https://business.senedd.wales/UserData/4/3/7/Info00008734/bigpic.jpg
+11971,Llŷr Powell MS,Reform UK,Llyr.Powell-MS@senedd.wales,https://business.senedd.wales/UserData/1/7/9/Info00011971/bigpic.jpg
+12140,Dafydd Trystan Davies MS,Plaid Cymru,Dafydd.TrystanDavies-AS@senedd.cymru,https://business.senedd.wales/UserData/0/4/1/Info00012140/bigpic.jpg
+12141,Zaynub Akbar MS,Plaid Cymru,Zaynub.Akbar-AS@senedd.cymru,https://business.senedd.wales/UserData/1/4/1/Info00012141/bigpic.jpg
+12142,Benjamin Hodge Mckenna MS,Reform UK,Benjamin.HodgeMckenna-MS@senedd.wales,https://business.senedd.wales/UserData/2/4/1/Info00012142/bigpic.jpg
+12143,Niamh Salkeld MS,Plaid Cymru,Niamh.Salkeld-AS@senedd.cymru,https://business.senedd.wales/UserData/3/4/1/Info00012143/bigpic.jpg
+12144,Joshua Kim MS,Reform UK,Joshua.Kim-MS@senedd.wales,https://business.senedd.wales/UserData/4/4/1/Info00012144/bigpic.jpg
+12145,Anna Brychan MS,Plaid Cymru,Anna.Brychan-AS@senedd.cymru,https://business.senedd.wales/UserData/5/4/1/Info00012145/bigpic.jpg
+12146,Joe Martin MS,Reform UK,Joe.Martin-MS@senedd.wales,https://business.senedd.wales/UserData/6/4/1/Info00012146/bigpic.jpg
+12147,Dan Thomas MS,Reform UK,Dan.Thomas-MS@senedd.wales,https://business.senedd.wales/UserData/7/4/1/Info00012147/bigpic.jpg
+12148,Gareth Thomas MS,Reform UK,Gareth.Thomas-AS@senedd.cymru,https://business.senedd.wales/UserData/8/4/1/Info00012148/bigpic.jpg
+12149,Lis McLean MS,Plaid Cymru,Lis.McLean-AS@senedd.cymru,https://business.senedd.wales/UserData/9/4/1/Info00012149/bigpic.jpg
+12150,Sara Crowley MS,Plaid Cymru,Sara.Crowley-AS@senedd.cymru,https://business.senedd.wales/UserData/0/5/1/Info00012150/bigpic.jpg
+12151,Matthew Jones MS,Plaid Cymru,Matthew.Jones-AS@senedd.cymru,https://business.senedd.wales/UserData/1/5/1/Info00012151/bigpic.jpg
+12152,Carmelo Colasanto MS,Reform UK,Carmelo.Colasanto-MS@senedd.wales,https://business.senedd.wales/UserData/2/5/1/Info00012152/bigpic.jpg
+12153,Helen Jenner MS,Reform UK,Helen.Jenner-AS@senedd.cymru,https://business.senedd.wales/UserData/3/5/1/Info00012153/bigpic.jpg
+12154,Catherine Cullen MS,Reform UK,Catherine.Cullen-AS@senedd.cymru,https://business.senedd.wales/UserData/4/5/1/Info00012154/bigpic.jpg
+12155,Leticia Gonzalez MS,Plaid Cymru,Leticia.Gonzalez-AS@senedd.cymru,https://business.senedd.wales/UserData/5/5/1/Info00012155/bigpic.jpg
+12156,Huw Thomas MS,Welsh Labour,Huw.Thomas-MS@senedd.wales,https://business.senedd.wales/UserData/6/5/1/Info00012156/bigpic.jpg
+12157,Art Wright MS,Reform UK,Art.Wright-MS@senedd.wales,https://business.senedd.wales/UserData/7/5/1/Info00012157/bigpic.jpg
+12158,Jason O'Connell MS,Reform UK,Jason.OConnell-MS@senedd.wales,https://business.senedd.wales/UserData/8/5/1/Info00012158/bigpic.jpg
+12159,David Hughes MS,Reform UK,David.Hughes-MS@senedd.wales,https://business.senedd.wales/UserData/9/5/1/Info00012159/bigpic.jpg
+12160,Stephen Senior MS,Reform UK,Stephen.Senior-MS@senedd.wales,https://business.senedd.wales/UserData/0/6/1/Info00012160/bigpic.jpg
+12161,Sarah Edwards MS,Reform UK,Sarah.Edwards-AS@senedd.cymru,https://business.senedd.wales/UserData/1/6/1/Info00012161/bigpic.jpg
+12164,Elyn Stephens MS,Plaid Cymru,Elyn.Stephens-AS@senedd.cymru,https://business.senedd.wales/UserData/4/6/1/Info00012164/bigpic.jpg
+12165,Elfed Williams MS,Plaid Cymru,Elfed.Williams-AS@senedd.cymru,https://business.senedd.wales/UserData/5/6/1/Info00012165/bigpic.jpg
+12166,Kiera Marshall MS,Plaid Cymru,Kiera.Marshall-AS@senedd.cymru,https://business.senedd.wales/UserData/6/6/1/Info00012166/bigpic.jpg
+12167,Sarah Cooper-Lesadd MS,Plaid Cymru,Sarah.Cooper-Lesadd-MS@senedd.wales,https://business.senedd.wales/UserData/7/6/1/Info00012167/bigpic.jpg
+12168,Donna Cushing MS,Plaid Cymru,Donna.Cushing-MS@senedd.wales,https://business.senedd.wales/UserData/8/6/1/Info00012168/bigpic.jpg
+12169,John Clark MS,Reform UK,John.Clark-MS@senedd.wales,https://business.senedd.wales/UserData/9/6/1/Info00012169/bigpic.jpg
+12170,Iain McIntosh MS,Reform UK,Iain.McIntosh-MS@senedd.wales,https://business.senedd.wales/UserData/0/7/1/Info00012170/bigpic.jpg
+12171,David Mills MS,Reform UK,David.Mills-MS@senedd.wales,https://business.senedd.wales/UserData/1/7/1/Info00012171/bigpic.jpg
+12172,Rebeca Phillips MS,Plaid Cymru,Rebeca.Phillips-AS@senedd.cymru,https://business.senedd.wales/UserData/2/7/1/Info00012172/bigpic.jpg
+12173,Nick Carter MS,Plaid Cymru,Nick.Carter-AS@senedd.cymru,https://business.senedd.wales/UserData/3/7/1/Info00012173/bigpic.jpg
+12174,Cai Parry-Jones MS,Reform UK,Cai.Parry-Jones-AS@senedd.cymru,https://business.senedd.wales/UserData/4/7/1/Info00012174/bigpic.jpg
+12175,Shav Taj MS,Welsh Labour,Shav.Taj-AS@senedd.cymru,https://business.senedd.wales/UserData/5/7/1/Info00012175/bigpic.jpg
+12176,Paul Rock MS,Welsh Green Party,Paul.Rock-MS@senedd.wales,https://business.senedd.wales/UserData/6/7/1/Info00012176/bigpic.jpg
+12177,Kerry Ferguson MS,Plaid Cymru,Kerry.Ferguson-AS@senedd.cymru,https://business.senedd.wales/UserData/7/7/1/Info00012177/bigpic.jpg
+12178,Anna Nicholl MS,Plaid Cymru,Anna.Nicholl-AS@senedd.cymru,https://business.senedd.wales/UserData/8/7/1/Info00012178/bigpic.jpg
+12179,Claire Archibald MS,Reform UK,Claire.Archibald-MS@senedd.wales,https://business.senedd.wales/UserData/9/7/1/Info00012179/bigpic.jpg
+12180,Paul Marr MS,Reform UK,Paul.Marr-MS@senedd.wales,https://business.senedd.wales/UserData/0/8/1/Info00012180/bigpic.jpg
+12181,Adrian Mason MS,Reform UK,Adrian.Mason-MS@senedd.wales,https://business.senedd.wales/UserData/1/8/1/Info00012181/bigpic.jpg
+12182,Louise Emery MS,Reform UK,Louise.Emery-MS@senedd.wales,https://business.senedd.wales/UserData/2/8/1/Info00012182/bigpic.jpg
+12183,Tom Montgomery MS,Reform UK,Tom.Montgomery-MS@senedd.wales,https://business.senedd.wales/UserData/3/8/1/Info00012183/bigpic.jpg
+12184,Becca Martin MS,Plaid Cymru,Becca.Martin-AS@senedd.cymru,https://business.senedd.wales/UserData/4/8/1/Info00012184/bigpic.jpg
+12185,Cristiana Emsley MS,Reform UK,Cristiana.Emsley-MS@senedd.wales,https://business.senedd.wales/UserData/5/8/1/Info00012185/bigpic.jpg
+12186,Beca Brown MS,Plaid Cymru,Beca.Brown-AS@senedd.cymru,https://business.senedd.wales/UserData/6/8/1/Info00012186/bigpic.jpg
+12187,Andrew Griffin MS,Reform UK,Andrew.Griffin-AS@senedd.cymru,https://business.senedd.wales/UserData/7/8/1/Info00012187/bigpic.jpg
+12188,Claire Johnson-Wood MS,Reform UK,Claire.Johnson-Wood-AS@senedd.cymru,https://business.senedd.wales/UserData/8/8/1/Info00012188/bigpic.jpg
+12189,Safa Elhassan MS,Plaid Cymru,Safa.Elhassan-AS@senedd.cymru,https://business.senedd.wales/UserData/9/8/1/Info00012189/bigpic.jpg
+12190,Francesca O'Brien MS,Reform UK,Francesca.OBrien-MS@senedd.wales,https://business.senedd.wales/UserData/0/9/1/Info00012190/bigpic.jpg
+12191,Steven Rodaway MS,Reform UK,Steven.Rodaway-MS@senedd.wales,https://business.senedd.wales/UserData/1/9/1/Info00012191/bigpic.jpg
+143,Andrew RT Davies MS,Welsh Conservative Party,AndrewRT.Davies-MS@senedd.wales,https://business.senedd.wales/UserData/3/4/1/Info00000143/bigpic.jpg
+145,Paul Davies MS,Welsh Conservative Party,Paul.Davies-MS@senedd.wales,https://business.senedd.wales/UserData/5/4/1/Info00000145/bigpic.jpg
+162,Rt. Hon. Elin Jones MS,Plaid Cymru,Elin.Jones-AS@senedd.cymru,https://business.senedd.wales/UserData/2/6/1/Info00000162/bigpic.jpg
+171,Darren Millar MS,Welsh Conservative Party,Darren.Millar-MS@senedd.wales,https://business.senedd.wales/UserData/1/7/1/Info00000171/bigpic.jpg
+174,Lynne Neagle MS,Welsh Labour,Lynne.Neagle-MS@senedd.wales,https://business.senedd.wales/UserData/4/7/1/Info00000174/bigpic.jpg
+212,Janet Finch-Saunders MS,Welsh Conservative Party,Janet.Finch-Saunders-MS@senedd.wales,https://business.senedd.wales/UserData/2/1/2/Info00000212/bigpic.jpg
+261,Nerys Evans MS,Plaid Cymru,Nerys.Evans-AS@senedd.cymru,https://business.senedd.wales/UserData/1/6/2/Info00000261/bigpic.jpg
+267,Ken Skates MS,Welsh Labour,Ken.Skates-MS@senedd.wales,https://business.senedd.wales/UserData/7/6/2/Info00000267/bigpic.jpg
+269,Mabon ap Gwynfor MS,Plaid Cymru,Mabon.ap.Gwynfor-MS@senedd.wales,https://business.senedd.wales/UserData/9/6/2/Info00000269/bigpic.jpg
+2717,Rhun ap Iorwerth MS,Plaid Cymru,Rhun.apIorwerth-AS@senedd.cymru,https://business.senedd.wales/UserData/7/1/7/Info00002717/bigpic.jpg
+278,Carrie Harper MS,Plaid Cymru,Carrie.Harper-AS@senedd.cymru,https://business.senedd.wales/UserData/8/7/2/Info00000278/bigpic.jpg
+330,Sera Evans MS,Plaid Cymru,Sera.Evans-AS@senedd.cymru,https://business.senedd.wales/UserData/0/3/3/Info00000330/bigpic.jpg
+332,Mike Hedges MS,Welsh Labour and Co-operative Party,Mike.Hedges-MS@senedd.wales,https://business.senedd.wales/UserData/2/3/3/Info00000332/bigpic.jpg
+336,Natasha Asghar MS,Welsh Conservative Party,Natasha.Asghar-MS@senedd.wales,https://business.senedd.wales/UserData/6/3/3/Info00000336/bigpic.jpg
+350,Marc Jones MS,Plaid Cymru,Marc.Jones-AS@senedd.cymru,https://business.senedd.wales/UserData/0/5/3/Info00000350/bigpic.jpg
+425,Llyr Gruffydd MS,Plaid Cymru,Llyr.Gruffydd-MS@senedd.wales,https://business.senedd.wales/UserData/5/2/4/Info00000425/bigpic.jpg
+426,Heledd Fychan MS,Plaid Cymru,Heledd.Fychan-AS@senedd.cymru,https://business.senedd.wales/UserData/6/2/4/Info00000426/bigpic.jpg
+4491,Alun Cox MS,Plaid Cymru,Alun.Cox-AS@senedd.cymru,https://business.senedd.wales/UserData/1/9/4/Info00004491/bigpic.jpg
+4562,Laura Anne Jones MS,Reform UK,Laura.Jones-MS@senedd.wales,https://business.senedd.wales/UserData/2/6/5/Info00004562/bigpic.jpg
+4650,John Davies MS,Plaid Cymru,John.Davies-AS@senedd.cymru,https://business.senedd.wales/UserData/0/5/6/Info00004650/bigpic.jpg
+4787,Peter Fox MS,Welsh Conservative Party,Peter.Fox-MS@senedd.wales,https://business.senedd.wales/UserData/7/8/7/Info00004787/bigpic.jpg
+4822,Mark Hooper MS,Plaid Cymru,Mark.Hooper-AS@senedd.cymru,https://business.senedd.wales/UserData/2/2/8/Info00004822/bigpic.jpg
+4967,Lyn Ackerman MS,Plaid Cymru,Lyn.Ackerman-AS@senedd.cymru,https://business.senedd.wales/UserData/7/6/9/Info00004967/bigpic.jpg
+4981,Siân Gwenllian MS,Plaid Cymru,Sian.Gwenllian-AS@senedd.cymru,https://business.senedd.wales/UserData/1/8/9/Info00004981/bigpic.jpg
+4983,Jane Dodds MS,Welsh Liberal Democrats,Jane.Dodds-MS@senedd.wales,https://business.senedd.wales/UserData/3/8/9/Info00004983/bigpic.jpg
+5025,Anthony Slaughter MS,Welsh Green Party,Anthony.Slaughter-AS@senedd.cymru,https://business.senedd.wales/UserData/5/2/0/Info00005025/bigpic.jpg
+5030,Adam Price MS,Plaid Cymru,Adam.Price-MS@senedd.wales,https://business.senedd.wales/UserData/0/3/0/Info00005030/bigpic.jpg
+5038,Jayne Bryant MS,Welsh Labour,Jayne.Bryant-MS@senedd.wales,https://business.senedd.wales/UserData/8/3/0/Info00005038/bigpic.jpg
+5053,Huw Irranca-Davies MS,Welsh Labour and Co-operative Party,Huw.Irranca-Davies-MS@senedd.wales,https://business.senedd.wales/UserData/3/5/0/Info00005053/bigpic.jpg
+5083,Gwyn Williams MS,Plaid Cymru,Gwyn.Williams-AS@senedd.cymru,https://business.senedd.wales/UserData/3/8/0/Info00005083/bigpic.jpg
+5084,Mair Rowlands MS,Plaid Cymru,Mair.Rowlands-AS@senedd.cymru,https://business.senedd.wales/UserData/4/8/0/Info00005084/bigpic.jpg
+5107,Vikki Howells MS,Welsh Labour,Vikki.Howells-MS@senedd.wales,https://business.senedd.wales/UserData/7/0/1/Info00005107/bigpic.jpg
+5113,Nigel Williams MS,Reform UK,Nigel.Williams-AS@senedd.cymru,https://business.senedd.wales/UserData/3/1/1/Info00005113/bigpic.jpg
+518,Lindsay Whittle MS,Plaid Cymru,Lindsay.Whittle-AS@senedd.cymru,https://business.senedd.wales/UserData/8/1/5/Info00000518/bigpic.jpg
+5196,Sarah Rees MS,Plaid Cymru,Sarah.Rees-AS@senedd.cymru,https://business.senedd.wales/UserData/6/9/1/Info00005196/bigpic.jpg
+5207,Delyth Jewell MS,Plaid Cymru,Delyth.Jewell-AS@senedd.cymru,https://business.senedd.wales/UserData/7/0/2/Info00005207/bigpic.jpg
+8371,Elwyn Vaughan MS,Plaid Cymru,Elwyn.Vaughan-AS@senedd.cymru,https://business.senedd.wales/UserData/1/7/3/Info00008371/bigpic.jpg
+8579,Peredur Owen Griffiths MS,Plaid Cymru,Peredur.OwenGriffiths-MS@senedd.wales,https://business.senedd.wales/UserData/9/7/5/Info00008579/bigpic.jpg
+8585,James Evans MS,Reform UK,James.Evans-MS@senedd.wales,https://business.senedd.wales/UserData/5/8/5/Info00008585/bigpic.jpg
+8594,Sarah Murphy MS,Welsh Labour and Co-operative Party,Sarah.Murphy-MS@senedd.wales,https://business.senedd.wales/UserData/4/9/5/Info00008594/bigpic.jpg
+8643,Cefin Campbell MS,Plaid Cymru,Cefin.Campbell-AS@senedd.cymru,https://business.senedd.wales/UserData/3/4/6/Info00008643/bigpic.jpg
+8650,Gareth Beer MS,Reform UK,Gareth.Beer-AS@senedd.cymru,https://business.senedd.wales/UserData/0/5/6/Info00008650/bigpic.jpg
+8670,Sioned Williams MS,Plaid Cymru,Sioned.Williams-MS@Senedd.Wales,https://business.senedd.wales/UserData/0/7/6/Info00008670/bigpic.jpg
+8696,Steve Bayliss MS,Reform UK,Steve.Bayliss-MS@senedd.wales,https://business.senedd.wales/UserData/6/9/6/Info00008696/bigpic.jpg
+8734,Sam Rowlands MS,Welsh Conservative Party,Sam.Rowlands-MS@senedd.wales,https://business.senedd.wales/UserData/4/3/7/Info00008734/bigpic.jpg

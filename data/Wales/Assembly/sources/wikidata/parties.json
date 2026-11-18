@@ -112,7 +112,7 @@
       },
       {
         "lang": "fi",
-        "name": "Työväenpuolue (Wales)",
+        "name": "Työväenpuolue",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -149,6 +149,12 @@
       {
         "lang": "bn",
         "name": "ওয়েলশ শ্রমিক দল",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "kw",
+        "name": "Lavur Kembra",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -199,6 +205,18 @@
         "name": "威尔士劳工党",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "fi",
+        "name": "Työväenpuolue (Wales)",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "kw",
+        "name": "Parti Lavur Kembra",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -238,7 +256,7 @@
       },
       {
         "lang": "eo",
-        "name": "Kimra Konservisma Partio",
+        "name": "Kimra Konservativa Partio",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -335,7 +353,7 @@
     ],
     "links": [
       {
-        "url": "http://www.welshconservatives.com/",
+        "url": "https://www.conservatives.wales/",
         "note": "website"
       }
     ],
@@ -442,13 +460,7 @@
       },
       {
         "lang": "ar",
-        "name": "حزب ويلز",
-        "note": "multilingual",
-        "source": "wikidata-label"
-      },
-      {
-        "lang": "id",
-        "name": "Partai Wales",
+        "name": "بليد كيمري",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -461,6 +473,12 @@
       {
         "lang": "bn",
         "name": "প্লেইড কামরি",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "mk",
+        "name": "Партија на Велс",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -483,14 +501,62 @@
         "source": "wikidata-alias"
       },
       {
+        "lang": "en",
+        "name": "Plaid Genedlaethol Cymru",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "id",
         "name": "Partai Kemerdekaan Wales",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
       {
+        "lang": "id",
+        "name": "Partai Wales",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
         "lang": "kcg",
         "name": "Sot Kwai-nfwuo-á̱niet Wali̱t",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "بلاد كيمري",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "بلايد كيمرو",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ar",
+        "name": "حزب وايلز",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "pl",
+        "name": "Partia Walii",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ru",
+        "name": "Плайд",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "ru",
+        "name": "Плайд Камри",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
@@ -501,7 +567,7 @@
         "note": "website"
       }
     ],
-    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"e032ec1025f6115643ce13a16fb833ee8b35c6cf","datavalue":{"value":"3F8428","type":"string"},"datatype":"string"},"type":"statement","id":"Q10691$5feea315-4540-b2bb-5ceb-50d06b449ff6","rank":"normal","references":[{"hash":"09715ea9ff6e3aba66e595a1ac62eaed5483d4e2","snaks":{"P854":[{"snaktype":"value","property":"P854","hash":"237fd4ad90023f15f21426c8fd608b55c4831d04","datavalue":{"value":"http://blog.richardallen.co.uk/uk-political-party-web-colours/","type":"string"},"datatype":"url"}],"P1065":[{"snaktype":"value","property":"P1065","hash":"0de6c031129a2e0d21f45c10ec3f35f94d74ee93","datavalue":{"value":"https://web.archive.org/web/20210514233424/http://www.blog.richardallen.co.uk/uk-political-party-web-colours/","type":"string"},"datatype":"url"}],"P2960":[{"snaktype":"value","property":"P2960","hash":"6272fbeef3091ddce628333f5cd84cf4450e5c72","datavalue":{"value":{"time":"+2021-05-14T00:00:00Z","timezone":0,"before":0,"after":0,"precision":11,"calendarmodel":"http://www.wikidata.org/entity/Q1985727"},"type":"time"},"datatype":"time"}]},"snaks-order":["P854","P1065","P2960"]}]},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"e032ec1025f6115643ce13a16fb833ee8b35c6cf","datavalue":{"value":"3F8428","type":"string"},"datatype":"string"}}}
+    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"f4db8967e2769da6721bf18745c77ec5479aff0f","datavalue":{"value":"0AA77D","type":"string"},"datatype":"string"},"type":"statement","id":"Q10691$5feea315-4540-b2bb-5ceb-50d06b449ff6","rank":"normal","references":[{"hash":"73a63d0034c843f0b3411090b2da247ecc61edb0","snaks":{"P854":[{"snaktype":"value","property":"P854","hash":"4fb5822e5ec78ae65e08618b589125cfa82b5d1b","datavalue":{"value":"https://assets.nationbuilder.com/plaid2016/pages/16111/attachments/original/1765469850/_Plaid_Cymru_Brand_Guidelines_.pdf?1765469850","type":"string"},"datatype":"url"}]},"snaks-order":["P854"]}]},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"f4db8967e2769da6721bf18745c77ec5479aff0f","datavalue":{"value":"0AA77D","type":"string"},"datatype":"string"}}}
   },
   "b2f6b2f1-281c-464f-abc4-4e91a245ee0e": {
     "identifiers": [
@@ -621,6 +687,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "fr",
+        "name": "UKIP",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "br",
         "name": "Strollad evit Dizalc’hted ar Rouantelezh-Unanet",
         "note": "multilingual",
@@ -681,6 +753,12 @@
         "source": "wikidata-label"
       },
       {
+        "lang": "kw",
+        "name": "UKIP",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
         "lang": "la",
         "name": "Factio Libertatis Britanniarum Regni",
         "note": "multilingual",
@@ -730,7 +808,7 @@
       },
       {
         "lang": "ro",
-        "name": "Partidul pentru independența Regatului Unit",
+        "name": "Partidul Independenței Regatului Unit",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -761,6 +839,12 @@
       {
         "lang": "oc",
         "name": "Partit de l'Independéncia del Reialme Unit",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "he",
+        "name": "UKIP",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -933,10 +1017,16 @@
         "source": "wikidata-label"
       },
       {
-        "lang": "en",
-        "name": "UKIP",
+        "lang": "sl",
+        "name": "Stranka neodvisnosti Združenega kraljestva",
         "note": "multilingual",
-        "source": "wikidata-alias"
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "sk",
+        "name": "Strana nezávislosti Spojeného kráľovstva",
+        "note": "multilingual",
+        "source": "wikidata-label"
       },
       {
         "lang": "en",
@@ -967,6 +1057,12 @@
         "name": "青年獨立",
         "note": "multilingual",
         "source": "wikidata-alias"
+      },
+      {
+        "lang": "mul",
+        "name": "UKIP",
+        "note": "multilingual",
+        "source": "wikidata-alias"
       }
     ],
     "links": [
@@ -975,8 +1071,7 @@
         "note": "website"
       }
     ],
-    "image": "https://upload.wikimedia.org/wikipedia/commons/6/6b/British_party_UKIP.svg",
-    "srgb": {"data":{"mainsnak":{"snaktype":"value","property":"P465","hash":"ed28b9fbf1e9bdfdd7f8f9644a6c9a94e50dc79b","datavalue":{"value":"70147A","type":"string"},"datatype":"string"},"type":"statement","id":"Q10647$1e96c872-43f6-b62b-30d7-5a63090dfecf","rank":"normal"},"_mainsnak":{"snak":{"snaktype":"value","property":"P465","hash":"ed28b9fbf1e9bdfdd7f8f9644a6c9a94e50dc79b","datavalue":{"value":"70147A","type":"string"},"datatype":"string"}}}
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/UKIP_Logo_(Original).svg"
   },
   "50539eb9-5cb3-4018-92d6-3210f1c09c62": {
     "identifiers": [
@@ -1133,7 +1228,7 @@
       },
       {
         "lang": "ca",
-        "name": "Candidat independent",
+        "name": "candidat independent",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1211,7 +1306,7 @@
       },
       {
         "lang": "be",
-        "name": "беспартыйны",
+        "name": "незалежны кандыдат",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1247,7 +1342,7 @@
       },
       {
         "lang": "cs",
-        "name": "nezávislý",
+        "name": "nezávislý politik",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1283,7 +1378,7 @@
       },
       {
         "lang": "sk",
-        "name": "Nezávislý politik",
+        "name": "nezávislý politik",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1505,7 +1600,7 @@
       },
       {
         "lang": "bg",
-        "name": "независим политик",
+        "name": "безпартиен",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1529,7 +1624,7 @@
       },
       {
         "lang": "ku",
-        "name": "Siyasetmedara/ê serbixwe",
+        "name": "siyasetmedarê serbixwe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1589,7 +1684,7 @@
       },
       {
         "lang": "ku-latn",
-        "name": "siyasetmedara/ê serbixwe",
+        "name": "siyasetmedarê serbixwe",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1614,6 +1709,66 @@
       {
         "lang": "kk",
         "name": "партиясыз",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "lt",
+        "name": "nepriklausomas politikas",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "jv",
+        "name": "Politisi indepènden",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ks",
+        "name": "آزاد سِیاسَتھ دان",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "si",
+        "name": "ස්වාධීන දේශපාලනඥයා",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "br",
+        "name": "politikour dieub",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "nan-hant",
+        "name": "無黨籍",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "af",
+        "name": "onafhanklike politikus",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "as",
+        "name": "নিৰ্দলীয় ৰাজনীতিবিদ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "hyw",
+        "name": "անկախ քաղաքական գործիչ",
+        "note": "multilingual",
+        "source": "wikidata-label"
+      },
+      {
+        "lang": "ha",
+        "name": "ɗan siyasa mai zaman kansa",
         "note": "multilingual",
         "source": "wikidata-label"
       },
@@ -1840,24 +1995,6 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "ro",
-        "name": "Politicieni independenţi",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "ro",
-        "name": "Independent",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "ro",
-        "name": "Politicieni independenți",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
         "lang": "cy",
         "name": "Gwleidydd annibynnol",
         "note": "multilingual",
@@ -1980,6 +2117,12 @@
       {
         "lang": "tt",
         "name": "фиркасез",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "tt",
+        "name": "бәйсез илешче",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2112,18 +2255,6 @@
       {
         "lang": "hr",
         "name": "nesvrstani političari",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "be",
-        "name": "беспартыйны палітык",
-        "note": "multilingual",
-        "source": "wikidata-alias"
-      },
-      {
-        "lang": "be",
-        "name": "беспартыйная",
         "note": "multilingual",
         "source": "wikidata-alias"
       },
@@ -2338,8 +2469,98 @@
         "source": "wikidata-alias"
       },
       {
-        "lang": "kk",
-        "name": "партиясыз",
+        "lang": "lt",
+        "name": "nepriklausomas kandidatas",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lt",
+        "name": "nepriklausoma kandidatė",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "lt",
+        "name": "kandidatas, išsikėlęs pats",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "br",
+        "name": "poltikour neptu",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "as",
+        "name": "অদলীয় ৰাজনীতিবিদ",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "as",
+        "name": "স্বতন্ত্ৰ সদস্য",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "as",
+        "name": "স্বতন্ত্ৰ",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "as",
+        "name": "স্বতন্ত্ৰ প্ৰাৰ্থী",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "uk",
+        "name": "незалежна політикиня",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "nonpartai",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "tanpa partai",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "politisi independen",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "politisi nonpartai",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "politikus nonpartisan",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "independen",
+        "note": "multilingual",
+        "source": "wikidata-alias"
+      },
+      {
+        "lang": "id",
+        "name": "bebas",
         "note": "multilingual",
         "source": "wikidata-alias"
       }
